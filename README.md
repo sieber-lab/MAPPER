@@ -1,12 +1,11 @@
 # MAPPER
 
-Public manuscript snapshot for the antibiotic mode-of-action prediction project.
+Public code and analysis snapshot for the antibiotic mode-of-action prediction project.
 
-This repository contains the code, LaTeX sources, curated analysis exports, and figure assets used for the current paper and Supplementary Information.
+This repository contains the code, curated analysis exports, and figure assets used for the current paper and Supplementary Information.
 
 ## Repository layout
 
-- `latex/` – main article and Supplementary Information sources
 - `notebooks/` – figure, preprocessing, and supplementary notebooks
 - `scripts/` – reusable generation and preprocessing scripts
 - `Data/` – curated input matrices and supporting input files used by the notebooks
@@ -57,4 +56,3 @@ Supplementary utilities:
 
 - Main manuscript and SI figure numbering/inputs are documented in `docs/traceability.md`.
 - Required code and local artifact roots for Figures 2-6 are summarized in `docs/paper_fig2_6_code_inventory.md`.
-- Some files in `docs/methods_extraction/` are internal extraction notes from manuscript assembly and should be treated as archival support material rather than the primary public-facing documentation.
