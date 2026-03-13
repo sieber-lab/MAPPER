@@ -1,43 +1,60 @@
-# Paper Code Repository
+# MAPPER
 
-This folder is a curated, publication-ready snapshot of the code used to generate the figures and supplementary analyses in the manuscript. It lives alongside the original project; **all original files remain untouched**.
+Public manuscript snapshot for the antibiotic mode-of-action prediction project.
 
-## Structure
+This repository contains the code, LaTeX sources, curated analysis exports, and figure assets used for the current paper and Supplementary Information.
 
-- `notebooks/` – figure- and supplement-specific notebooks (one per plot where possible)
-- `src/` – reusable code for preprocessing, modeling, evaluation, and uncertainty
-- `docs/` – traceability notes and figure-to-code mapping
-- `images/` – exported figures (PNG/PDF/SVG), organized by figure
+## Repository layout
 
-## How to run notebooks
+- `latex/` – main article and Supplementary Information sources
+- `notebooks/` – figure, preprocessing, and supplementary notebooks
+- `scripts/` – reusable generation and preprocessing scripts
+- `Data/` – curated input matrices and supporting input files used by the notebooks
+- `Embeddings/` – precomputed text embedding artifacts
+- `analysis_exports/` – manuscript-facing summary exports and figure-analysis CSVs
+- `images/` – exported figure assets
+- `docs/` – code-to-figure mapping and reproducibility notes
 
-Notebooks include a small bootstrap cell that:
-- finds the project root containing `Data/` and `predictions/`
-- `chdir`s to that root so original relative paths still work
-- adds `code_repository/src` to `sys.path`
-They also call a shared style helper that enforces consistent plot formatting and saves outputs to `code_repository/images/<figure>/` as PNG/PDF/SVG.
+## Local-only large artifacts
 
-If your data/predictions live elsewhere, update the bootstrap cell or set the working directory manually.
+The working project also uses large prediction, model, and result caches under:
 
-## Pipeline overview
+- `predictions/`
+- `models/`
+- `results/`
 
-1) **Data processing**
-   - `src/data_processing/run_preprocessing.py` orchestrates proteomics, chemistry, cell-painting, and text-embedding pipelines
-   - Produces `Data/Base/*.pkl` and `Embeddings/*_embeddings.pkl`
+These are intentionally ignored in the public git history. If they are present in a local workspace, the notebooks and docs may refer to them as canonical runtime artifact roots.
 
-2) **Model evaluation / prediction generation**
-   - `src/analysis/llm_eval.py` (LLM + augmentation comparisons; Figure 3 inputs)
-   - `src/analysis/feature_eval.py` (feature combination comparisons; Figure 4 inputs)
-   - `src/analysis/loo_eval.py` and `src/analysis/loo_eval_loso.py` (LOO/LOSO ablations; Figure 5 inputs)
-   - `src/modeling/train_primary_tabm.py` + `src/modeling/predict_primary_tabm.py` (external set predictions; Figures 5–6 inputs)
+## Canonical figure notebooks
 
-3) **Plotting / analysis**
-   - `notebooks/figure*/` and `notebooks/supplementary/`
+Figures 2-6:
 
-See `docs/traceability.md` for a detailed mapping from figures to notebooks and upstream data generation.
+- `notebooks/figure2/figure2_data_overview.ipynb`
+- `notebooks/figure2/figure2_combined.ipynb`
+- `notebooks/figure3/figure3_llm_parametric_tests.ipynb`
+- `notebooks/figure3/figure3_text_augmentation_effects.ipynb`
+- `notebooks/figure3/figure3_combined.ipynb`
+- `notebooks/figure4/figure4_best_feature_combination.ipynb`
+- `notebooks/figure4/figure4_feature_replot.ipynb`
+- `notebooks/figure4/figure4_shapley_analysis.ipynb`
+- `notebooks/figure4/figure4_structural_novelty_modality_jumps.ipynb`
+- `notebooks/figure4/figure4_combined.ipynb`
+- `notebooks/figure5/figure5_uncertainty_comparison.ipynb`
+- `notebooks/figure5/figure5_combined.ipynb`
+- `notebooks/figure6/figure6_uncertainty_estimator_calibration.ipynb`
+- `notebooks/figure6/figure6_eclipse_instrument.ipynb`
+- `notebooks/figure6/figure6_external_lab.ipynb`
+- `notebooks/figure6/figure6_combined.ipynb`
 
-## Notes
+Supplementary utilities:
 
-- This repo does **not** include large data files, model weights, or prediction artifacts.
-- Relative paths in notebooks/scripts assume the original top-level folders still exist (e.g., `Data/`, `predictions/`, `Embeddings/`).
-- External dependencies (RDKit, PyTorch, Lightning, XGBoost, etc.) are required; assemble your environment accordingly.
+- `notebooks/supplementary/supp_string_analysis_preprocess.ipynb`
+- `notebooks/supplementary/supp_string_tabm_predictions.ipynb`
+- `notebooks/supplementary/supp_table_s7_ci.ipynb`
+- `notebooks/supplementary/regenerate_supplementary_stats.ipynb`
+
+## Reproducibility notes
+
+- Main manuscript and SI figure numbering/inputs are documented in `docs/traceability.md`.
+- Required code and local artifact roots for Figures 2-6 are summarized in `docs/paper_fig2_6_code_inventory.md`.
+- Some files in `docs/methods_extraction/` are internal extraction notes from manuscript assembly and should be treated as archival support material rather than the primary public-facing documentation.
