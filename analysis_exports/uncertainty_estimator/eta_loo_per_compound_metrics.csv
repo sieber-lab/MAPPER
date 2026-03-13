@@ -1,0 +1,613 @@
+CompoundID,split,Method,coverage,precision,err_recall,f1,n_err
+JH0,LOO,Low max score,1.0,0.0,0.0,0.0,0
+JH0,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH0,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH0,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH0,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH0,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH0,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH0,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH0,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH0,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH0,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH0,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH10,LOO,Low max score,1.0,0.0,0.0,0.0,0
+JH10,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH10,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH10,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH10,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH10,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH10,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH10,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH10,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH10,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH10,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH10,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH12,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH12,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH12,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH12,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH12,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH12,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH12,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH12,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH12,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH12,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH12,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH12,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH13,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH13,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH13,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH13,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH13,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH13,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH13,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH13,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH13,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH13,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH13,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH13,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH14,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH14,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH14,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH14,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH14,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH14,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH14,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH14,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH14,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH14,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH14,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH14,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH15,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH15,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH15,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH15,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH15,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH15,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH15,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH15,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH15,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH15,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH15,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH15,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH16,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH16,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH16,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH16,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH16,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH16,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH16,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH16,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH16,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH16,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH16,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH16,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH17,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH17,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH17,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH17,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH17,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH17,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH17,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH17,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH17,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH17,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH17,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH17,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH18,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH18,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH18,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH18,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH18,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH18,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH18,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH18,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH18,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH18,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH18,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH18,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH2,LOO,Low max score,1.0,0.0,0.0,0.0,0
+JH2,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH2,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH2,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH2,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH2,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH2,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH2,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH2,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH2,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH2,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH2,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH20,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH20,LOO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH20,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH20,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH20,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH20,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH20,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH20,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH20,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH20,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH20,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH20,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH21,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH21,LOO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH21,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH21,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH21,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH21,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH21,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH21,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH21,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH21,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH21,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH21,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH23,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH23,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH23,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH23,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH23,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH23,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH23,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH23,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH23,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH23,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH23,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH23,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH24,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH24,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH24,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH24,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH24,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH24,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH24,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH24,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH24,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH24,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH24,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH24,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH26,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH26,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH26,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH26,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH26,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH26,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH26,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH26,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH26,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH26,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH26,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH26,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH27,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH27,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH27,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH27,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH27,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH27,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH27,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH27,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH27,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH27,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH27,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH27,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH28,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH28,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH28,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH28,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH28,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH28,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH28,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH28,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH28,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH28,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH28,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH28,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH29,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH29,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH29,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH29,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH29,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH29,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH29,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH29,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH29,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH29,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH29,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH29,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH3,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH3,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH3,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH3,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH3,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH3,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH3,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH3,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH3,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH3,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH3,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH3,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH30,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH30,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH30,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH30,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH30,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH30,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH30,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH30,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH30,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH30,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH30,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH30,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH31,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH31,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH31,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH31,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH31,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH31,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH31,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH31,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH31,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH31,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH31,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH31,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH32,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH32,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH32,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH32,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH32,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH32,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH32,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH32,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH32,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH32,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH32,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH32,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH33,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH33,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH33,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH33,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH33,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH33,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH33,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH33,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH33,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH33,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH33,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH33,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH35,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH35,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH35,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH35,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH35,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH35,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH35,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH35,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH35,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH35,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH35,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH35,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH36,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH36,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH36,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH36,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH36,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH36,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH36,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH36,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH36,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH36,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH36,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH36,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH37,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH37,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH37,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH37,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH37,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH37,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH37,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH37,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH37,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH37,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH37,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH37,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH38,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH38,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH38,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH38,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH38,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH38,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH38,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH38,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH38,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH38,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH38,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH38,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH39,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH39,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH39,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH39,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH39,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH39,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH39,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH39,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH39,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH39,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH39,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH39,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH40,LOO,Low max score,1.0,1.0,1.0,1.0,1
+JH40,LOO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH40,LOO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH40,LOO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH40,LOO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH40,LOO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH40,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH40,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH40,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH40,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH40,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH40,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH41,LOO,Low max score,1.0,0.0,0.0,0.0,0
+JH41,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH41,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH41,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH41,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH41,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH41,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH41,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH41,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH41,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH41,LOSO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH41,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH42,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH42,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH42,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH42,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH42,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH42,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH42,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH42,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH42,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH42,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH42,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH42,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH43,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH43,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH43,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH43,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH43,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH43,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH43,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH43,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH43,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH43,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH43,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH43,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH44,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH44,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH44,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH44,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH44,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH44,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH44,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH44,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH44,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH44,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH44,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH44,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH45,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH45,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH45,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH45,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH45,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH45,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH45,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH45,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH45,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH45,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH45,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH45,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH46,LOO,Low max score,1.0,0.0,0.0,0.0,0
+JH46,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH46,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH46,LOO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH46,LOO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH46,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH46,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH46,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH46,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH46,LOSO,Z-Gate (global),1.0,1.0,1.0,1.0,1
+JH46,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH46,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH47,LOO,Low max score,0.0,0.0,0.0,0.0,1
+JH47,LOO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH47,LOO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH47,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH47,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH47,LOO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH47,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH47,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH47,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH47,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH47,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH47,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH48,LOO,Low max score,1.0,1.0,1.0,1.0,1
+JH48,LOO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH48,LOO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH48,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH48,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH48,LOO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH48,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH48,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH48,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH48,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH48,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH48,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH49,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH49,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH49,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH49,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH49,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH49,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH49,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH49,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH49,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH49,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH49,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH49,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH5,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH5,LOO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH5,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH5,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH5,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH5,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH5,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH5,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH5,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH5,LOSO,Z-Gate (global),1.0,0.0,0.0,0.0,0
+JH5,LOSO,Z-Gate (class-conditional),1.0,0.0,0.0,0.0,0
+JH5,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH50,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH50,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH50,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH50,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH50,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH50,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH50,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH50,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH50,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH50,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH50,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH50,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH55,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH55,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH55,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH55,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH55,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH55,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH55,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH55,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH55,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH55,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH55,LOSO,Z-Gate (class-conditional),1.0,1.0,1.0,1.0,1
+JH55,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH56,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH56,LOO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH56,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH56,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH56,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH56,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH56,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH56,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH56,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH56,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH56,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH56,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH58,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH58,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH58,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH58,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH58,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH58,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH58,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH58,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH58,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH58,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH58,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH58,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH6,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH6,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH6,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH6,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH6,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH6,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH6,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH6,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH6,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH6,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH6,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH6,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH61,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH61,LOO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH61,LOO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH61,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH61,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH61,LOO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH61,LOSO,Low max score,0.0,0.0,0.0,0.0,0
+JH61,LOSO,High predictive entropy,1.0,0.0,0.0,0.0,0
+JH61,LOSO,High expected entropy,1.0,0.0,0.0,0.0,0
+JH61,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH61,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH61,LOSO,Meta-model (LR+Poly),1.0,0.0,0.0,0.0,0
+JH62,LOO,Low max score,1.0,1.0,1.0,1.0,1
+JH62,LOO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH62,LOO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH62,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH62,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH62,LOO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH62,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH62,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH62,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH62,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH62,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH62,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH64,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH64,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH64,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH64,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH64,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH64,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH64,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH64,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH64,LOSO,High expected entropy,1.0,1.0,1.0,1.0,1
+JH64,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH64,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH64,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH65,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH65,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH65,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH65,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH65,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH65,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH65,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH65,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH65,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH65,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH65,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH65,LOSO,Meta-model (LR+Poly),1.0,1.0,1.0,1.0,1
+JH7,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH7,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH7,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH7,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH7,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH7,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH7,LOSO,Low max score,1.0,0.0,0.0,0.0,0
+JH7,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH7,LOSO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH7,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH7,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH7,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH8,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH8,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH8,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH8,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH8,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH8,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH8,LOSO,Low max score,0.0,0.0,0.0,0.0,1
+JH8,LOSO,High predictive entropy,1.0,1.0,1.0,1.0,1
+JH8,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH8,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH8,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH8,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1
+JH9,LOO,Low max score,0.0,0.0,0.0,0.0,0
+JH9,LOO,High predictive entropy,0.0,0.0,0.0,0.0,0
+JH9,LOO,High expected entropy,0.0,0.0,0.0,0.0,0
+JH9,LOO,Z-Gate (global),0.0,0.0,0.0,0.0,0
+JH9,LOO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,0
+JH9,LOO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,0
+JH9,LOSO,Low max score,1.0,1.0,1.0,1.0,1
+JH9,LOSO,High predictive entropy,0.0,0.0,0.0,0.0,1
+JH9,LOSO,High expected entropy,0.0,0.0,0.0,0.0,1
+JH9,LOSO,Z-Gate (global),0.0,0.0,0.0,0.0,1
+JH9,LOSO,Z-Gate (class-conditional),0.0,0.0,0.0,0.0,1
+JH9,LOSO,Meta-model (LR+Poly),0.0,0.0,0.0,0.0,1

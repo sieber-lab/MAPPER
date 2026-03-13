@@ -1,0 +1,5 @@
+panel,n_compounds,uncertain_n,confident_n,threshold
+a_eclipse_non_sig,3,3,0,0.27791674387824455
+b_eclipse_sig,3,0,3,0.27791674387824455
+c_external_non_sig,4,4,0,0.27791674387824455
+d_external_sig,4,3,1,0.27791674387824455

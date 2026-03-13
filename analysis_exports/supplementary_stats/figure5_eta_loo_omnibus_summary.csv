@@ -1,0 +1,2 @@
+primary_metric,methods_used,n_compounds,omnibus_method,omnibus_stat,omnibus_p
+err_recall,"['High expected entropy', 'High predictive entropy', 'Low max score', 'Meta-model (LR+Poly)', 'Z-Gate (class-conditional)', 'Z-Gate (global)']",39,RM-ANOVA,13.743578359865547,1.860053883520791e-11

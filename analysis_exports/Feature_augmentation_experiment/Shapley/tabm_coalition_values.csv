@@ -1,0 +1,33 @@
+model,features,value,var_features
+tabm,frozenset({'Text_Embedding'}),0.1429378967361486,frozenset()
+tabm,"frozenset({'Proteomics', 'Text_Embedding'})",0.8965965747361093,frozenset({'Proteomics'})
+tabm,"frozenset({'Proteomics', 'Text_Embedding', 'GC'})",0.8962018976964639,"frozenset({'Proteomics', 'GC'})"
+tabm,"frozenset({'ECFP', 'Proteomics', 'Text_Embedding'})",0.9520002174031141,"frozenset({'ECFP', 'Proteomics'})"
+tabm,"frozenset({'ECFP', 'MIC', 'Proteomics', 'Text_Embedding'})",0.9531204864550377,"frozenset({'ECFP', 'Proteomics', 'MIC'})"
+tabm,"frozenset({'ECFP', 'Proteomics', 'Text_Embedding', 'GC'})",0.9535072827788211,"frozenset({'ECFP', 'Proteomics', 'GC'})"
+tabm,"frozenset({'CellPaint', 'Proteomics', 'Text_Embedding'})",0.925366217963211,"frozenset({'CellPaint', 'Proteomics'})"
+tabm,"frozenset({'ECFP', 'Proteomics', 'CellPaint', 'Text_Embedding'})",0.9574734195413284,"frozenset({'ECFP', 'CellPaint', 'Proteomics'})"
+tabm,"frozenset({'Proteomics', 'ECFP', 'Text_Embedding', 'MIC', 'CellPaint'})",0.9561256884192673,"frozenset({'ECFP', 'MIC', 'CellPaint', 'Proteomics'})"
+tabm,"frozenset({'Proteomics', 'ECFP', 'Text_Embedding', 'GC', 'CellPaint'})",0.9567828898015484,"frozenset({'ECFP', 'CellPaint', 'Proteomics', 'GC'})"
+tabm,"frozenset({'CellPaint', 'MIC', 'Proteomics', 'Text_Embedding'})",0.9279201490429085,"frozenset({'CellPaint', 'Proteomics', 'MIC'})"
+tabm,"frozenset({'CellPaint', 'Proteomics', 'Text_Embedding', 'GC'})",0.9261671849243521,"frozenset({'CellPaint', 'Proteomics', 'GC'})"
+tabm,"frozenset({'MIC', 'Proteomics', 'Text_Embedding'})",0.8965302922237628,"frozenset({'MIC', 'Proteomics'})"
+tabm,"frozenset({'Text_Embedding', 'GC'})",0.28454075627348235,frozenset({'GC'})
+tabm,"frozenset({'MIC', 'Text_Embedding'})",0.35240601392457427,frozenset({'MIC'})
+tabm,"frozenset({'MIC', 'Text_Embedding', 'GC'})",0.39066326706823146,"frozenset({'MIC', 'GC'})"
+tabm,"frozenset({'ECFP', 'MIC', 'Text_Embedding'})",0.9017411137300664,"frozenset({'ECFP', 'MIC'})"
+tabm,"frozenset({'ECFP', 'Text_Embedding', 'GC'})",0.9001844435610359,"frozenset({'ECFP', 'GC'})"
+tabm,"frozenset({'ECFP', 'MIC', 'CellPaint', 'Text_Embedding'})",0.9072527221618674,"frozenset({'ECFP', 'CellPaint', 'MIC'})"
+tabm,"frozenset({'ECFP', 'Text_Embedding', 'GC', 'MIC', 'CellPaint'})",0.9046117687906104,"frozenset({'ECFP', 'CellPaint', 'MIC', 'GC'})"
+tabm,"frozenset({'Proteomics', 'Text_Embedding', 'GC', 'CellPaint', 'MIC'})",0.9278358933853587,"frozenset({'CellPaint', 'MIC', 'Proteomics', 'GC'})"
+tabm,"frozenset({'ECFP', 'Text_Embedding'})",0.8979700168075734,frozenset({'ECFP'})
+tabm,"frozenset({'ECFP', 'CellPaint', 'Text_Embedding'})",0.90818299909085,"frozenset({'ECFP', 'CellPaint'})"
+tabm,"frozenset({'ECFP', 'CellPaint', 'Text_Embedding', 'GC'})",0.9083521287907408,"frozenset({'ECFP', 'CellPaint', 'GC'})"
+tabm,"frozenset({'CellPaint', 'MIC', 'Text_Embedding'})",0.8746126439400961,"frozenset({'CellPaint', 'MIC'})"
+tabm,"frozenset({'CellPaint', 'Text_Embedding', 'GC'})",0.8830645850444594,"frozenset({'CellPaint', 'GC'})"
+tabm,"frozenset({'CellPaint', 'MIC', 'Text_Embedding', 'GC'})",0.8699378798243744,"frozenset({'CellPaint', 'MIC', 'GC'})"
+tabm,"frozenset({'Proteomics', 'ECFP', 'Text_Embedding', 'GC', 'MIC'})",0.9528863467272487,"frozenset({'ECFP', 'MIC', 'Proteomics', 'GC'})"
+tabm,"frozenset({'CellPaint', 'Text_Embedding'})",0.8777087488459927,frozenset({'CellPaint'})
+tabm,"frozenset({'ECFP', 'MIC', 'Text_Embedding', 'GC'})",0.902180842386996,"frozenset({'ECFP', 'MIC', 'GC'})"
+tabm,"frozenset({'MIC', 'Proteomics', 'Text_Embedding', 'GC'})",0.899573949975225,"frozenset({'MIC', 'Proteomics', 'GC'})"
+tabm,"frozenset({'Proteomics', 'ECFP', 'Text_Embedding', 'GC', 'MIC', 'CellPaint'})",0.9569456574747213,"frozenset({'Proteomics', 'ECFP', 'GC', 'MIC', 'CellPaint'})"

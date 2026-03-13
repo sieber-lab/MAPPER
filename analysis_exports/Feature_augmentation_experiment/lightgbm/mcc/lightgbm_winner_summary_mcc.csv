@@ -1,0 +1,2 @@
+best,mean,std,n_cycles,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc
+ECFP+GC,0.8349698018600078,0.10162140110267864,25,2.621286547580899e-83,0.016666666666666666,True,Conover–Friedman (BH)
