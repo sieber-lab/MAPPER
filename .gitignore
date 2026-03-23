@@ -17,6 +17,8 @@ __pycache__/
 # OS/editor artifacts
 Thumbs.db
 .DS_Store
+.figcheck/
+.pagecheck/
 
 # Local notebook/archive scratch
 tmp/

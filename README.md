@@ -1,8 +1,19 @@
 # MAPPER
 
-Public code and analysis snapshot for the antibiotic mode-of-action prediction project.
+Code and analysis snapshot for MAPPER, a multimodal framework for predicting antibiotic mode of action and identifying uncertain or novel mechanistic responses.
 
-This repository contains the code, curated analysis exports, and figure assets used for the current paper and Supplementary Information.
+This repository accompanies the manuscript `Decoding antibiotic modes of action from multimodal cellular responses`.
+
+It contains the curated data tables, notebooks, analysis exports, and figure assets used for the current manuscript and Supplementary Information.
+
+Suggested GitHub repository description:
+`MAPPER: multimodal prediction of antibiotic mode of action from cellular response data`
+
+## Start here
+
+- `docs/traceability.md` maps manuscript figures to the notebooks and exported assets that generate them.
+- `docs/paper_fig2_6_code_inventory.md` summarizes the code and local runtime artifacts required for Figures 2-6.
+- `notebooks/figure2` to `notebooks/figure6` contain the canonical main-figure workflows.
 
 ## Repository layout
 
@@ -23,6 +34,8 @@ The working project also uses large prediction, model, and result caches under:
 - `results/`
 
 These are intentionally ignored in the public git history. If they are present in a local workspace, the notebooks and docs may refer to them as canonical runtime artifact roots.
+
+The manuscript build tree under `latex/` is also kept local and is not part of the public repository state.
 
 ## Canonical figure notebooks
 
@@ -56,3 +69,4 @@ Supplementary utilities:
 
 - Main manuscript and SI figure numbering/inputs are documented in `docs/traceability.md`.
 - Required code and local artifact roots for Figures 2-6 are summarized in `docs/paper_fig2_6_code_inventory.md`.
+- Small local QA folders such as `.figcheck/` and `.pagecheck/` are review artifacts and are intentionally ignored.
