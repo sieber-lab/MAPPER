@@ -1,0 +1,52 @@
+,MIC,MoA,MoA_short,MIC_log10
+JH2_1,0.097656,Cell wall biosynthesis,Cell wall,-1.0103010684351086
+JH3_1,0.390625,Cell wall biosynthesis,Cell wall,-0.4082399653118496
+JH5_1,0.390625,Cell wall biosynthesis,Cell wall,-0.4082399653118496
+JH6_1,0.390625,Cell wall biosynthesis,Cell wall,-0.4082399653118496
+JH7_1,0.78125,Cell wall biosynthesis,Cell wall,-0.10720996964786836
+JH8_1,0.78125,Cell wall biosynthesis,Cell wall,-0.10720996964786836
+JH9_1,0.390625,Cell wall biosynthesis,Cell wall,-0.4082399653118496
+JH10_1,50.0,Cell wall biosynthesis,Cell wall,1.6989700043360187
+JH12_1,100.0,Protein synthesis,Protein syn.,2.0
+JH13_1,12.5,Protein synthesis,Protein syn.,1.0969100130080565
+JH14_1,0.78125,Protein synthesis,Protein syn.,-0.10720996964786836
+JH15_1,1.5625,Protein synthesis,Protein syn.,0.19382002601611284
+JH16_1,1.5625,Protein synthesis,Protein syn.,0.19382002601611284
+JH17_1,0.390625,Protein synthesis,Protein syn.,-0.4082399653118496
+JH18_1,0.048828,Protein synthesis,Protein syn.,-1.3113310640990898
+JH20_1,100.0,Folic acid metabolism,Folic acid,2.0
+JH21_1,200.0,Folic acid metabolism,Folic acid,2.3010299956639813
+JH23_1,1.5625,Folic acid metabolism,Folic acid,0.19382002601611284
+JH24_1,12.5,Folic acid metabolism,Folic acid,1.0969100130080565
+JH26_1,0.097656,DNA replication,DNA repl.,-1.0103010684351086
+JH27_1,0.195312,DNA replication,DNA repl.,-0.7092710727711276
+JH28_1,0.097656,DNA replication,DNA repl.,-1.0103010684351086
+JH29_1,0.048828,DNA replication,DNA repl.,-1.3113310640990898
+JH30_1,0.097656,DNA replication,DNA repl.,-1.0103010684351086
+JH31_1,50.0,Nitrofurans,Nitrofurans,1.6989700043360187
+JH32_1,0.78125,DNA replication,DNA repl.,-0.10720996964786836
+JH33_1,50.0,DNA replication,DNA repl.,1.6989700043360187
+JH35_1,3.125,DNA replication,DNA repl.,0.49485002168009407
+JH36_1,0.097656,DNA replication,DNA repl.,-1.0103010684351086
+JH37_1,25.0,RNA Synthesis,RNA synth.,1.3979400086720377
+JH38_1,12.5,RNA Synthesis,RNA synth.,1.0969100130080565
+JH39_1,6.25,RNA Synthesis,RNA synth.,0.7958800173440752
+JH40_1,0.390625,Fatty acid synthesis,Fatty acid,-0.4082399653118496
+JH41_1,400.0,Fatty acid synthesis,Fatty acid,2.6020599913279625
+JH42_1,1.5625,Fatty acid synthesis,Fatty acid,0.19382002601611284
+JH43_1,0.390625,Membrane disruption,Membrane,-0.4082399653118496
+JH44_1,0.097656,Membrane disruption,Membrane,-1.0103010684351086
+JH45_1,3.125,Membrane disruption,Membrane,0.49485002168009407
+JH46_1,0.78125,Membrane disruption,Membrane,-0.10720996964786836
+JH47_1,3.125,Membrane disruption,Membrane,0.49485002168009407
+JH48_1,0.390625,lipopolysaccharide synthesis,LPS synth.,-0.4082399653118496
+JH49_1,0.195312,lipopolysaccharide synthesis,LPS synth.,-0.7092710727711276
+JH50_1,0.390625,lipopolysaccharide synthesis,LPS synth.,-0.4082399653118496
+JH55_1,1.5625,Protein synthesis,Protein syn.,0.19382002601611284
+JH56_1,1.5625,Protein synthesis,Protein syn.,0.19382002601611284
+JH58_1,25.0,Nitrofurans,Nitrofurans,1.3979400086720377
+JH61_1,6.25,Fatty acid synthesis,Fatty acid,0.7958800173440752
+JH62_1,1.5625,lipopolysaccharide synthesis,LPS synth.,0.19382002601611284
+JH64_1,50.0,Nitrofurans,Nitrofurans,1.6989700043360187
+JH65_1,12.5,Nitrofurans,Nitrofurans,1.0969100130080565
+JH0_1,6.25,Cell wall biosynthesis,Cell wall,0.7958800173440752

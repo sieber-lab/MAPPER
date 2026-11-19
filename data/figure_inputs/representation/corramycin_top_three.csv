@@ -1,0 +1,4 @@
+dataset,compound,expected,moa,rank,score,uncertain,correct,cutoff
+inhouse_corramycin,Corramycin,DNA replication,DNA replication,1,0.3241467402270064,False,True,0.1442346636392175
+inhouse_corramycin,Corramycin,DNA replication,Cell wall biosynthesis,2,0.1093308786046691,False,True,0.1442346636392175
+inhouse_corramycin,Corramycin,DNA replication,Protein synthesis,3,0.0027925119563587,False,True,0.1442346636392175

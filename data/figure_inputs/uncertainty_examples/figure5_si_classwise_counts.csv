@@ -1,0 +1,121 @@
+setting,class,method,flagged,eligible,rate
+held_out_class_detection,Cell wall biosynthesis,low_max_score,7,9,0.7777777777777778
+held_out_class_detection,Cell wall biosynthesis,high_predictive_entropy,1,9,0.1111111111111111
+held_out_class_detection,Cell wall biosynthesis,high_expected_entropy,0,9,0.0
+held_out_class_detection,Cell wall biosynthesis,z_gate_global,1,9,0.1111111111111111
+held_out_class_detection,Cell wall biosynthesis,z_gate_class,2,9,0.2222222222222222
+held_out_class_detection,Cell wall biosynthesis,meta_model,7,9,0.7777777777777778
+held_out_class_detection,DNA replication,low_max_score,7,9,0.7777777777777778
+held_out_class_detection,DNA replication,high_predictive_entropy,0,9,0.0
+held_out_class_detection,DNA replication,high_expected_entropy,0,9,0.0
+held_out_class_detection,DNA replication,z_gate_global,0,9,0.0
+held_out_class_detection,DNA replication,z_gate_class,0,9,0.0
+held_out_class_detection,DNA replication,meta_model,0,9,0.0
+held_out_class_detection,Fatty acid synthesis,low_max_score,3,4,0.75
+held_out_class_detection,Fatty acid synthesis,high_predictive_entropy,1,4,0.25
+held_out_class_detection,Fatty acid synthesis,high_expected_entropy,1,4,0.25
+held_out_class_detection,Fatty acid synthesis,z_gate_global,0,4,0.0
+held_out_class_detection,Fatty acid synthesis,z_gate_class,0,4,0.0
+held_out_class_detection,Fatty acid synthesis,meta_model,3,4,0.75
+held_out_class_detection,Folic acid metabolism,low_max_score,4,4,1.0
+held_out_class_detection,Folic acid metabolism,high_predictive_entropy,0,4,0.0
+held_out_class_detection,Folic acid metabolism,high_expected_entropy,0,4,0.0
+held_out_class_detection,Folic acid metabolism,z_gate_global,1,4,0.25
+held_out_class_detection,Folic acid metabolism,z_gate_class,1,4,0.25
+held_out_class_detection,Folic acid metabolism,meta_model,4,4,1.0
+held_out_class_detection,Membrane disruption,low_max_score,2,5,0.4
+held_out_class_detection,Membrane disruption,high_predictive_entropy,3,5,0.6
+held_out_class_detection,Membrane disruption,high_expected_entropy,0,5,0.0
+held_out_class_detection,Membrane disruption,z_gate_global,4,5,0.8
+held_out_class_detection,Membrane disruption,z_gate_class,4,5,0.8
+held_out_class_detection,Membrane disruption,meta_model,2,5,0.4
+held_out_class_detection,Nitrofurans,low_max_score,2,4,0.5
+held_out_class_detection,Nitrofurans,high_predictive_entropy,3,4,0.75
+held_out_class_detection,Nitrofurans,high_expected_entropy,2,4,0.5
+held_out_class_detection,Nitrofurans,z_gate_global,1,4,0.25
+held_out_class_detection,Nitrofurans,z_gate_class,3,4,0.75
+held_out_class_detection,Nitrofurans,meta_model,2,4,0.5
+held_out_class_detection,Protein synthesis,low_max_score,8,9,0.8888888888888888
+held_out_class_detection,Protein synthesis,high_predictive_entropy,1,9,0.1111111111111111
+held_out_class_detection,Protein synthesis,high_expected_entropy,0,9,0.0
+held_out_class_detection,Protein synthesis,z_gate_global,0,9,0.0
+held_out_class_detection,Protein synthesis,z_gate_class,5,9,0.5555555555555556
+held_out_class_detection,Protein synthesis,meta_model,8,9,0.8888888888888888
+held_out_class_detection,RNA Synthesis,low_max_score,0,3,0.0
+held_out_class_detection,RNA Synthesis,high_predictive_entropy,0,3,0.0
+held_out_class_detection,RNA Synthesis,high_expected_entropy,0,3,0.0
+held_out_class_detection,RNA Synthesis,z_gate_global,3,3,1.0
+held_out_class_detection,RNA Synthesis,z_gate_class,3,3,1.0
+held_out_class_detection,RNA Synthesis,meta_model,0,3,0.0
+held_out_class_detection,lipopolysaccharide synthesis,low_max_score,2,4,0.5
+held_out_class_detection,lipopolysaccharide synthesis,high_predictive_entropy,2,4,0.5
+held_out_class_detection,lipopolysaccharide synthesis,high_expected_entropy,3,4,0.75
+held_out_class_detection,lipopolysaccharide synthesis,z_gate_global,2,4,0.5
+held_out_class_detection,lipopolysaccharide synthesis,z_gate_class,1,4,0.25
+held_out_class_detection,lipopolysaccharide synthesis,meta_model,4,4,1.0
+held_out_class_detection,All compounds,low_max_score,35,51,0.6862745098039216
+held_out_class_detection,All compounds,high_predictive_entropy,11,51,0.21568627450980393
+held_out_class_detection,All compounds,high_expected_entropy,6,51,0.11764705882352941
+held_out_class_detection,All compounds,z_gate_global,12,51,0.23529411764705882
+held_out_class_detection,All compounds,z_gate_class,19,51,0.37254901960784315
+held_out_class_detection,All compounds,meta_model,30,51,0.5882352941176471
+correct_known_false_alarm,Cell wall biosynthesis,low_max_score,1,8,0.125
+correct_known_false_alarm,Cell wall biosynthesis,high_predictive_entropy,1,8,0.125
+correct_known_false_alarm,Cell wall biosynthesis,high_expected_entropy,0,8,0.0
+correct_known_false_alarm,Cell wall biosynthesis,z_gate_global,3,8,0.375
+correct_known_false_alarm,Cell wall biosynthesis,z_gate_class,3,8,0.375
+correct_known_false_alarm,Cell wall biosynthesis,meta_model,1,8,0.125
+correct_known_false_alarm,DNA replication,low_max_score,0,9,0.0
+correct_known_false_alarm,DNA replication,high_predictive_entropy,0,9,0.0
+correct_known_false_alarm,DNA replication,high_expected_entropy,0,9,0.0
+correct_known_false_alarm,DNA replication,z_gate_global,0,9,0.0
+correct_known_false_alarm,DNA replication,z_gate_class,0,9,0.0
+correct_known_false_alarm,DNA replication,meta_model,0,9,0.0
+correct_known_false_alarm,Fatty acid synthesis,low_max_score,1,4,0.25
+correct_known_false_alarm,Fatty acid synthesis,high_predictive_entropy,1,4,0.25
+correct_known_false_alarm,Fatty acid synthesis,high_expected_entropy,1,4,0.25
+correct_known_false_alarm,Fatty acid synthesis,z_gate_global,2,4,0.5
+correct_known_false_alarm,Fatty acid synthesis,z_gate_class,2,4,0.5
+correct_known_false_alarm,Fatty acid synthesis,meta_model,3,4,0.75
+correct_known_false_alarm,Folic acid metabolism,low_max_score,0,4,0.0
+correct_known_false_alarm,Folic acid metabolism,high_predictive_entropy,2,4,0.5
+correct_known_false_alarm,Folic acid metabolism,high_expected_entropy,2,4,0.5
+correct_known_false_alarm,Folic acid metabolism,z_gate_global,1,4,0.25
+correct_known_false_alarm,Folic acid metabolism,z_gate_class,2,4,0.5
+correct_known_false_alarm,Folic acid metabolism,meta_model,0,4,0.0
+correct_known_false_alarm,Membrane disruption,low_max_score,0,4,0.0
+correct_known_false_alarm,Membrane disruption,high_predictive_entropy,0,4,0.0
+correct_known_false_alarm,Membrane disruption,high_expected_entropy,0,4,0.0
+correct_known_false_alarm,Membrane disruption,z_gate_global,1,4,0.25
+correct_known_false_alarm,Membrane disruption,z_gate_class,1,4,0.25
+correct_known_false_alarm,Membrane disruption,meta_model,1,4,0.25
+correct_known_false_alarm,Nitrofurans,low_max_score,0,4,0.0
+correct_known_false_alarm,Nitrofurans,high_predictive_entropy,0,4,0.0
+correct_known_false_alarm,Nitrofurans,high_expected_entropy,0,4,0.0
+correct_known_false_alarm,Nitrofurans,z_gate_global,0,4,0.0
+correct_known_false_alarm,Nitrofurans,z_gate_class,0,4,0.0
+correct_known_false_alarm,Nitrofurans,meta_model,0,4,0.0
+correct_known_false_alarm,Protein synthesis,low_max_score,0,9,0.0
+correct_known_false_alarm,Protein synthesis,high_predictive_entropy,0,9,0.0
+correct_known_false_alarm,Protein synthesis,high_expected_entropy,0,9,0.0
+correct_known_false_alarm,Protein synthesis,z_gate_global,1,9,0.1111111111111111
+correct_known_false_alarm,Protein synthesis,z_gate_class,2,9,0.2222222222222222
+correct_known_false_alarm,Protein synthesis,meta_model,1,9,0.1111111111111111
+correct_known_false_alarm,RNA Synthesis,low_max_score,0,3,0.0
+correct_known_false_alarm,RNA Synthesis,high_predictive_entropy,0,3,0.0
+correct_known_false_alarm,RNA Synthesis,high_expected_entropy,0,3,0.0
+correct_known_false_alarm,RNA Synthesis,z_gate_global,2,3,0.6666666666666666
+correct_known_false_alarm,RNA Synthesis,z_gate_class,2,3,0.6666666666666666
+correct_known_false_alarm,RNA Synthesis,meta_model,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,low_max_score,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,high_predictive_entropy,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,high_expected_entropy,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,z_gate_global,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,z_gate_class,0,3,0.0
+correct_known_false_alarm,lipopolysaccharide synthesis,meta_model,1,3,0.3333333333333333
+correct_known_false_alarm,All compounds,low_max_score,2,48,0.041666666666666664
+correct_known_false_alarm,All compounds,high_predictive_entropy,4,48,0.08333333333333333
+correct_known_false_alarm,All compounds,high_expected_entropy,3,48,0.0625
+correct_known_false_alarm,All compounds,z_gate_global,10,48,0.20833333333333334
+correct_known_false_alarm,All compounds,z_gate_class,12,48,0.25
+correct_known_false_alarm,All compounds,meta_model,7,48,0.14583333333333334

@@ -1,0 +1,8 @@
+arm,label,configuration,features,in_figure
+deployed_mapper,MAPPER (deployed TabM),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,True
+selected_tabm,TabM (CV winner),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,False
+selected_lightgbm,LightGBM (CV winner),semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,True
+selected_pytorch_mlp,PyTorch MLP (CV winner),semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,True
+selected_xgboost,XGBoost (CV winner),semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,True
+selected_rf,Random forest (CV winner),semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,True
+selected_mlp,sklearn MLP (CV winner),semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+GC,ECFP + InfoAlign + growth curves,True

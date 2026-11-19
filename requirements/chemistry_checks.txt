@@ -1,0 +1,4 @@
+# Exact RDKit version used for the final MCS verification.
+numpy==1.26.4
+pandas==2.2.3
+rdkit==2022.9.5

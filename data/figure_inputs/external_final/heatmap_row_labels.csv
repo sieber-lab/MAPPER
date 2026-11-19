@@ -1,0 +1,44 @@
+case_key,dataset,compound_name,case,display_label
+inhouse_corramycin::inhouse_corramycin,inhouse_corramycin,Corramycin,inhouse_corramycin,Corramycin
+eclipse::imipenem,eclipse,Imipenem,Imipenem,Imipenem
+eclipse::ciprofloxacin,eclipse,Ciprofloxacin,Ciprofloxacin,Ciprofloxacin
+eclipse::kanamycin,eclipse,Kanamycin,Kanamycin,Kanamycin
+gentamicin::gentamicin,gentamicin,Gentamicin,Gentamicin,Gentamicin
+cefiderocol::cefiderocol,cefiderocol,Cefiderocol,Cefiderocol,Cefiderocol
+yu::yucefotaxime,yu,Cefotaxime,YuCefotaxime,Cefotaxime
+yu::yuceftriaxone,yu,Ceftriaxone,YuCeftriaxone,Ceftriaxone
+yu::yuflavomycin,yu,Flavomycin,YuFlavomycin,Flavomycin
+yu::yumeropenem,yu,Meropenem,YuMeropenem,Meropenem
+yu::yupenicillin,yu,Penicillin G,YuPenicillin,Penicillin G
+yu::yuteicoplanin,yu,Teicoplanin,YuTeicoplanin,Teicoplanin
+yu::yuteixobactin,yu,Teixobactin,YuTeixobactin,Teixobactin
+yu::yuvancomycin,yu,Vancomycin,YuVancomycin,Vancomycin
+yu::yucerulenin,yu,Cerulenin,YuCerulenin,Cerulenin
+yu::yuisoniazid,yu,Isoniazid,YuIsoniazid,Isoniazid
+yu::yutriclosan,yu,Triclosan,YuTriclosan,Triclosan
+yu::yumonactin,yu,Monactin,YuMonactin,Monactin
+yu::yupolymyxin,yu,Polymyxin B,YuPolymyxin,Polymyxin B
+yu::yudoxycycline,yu,Doxycycline,YuDoxycycline,Doxycycline
+yu::yuerythromycin,yu,Erythromycin,YuErythromycin,Erythromycin
+yu::yuretapamulin,yu,Retapamulin,YuRetapamulin,Retapamulin
+yu::yutetracycline,yu,Tetracycline,YuTetracycline,Tetracycline
+yu::yuthiostrepton,yu,Thiostrepton,YuThiostrepton,Thiostrepton
+yu::yurifampicin,yu,Rifampicin,YuRifampicin,Rifampicin
+subanovic::cefotaxime,subanovic,Cefotaxime,Cefotaxime,Cefotaxime
+subanovic::imipenem,subanovic,Imipenem,Imipenem,Imipenem
+subanovic::ciprofloxacin,subanovic,Ciprofloxacin,Ciprofloxacin,Ciprofloxacin
+subanovic::kanamycin,subanovic,Kanamycin,Kanamycin,Kanamycin
+pxd027164::ampicillin,pxd027164,ampicillin,ampicillin,Ampicillin
+pxd027164::cefotaxime,pxd027164,cefotaxime,cefotaxime,Cefotaxime
+pxd027164::imipenem,pxd027164,imipenem,imipenem,Imipenem
+pxd027164::ciprofloxacin,pxd027164,ciprofloxacin,ciprofloxacin,Ciprofloxacin
+smx::12h,smx,Sulfamethoxazole,12h,Sulfamethoxazole · 12 h
+smx::24h,smx,Sulfamethoxazole,24h,Sulfamethoxazole · 24 h
+smx::36h,smx,Sulfamethoxazole,36h,Sulfamethoxazole · 36 h
+ceftriaxone::ceftriaxone,ceftriaxone,Ceftriaxone,Ceftriaxone,Ceftriaxone
+meropenem::meropenem_128ug_ml,meropenem,Meropenem,Meropenem_128ug_ml,Meropenem · 128 µg/mL
+meropenem::meropenem_192ug_ml,meropenem,Meropenem,Meropenem_192ug_ml,Meropenem · 192 µg/mL
+colistin_csa13::colistin,colistin_csa13,Colistin,Colistin,Colistin
+colistin_csa13::csa13,colistin_csa13,CSA-13,CSA13,CSA-13
+pxd063721::cefotaxime,pxd063721,cefotaxime,cefotaxime,Cefotaxime
+pxd063721::ciprofloxacin,pxd063721,ciprofloxacin,ciprofloxacin,Ciprofloxacin

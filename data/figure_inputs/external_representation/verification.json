@@ -1,0 +1,10 @@
+{
+  "new_fits_verified": 90,
+  "treatments_per_representation": 26,
+  "representations": 3,
+  "biological_profiles": 79,
+  "test_antibiotic_exclusions_matched": true,
+  "fold_change_predictions_unchanged": true,
+  "report_replayed": true,
+  "original_code_models_manuscript_and_figures_unmodified": true
+}

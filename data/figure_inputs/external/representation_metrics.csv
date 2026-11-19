@@ -1,0 +1,13 @@
+dataset,representation,cases,correct,accuracy,balanced_accuracy
+inhouse_cv,intensity,51,43,0.8431372549019608,0.8549382716049383
+inhouse_cv,significant_intensity,51,33,0.6470588235294118,0.5950617283950617
+inhouse_cv,fold_change,51,40,0.7843137254901961,0.7333333333333333
+eclipse,intensity,3,2,0.6666666666666666,0.6666666666666666
+eclipse,significant_intensity,3,3,1.0,1.0
+eclipse,fold_change,3,3,1.0,1.0
+subanovic,intensity,4,0,0.0,0.0
+subanovic,significant_intensity,4,2,0.5,0.3333333333333333
+subanovic,fold_change,4,2,0.5,0.3333333333333333
+yu,intensity,19,0,0.0,0.0
+yu,significant_intensity,19,9,0.47368421052631576,0.26666666666666666
+yu,fold_change,19,10,0.5263157894736842,0.43499999999999994

@@ -1,0 +1,7 @@
+-r inference.txt
+lightning==2.5.1
+pytorch-lightning==2.5.1
+torchmetrics==1.2.1
+lightgbm==4.3.0
+xgboost==2.0.3
+mlflow==2.21.3

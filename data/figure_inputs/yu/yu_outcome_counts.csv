@@ -1,0 +1,3 @@
+training_setting,cases,correct,accuracy,balanced_accuracy,correct_certain,incorrect_certain,correct_uncertain,incorrect_uncertain
+inhouse_only,19,10,52.63157894736842,43.49999999999999,0,1,10,8
+inhouse_plus_yu,19,13,68.42105263157895,51.0,13,5,0,1

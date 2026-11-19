@@ -1,0 +1,417 @@
+accession,organism,source_genes,reference_candidates,rule,source_file
+NP_414557.1,Escherichia coli str. K-12 substr. MG1655,insL1;ECK0016; yi81-1,insL1;insL2;insL3,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_414793.2,Escherichia coli str. K-12 substr. MG1655,insH1;ECK0261; trs5; trs5-1; yi52_1,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_414832.2,Escherichia coli str. K-12 substr. MG1655,insE1;ECK0298,insE1;insE2;insE3;insE4;insE5,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_414894.2,Escherichia coli str. K-12 substr. MG1655,insC1;ECK0357; yi21-1,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_414907.2,Escherichia coli str. K-12 substr. MG1655,insE2;ECK0298,insE1;insE2;insE3;insE4;insE5,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415072.2,Escherichia coli str. K-12 substr. MG1655,insE3;ECK0298,insE1;insE2;insE3;insE4;insE5,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415084.2,Escherichia coli str. K-12 substr. MG1655,insH2;ECK0261; trs5-2; yi52_2,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415114.1,Escherichia coli str. K-12 substr. MG1655,insL2;ECK0016; yi81-2,insL1;insL2;insL3,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415189.2,Escherichia coli str. K-12 substr. MG1655,insH3;ECK0261; trs5-3; yi52_3,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415416.1,Escherichia coli str. K-12 substr. MG1655,dmsC;ECK0887,dmsC,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415546.2,Escherichia coli str. K-12 substr. MG1655,insE4;ECK0298,insE1;insE2;insE3;insE4;insE5,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415847.2,Escherichia coli str. K-12 substr. MG1655,insH7;ECK0261; trs5-7; yi52_7,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415893.2,Escherichia coli str. K-12 substr. MG1655,ynaE;ECK1370,ynaE,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_415921.2,Escherichia coli str. K-12 substr. MG1655,insC2;ECK0357; yi21-2,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416062.2,Escherichia coli str. K-12 substr. MG1655,ydfK;ECK1537,ydfK,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416107.1,Escherichia coli str. K-12 substr. MG1655,ynfH;ECK1585,ynfH,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416498.2,Escherichia coli str. K-12 substr. MG1655,insH6;ECK0261; trs5-6; yi52_6,insH6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416535.2,Escherichia coli str. K-12 substr. MG1655,insH8;ECK0261; trs5-8; yi52_8,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416592.2,Escherichia coli str. K-12 substr. MG1655,insE5;ECK0298,insE1;insE2;insE3;insE4;insE5,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416696.2,Escherichia coli str. K-12 substr. MG1655,insH9;ECK0261; trs5-9; yi52_9,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416895.2,Escherichia coli str. K-12 substr. MG1655,insL3;ECK0016; yi81-3,insL1;insL2;insL3,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_416984.1,Escherichia coli str. K-12 substr. MG1655,hyfI;ECK2485,hyfI,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417199.1,Escherichia coli str. K-12 substr. MG1655,hycG;ECK2714; hevG,hycG,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417338.3,Escherichia coli str. K-12 substr. MG1655,insC4;ECK0357; yi21-4,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417456.2,Escherichia coli str. K-12 substr. MG1655,insH10;ECK0261; trs5-10; yi52_10,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417516.3,Escherichia coli str. K-12 substr. MG1655,insC5;ECK0357; yi21-5,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417685.2,Escherichia coli str. K-12 substr. MG1655,insH11;ECK0261; trs5-11; yi52_11,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417798.1,Escherichia coli str. K-12 substr. MG1655,tufA;ECK3326; kirT; pulT,tufA,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_417962.2,Escherichia coli str. K-12 substr. MG1655,insH21;ECK4568,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_418407.1,Escherichia coli str. K-12 substr. MG1655,tufB;ECK3971; kirT; pulT,tufB,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+NP_418692.2,Escherichia coli str. K-12 substr. MG1655,insC6;ECK0357; yi21-6,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_275bac08a52d0ee6.gb
+WP_000004201.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_275bac08a52d0ee6.gb
+WP_000016982.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_275bac08a52d0ee6.gb
+WP_000020040.1,Pseudomonadati,hutX,,no_unique_reference_identity,downloads/refseq_275bac08a52d0ee6.gb
+WP_000021342.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_275bac08a52d0ee6.gb
+WP_000022062.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000031238.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000031783.1,Pseudomonadati,tuf,tufA,identical_reference_sequence,downloads/refseq_8a714070d20fd813.gb
+WP_000037391.1,Enterobacteriaceae,tssB,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000048617.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000057541.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000061477.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000063156.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000063834.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000071294.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000079508.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000083830.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000085269.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000088605.1,Bacteria,tetR(B),,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000089583.1,Enterobacteriaceae,chuA;shuA,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000094006.1,Enterobacteriaceae,tsaA,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000124185.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000125643.1,Pseudomonadati,relB,relB,unique_source_record_gene,downloads/refseq_8a714070d20fd813.gb
+WP_000133649.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000135682.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000135821.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000139323.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000147018.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000166966.1,Bacteria,mobA,mobA,unique_source_record_gene,downloads/refseq_8a714070d20fd813.gb
+WP_000190644.1,Pseudomonadati,yfhb,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000192748.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000194940.1,Enterobacteriaceae,yejF,yejF,unique_source_record_gene,downloads/refseq_8a714070d20fd813.gb
+WP_000196235.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000202113.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000239590.1,Bacteria,blaCTX-M,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000239941.1,Escherichia,hemW,hemW,unique_source_record_gene,downloads/refseq_8a714070d20fd813.gb
+WP_000240999.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000246191.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000246636.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_8a714070d20fd813.gb
+WP_000247879.1,Enterobacteriaceae,nuoC,nuoC,unique_source_record_gene,downloads/refseq_8a714070d20fd813.gb
+WP_000250228.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000259031.1,Bacteria,sul1,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000301062.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000331918.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000332260.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000345347.1,Enterobacteriaceae,ulaA;sgaT,ulaA,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000347633.1,Enterobacteriaceae,entA,entA,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000350635.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000351937.1,Pseudomonadota,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000355059.1,Pseudomonadota,cheA,cheA,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000355546.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000356397.1,Gammaproteobacteria,relB,relB,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000361611.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000373426.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000379700.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000381622.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000386516.1,Enterobacteriaceae,ybiB,ybiB,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000399648.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000416151.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000428546.1,Pseudomonadati,tetC,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000439434.1,Bacteria,pemK-mt,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000458583.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000470717.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000490679.1,Pseudomonadati,,gatC,identical_reference_sequence,downloads/refseq_e73a22214d6bcd70.gb
+WP_000493756.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000500725.1,Enterobacteriaceae,bdcA,bdcA,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000503573.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000510385.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000516402.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000522601.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000532176.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000545669.1,Enterobacteriaceae,trkH,trkH,unique_source_record_gene,downloads/refseq_e73a22214d6bcd70.gb
+WP_000545983.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000557619.1,Bacteria,pemI,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000558152.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_e73a22214d6bcd70.gb
+WP_000576816.1,Enterobacteriaceae,modD,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000588629.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000594596.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000607598.1,Enterobacteriaceae,gad,gapA,unique_source_record_gene,downloads/refseq_48ec72428c35dee6.gb
+WP_000608644.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000610344.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000613626.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000642771.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000650976.1,Enterobacteriaceae,nadS,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000662998.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000690928.1,Enterobacteriaceae,manD,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000694759.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000704523.1,Gammaproteobacteria,uilS,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000716326.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000723561.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000729117.1,Pseudomonadati,groL,groEL,identical_reference_sequence,downloads/refseq_48ec72428c35dee6.gb
+WP_000737282.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000746460.1,Enterobacteriaceae,macA,macA,unique_source_record_gene,downloads/refseq_48ec72428c35dee6.gb
+WP_000751631.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000758898.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000759841.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000771541.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000772446.1,Bacteria,sopA,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000778605.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000783386.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000784004.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000792381.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000799401.1,Enterobacteriaceae,potB,potB,unique_source_record_gene,downloads/refseq_48ec72428c35dee6.gb
+WP_000802268.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000802332.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000803998.1,Enterobacteriaceae,,ykgM,identical_reference_sequence,downloads/refseq_48ec72428c35dee6.gb
+WP_000815099.1,Pseudomonadati,,glpR,identical_reference_sequence,downloads/refseq_48ec72428c35dee6.gb
+WP_000817036.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000831818.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000833618.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_48ec72428c35dee6.gb
+WP_000836037.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000836290.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000838294.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000843394.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000843961.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000850429.1,Gammaproteobacteria,traT,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000852146.1,Bacteria,repE,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000852398.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000858975.1,Enterobacteriaceae,relB,relB,unique_source_record_gene,downloads/refseq_e90cf6878f515859.gb
+WP_000859787.1,Pseudomonadati,ygeW,ygeW,unique_source_record_gene,downloads/refseq_e90cf6878f515859.gb
+WP_000860025.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000873803.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000905920.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000907502.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000908169.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000911982.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000916805.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000931387.1,Enterobacteriaceae,galM,galM,unique_source_record_gene,downloads/refseq_e90cf6878f515859.gb
+WP_000943487.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000944328.1,Enterobacteriaceae,traH,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000946226.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000948824.1,Enterobacterales,agaF,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000951022.1,Enterobacteriaceae,fabF,fabF,unique_source_record_gene,downloads/refseq_e90cf6878f515859.gb
+WP_000985736.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_000991832.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001001644.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001006717.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001007062.1,Enterobacteriaceae,traG,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001017193.1,Enterobacteriaceae,chuS,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001032934.1,Enterobacteriaceae,nemR,nemR,unique_source_record_gene,downloads/refseq_e90cf6878f515859.gb
+WP_001043731.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001044501.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001044768.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001048075.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001061444.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e90cf6878f515859.gb
+WP_001064798.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001066953.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001074369.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001082319.1,Bacteria,aph(3'')-Ib;strA,rpsL,unique_source_record_gene,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001084388.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001085430.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001093608.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001093868.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001109783.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001113710.1,Escherichia,tagH,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001116112.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001117840.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001125202.1,Pseudomonadati,yceF,yceF,identical_reference_sequence,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001151566.1,Gammaproteobacteria,traM,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001154803.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001159868.1,Bacteria,ccdB,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001172285.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001174452.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001175590.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001185481.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001188253.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001190712.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001208067.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001209503.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001209780.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001216034.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001217539.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001228248.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001228314.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001232240.1,Enterobacteriaceae,cybC,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001240581.1,Enterobacteriaceae,fdnH,fdnH,unique_source_record_gene,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001270810.1,Pseudomonadati,hemP,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001278893.1,Enterobacteriaceae,cobO,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001280945.1,Pseudomonadati,swpB,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001290195.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_a8a6c49e52d6dfec.gb
+WP_001293458.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001295060.1,Enterobacterales,virB10,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001295992.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001295995.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001298314.1,Enterobacteriaceae,agaE,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001298565.1,Gammaproteobacteria,hha,hha,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001298777.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001301171.1,Pseudomonadati,grpH,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001305965.1,Pseudomonadati,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001306825.1,Pseudomonadati,ycgN,ycgN,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001309245.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001312207.1,Escherichia,adeP,adeP,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001317990.1,Escherichia,trmN,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001323811.1,Escherichia coli,pta,pta,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001329690.1,Pseudomonadati,grpP,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001329809.1,Enterobacteriaceae,livK,livK,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001334766.1,Bacteria,blaOXA,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001345148.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001348698.1,Enterobacterales,ddp1,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001348704.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001350517.1,Escherichia,cheA,cheA,identical_reference_sequence,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001353317.1,Enterobacteriaceae,ycaL,ycaL,unique_source_record_gene,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001361192.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001361213.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001361294.1,Escherichia,hlyD,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001361488.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001370402.1,Enterobacteriaceae,gpG,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001389366.1,Bacteria,dfrA17,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001401822.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001403025.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001409589.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001513661.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001546838.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001549893.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001552599.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_52bb39d4cb01d4db.gb
+WP_001564046.1,Enterobacteriaceae,grpQ,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001564047.1,Pseudomonadati,grpS,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001564058.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001564342.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001570652.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001571153.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001591261.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001593200.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001595444.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001609225.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001626263.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001673422.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001697482.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001697485.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001697486.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001702589.1,Enterobacteriaceae,spt,iaaA,unique_source_record_gene,downloads/refseq_ca866069ebc41a65.gb
+WP_001705540.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_001724296.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_004019923.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_004199085.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_004199101.1,Enterobacterales,mobP1,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_004201167.1,Bacteria,ble,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_012311611.1,Escherichia,chuT,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_012311946.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_013362818.1,Bacteria,erm(B),,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_014640052.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056397.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056398.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056399.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056402.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056403.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056404.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015056406.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015058212.1,Gammaproteobacteria,blaCMY,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015060057.1,Enterobacterales,,,no_unique_reference_identity,downloads/refseq_ca866069ebc41a65.gb
+WP_015674817.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_016233602.1,Escherichia,argD;dapC,argD,unique_source_record_gene,downloads/refseq_661b319117d1c149.gb
+WP_016240517.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_016240520.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_016243485.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_016246833.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_016247964.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_020232947.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_020232951.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021293657.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021527544.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021530636.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021543563.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021543580.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021558026.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_021562676.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645185.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645206.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645208.1,Escherichia coli,tssA,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645210.1,Escherichia coli,tssH;clpV,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645212.1,Escherichia coli,tssK,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645216.1,Escherichia coli,tssC,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645239.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645263.1,Escherichia coli,fghA,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645361.1,Escherichia coli,kdpD,kdpD,unique_source_record_gene,downloads/refseq_661b319117d1c149.gb
+WP_022645387.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645402.1,Escherichia coli,yvcK,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645549.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645558.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645559.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645560.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645563.1,Enterobacterales,relB,relB,unique_source_record_gene,downloads/refseq_661b319117d1c149.gb
+WP_022645576.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645577.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645578.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_661b319117d1c149.gb
+WP_022645581.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645622.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645643.1,Escherichia coli,nifJ,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645676.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645677.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645928.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645929.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645952.1,Escherichia coli,pbp4b,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022645961.1,Escherichia,tal,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646037.1,Enterobacteriaceae,cas7e,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646093.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646159.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646218.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646221.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646235.1,Escherichia coli,hutW,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646254.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646255.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646274.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646277.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646301.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646330.1,Escherichia coli,rffT;wecF,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646345.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646388.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646416.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_022646431.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023063803.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023292731.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023908871.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023908873.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023908887.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909002.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909008.1,Escherichia coli,gpJ,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909012.1,Escherichia coli,hmsP,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909027.1,Gammaproteobacteria,ccdA,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909028.1,Gammaproteobacteria,,,no_unique_reference_identity,downloads/refseq_8092fc82116b2aba.gb
+WP_023909087.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_023909088.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_023909157.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_023909270.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946512.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946514.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946515.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946516.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946521.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946523.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946528.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946541.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946607.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_024946712.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032140302.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032152018.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032152090.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032153768.1,Gammaproteobacteria,traI,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032162457.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_032495622.1,Enterobacterales,blaNDM,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_033554326.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_039023183.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_039104134.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_042047315.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_042047322.1,Escherichia coli,wbaP,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_042047324.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_042047333.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_047613045.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_048266441.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_063079308.1,Escherichia,trhP;yegQ,trhP,unique_source_record_gene,downloads/refseq_e0464d3bad01fab2.gb
+WP_063840321.1,Bacteria,aac(6')-Ib,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_078207969.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_085947771.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_088251358.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_088895425.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_e0464d3bad01fab2.gb
+WP_089602212.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_094096600.1,Bacteria,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_096217466.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_101348543.1,Escherichia coli,pepD,pepD,unique_source_record_gene,downloads/refseq_78b8811577d9924c.gb
+WP_108997404.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221298.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221305.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221335.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221340.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221346.1,Escherichia coli,ssb,ssb,unique_source_record_gene,downloads/refseq_78b8811577d9924c.gb
+WP_110221348.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221354.1,Escherichia coli,chuY,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221361.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_110221373.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_123836743.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_162596376.1,Escherichia coli,tssM,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_162596378.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_162596380.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_166695784.1,Escherichia coli,nuoD,nuoC,unique_source_record_gene,downloads/refseq_78b8811577d9924c.gb
+WP_208324020.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_223350488.1,Enterobacteriaceae,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_224171553.1,Escherichia,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_225522466.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+WP_249939483.1,Escherichia coli,,,no_unique_reference_identity,downloads/refseq_78b8811577d9924c.gb
+YP_001165309.1,Escherichia coli str. K-12 substr. MG1655,ylcI;ECK4399,ylcI,identical_reference_sequence,downloads/refseq_78b8811577d9924c.gb
+YP_009518770.2,Escherichia coli str. K-12 substr. MG1655,insH4;ECK0261; trs5-4; yi52_4,insH1;insH10;insH11;insH2;insH21;insH3;insH4;insH7;insH8;insH9,identical_reference_sequence,downloads/refseq_78b8811577d9924c.gb
+YP_026163.2,Escherichia coli str. K-12 substr. MG1655,insC3;ECK0357; yi21-3,insC1;insC2;insC3;insC4;insC5;insC6,identical_reference_sequence,downloads/refseq_78b8811577d9924c.gb
+YP_588454.1,Escherichia coli str. K-12 substr. MG1655,ynfO;ECK1542,ynfO,identical_reference_sequence,downloads/refseq_78b8811577d9924c.gb
+B1X651,Escherichia coli (strain K12 / DH10B).,insH-7,,no_unique_reference_identity,downloads/B1X651_unisave.txt
+B1X7I1,Escherichia coli (strain K12 / DH10B).,insE-5,,no_unique_reference_identity,downloads/B1X7I1_unisave.txt
+B1XCM7,Escherichia coli (strain K12 / DH10B).,ygaD,pncC,identical_reference_sequence,downloads/B1XCM7_unisave.txt

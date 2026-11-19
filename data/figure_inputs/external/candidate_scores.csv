@@ -1,0 +1,388 @@
+model,dataset,case,expected,predicted,candidate_class,score,rank,biological_profiles,seeds,score_cutoff,uncertain,panel_genes,scope,case_key
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.4039801335210601,1,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,0.039042800394042,2,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0016851698071665,3,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.0015714427738369,4,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0006589399022671,5,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,1.7890074499670542e-05,6,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,5.075256925256195e-06,7,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,1.4132636298223489e-08,8,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,8.73787035199502e-12,9,3,5,0.1446307125431485,False,873,main,cefiderocol
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.0336257536569125,1,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Cell wall biosynthesis,0.004810959865836,2,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Folic acid metabolism,0.00014655651718,3,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,DNA replication,6.62056780360791e-05,4,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Fatty acid synthesis,3.924140794774249e-06,5,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Nitrofurans,2.143003582967708e-07,6,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,lipopolysaccharide synthesis,5.534501142455546e-08,7,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,RNA Synthesis,9.137881149939195e-09,8,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Protein synthesis,6.01504739105704e-12,9,3,5,0.1446307125431485,True,873,main,ceftriaxone
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Protein synthesis,0.1283914986563225,1,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,DNA replication,0.0038070581824285,2,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Membrane disruption,0.0008065952568654,3,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Cell wall biosynthesis,0.0002915843369824,4,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Folic acid metabolism,4.851887240344393e-05,5,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Fatty acid synthesis,7.294255760482333e-06,6,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,RNA Synthesis,3.83379226577496e-06,7,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,lipopolysaccharide synthesis,1.8575920341742007e-06,8,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Nitrofurans,4.7111332310041896e-08,9,3,5,0.1446307125431485,True,873,main,colistin
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Protein synthesis,0.1641931189798439,1,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Nitrofurans,0.0154083128012522,2,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,DNA replication,0.0012964753759194,3,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,RNA Synthesis,0.0004495793894941,4,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Folic acid metabolism,0.0001048093773076,5,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Membrane disruption,8.007266937958813e-07,6,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Fatty acid synthesis,1.1161424340004705e-07,7,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,lipopolysaccharide synthesis,1.288417020067957e-09,8,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Cell wall biosynthesis,3.813156529844144e-10,9,3,5,0.1446307125431485,False,873,main,csa13
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.9999774914979934,1,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Protein synthesis,6.74240189313835e-06,2,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,RNA Synthesis,1.3919985269894572e-06,3,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Folic acid metabolism,7.477944338762921e-07,4,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Cell wall biosynthesis,1.2792393376648278e-07,5,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Nitrofurans,3.1280546099565594e-08,6,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Fatty acid synthesis,1.216210122841933e-09,7,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,Membrane disruption,3.183610339203359e-10,8,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,lipopolysaccharide synthesis,1.1693419969539516e-10,9,4,5,0.1398001175001263,False,873,main,ciprofloxacin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,0.974566204547882,1,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,DNA replication,0.0053658158489815,2,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,RNA Synthesis,2.57430063960662e-05,3,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Nitrofurans,6.506428677686971e-06,4,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Folic acid metabolism,2.3604588575552877e-07,5,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Cell wall biosynthesis,3.303407571757234e-08,6,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Membrane disruption,2.65278603196696e-08,7,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,2.2238997207028704e-09,8,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Fatty acid synthesis,1.1891583547889354e-09,9,4,5,0.1398001175001263,False,873,main,kanamycin
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.9987823632359506,1,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.0048741568475543,2,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,1.7064798993189354e-05,3,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,3.5742294804741447e-06,4,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,2.5517898540479413e-08,5,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,1.7338125619242858e-08,6,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,2.88277566341054e-09,7,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,1.664805544057351e-11,8,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,3.277418714300789e-15,9,4,5,0.1398001175001263,False,873,main,imipenem
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Protein synthesis,0.2145966152334585,1,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Nitrofurans,0.0277224396316296,2,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Membrane disruption,0.0211094958212925,3,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Fatty acid synthesis,0.0007440932635006,4,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Folic acid metabolism,4.3396488511682206e-05,5,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,RNA Synthesis,3.056663934144249e-06,6,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Cell wall biosynthesis,2.5648536713429937e-06,7,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,2.516133255618964e-06,8,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,DNA replication,1.906136924021383e-07,9,4,5,0.1446307125431485,False,873,main,gentamicin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,DNA replication,0.329610405229032,1,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Cell wall biosynthesis,0.1127743645058944,2,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Protein synthesis,0.0023954650172163,3,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Folic acid metabolism,4.235884168821257e-05,4,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,RNA Synthesis,1.554994462170667e-05,5,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,lipopolysaccharide synthesis,6.813022664573508e-06,6,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Fatty acid synthesis,5.559473054661535e-07,7,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Membrane disruption,6.673751275873552e-08,8,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,Nitrofurans,1.9969350113170385e-12,9,4,5,0.1446307125431485,False,873,main,inhouse_corramycin
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.242418451204896,1,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.1088260399699211,2,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0015583070054533,3,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0002722050250993,4,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,5.073641522236016e-05,5,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,6.881351439842474e-07,6,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,1.499695831766873e-07,7,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,6.900734074127205e-10,8,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,6.017590991004733e-10,9,5,5,0.1446307125431485,False,873,main,meropenem_128ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.5218109195977451,1,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Cell wall biosynthesis,0.2595572505332529,2,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,lipopolysaccharide synthesis,8.030060987573362e-06,3,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Fatty acid synthesis,8.282015214977e-07,4,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Protein synthesis,9.605250341519528e-09,5,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Folic acid metabolism,3.60223115450981e-09,6,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,DNA replication,2.2256199891161438e-10,7,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,RNA Synthesis,9.055047834540448e-14,8,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Nitrofurans,8.32384904111305e-14,9,5,5,0.1446307125431485,False,873,main,meropenem_192ug_ml
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,0.1270901635289192,1,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,DNA replication,0.0258549962006509,2,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Protein synthesis,0.0202656990010291,3,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Folic acid metabolism,0.0003756088468344,4,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,lipopolysaccharide synthesis,4.640041472612211e-06,5,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,RNA Synthesis,1.1156016385571732e-06,6,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Fatty acid synthesis,9.06584829607482e-07,7,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Membrane disruption,2.3199421738562265e-07,8,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Nitrofurans,9.146326840875193e-12,9,1,5,0.1446307125431485,True,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.3351781225204467,1,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Cell wall biosynthesis,0.1229796250537037,2,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Protein synthesis,7.258894612928835e-05,3,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Fatty acid synthesis,1.2689570535601156e-07,4,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,lipopolysaccharide synthesis,7.661065404323837e-08,5,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Folic acid metabolism,3.6832030480479775e-08,6,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,DNA replication,1.7835728261667017e-08,7,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Nitrofurans,1.0487663246903304e-12,8,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,RNA Synthesis,4.1634888249428633e-13,9,1,5,0.1446307125431485,False,873,main,cefotaxime
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Fatty acid synthesis,0.0787080027395859,1,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,lipopolysaccharide synthesis,0.0182155602620211,2,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,DNA replication,0.0127328127413056,3,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Folic acid metabolism,0.0074707010238201,4,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Membrane disruption,0.0038839050398129,5,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Cell wall biosynthesis,0.0011240008489709,6,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Protein synthesis,0.0006727950259822,7,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,RNA Synthesis,0.0002685077595124,8,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Nitrofurans,7.601319327685391e-06,9,3,5,0.1446307125431485,True,873,main,12h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,DNA replication,0.0519906023466804,1,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Folic acid metabolism,0.0457989024338894,2,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Nitrofurans,0.0171133610284353,3,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Fatty acid synthesis,0.0067183153783359,4,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Protein synthesis,0.0042599891662674,5,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Membrane disruption,0.0001159620640626,6,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,RNA Synthesis,1.3823199198378192e-05,7,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,lipopolysaccharide synthesis,4.020930251047438e-07,8,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,Cell wall biosynthesis,5.0428335976102886e-08,9,3,5,0.1446307125431485,True,873,main,24h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,DNA replication,0.0589854587086786,1,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Folic acid metabolism,0.0349947239714674,2,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Nitrofurans,0.0225123203908879,3,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Fatty acid synthesis,0.0003278597633411,4,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Protein synthesis,4.68003745964192e-05,5,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,RNA Synthesis,1.5032294203601854e-05,6,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Membrane disruption,1.8125496379309089e-06,7,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,lipopolysaccharide synthesis,6.011954796451242e-09,8,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,Cell wall biosynthesis,4.1853573688346e-11,9,3,5,0.1446307125431485,True,873,main,36h
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1166540170864512,1,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0311405969867765,2,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.011481673370193,3,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,0.0007891783154019,4,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0004241474109901,5,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0001319195983444,6,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,2.240569661707135e-05,7,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,1.877529633958337e-05,8,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,2.2173636408155752e-09,9,3,5,0.1446307125431485,True,873,main,ampicillin
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1292807541415095,1,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.1279224020739396,2,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0010096523873816,3,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,8.404131093419899e-05,4,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,5.9901778313036966e-05,5,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,2.9874667408430844e-05,6,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,2.703705312402753e-06,7,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,7.064144315560409e-08,8,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,1.4927879757490942e-10,9,3,5,0.1446307125431485,True,873,main,cefotaxime
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.4579497748613358,1,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0042649017572072,2,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0032596316714383,3,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0009454077748599,4,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0002015464318201,5,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,9.04666581724219e-05,6,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,8.871240428100172e-05,7,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,8.12455063942629e-08,8,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,4.5552347546120575e-12,9,3,5,0.1446307125431485,False,873,main,imipenem
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Protein synthesis,0.2157071795981998,1,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Cell wall biosynthesis,0.078454366098158,2,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Folic acid metabolism,0.0253759396548965,3,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,DNA replication,0.0057628680242836,4,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Fatty acid synthesis,0.0007141421543773,5,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Membrane disruption,9.826186721202414e-05,6,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,RNA Synthesis,6.808206390480593e-05,7,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,lipopolysaccharide synthesis,2.8740659248744173e-05,8,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Nitrofurans,5.814750767145047e-07,9,3,5,0.1446307125431485,False,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3150193258126577,1,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0009841589920358,2,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0009817209715189,3,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0006845373054653,4,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,0.0005075675081358,5,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.0004852323195342,6,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0001147888636495,7,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,2.903891162335063e-07,8,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,4.1655392062235096e-11,9,3,5,0.1398001175001263,False,873,main,cefotaxime
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,0.0956418878480326,1,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,DNA replication,0.0931340240661908,2,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Protein synthesis,0.0014801034388082,3,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Folic acid metabolism,0.0002500232350901,4,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,RNA Synthesis,6.507326346139782e-05,5,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Membrane disruption,3.368189181036504e-05,6,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,lipopolysaccharide synthesis,1.9833034583705004e-05,7,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Fatty acid synthesis,6.692616543597096e-06,8,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Nitrofurans,2.5164207286205297e-10,9,3,5,0.1398001175001263,True,873,main,ciprofloxacin
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0572300416231155,1,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0245184099289084,2,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.003204891943296,3,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0022191863636961,4,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0005157179072989,5,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,0.0003652035297356,6,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,7.051320365235371e-05,7,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,4.481869345108376e-05,8,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,1.097472096666987e-09,9,3,5,0.1398001175001263,True,873,main,imipenem
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0872642631332079,1,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,DNA replication,0.0327914739976404,2,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0018745810408715,3,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Folic acid metabolism,0.0007646421137178,4,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Protein synthesis,0.0006754408716237,5,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Fatty acid synthesis,0.0004804298853387,6,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Membrane disruption,2.880545682464468e-05,7,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,RNA Synthesis,1.5796758050153534e-06,8,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Nitrofurans,9.180184233687312e-11,9,3,5,0.1398001175001263,True,873,main,kanamycin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,DNA replication,0.0468555850595293,1,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,RNA Synthesis,0.0104767442862904,2,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Folic acid metabolism,0.0081946433126095,3,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Cell wall biosynthesis,0.0057052921787499,4,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Nitrofurans,0.0054620518335235,5,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Fatty acid synthesis,0.0031505616476533,6,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Protein synthesis,0.0020333096928927,7,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,lipopolysaccharide synthesis,8.068816997904917e-05,8,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,Membrane disruption,1.1530276394353802e-06,9,3,5,0.1446307125431485,True,873,main,yurifampicin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,DNA replication,0.0758324001574268,1,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Folic acid metabolism,0.0276751353030461,2,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Cell wall biosynthesis,0.0146778885189421,3,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Fatty acid synthesis,0.0045448877065016,4,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,RNA Synthesis,0.0042378506482895,5,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Protein synthesis,0.003716226877326,6,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,lipopolysaccharide synthesis,0.0016330827399417,7,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Nitrofurans,0.0011576471013553,8,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,Membrane disruption,3.774492576887977e-06,9,3,5,0.1446307125431485,True,873,main,yuteixobactin
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,DNA replication,0.0415146319154882,1,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Protein synthesis,0.0096110212880012,2,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Nitrofurans,0.0046287996262685,3,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,RNA Synthesis,0.0035190680556374,4,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Folic acid metabolism,0.003275904233587,5,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Fatty acid synthesis,0.0001057172544606,6,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Cell wall biosynthesis,6.456934954025893e-06,7,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,Membrane disruption,2.634223527879977e-06,8,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,lipopolysaccharide synthesis,1.317148895624838e-06,9,2,5,0.1446307125431485,True,873,main,yudoxycycline
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Protein synthesis,0.0648460768948765,1,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Cell wall biosynthesis,0.0568372581892375,2,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Membrane disruption,0.0201663085509562,3,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Folic acid metabolism,0.0017088206920166,4,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,DNA replication,0.0015915656853518,5,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Fatty acid synthesis,0.0011270154588153,6,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,lipopolysaccharide synthesis,8.214795430330361e-05,7,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,RNA Synthesis,6.351956583161197e-06,8,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Nitrofurans,1.267084846271478e-06,9,3,5,0.1446307125431485,True,873,main,yuvancomycin
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.074039793331176,1,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0500067443229879,2,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0065243078439539,3,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0003649136733813,4,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,0.0002877388650186,5,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0001604763811101,6,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,1.1848007546913324e-05,7,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,1.2706852159279545e-07,8,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,3.199138854417772e-11,9,3,5,0.1446307125431485,True,873,main,yucefotaxime
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Protein synthesis,0.1417795784523089,1,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Nitrofurans,0.0183645957174484,2,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Folic acid metabolism,0.0075223885401161,3,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,DNA replication,0.002542240748433,4,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,RNA Synthesis,0.0023088587247028,5,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Fatty acid synthesis,1.88553966930713e-05,6,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Cell wall biosynthesis,6.946954076188439e-08,7,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Membrane disruption,5.1737532431487444e-08,8,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,1.7966324341741303e-08,9,3,5,0.1446307125431485,True,873,main,yutetracycline
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1051722289078558,1,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.0568914329673468,2,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0021681797109272,3,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0005471677274315,4,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0005250374007509,5,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,0.0004987467707932,6,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0003343551774956,7,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,5.8869374882255075e-08,8,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,5.766089828974422e-10,9,3,5,0.1446307125431485,True,873,main,yuteicoplanin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0746395544117937,1,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Protein synthesis,0.0234657517368274,2,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,DNA replication,0.0135077975961515,3,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,lipopolysaccharide synthesis,0.00345134997024,4,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,RNA Synthesis,0.0002126844121825,5,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Folic acid metabolism,0.0001599407860536,6,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Membrane disruption,0.0001238935369016,7,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Fatty acid synthesis,1.1497631004058946e-05,8,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Nitrofurans,8.162029201931092e-11,9,3,5,0.1446307125431485,True,873,main,yupenicillin
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0289768987331384,1,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Protein synthesis,0.0281283228497098,2,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,lipopolysaccharide synthesis,0.0142210242445192,3,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,DNA replication,0.0102426332994218,4,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Folic acid metabolism,0.0011074692197722,5,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,RNA Synthesis,0.0006898561935496,6,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Membrane disruption,0.0006668089516124,7,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Nitrofurans,0.0006315643182292,8,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Cell wall biosynthesis,6.579795293547575e-06,9,3,5,0.1446307125431485,True,873,main,yuisoniazid
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.3166775790850321,1,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Membrane disruption,0.0118479374774627,2,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,lipopolysaccharide synthesis,0.0033182657310677,3,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Folic acid metabolism,0.002045827918306,4,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Cell wall biosynthesis,0.0015834428518206,5,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Protein synthesis,0.0002370478226477,6,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Nitrofurans,5.297433595993796e-06,7,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,DNA replication,3.55756978153166e-06,8,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,RNA Synthesis,1.2576864750897233e-08,9,3,5,0.1446307125431485,False,873,main,yucerulenin
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.1943060179147869,1,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,lipopolysaccharide synthesis,0.0494556689976404,2,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Membrane disruption,0.0036076863751577,3,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Cell wall biosynthesis,0.0018765458493432,4,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Protein synthesis,0.0001885034560623,5,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,DNA replication,2.560758970038712e-05,6,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Folic acid metabolism,2.2491485008584628e-06,7,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Nitrofurans,5.623697028491463e-08,8,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,RNA Synthesis,4.378219844486469e-08,9,3,5,0.1446307125431485,False,873,main,yutriclosan
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Protein synthesis,0.121682800007984,1,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Cell wall biosynthesis,0.0328880068194121,2,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,DNA replication,0.007772566087865,3,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,lipopolysaccharide synthesis,0.0005703972209073,4,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,RNA Synthesis,0.0002663910388383,5,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Membrane disruption,0.0001747835356404,6,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Folic acid metabolism,9.401894557678482e-06,7,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Fatty acid synthesis,1.0131088134986146e-06,8,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Nitrofurans,3.906566741726341e-11,9,2,5,0.1446307125431485,True,873,main,yuceftriaxone
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,DNA replication,0.209805035131673,1,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,RNA Synthesis,0.0273425560274821,2,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Folic acid metabolism,0.0027453005842789,3,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Protein synthesis,0.0012003582471081,4,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Nitrofurans,0.0001189633321337,5,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Cell wall biosynthesis,3.837379662719493e-05,6,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,lipopolysaccharide synthesis,2.8845702215295664e-06,7,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Fatty acid synthesis,1.06580644261018e-07,8,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,Membrane disruption,1.2915325746493891e-09,9,3,5,0.1446307125431485,False,873,main,yumeropenem
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,DNA replication,0.1107740389206446,1,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,RNA Synthesis,0.016849610650291,2,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Protein synthesis,0.0081855420825741,3,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Cell wall biosynthesis,0.0005530028435506,4,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Folic acid metabolism,0.0004921052793052,5,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,lipopolysaccharide synthesis,6.531701090284337e-07,6,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Fatty acid synthesis,5.26675983822123e-07,7,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Nitrofurans,3.848719560884079e-07,8,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,Membrane disruption,2.383772833649562e-09,9,3,5,0.1446307125431485,True,873,main,yuflavomycin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,DNA replication,0.0547846339034731,1,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,RNA Synthesis,0.0391794332116842,2,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Folic acid metabolism,0.0252934011419226,3,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Nitrofurans,0.0011173644903831,4,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Protein synthesis,0.000385336653553,5,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Fatty acid synthesis,7.991823755488847e-05,6,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,lipopolysaccharide synthesis,1.104092064478405e-05,7,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Cell wall biosynthesis,9.346288938442508e-06,8,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,Membrane disruption,1.8524528813439945e-08,9,3,5,0.1446307125431485,True,873,main,yumonactin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Protein synthesis,0.0802942642447305,1,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Folic acid metabolism,0.0305508081958396,2,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Nitrofurans,0.0091067591099636,3,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,RNA Synthesis,0.0041613599493227,4,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,DNA replication,0.0012725944176348,5,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Membrane disruption,0.0007911877598778,6,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,1.97421240266861e-05,7,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Cell wall biosynthesis,1.8922323981498536e-05,8,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Fatty acid synthesis,5.911945326270521e-06,9,3,5,0.1446307125431485,True,873,main,yuretapamulin
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Protein synthesis,0.0718914426139235,1,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Folic acid metabolism,0.0254325412358593,2,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Nitrofurans,0.0198456790695233,3,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,RNA Synthesis,0.009418084295235,4,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,DNA replication,0.0083200319595557,5,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Membrane disruption,1.029121234846528e-05,6,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Fatty acid synthesis,4.203976450964641e-06,7,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,3.276855923553535e-07,8,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Cell wall biosynthesis,6.730011859877592e-08,9,3,5,0.1446307125431485,True,873,main,yuthiostrepton
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Protein synthesis,0.0703293639084828,1,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Nitrofurans,0.0159816913310654,2,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,RNA Synthesis,0.0116163759023099,3,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Folic acid metabolism,0.0098614506242465,4,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,DNA replication,0.0050114915901743,5,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Fatty acid synthesis,7.374683964469485e-06,6,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Cell wall biosynthesis,9.93825688628594e-07,7,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,lipopolysaccharide synthesis,3.8215415156416665e-07,8,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Membrane disruption,3.956251244648809e-08,9,3,5,0.1446307125431485,True,873,main,yuerythromycin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.0725459879662473,1,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Protein synthesis,0.0134388826732902,2,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0087923838015012,3,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,DNA replication,0.0086576152672792,4,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Membrane disruption,0.0025129565100903,5,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Folic acid metabolism,0.0008474964501606,6,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Fatty acid synthesis,0.0003839159358836,7,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,RNA Synthesis,1.2817002416233755e-05,8,3,5,0.1446307125431485,True,873,main,yupolymyxin
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Nitrofurans,4.748510756972249e-09,9,3,5,0.1446307125431485,True,873,main,yupolymyxin

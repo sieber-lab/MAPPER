@@ -1,0 +1,37 @@
+CompoundID,role,SampleID,mean_match_score,replicate_predicted_class
+JH32,ood,JH32_1,0.10147819316405275,Cell wall biosynthesis
+JH32,ood,JH32_2,0.16346975871410904,Cell wall biosynthesis
+JH32,ood,JH32_3,0.15502669258711194,Cell wall biosynthesis
+JH32,ood,JH32_4,0.04396210758979294,Cell wall biosynthesis
+JH47,id,JH47_1,0.27657403833421995,Cell wall biosynthesis
+JH47,id,JH47_2,0.5490686063572503,Cell wall biosynthesis
+JH47,id,JH47_3,0.5236698316510229,Cell wall biosynthesis
+JH47,id,JH47_4,0.44777698721074555,Cell wall biosynthesis
+JH61,id,JH61_1,0.4847713801712962,Fatty acid synthesis
+JH61,id,JH61_2,0.5136214159967494,Fatty acid synthesis
+JH61,id,JH61_3,0.4764312376094313,Fatty acid synthesis
+JH61,id,JH61_4,0.5103679496166297,Fatty acid synthesis
+JH40,id,JH40_1,0.08572069624987307,lipopolysaccharide synthesis
+JH40,id,JH40_2,0.06549929662345448,lipopolysaccharide synthesis
+JH40,id,JH40_3,0.2989660633379754,Fatty acid synthesis
+JH40,id,JH40_4,0.3630113281006561,Fatty acid synthesis
+JH38,ood,JH38_1,0.1540330293878378,Protein synthesis
+JH38,ood,JH38_2,0.6325056757823404,Protein synthesis
+JH38,ood,JH38_3,0.27469798876867574,Protein synthesis
+JH38,ood,JH38_4,0.42123945553823433,Protein synthesis
+JH31,ood,JH31_1,0.5448277109584887,Protein synthesis
+JH31,ood,JH31_2,0.6075437428602163,Protein synthesis
+JH31,ood,JH31_3,0.5641131418850273,Protein synthesis
+JH31,ood,JH31_4,0.3937096249410206,Protein synthesis
+JH58,ood,JH58_1,0.4663554818358534,Protein synthesis
+JH58,ood,JH58_2,0.39817718756334214,Protein synthesis
+JH58,ood,JH58_3,0.21546590671994637,Protein synthesis
+JH58,ood,JH58_4,0.2852866642969093,Protein synthesis
+JH64,ood,JH64_1,0.6136552706631483,Protein synthesis
+JH64,ood,JH64_2,0.646634726524062,Protein synthesis
+JH64,ood,JH64_3,0.6083861205268477,Protein synthesis
+JH64,ood,JH64_4,0.6830518666928401,Protein synthesis
+JH65,ood,JH65_1,0.4049418416466597,Protein synthesis
+JH65,ood,JH65_2,0.32488329579933634,Protein synthesis
+JH65,ood,JH65_3,0.3176218787290054,Protein synthesis
+JH65,ood,JH65_4,0.18784982517259322,Protein synthesis

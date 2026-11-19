@@ -1,0 +1,646 @@
+arm,context,seed,case_key,compound_key,expected,predicted,reference_rank,distant_unseen_identity
+proteomics,full51,42,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,43,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,44,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,45,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,46,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,42,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,6,False
+proteomics,full51,43,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,7,False
+proteomics,full51,44,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,6,False
+proteomics,full51,45,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,6,False
+proteomics,full51,46,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,6,False
+proteomics,full51,42,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,DNA replication,1,True
+proteomics,full51,43,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,DNA replication,1,True
+proteomics,full51,44,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,DNA replication,1,True
+proteomics,full51,45,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,DNA replication,1,True
+proteomics,full51,46,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,DNA replication,1,True
+proteomics,full51,42,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,43,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,44,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,45,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,46,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,42,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,43,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,44,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,45,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,46,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,42,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,43,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,44,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,45,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,46,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,42,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,43,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,44,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,45,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,46,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Membrane disruption,2,False
+proteomics,full51,42,smx::12h,sulfamethoxazole,Folic acid metabolism,Fatty acid synthesis,4,False
+proteomics,full51,43,smx::12h,sulfamethoxazole,Folic acid metabolism,Fatty acid synthesis,6,False
+proteomics,full51,44,smx::12h,sulfamethoxazole,Folic acid metabolism,Fatty acid synthesis,4,False
+proteomics,full51,45,smx::12h,sulfamethoxazole,Folic acid metabolism,Fatty acid synthesis,4,False
+proteomics,full51,46,smx::12h,sulfamethoxazole,Folic acid metabolism,Fatty acid synthesis,4,False
+proteomics,full51,42,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+proteomics,full51,43,smx::24h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,44,smx::24h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,45,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+proteomics,full51,46,smx::24h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,42,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+proteomics,full51,43,smx::36h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,44,smx::36h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,45,smx::36h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,46,smx::36h,sulfamethoxazole,Folic acid metabolism,DNA replication,2,False
+proteomics,full51,42,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,43,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,44,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,45,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,46,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,42,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,43,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,44,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,45,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,46,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,42,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,43,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,44,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,45,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,46,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Protein synthesis,2,False
+proteomics,full51,42,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+proteomics,full51,43,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+proteomics,full51,44,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+proteomics,full51,45,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+proteomics,full51,46,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+proteomics,full51,42,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+proteomics,full51,43,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+proteomics,full51,44,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+proteomics,full51,45,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+proteomics,full51,46,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+proteomics,full51,42,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,DNA replication,5,True
+proteomics,full51,43,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,DNA replication,5,True
+proteomics,full51,44,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,DNA replication,5,True
+proteomics,full51,45,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,DNA replication,4,True
+proteomics,full51,46,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,DNA replication,4,True
+proteomics,full51,42,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Protein synthesis,2,True
+proteomics,full51,43,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+proteomics,full51,44,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Protein synthesis,3,True
+proteomics,full51,45,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Protein synthesis,2,True
+proteomics,full51,46,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Protein synthesis,2,True
+proteomics,full51,42,yu::yumeropenem,meropenem,Cell wall biosynthesis,DNA replication,7,False
+proteomics,full51,43,yu::yumeropenem,meropenem,Cell wall biosynthesis,DNA replication,5,False
+proteomics,full51,44,yu::yumeropenem,meropenem,Cell wall biosynthesis,DNA replication,6,False
+proteomics,full51,45,yu::yumeropenem,meropenem,Cell wall biosynthesis,DNA replication,5,False
+proteomics,full51,46,yu::yumeropenem,meropenem,Cell wall biosynthesis,DNA replication,6,False
+proteomics,full51,42,yu::yumonactin,monactin,Membrane disruption,RNA Synthesis,9,True
+proteomics,full51,43,yu::yumonactin,monactin,Membrane disruption,DNA replication,9,True
+proteomics,full51,44,yu::yumonactin,monactin,Membrane disruption,DNA replication,9,True
+proteomics,full51,45,yu::yumonactin,monactin,Membrane disruption,DNA replication,9,True
+proteomics,full51,46,yu::yumonactin,monactin,Membrane disruption,DNA replication,9,True
+proteomics,full51,42,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,43,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,44,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,45,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,46,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,full51,42,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,43,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,44,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,45,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,46,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,42,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,43,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,44,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,45,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,46,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,42,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,3,True
+proteomics,full51,43,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,3,True
+proteomics,full51,44,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,4,True
+proteomics,full51,45,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,3,True
+proteomics,full51,46,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,3,True
+proteomics,full51,42,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,43,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,44,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,45,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,46,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+proteomics,full51,42,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,43,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+proteomics,full51,44,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+proteomics,full51,45,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+proteomics,full51,46,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+proteomics,omit_JH0,42,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH0,43,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH0,44,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH0,45,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH0,46,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH15,42,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH15,43,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH15,44,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH15,45,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH15,46,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH17,42,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH17,43,gentamicin::gentamicin,gentamicin,Protein synthesis,Membrane disruption,2,False
+proteomics,omit_JH17,44,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH17,45,gentamicin::gentamicin,gentamicin,Protein synthesis,Membrane disruption,3,False
+proteomics,omit_JH17,46,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH29,42,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+proteomics,omit_JH29,43,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+proteomics,omit_JH29,44,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+proteomics,omit_JH29,45,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+proteomics,omit_JH29,46,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+proteomics,omit_JH29,42,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,Protein synthesis,4,False
+proteomics,omit_JH29,43,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,Protein synthesis,4,False
+proteomics,omit_JH29,44,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,Protein synthesis,4,False
+proteomics,omit_JH29,45,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,Protein synthesis,4,False
+proteomics,omit_JH29,46,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,Protein synthesis,4,False
+proteomics,omit_JH29,42,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,43,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,44,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,3,False
+proteomics,omit_JH29,45,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,46,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,3,False
+proteomics,omit_JH29,42,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,43,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,44,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,45,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH29,46,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,Cell wall biosynthesis,2,False
+proteomics,omit_JH38,42,yu::yurifampicin,rifampicin,RNA Synthesis,DNA replication,7,False
+proteomics,omit_JH38,43,yu::yurifampicin,rifampicin,RNA Synthesis,DNA replication,4,False
+proteomics,omit_JH38,44,yu::yurifampicin,rifampicin,RNA Synthesis,DNA replication,7,False
+proteomics,omit_JH38,45,yu::yurifampicin,rifampicin,RNA Synthesis,DNA replication,6,False
+proteomics,omit_JH38,46,yu::yurifampicin,rifampicin,RNA Synthesis,DNA replication,6,False
+proteomics,omit_JH40,42,yu::yutriclosan,triclosan,Fatty acid synthesis,lipopolysaccharide synthesis,2,False
+proteomics,omit_JH40,43,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH40,44,yu::yutriclosan,triclosan,Fatty acid synthesis,lipopolysaccharide synthesis,2,False
+proteomics,omit_JH40,45,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH40,46,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH41,42,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH41,43,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH41,44,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH41,45,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH41,46,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+proteomics,omit_JH43,42,colistin_csa13::colistin,colistin,Membrane disruption,Protein synthesis,4,False
+proteomics,omit_JH43,43,colistin_csa13::colistin,colistin,Membrane disruption,Protein synthesis,4,False
+proteomics,omit_JH43,44,colistin_csa13::colistin,colistin,Membrane disruption,Protein synthesis,4,False
+proteomics,omit_JH43,45,colistin_csa13::colistin,colistin,Membrane disruption,Protein synthesis,3,False
+proteomics,omit_JH43,46,colistin_csa13::colistin,colistin,Membrane disruption,Protein synthesis,3,False
+proteomics,omit_JH44,42,yu::yupolymyxin,polymyxin b,Membrane disruption,Cell wall biosynthesis,5,False
+proteomics,omit_JH44,43,yu::yupolymyxin,polymyxin b,Membrane disruption,Cell wall biosynthesis,6,False
+proteomics,omit_JH44,44,yu::yupolymyxin,polymyxin b,Membrane disruption,Cell wall biosynthesis,5,False
+proteomics,omit_JH44,45,yu::yupolymyxin,polymyxin b,Membrane disruption,Cell wall biosynthesis,5,False
+proteomics,omit_JH44,46,yu::yupolymyxin,polymyxin b,Membrane disruption,Cell wall biosynthesis,5,False
+proteomics,omit_JH55,42,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH55,43,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH55,44,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH55,45,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH55,46,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+proteomics,omit_JH55,42,subanovic::kanamycin,kanamycin,Protein synthesis,Cell wall biosynthesis,5,False
+proteomics,omit_JH55,43,subanovic::kanamycin,kanamycin,Protein synthesis,Cell wall biosynthesis,6,False
+proteomics,omit_JH55,44,subanovic::kanamycin,kanamycin,Protein synthesis,Cell wall biosynthesis,4,False
+proteomics,omit_JH55,45,subanovic::kanamycin,kanamycin,Protein synthesis,Cell wall biosynthesis,3,False
+proteomics,omit_JH55,46,subanovic::kanamycin,kanamycin,Protein synthesis,Cell wall biosynthesis,3,False
+proteomics,omit_JH6,42,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,43,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,44,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,45,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,46,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,42,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,43,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,44,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,45,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,46,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,42,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,43,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,44,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,45,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH6,46,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH8,42,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH8,43,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH8,44,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH8,45,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+proteomics,omit_JH8,46,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,colistin_csa13::csa13,csa-13,Membrane disruption,Membrane disruption,1,False
+ecfp_only,full51,43,colistin_csa13::csa13,csa-13,Membrane disruption,Membrane disruption,1,False
+ecfp_only,full51,44,colistin_csa13::csa13,csa-13,Membrane disruption,Membrane disruption,1,False
+ecfp_only,full51,45,colistin_csa13::csa13,csa-13,Membrane disruption,Membrane disruption,1,False
+ecfp_only,full51,46,colistin_csa13::csa13,csa-13,Membrane disruption,Membrane disruption,1,False
+ecfp_only,full51,42,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,7,True
+ecfp_only,full51,43,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,6,True
+ecfp_only,full51,44,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,6,True
+ecfp_only,full51,45,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,9,True
+ecfp_only,full51,46,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,8,True
+ecfp_only,full51,42,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,43,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,44,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,45,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,46,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,42,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,43,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,44,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,45,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,46,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,42,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,43,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,44,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,45,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,46,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_only,full51,42,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,43,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,44,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,45,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,46,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,42,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,43,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,44,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,45,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,46,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,full51,42,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,43,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,44,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,45,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,46,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,42,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_only,full51,43,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_only,full51,44,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_only,full51,45,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_only,full51,46,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_only,full51,42,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,yu::yumonactin,monactin,Membrane disruption,Cell wall biosynthesis,5,True
+ecfp_only,full51,43,yu::yumonactin,monactin,Membrane disruption,Cell wall biosynthesis,5,True
+ecfp_only,full51,44,yu::yumonactin,monactin,Membrane disruption,Cell wall biosynthesis,7,True
+ecfp_only,full51,45,yu::yumonactin,monactin,Membrane disruption,Cell wall biosynthesis,6,True
+ecfp_only,full51,46,yu::yumonactin,monactin,Membrane disruption,Cell wall biosynthesis,5,True
+ecfp_only,full51,42,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,43,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,44,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,45,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,46,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,full51,42,yu::yuretapamulin,retapamulin,Protein synthesis,Cell wall biosynthesis,2,True
+ecfp_only,full51,43,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_only,full51,44,yu::yuretapamulin,retapamulin,Protein synthesis,Cell wall biosynthesis,2,True
+ecfp_only,full51,45,yu::yuretapamulin,retapamulin,Protein synthesis,Cell wall biosynthesis,2,True
+ecfp_only,full51,46,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_only,full51,42,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,43,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,3,True
+ecfp_only,full51,44,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,3,True
+ecfp_only,full51,45,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,3,True
+ecfp_only,full51,46,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,42,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,3,True
+ecfp_only,full51,43,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,3,True
+ecfp_only,full51,44,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,2,True
+ecfp_only,full51,45,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,2,True
+ecfp_only,full51,46,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,3,True
+ecfp_only,full51,42,yu::yuthiostrepton,thiostrepton,Protein synthesis,Cell wall biosynthesis,4,True
+ecfp_only,full51,43,yu::yuthiostrepton,thiostrepton,Protein synthesis,Cell wall biosynthesis,7,True
+ecfp_only,full51,44,yu::yuthiostrepton,thiostrepton,Protein synthesis,Cell wall biosynthesis,5,True
+ecfp_only,full51,45,yu::yuthiostrepton,thiostrepton,Protein synthesis,Cell wall biosynthesis,5,True
+ecfp_only,full51,46,yu::yuthiostrepton,thiostrepton,Protein synthesis,Cell wall biosynthesis,5,True
+ecfp_only,full51,42,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,43,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,44,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,45,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,full51,46,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_only,omit_JH0,42,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH0,43,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH0,44,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH0,45,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH0,46,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH15,42,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH15,43,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH15,44,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH15,45,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH15,46,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH17,42,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH17,43,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH17,44,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH17,45,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH17,46,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH29,42,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,43,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,44,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,45,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,46,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,42,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,43,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,44,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,45,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,46,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,42,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,43,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,44,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,45,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,46,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,42,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,43,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,44,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,45,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH29,46,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_only,omit_JH38,42,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_only,omit_JH38,43,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_only,omit_JH38,44,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_only,omit_JH38,45,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_only,omit_JH38,46,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_only,omit_JH40,42,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_only,omit_JH40,43,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_only,omit_JH40,44,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_only,omit_JH40,45,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_only,omit_JH40,46,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_only,omit_JH41,42,yu::yucerulenin,cerulenin,Fatty acid synthesis,Cell wall biosynthesis,3,False
+ecfp_only,omit_JH41,43,yu::yucerulenin,cerulenin,Fatty acid synthesis,Cell wall biosynthesis,3,False
+ecfp_only,omit_JH41,44,yu::yucerulenin,cerulenin,Fatty acid synthesis,Cell wall biosynthesis,3,False
+ecfp_only,omit_JH41,45,yu::yucerulenin,cerulenin,Fatty acid synthesis,Cell wall biosynthesis,3,False
+ecfp_only,omit_JH41,46,yu::yucerulenin,cerulenin,Fatty acid synthesis,Cell wall biosynthesis,3,False
+ecfp_only,omit_JH43,42,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH43,43,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH43,44,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH43,45,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH43,46,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH44,42,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH44,43,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH44,44,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH44,45,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH44,46,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_only,omit_JH55,42,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,43,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,44,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,45,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,46,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,42,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,43,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,44,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,45,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH55,46,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_only,omit_JH6,42,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,43,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,44,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,45,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,46,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,42,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,43,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,44,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,45,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,46,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,42,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,43,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,44,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,45,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH6,46,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH8,42,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH8,43,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH8,44,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH8,45,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_only,omit_JH8,46,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,ceftriaxone::ceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,4,False
+ecfp_proteomics,full51,43,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,4,False
+ecfp_proteomics,full51,44,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,4,False
+ecfp_proteomics,full51,45,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,4,False
+ecfp_proteomics,full51,46,colistin_csa13::csa13,csa-13,Membrane disruption,Protein synthesis,4,False
+ecfp_proteomics,full51,42,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,5,True
+ecfp_proteomics,full51,43,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,6,True
+ecfp_proteomics,full51,44,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,6,True
+ecfp_proteomics,full51,45,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,6,True
+ecfp_proteomics,full51,46,inhouse_corramycin::inhouse_corramycin,corramycin,DNA replication,lipopolysaccharide synthesis,5,True
+ecfp_proteomics,full51,42,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,meropenem::meropenem_128ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,meropenem::meropenem_192ug_ml,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,pxd027164::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,pxd063721::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,43,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,44,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,45,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,46,smx::12h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,42,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,43,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,44,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,45,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,46,smx::24h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,42,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,43,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,44,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,45,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,46,smx::36h,sulfamethoxazole,Folic acid metabolism,Folic acid metabolism,1,False
+ecfp_proteomics,full51,42,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,subanovic::cefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,yu::yucefotaxime,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,yu::yuceftriaxone,ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,yu::yudoxycycline,doxycycline,Protein synthesis,DNA replication,2,False
+ecfp_proteomics,full51,43,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,44,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,45,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,46,yu::yudoxycycline,doxycycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,42,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,43,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,44,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,45,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,46,yu::yuerythromycin,erythromycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,full51,42,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,43,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,44,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,45,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,46,yu::yuflavomycin,flavomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,42,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_proteomics,full51,43,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_proteomics,full51,44,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_proteomics,full51,45,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_proteomics,full51,46,yu::yuisoniazid,isoniazid,Fatty acid synthesis,Fatty acid synthesis,1,True
+ecfp_proteomics,full51,42,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,yu::yumeropenem,meropenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,yu::yumonactin,monactin,Membrane disruption,Protein synthesis,9,True
+ecfp_proteomics,full51,43,yu::yumonactin,monactin,Membrane disruption,Protein synthesis,9,True
+ecfp_proteomics,full51,44,yu::yumonactin,monactin,Membrane disruption,Protein synthesis,8,True
+ecfp_proteomics,full51,45,yu::yumonactin,monactin,Membrane disruption,Protein synthesis,9,True
+ecfp_proteomics,full51,46,yu::yumonactin,monactin,Membrane disruption,Protein synthesis,9,True
+ecfp_proteomics,full51,42,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,43,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,44,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,45,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,46,yu::yupenicillin,penicillin g,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,full51,42,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,43,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,44,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,45,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,46,yu::yuretapamulin,retapamulin,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,42,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+ecfp_proteomics,full51,43,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+ecfp_proteomics,full51,44,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,45,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,1,True
+ecfp_proteomics,full51,46,yu::yuteicoplanin,teicoplanin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,42,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,4,True
+ecfp_proteomics,full51,43,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,3,True
+ecfp_proteomics,full51,44,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,4,True
+ecfp_proteomics,full51,45,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,DNA replication,3,True
+ecfp_proteomics,full51,46,yu::yuteixobactin,teixobactin,Cell wall biosynthesis,Membrane disruption,2,True
+ecfp_proteomics,full51,42,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,43,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,44,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,45,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,46,yu::yuthiostrepton,thiostrepton,Protein synthesis,Protein synthesis,1,True
+ecfp_proteomics,full51,42,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,43,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,44,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,45,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,full51,46,yu::yuvancomycin,vancomycin,Cell wall biosynthesis,Protein synthesis,2,True
+ecfp_proteomics,omit_JH0,42,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH0,43,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH0,44,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH0,45,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH0,46,pxd027164::ampicillin,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH15,42,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH15,43,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH15,44,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH15,45,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH15,46,yu::yutetracycline,tetracycline,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH17,42,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH17,43,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH17,44,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH17,45,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH17,46,gentamicin::gentamicin,gentamicin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH29,42,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,43,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,44,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,45,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,46,eclipse::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,42,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,43,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,44,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,45,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,46,pxd027164::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,42,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,43,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,44,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,45,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,46,pxd063721::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,42,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,43,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,44,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,45,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH29,46,subanovic::ciprofloxacin,ciprofloxacin,DNA replication,DNA replication,1,False
+ecfp_proteomics,omit_JH38,42,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_proteomics,omit_JH38,43,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_proteomics,omit_JH38,44,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_proteomics,omit_JH38,45,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_proteomics,omit_JH38,46,yu::yurifampicin,rifampicin,RNA Synthesis,RNA Synthesis,1,False
+ecfp_proteomics,omit_JH40,42,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH40,43,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH40,44,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH40,45,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH40,46,yu::yutriclosan,triclosan,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH41,42,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH41,43,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH41,44,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH41,45,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH41,46,yu::yucerulenin,cerulenin,Fatty acid synthesis,Fatty acid synthesis,1,False
+ecfp_proteomics,omit_JH43,42,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH43,43,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH43,44,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH43,45,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH43,46,colistin_csa13::colistin,colistin,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH44,42,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH44,43,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH44,44,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH44,45,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH44,46,yu::yupolymyxin,polymyxin b,Membrane disruption,Membrane disruption,1,False
+ecfp_proteomics,omit_JH55,42,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,43,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,44,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,45,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,46,eclipse::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,42,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,43,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,44,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,45,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH55,46,subanovic::kanamycin,kanamycin,Protein synthesis,Protein synthesis,1,False
+ecfp_proteomics,omit_JH6,42,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,43,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,44,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,45,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,46,eclipse::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,42,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,43,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,44,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,45,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,46,pxd027164::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,42,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,43,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,44,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,45,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH6,46,subanovic::imipenem,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH8,42,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH8,43,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH8,44,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH8,45,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False
+ecfp_proteomics,omit_JH8,46,cefiderocol::cefiderocol,cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,1,False

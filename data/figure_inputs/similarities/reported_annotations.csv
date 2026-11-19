@@ -1,0 +1,7 @@
+compound_id,name,tanimoto,mcs
+JH14,Tigecycline,0.65,0.81
+JH13,Chloramphenicol,0.08,0.35
+JH27,Temafloxacin,0.51,0.83
+JH32,Gepotidacin,0.13,0.39
+JH42,MUT056399,0.27,0.67
+JH61,Debio-1452-NH₂,0.12,0.28

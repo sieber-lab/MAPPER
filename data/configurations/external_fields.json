@@ -1,0 +1,12 @@
+{
+  "profile_ids": "sample_ids",
+  "compound_ids": "compounds",
+  "labels": "labels",
+  "text": "text",
+  "text_classes": "text_classes",
+  "feature_blocks": {
+    "proteomics": ["proteomics"],
+    "ecfp_only": ["ecfp"],
+    "ecfp_proteomics": ["proteomics", "ecfp"]
+  }
+}

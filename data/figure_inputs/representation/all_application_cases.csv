@@ -1,0 +1,44 @@
+dataset,case,expected,predicted,score,correct,uncertain,score_cutoff,context,flag_source
+inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,0.3241467402270064,True,False,0.1442346636392175,full51,Saved low-score application
+colistin_csa13,CSA13,Membrane disruption,Protein synthesis,0.1524507920976611,False,False,0.1442346636392175,full51,Saved low-score application
+colistin_csa13,Colistin,Membrane disruption,Protein synthesis,0.1063949709261457,False,True,0.1442346636392175,full51,Saved low-score application
+cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,0.3976879971226056,True,False,0.1442346636392175,full51,Saved low-score application
+smx,12h,Folic acid metabolism,Fatty acid synthesis,0.0764218890108168,False,True,0.1442346636392175,full51,Saved low-score application
+smx,24h,Folic acid metabolism,DNA replication,0.0505281240609474,False,True,0.1442346636392175,full51,Saved low-score application
+smx,36h,Folic acid metabolism,DNA replication,0.0713265632372349,False,True,0.1442346636392175,full51,Saved low-score application
+gentamicin,Gentamicin,Protein synthesis,Protein synthesis,0.2066212229663506,True,False,0.1442346636392175,full51,Saved low-score application
+yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,0.1013938698731362,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,0.1271115831285715,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,0.2847010429700215,True,False,0.1442346636392175,full51,Saved low-score application
+yu,YuDoxycycline,Protein synthesis,DNA replication,0.0450723685172852,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuErythromycin,Protein synthesis,Protein synthesis,0.1015427066215974,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,0.0765067967151602,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuIsoniazid,Fatty acid synthesis,Protein synthesis,0.0280104111924689,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuMeropenem,Cell wall biosynthesis,DNA replication,0.2103233202298482,False,False,0.1442346636392175,full51,Saved low-score application
+yu,YuMonactin,Membrane disruption,DNA replication,0.0461226544372038,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,0.0960834665658573,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,0.061051202071103,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuRetapamulin,Protein synthesis,Protein synthesis,0.0590348713744121,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuRifampicin,RNA Synthesis,DNA replication,0.0478100572707626,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,0.0680562685972351,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,0.0699627491373879,False,True,0.1442346636392175,full51,Saved low-score application
+yu,YuTetracycline,Protein synthesis,Protein synthesis,0.1607710773032158,True,False,0.1442346636392175,full51,Saved low-score application
+yu,YuThiostrepton,Protein synthesis,Protein synthesis,0.080815947362862,True,True,0.1442346636392175,full51,Saved low-score application
+yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,0.1767642915373047,True,False,0.1442346636392175,full51,Saved low-score application
+yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,0.0561580074387165,False,True,0.1442346636392175,full51,Saved low-score application
+eclipse,Ciprofloxacin,DNA replication,DNA replication,0.9999822393059732,True,False,0.1406387703400105,matched48,Saved low-score application
+eclipse,Kanamycin,Protein synthesis,Protein synthesis,0.9766080844402314,True,False,0.1406387703400105,matched48,Saved low-score application
+eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,0.9988488507270812,True,False,0.1406387703400105,matched48,Saved low-score application
+subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,0.2439099070429802,True,False,0.1406387703400105,matched48,Saved low-score application
+subanovic,Ciprofloxacin,DNA replication,DNA replication,0.093331420890366,True,True,0.1406387703400105,matched48,Saved low-score application
+subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,0.0442963019773984,True,True,0.1406387703400105,matched48,Saved low-score application
+subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,0.0629485824486861,False,True,0.1406387703400105,matched48,Saved low-score application
+pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,0.1472275257110595,True,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,0.1631031632423401,True,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,0.4801773428916931,True,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+pxd027164,ciprofloxacin,DNA replication,Protein synthesis,0.2239826768636703,False,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,0.1554658412933349,False,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,0.2154371738433838,False,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,0.2413777271397411,True,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,0.5262077911607921,False,False,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score
+ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,0.0308247549831867,False,True,0.1442346636392175,full51,Existing cutoff applied to saved frozen primary score

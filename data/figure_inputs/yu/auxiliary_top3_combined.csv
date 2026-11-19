@@ -1,0 +1,7 @@
+arm,dataset,candidate,rank,score,predicted,max_score,score_cutoff,uncertain,biological_profiles,seeds
+ecfp_proteomics,hsi6_nominal,Fatty acid synthesis,1,0.1094682755619287,Fatty acid synthesis,0.1094682755619287,0.3032474543340503,True,5,5
+ecfp_proteomics,hsi6_nominal,Folic acid metabolism,2,0.0053521319224964,Fatty acid synthesis,0.1094682755619287,0.3032474543340503,True,5,5
+ecfp_proteomics,hsi6_nominal,DNA replication,3,0.0018645156738348,Fatty acid synthesis,0.1094682755619287,0.3032474543340503,True,5,5
+ecfp_proteomics,tatrasgap,Membrane disruption,1,0.1815998755395412,Membrane disruption,0.1815998755395412,0.3032474543340503,True,2,5
+ecfp_proteomics,tatrasgap,Protein synthesis,2,0.0048240519722457,Membrane disruption,0.1815998755395412,0.3032474543340503,True,2,5
+ecfp_proteomics,tatrasgap,Fatty acid synthesis,3,0.0039982362271985,Membrane disruption,0.1815998755395412,0.3032474543340503,True,2,5

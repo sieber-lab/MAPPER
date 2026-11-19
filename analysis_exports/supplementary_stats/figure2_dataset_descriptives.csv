@@ -1,2 +1,0 @@
-n_samples,n_compounds,n_moa_classes,replicates_min,replicates_median,replicates_max,pairwise_rows_no_aug,pairwise_rows_with_10_aug
-200,51,9,3,4.0,4,1800,18000

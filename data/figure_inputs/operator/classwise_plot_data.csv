@@ -1,0 +1,9 @@
+target_class,display_label,LE_support_compounds,n_unique_test_compounds,top1_DS_only_percent,top1_LE_only_percent,top1_DS_plus_LE_percent
+Cell wall biosynthesis,Cell-wall biosynthesis,1,2,0.0,50.0,50.0
+DNA replication,DNA replication,2,5,0.0,80.0,100.0
+Fatty acid synthesis,Fatty acid synthesis,2,3,0.0,66.66666666666666,66.66666666666666
+Folic acid metabolism,Folic acid metabolism,1,2,0.0,0.0,50.0
+Protein synthesis,Protein synthesis,2,5,20.0,43.33333333333333,50.0
+RNA Synthesis,RNA synthesis,1,2,0.0,50.0,100.0
+lipopolysaccharide synthesis,Lipopolysaccharide synthesis,2,3,0.0,100.0,100.0
+Overall,Overall,1–2,22,4.545454545454546,59.84848484848485,75.0

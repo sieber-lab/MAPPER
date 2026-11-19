@@ -1,0 +1,13 @@
+direction,configuration,validation,mean,low,high,interval_type,n_splits,n_unique_compounds,n_compound_split_records,empty_draws
+LE_to_DS,proteomics_text,operator_transfer,47.61904761904761,42.85714285714285,57.14285714285714,conditional_compound_bootstrap_95_CI,1,21,21,0
+LE_to_DS,proteomics_text,count_matched,56.19047619047619,44.51710395884309,66.01660889027964,conditional_compound_bootstrap_95_CI,5,37,105,0
+LE_to_DS,proteomics_text,structure_matched,57.14285714285714,47.57132034632035,66.79662337662337,conditional_compound_bootstrap_95_CI,5,26,105,0
+LE_to_DS,all_modalities_text,operator_transfer,61.904761904761905,47.61904761904761,76.19047619047619,conditional_compound_bootstrap_95_CI,1,21,21,0
+LE_to_DS,all_modalities_text,count_matched,80.95238095238095,71.36533834586466,89.13171936758893,conditional_compound_bootstrap_95_CI,5,37,105,0
+LE_to_DS,all_modalities_text,structure_matched,60.95238095238095,52.08868616287094,70.26052678196304,conditional_compound_bootstrap_95_CI,5,26,105,0
+DS_to_LE,proteomics_text,operator_transfer,31.818181818181817,22.72727272727272,40.909090909090914,conditional_compound_bootstrap_95_CI,1,22,22,0
+DS_to_LE,proteomics_text,count_matched,68.18181818181819,57.7920191934708,77.14078366967382,conditional_compound_bootstrap_95_CI,5,37,110,0
+DS_to_LE,proteomics_text,structure_matched,51.81818181818182,42.367137210615475,62.370507246376796,conditional_compound_bootstrap_95_CI,5,26,110,0
+DS_to_LE,all_modalities_text,operator_transfer,50.0,36.36363636363636,59.09090909090909,conditional_compound_bootstrap_95_CI,1,22,22,0
+DS_to_LE,all_modalities_text,count_matched,72.72727272727273,62.84987319253338,81.65296057108414,conditional_compound_bootstrap_95_CI,5,37,110,0
+DS_to_LE,all_modalities_text,structure_matched,63.63636363636363,56.839638622247314,71.16134763786937,conditional_compound_bootstrap_95_CI,5,26,110,0

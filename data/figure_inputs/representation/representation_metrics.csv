@@ -1,0 +1,10 @@
+dataset,representation,cases,correct,accuracy,balanced_accuracy
+eclipse,fold_change,3,3,1.0,1.0
+eclipse,intensity,3,2,0.6666666666666666,0.6666666666666666
+eclipse,significant_intensity,3,3,1.0,1.0
+subanovic,fold_change,4,3,0.75,0.6666666666666666
+subanovic,intensity,4,0,0.0,0.0
+subanovic,significant_intensity,4,2,0.5,0.3333333333333333
+yu,fold_change,19,9,0.47368421052631576,0.3683333333333333
+yu,intensity,19,0,0.0,0.0
+yu,significant_intensity,19,8,0.42105263157894735,0.2

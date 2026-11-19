@@ -1,0 +1,9 @@
+# Separate environment from plotting; trusted frozen scikit-learn bundles.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.4.2
+joblib==1.4.0
+rtdl_num_embeddings==0.0.11
+tqdm==4.67.1
+# Install PyTorch 2.5.1 CPU/CUDA build separately for your machine.

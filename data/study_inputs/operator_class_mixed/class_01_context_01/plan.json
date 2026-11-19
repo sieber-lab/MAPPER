@@ -1,0 +1,86 @@
+{
+  "classes": [
+    "Cell wall biosynthesis",
+    "DNA replication",
+    "Fatty acid synthesis",
+    "Folic acid metabolism",
+    "Membrane disruption",
+    "Nitrofurans",
+    "Protein synthesis",
+    "RNA Synthesis",
+    "lipopolysaccharide synthesis"
+  ],
+  "seeds": [
+    42
+  ],
+  "jobs": {
+    "pilot": {
+      "train": [
+        "JH0",
+        "JH10",
+        "JH12",
+        "JH13",
+        "JH14",
+        "JH15",
+        "JH16",
+        "JH17",
+        "JH18",
+        "JH2",
+        "JH20",
+        "JH21",
+        "JH23",
+        "JH24",
+        "JH26",
+        "JH27",
+        "JH28",
+        "JH29",
+        "JH3",
+        "JH30",
+        "JH31",
+        "JH32",
+        "JH33",
+        "JH35",
+        "JH36",
+        "JH37",
+        "JH38",
+        "JH39",
+        "JH40",
+        "JH41",
+        "JH42",
+        "JH43",
+        "JH44",
+        "JH45",
+        "JH46",
+        "JH47",
+        "JH48",
+        "JH49",
+        "JH50",
+        "JH55",
+        "JH56",
+        "JH58",
+        "JH6",
+        "JH61",
+        "JH62",
+        "JH64",
+        "JH65",
+        "JH7",
+        "JH8",
+        "JH9"
+      ],
+      "predict": [
+        "JH5"
+      ],
+      "candidates": [
+        "Cell wall biosynthesis",
+        "DNA replication",
+        "Fatty acid synthesis",
+        "Folic acid metabolism",
+        "Membrane disruption",
+        "Nitrofurans",
+        "Protein synthesis",
+        "RNA Synthesis",
+        "lipopolysaccharide synthesis"
+      ]
+    }
+  }
+}

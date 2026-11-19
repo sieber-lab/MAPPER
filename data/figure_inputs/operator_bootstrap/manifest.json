@@ -1,0 +1,34 @@
+{
+  "description": "Author-requested S8b interval update; historical input manifest unchanged.",
+  "files": {
+    "compound_predictions.csv": {
+      "sha256": "2d27efd434b423c5a3bacf640351fee8e2596ff0504724218c02991c7d9e423c",
+      "bytes": 105620
+    },
+    "plot_values.csv": {
+      "sha256": "e076ce15eebca284508e32f61a8a55baeeec00e0faa6c019200e0dab443140d1",
+      "bytes": 1864
+    },
+    "bootstrap_draws.csv": {
+      "sha256": "a076848146513758b31a0bf8daf0b7aa8132a66022bc4bc501e2b4f09f6e8257",
+      "bytes": 1602210
+    },
+    "settings.json": {
+      "sha256": "a2bd2337eae9d34d8c9ec012cb856f8aba1358cbb7f2009c77d2c3cae82e4429",
+      "bytes": 661
+    }
+  },
+  "source_files": {
+    "code_repository/revisions/operator_validation/structure_matched/runs/structure_matched_20260917/report/compound_predictions.csv": "c78fcb049c19dd26e1b8da1f7a0d0efb7e28bf97148a955fb89e170ffa8e6b51",
+    "code_repository/revisions/operator_validation/runs/operator_transfer_20260917/run_manifest.json": "81683cdeafa4d8ac924967b37559e77e0e55b2e36dee0119329f24d60f0bd844",
+    "code_repository/revisions/final_figure_notebooks/inputs/operator_combined/transfer_plot_values.csv": "24361e017d695524563c18765d7d269b4729a70e1f05a6ab7a0cef0e71c9f4b1",
+    "code_repository/revisions/operator_validation/runs/operator_transfer_20260917/report/ensemble_compound_predictions.csv": "573ae4e5be6cb62fd132b1a58c49f2d00f8095662fea4644b900afee7f4fb415"
+  },
+  "original_input_manifest_sha256": "3704e2ed4b2aa6d9a6e89f5909e5cc72a955728f62901060175f16751fa1689f",
+  "preparation_script_sha256": "d9dbafa6b8d64bf7270c240e52d1ac697a70c7c873984d3821d87146ecf1a437",
+  "bootstrap_code_sha256": "d911af31aff4be634e994d71e7f067f890e6f5fc37508d832934f797e4eb1153",
+  "original_means_unchanged": true,
+  "original_holdout_intervals_reproduced": true,
+  "new_model_fits": 0,
+  "new_hypothesis_tests": 0
+}

@@ -1,0 +1,28 @@
+model,arm,view,label,group,y,estimate,ci_low,ci_high,training_schedule
+TabM,semantic_aug,standard,MAPPER: augmented text,text,0.0,0.9294117647058824,0.8745098039215685,0.976470588235294,original
+LightGBM,semantic_aug,standard,MAPPER: augmented text,text,0.0,0.9098039215686274,0.8588235294117647,0.9529411764705882,original
+TabM,unaugmented,standard,Original description repeated,text,1.0,0.9137254901960784,0.8431372549019608,0.972549019607843,original
+LightGBM,unaugmented,standard,Original description repeated,text,1.0,0.8549019607843137,0.7843137254901961,0.9176470588235294,original
+TabM,onehot,standard,One-hot class codes,anchors,2.5,0.5725490196078432,0.5098039215686274,0.6352941176470589,original
+LightGBM,onehot,standard,One-hot class codes,anchors,2.5,0.7803921568627452,0.6941176470588235,0.8588235294117647,original
+TabM,random_fixed_mean,standard,Random class vectors (3 sets),anchors,3.5,0.9032679738562092,0.831372549019608,0.9647058823529412,original
+LightGBM,random_fixed_mean,standard,Random class vectors (3 sets),anchors,3.5,0.8549019607843139,0.7843137254901962,0.9176470588235296,original
+TabM,random_augmented,standard,Random class vectors + jitter,anchors,4.5,0.9098039215686274,0.8352941176470589,0.972549019607843,original
+LightGBM,random_augmented,standard,Random class vectors + jitter,anchors,4.5,0.8980392156862745,0.8352941176470589,0.9490196078431372,original
+TabM,nonsense,standard,Nonsensical descriptions,anchors,5.5,0.8862745098039216,0.8196078431372549,0.9490196078431372,original
+LightGBM,nonsense,standard,Nonsensical descriptions,anchors,5.5,0.8705882352941178,0.7960784313725491,0.9333333333333332,original
+TabM,description_permuted,standard,Shuffled description–class mapping,anchors,6.5,0.8941176470588236,0.8196078431372549,0.9568627450980391,original
+LightGBM,description_permuted,standard,Shuffled description–class mapping,anchors,6.5,0.9098039215686274,0.8509803921568627,0.9607843137254904,original
+TabM,feature_only_native,standard,Feature-only,features,8.0,0.8941176470588236,0.8196078431372549,0.9568627450980391,original
+LightGBM,feature_only_native,standard,Feature-only,features,8.0,0.7411764705882353,0.6509803921568628,0.823529411764706,original
+TabM,feature_only_matched,standard,Feature-only: repeated samples,features,9.0,0.9176470588235294,0.8470588235294118,0.9725490196078432,original
+LightGBM,feature_only_matched,standard,Feature-only: repeated samples,features,9.0,0.7411764705882353,0.6549019607843137,0.8196078431372549,original
+TabM,text_only,standard,Text-only,negative,10.5,0.1372549019607843,0.0941176470588235,0.1764705882352941,original
+LightGBM,text_only,standard,Text-only,negative,10.5,0.1372549019607843,0.0980392156862745,0.1725490196078431,original
+TabM,label_permuted_mean,standard,Shuffled compound labels (3 shuffles),negative,11.5,0.1176470588235294,0.0967320261437908,0.1385620915032679,original
+LightGBM,label_permuted_mean,standard,Shuffled compound labels (3 shuffles),negative,11.5,0.1398692810457516,0.1176470588235294,0.1633986928104575,original
+TabM,onehot_padded_fixed100,fixed_100_epochs,One-hot class codes,anchors,2.5,0.9098039215686274,0.8352941176470589,0.972549019607843,fixed_100_epochs
+TabM,rewritten,test_only,"Unseen reworded descriptions
+(test only)",inference_only,13.0,0.8274509803921568,0.7725490196078431,0.8784313725490197,frozen_augmented
+LightGBM,rewritten,test_only,"Unseen reworded descriptions
+(test only)",inference_only,13.0,0.4784313725490196,0.4156862745098039,0.5411764705882354,frozen_augmented

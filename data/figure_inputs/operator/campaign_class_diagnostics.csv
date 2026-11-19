@@ -1,0 +1,25 @@
+campaign,moa_class,test_compounds,train_compounds,train_DS_compounds,train_DS_profiles,train_LE_compounds,train_LE_profiles,test_DS_compounds,test_DS_profiles,test_LE_compounds,test_LE_profiles,train_structural_families,test_structural_families,test_compounds_without_same_class_family,proteomics_text_top1_correct,proteomics_text_top2_correct,all_modalities_text_top1_correct,all_modalities_text_top2_correct,mean_nearest_same_class_ECFP,original_CV_mean_nearest_same_class_ECFP
+C1,DNA replication,3,6,4,16,2,8,0,0,3,12,Quinolone; Triazaacenaphthylene,Quinolone,0,3,3,3,3,0.5754317367220593,0.528206474100386
+C1,Protein synthesis,3,6,4,16,2,7,0,0,3,12,Aminoglycoside; Macrolide; Tetracycline,Aminoglycoside; Amphenicol,1,2,3,3,3,0.38393246187363833,0.38260225843075885
+C2,Cell wall biosynthesis,2,7,7,28,0,0,0,0,2,7,Beta-lactam; Epoxide phosphonate,Beta-lactam,0,0,0,0,0,0.38816230717639166,0.3874135105994617
+C2,DNA replication,2,7,4,16,3,12,0,0,2,8,Quinolone; Triazaacenaphthylene,Quinolone,0,2,2,2,2,0.47650338510553564,0.446519791681082
+C2,Fatty acid synthesis,3,1,1,4,0,0,0,0,3,8,AFN or Debio FabI-inhibitor scaffold,Diaryl ether; Epoxide polyketide,3,0,0,0,0,0.1007484836753129,0.22058659529385527
+C2,Folic acid metabolism,2,2,2,8,0,0,0,0,2,5,Sulfonamide antibacterial,Diaminopyrimidine antifolate,2,0,0,0,0,0.17915783898305085,0.7804878048780488
+C2,Protein synthesis,2,7,4,16,3,12,0,0,2,7,Aminoglycoside; Amphenicol; Tetracycline,Aminoglycoside; Macrolide,1,1,2,2,2,0.4700854700854701,0.4700854700854701
+C2,RNA Synthesis,2,1,1,4,0,0,0,0,2,5,Rifamycin (ansamycin),Rifamycin (ansamycin),0,0,0,0,0,0.6133255633255634,0.6175990675990677
+C2,lipopolysaccharide synthesis,3,1,1,4,0,0,0,0,3,12,Hydroxamate LpxC inhibitor,Hydroxamate LpxC inhibitor,0,0,0,0,0,0.17913215606605196,0.2856833441628763
+C3,Cell wall biosynthesis,4,5,3,12,2,7,4,16,0,0,Beta-lactam; Epoxide phosphonate,Beta-lactam,0,4,4,4,4,0.4447275659993142,0.48496889122206094
+C3,DNA replication,4,5,0,0,5,20,4,16,0,0,Quinolone,Quinolone; Triazaacenaphthylene,1,4,4,4,4,0.41384502322002326,0.3952554458742578
+C3,Membrane disruption,4,1,1,4,0,0,4,15,0,0,Polymyxin lipopeptide,Aminosterol; Antimicrobial peptide; Polymyxin lipopeptide; Pyridine-pyrazole,3,2,3,3,3,0.33775849925627227,0.3536390907689884
+C3,Nitrofurans,1,3,3,12,0,0,1,4,0,0,Nitrofuran,Nitrofuran,0,1,1,1,1,0.44,0.44
+C3,Protein synthesis,3,6,1,4,5,19,3,10,0,0,Aminoglycoside; Amphenicol; Macrolide,Tetracycline,3,3,3,0,3,0.146170855126079,0.5492997389626604
+C3,RNA Synthesis,2,1,0,0,1,4,2,6,0,0,Rifamycin (ansamycin),Rifamycin (ansamycin),0,0,1,2,2,0.6175990675990677,0.6175990675990677
+C4,Cell wall biosynthesis,3,6,4,16,2,7,3,12,0,0,Beta-lactam,Beta-lactam; Epoxide phosphonate,1,3,3,1,3,0.27188210962303294,0.2722863950485434
+C4,Fatty acid synthesis,2,2,0,0,2,7,1,4,1,3,Diaryl ether; Epoxide polyketide,AFN or Debio FabI-inhibitor scaffold; Diaryl ether,1,0,0,0,2,0.1921768707482993,0.1937641723356009
+C4,Folic acid metabolism,3,1,0,0,1,4,2,8,1,3,Diaminopyrimidine antifolate,Diaminopyrimidine antifolate; Sulfonamide antibacterial,2,0,0,1,1,0.3477572985957132,0.5322714451634312
+C4,Nitrofurans,1,3,3,12,0,0,1,4,0,0,Nitrofuran,Nitrofuran,0,1,1,1,1,0.46,0.4600000000000001
+C4,Protein synthesis,3,6,1,4,5,19,3,6,0,0,Aminoglycoside; Amphenicol; Macrolide; Tetracycline,Aminoglycoside; Tetracycline,0,3,3,3,3,0.5712378890950319,0.5585679310879953
+C4,RNA Synthesis,1,2,1,3,2,5,1,1,0,0,Rifamycin (ansamycin),Rifamycin (ansamycin),0,0,0,1,1,0.6454545454545455,0.6454545454545455
+C4,lipopolysaccharide synthesis,1,3,0,0,3,12,1,4,0,0,Hydroxamate LpxC inhibitor,Hydroxamate LpxC inhibitor,0,0,0,0,1,0.2,0.2
+C5,Membrane disruption,1,4,4,15,0,0,1,4,0,0,Aminosterol; Antimicrobial peptide; Polymyxin lipopeptide; Pyridine-pyrazole,Polymyxin lipopeptide,0,1,1,1,1,0.8522727272727273,0.8522727272727273
+C5,Nitrofurans,2,2,2,8,0,0,2,8,0,0,Nitrofuran,Nitrofuran,0,2,2,2,2,0.42298245614035085,0.5

@@ -1,0 +1,25 @@
+{
+  "status": "discussion_draft_not_manuscript_approved",
+  "matched_primary_variant": "matched_refit",
+  "full_score_cutoff": 0.34133748710155476,
+  "full_correct_id_calibration_n": 43,
+  "proteomics_score_cutoff": 0.28073482250173876,
+  "proteomics_correct_id_calibration_n": 42,
+  "source_hashes": {
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/uncertainty_followup/runs/followup_v1/full_meta_source/inner_0_calibration.csv": "c628cf51c8eb320c37a15d20e023c3c6d8eaf36ae2c5839230f4f5663f1b28db",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/uncertainty_followup/runs/followup_v1/full_meta_source/inner_1_calibration.csv": "74a3a4a1ee90986edf96c44721a1c8e4369bf616bbf1eb4bd9d0e0c021e00fa1",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/uncertainty_followup/runs/followup_v1/full_meta_source/inner_2_calibration.csv": "a68ce272f3b312769149246371975c2d77b2484f31508969bd423c648402b90b",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/unfiltered_uncertainty/runs/external_unfiltered_v1/uncertainty/unfiltered/corramycin_51/development_calibration.csv": "9e5938f63fe4eb65685fc89b0c9c081ba9207b577b99bb2bf0fd6f99c1b1bd5e",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/output/figure5/paired_primary_features.csv": "0f4fd70aa1479ebf271e36ba275b5e231e73a303353716a9d5983ae398f3de3d",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/multimodal/seed_42/pairwise.csv": "f18d0ee681eb26d986af601f6b140746567aa048d59b46ede31147463111b893",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/multimodal/seed_43/pairwise.csv": "3900940ba900c42fb393d2d54287f23ad4bf2a908e9b6f4fadf9116f585e532a",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/multimodal/seed_44/pairwise.csv": "b672a60e268490736cd70f2dd8c05e3dedbdc39dffb4beb44e1639eadb181d77",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/multimodal/seed_45/pairwise.csv": "22d7632065b9bf24ab7d7d2fac8cb5c1d5e2137848dafd704212804fedca1c57",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/multimodal/seed_46/pairwise.csv": "e3c04996ee7d41ff6ba30121e2eccc66aaa5f1653848809bdceb0254baae29f9",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/proteomics/seed_42/pairwise.csv": "758597ace17b0587c81611769ee587ac63293097545596e7936ba3888baa7851",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/proteomics/seed_43/pairwise.csv": "0c425b0c6e1efd7dc15136059047cda8df4f3f69d1ff9455e3aedae652d1130f",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/proteomics/seed_44/pairwise.csv": "cc574458bf6877e154ee30fb4096af48f57996b9fe316d61ce8223646f5259e3",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/proteomics/seed_45/pairwise.csv": "206904c2d1a26f8f187c313aad60f3d6def302a59d1d57f5b4cf8d5d1d9e0b58",
+    "/mnt/jh/nas/PhD/Code/Ms_paint/code_repository/revisions/modality_application/runs/application_v1/predictions/figure5/proteomics/seed_46/pairwise.csv": "132b3aae856b395ec13ae0924c7bd4f8c900fe2883dceb6d50563366ea5bc101"
+  }
+}

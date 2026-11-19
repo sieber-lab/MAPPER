@@ -1,0 +1,2 @@
+model,metric,best,mean,std,n_cycles,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc,mcs_size
+pytorch_mlp,roc_auc,ECFP+GC+Proteomics,0.9906772110947328,0.007529486943033261,25,2.032012134035861e-64,0.016666666666666666,True,Conover–Friedman (BH),9

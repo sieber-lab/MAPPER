@@ -1,0 +1,18 @@
+source,label,source_entries,matched_entries,matched_percent,mapped_reference_genes,unmapped_or_excluded
+training,In-house reference (51 antibiotics),3236,3236,100.0,3262,0
+inhouse_corramycin,Corramycin,2863,2863,100.0,2891,0
+eclipse,"Eclipse (ciprofloxacin, imipenem, kanamycin)",2632,2632,100.0,2657,0
+subanovic_cefotaxime,"Subanovic et al. (cefotaxime, ciprofloxacin, imipenem, kanamycin)",2190,2190,100.0,2219,0
+yu_si_main,Yu et al.: published table (15 antibiotics),1596,1596,100.0,1608,0
+yu_deposit_set1,"Yu et al.: repository set 1 (rifampicin, teixobactin, doxycycline)",1433,1360,94.90579204466157,1372,73
+yu_deposit_vancomycin,Yu et al.: repository table (vancomycin),1604,1539,95.94763092269326,1540,65
+gentamicin,Ćudić et al. (gentamicin),1467,1465,99.86366734832993,1465,2
+cefiderocol,Du et al. (cefiderocol),2768,2761,99.7471098265896,2758,7
+st131,"Margalit et al. (ampicillin, cefotaxime, ciprofloxacin, imipenem)",1602,1522,95.00624219725344,1522,80
+smx,Wen et al. (sulfamethoxazole),2689,2664,99.07028635180365,2659,25
+ceftriaxone,Zhang et al. (ceftriaxone),2693,2663,98.88600074266616,2663,30
+meropenem,Acha Alarcon et al. (meropenem),2951,2624,88.91901050491359,2578,327
+colistin_csa13,"Mitchell et al. (colistin, CSA-13)",1852,1852,100.0,1852,0
+ptf2,"Zhao et al. (cefotaxime, ciprofloxacin)",2908,2907,99.9656121045392,2905,1
+hsi6_045,Sedky et al. (HSI#6),2682,2682,100.0,2706,0
+tatrasgap,Georgieva et al. (TAT-RasGAP),2065,2065,100.0,2083,0

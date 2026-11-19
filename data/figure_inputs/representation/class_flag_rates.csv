@@ -1,0 +1,28 @@
+moa,role,cases,flagged,rate
+Cell wall biosynthesis,unseen_class,9,4,0.4444444444444444
+Cell wall biosynthesis,correct_id,8,2,0.25
+Cell wall biosynthesis,wrong_id,1,0,0.0
+DNA replication,unseen_class,9,4,0.4444444444444444
+DNA replication,correct_id,9,0,0.0
+DNA replication,wrong_id,0,0,
+Fatty acid synthesis,unseen_class,4,1,0.25
+Fatty acid synthesis,correct_id,2,2,1.0
+Fatty acid synthesis,wrong_id,2,1,0.5
+Folic acid metabolism,unseen_class,4,3,0.75
+Folic acid metabolism,correct_id,3,1,0.3333333333333333
+Folic acid metabolism,wrong_id,1,1,1.0
+Membrane disruption,unseen_class,5,1,0.2
+Membrane disruption,correct_id,3,0,0.0
+Membrane disruption,wrong_id,2,1,0.5
+Nitrofurans,unseen_class,4,2,0.5
+Nitrofurans,correct_id,4,0,0.0
+Nitrofurans,wrong_id,0,0,
+Protein synthesis,unseen_class,9,4,0.4444444444444444
+Protein synthesis,correct_id,7,1,0.14285714285714285
+Protein synthesis,wrong_id,2,2,1.0
+RNA Synthesis,unseen_class,3,0,0.0
+RNA Synthesis,correct_id,1,0,0.0
+RNA Synthesis,wrong_id,2,0,0.0
+lipopolysaccharide synthesis,unseen_class,4,1,0.25
+lipopolysaccharide synthesis,correct_id,3,0,0.0
+lipopolysaccharide synthesis,wrong_id,1,1,1.0

@@ -1,0 +1,31 @@
+{
+  "description": "Matched input representations for Eclipse, Subanovic and Yu; accuracy only",
+  "original_input_manifest_sha256": "3704e2ed4b2aa6d9a6e89f5909e5cc72a955728f62901060175f16751fa1689f",
+  "source_folder": "/mnt/jh/delta/code/jh/mapper_external_representation_holdout_20261112/report",
+  "source_files": {
+    "case_predictions.csv": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",
+    "metrics.csv": "b6d33580fece34ae4ce07f23cef3af5eea31630d0ed25de9261034250850b12a",
+    "verification.json": "a5b605c5454efb6479673ec763c1148b060385afbe78f6c26ba8fb5377e0e90e",
+    "manifest.json": "729c89d4026074f787667ed78d54309496062eaff413aba29f32bbd9890c40ef"
+  },
+  "files": {
+    "case_predictions.csv": {
+      "sha256": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",
+      "bytes": 13416
+    },
+    "metrics.csv": {
+      "sha256": "b6d33580fece34ae4ce07f23cef3af5eea31630d0ed25de9261034250850b12a",
+      "bytes": 1571
+    },
+    "verification.json": {
+      "sha256": "a5b605c5454efb6479673ec763c1148b060385afbe78f6c26ba8fb5377e0e90e",
+      "bytes": 306
+    },
+    "run_manifest.json": {
+      "sha256": "729c89d4026074f787667ed78d54309496062eaff413aba29f32bbd9890c40ef",
+      "bytes": 949
+    }
+  },
+  "new_model_fits_during_plotting": 0,
+  "uncertainty_recalibrated": false
+}

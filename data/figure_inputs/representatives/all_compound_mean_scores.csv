@@ -1,0 +1,919 @@
+arm,CompoundID,CandidateMoA,score
+all_modalities,JH0,Cell wall biosynthesis,0.21303162019699812
+all_modalities,JH0,DNA replication,1.4083937056614397e-09
+all_modalities,JH0,Fatty acid synthesis,2.7496649900125153e-10
+all_modalities,JH0,Folic acid metabolism,3.760737842999431e-11
+all_modalities,JH0,Membrane disruption,0.08455687025561928
+all_modalities,JH0,Nitrofurans,2.7547083388782152e-11
+all_modalities,JH0,Protein synthesis,5.195014491907179e-08
+all_modalities,JH0,RNA Synthesis,2.8998298621733644e-11
+all_modalities,JH0,lipopolysaccharide synthesis,0.00018471348766638585
+all_modalities,JH10,Cell wall biosynthesis,0.03458864878164604
+all_modalities,JH10,DNA replication,0.004372963726273155
+all_modalities,JH10,Fatty acid synthesis,0.001653028863893269
+all_modalities,JH10,Folic acid metabolism,0.02167459949036129
+all_modalities,JH10,Membrane disruption,4.457669702278011e-05
+all_modalities,JH10,Nitrofurans,8.733626956825446e-05
+all_modalities,JH10,Protein synthesis,0.017959525467595085
+all_modalities,JH10,RNA Synthesis,0.0002871030988927714
+all_modalities,JH10,lipopolysaccharide synthesis,0.00011359700232560499
+all_modalities,JH12,Cell wall biosynthesis,0.0005600311050295659
+all_modalities,JH12,DNA replication,0.00036286424445506786
+all_modalities,JH12,Fatty acid synthesis,2.501568146380251e-05
+all_modalities,JH12,Folic acid metabolism,2.1885871329097027e-05
+all_modalities,JH12,Membrane disruption,1.7996994590929735e-05
+all_modalities,JH12,Nitrofurans,0.0012651337905481342
+all_modalities,JH12,Protein synthesis,0.9457879316806792
+all_modalities,JH12,RNA Synthesis,0.00040897511601997396
+all_modalities,JH12,lipopolysaccharide synthesis,1.0530887515609045e-05
+all_modalities,JH13,Cell wall biosynthesis,0.0008756491020994872
+all_modalities,JH13,DNA replication,0.002332042658008504
+all_modalities,JH13,Fatty acid synthesis,0.0004980392926927379
+all_modalities,JH13,Folic acid metabolism,9.10696549124168e-05
+all_modalities,JH13,Membrane disruption,9.22832975795984e-06
+all_modalities,JH13,Nitrofurans,0.005813865821110085
+all_modalities,JH13,Protein synthesis,0.7081586040556431
+all_modalities,JH13,RNA Synthesis,0.0030328919077692263
+all_modalities,JH13,lipopolysaccharide synthesis,3.950259290199654e-06
+all_modalities,JH14,Cell wall biosynthesis,5.959337842227796e-05
+all_modalities,JH14,DNA replication,0.0001808925902912506
+all_modalities,JH14,Fatty acid synthesis,7.810870831775673e-05
+all_modalities,JH14,Folic acid metabolism,1.5777738183464507e-06
+all_modalities,JH14,Membrane disruption,4.6921460960422936e-05
+all_modalities,JH14,Nitrofurans,8.442502179036636e-05
+all_modalities,JH14,Protein synthesis,0.9822423198819161
+all_modalities,JH14,RNA Synthesis,0.002807813953131699
+all_modalities,JH14,lipopolysaccharide synthesis,5.891673460505231e-06
+all_modalities,JH15,Cell wall biosynthesis,0.00027912379214058093
+all_modalities,JH15,DNA replication,5.18206942768984e-05
+all_modalities,JH15,Fatty acid synthesis,0.00018358092643211418
+all_modalities,JH15,Folic acid metabolism,4.611872129745009e-06
+all_modalities,JH15,Membrane disruption,2.080096546204224e-06
+all_modalities,JH15,Nitrofurans,0.00023605488923749362
+all_modalities,JH15,Protein synthesis,0.980877706706524
+all_modalities,JH15,RNA Synthesis,0.00097035126822675
+all_modalities,JH15,lipopolysaccharide synthesis,3.222112065954796e-06
+all_modalities,JH16,Cell wall biosynthesis,0.09676249213516712
+all_modalities,JH16,DNA replication,0.0002874226279785337
+all_modalities,JH16,Fatty acid synthesis,0.0001545543478862991
+all_modalities,JH16,Folic acid metabolism,7.52498735453718e-05
+all_modalities,JH16,Membrane disruption,3.5451429172740725e-05
+all_modalities,JH16,Nitrofurans,1.306224976683238e-05
+all_modalities,JH16,Protein synthesis,0.5270184800525506
+all_modalities,JH16,RNA Synthesis,0.0005809873169891944
+all_modalities,JH16,lipopolysaccharide synthesis,0.00014671993413124085
+all_modalities,JH17,Cell wall biosynthesis,0.005628908248909284
+all_modalities,JH17,DNA replication,0.0015950283548045265
+all_modalities,JH17,Fatty acid synthesis,1.3062801171201954e-05
+all_modalities,JH17,Folic acid metabolism,1.7366850065059227e-06
+all_modalities,JH17,Membrane disruption,3.2320790871853685e-06
+all_modalities,JH17,Nitrofurans,3.1859778177256717e-06
+all_modalities,JH17,Protein synthesis,0.8787945526838303
+all_modalities,JH17,RNA Synthesis,7.322865077242114e-05
+all_modalities,JH17,lipopolysaccharide synthesis,6.4542049325311274e-06
+all_modalities,JH18,Cell wall biosynthesis,0.0002976269903047069
+all_modalities,JH18,DNA replication,6.424060787708185e-05
+all_modalities,JH18,Fatty acid synthesis,2.5488668102369157e-07
+all_modalities,JH18,Folic acid metabolism,1.2974856174130524e-07
+all_modalities,JH18,Membrane disruption,1.2806113306540467e-06
+all_modalities,JH18,Nitrofurans,4.334433172772379e-06
+all_modalities,JH18,Protein synthesis,0.9975712668895721
+all_modalities,JH18,RNA Synthesis,2.990043408459542e-05
+all_modalities,JH18,lipopolysaccharide synthesis,8.403397047551664e-08
+all_modalities,JH2,Cell wall biosynthesis,0.3740490063093603
+all_modalities,JH2,DNA replication,0.002436211131257551
+all_modalities,JH2,Fatty acid synthesis,0.004522593542824325
+all_modalities,JH2,Folic acid metabolism,0.0016111906491425999
+all_modalities,JH2,Membrane disruption,0.001098150973197818
+all_modalities,JH2,Nitrofurans,0.0010912084213635165
+all_modalities,JH2,Protein synthesis,0.0024435056067250117
+all_modalities,JH2,RNA Synthesis,0.0013001066496778435
+all_modalities,JH2,lipopolysaccharide synthesis,0.016604486032156272
+all_modalities,JH20,Cell wall biosynthesis,0.00255333255205187
+all_modalities,JH20,DNA replication,0.0001430982816782489
+all_modalities,JH20,Fatty acid synthesis,0.02311297320993617
+all_modalities,JH20,Folic acid metabolism,0.6384483423829078
+all_modalities,JH20,Membrane disruption,5.311960492218049e-06
+all_modalities,JH20,Nitrofurans,8.16296701293595e-05
+all_modalities,JH20,Protein synthesis,1.0552594984396536e-05
+all_modalities,JH20,RNA Synthesis,6.735206802517268e-06
+all_modalities,JH20,lipopolysaccharide synthesis,0.0011132331814587815
+all_modalities,JH21,Cell wall biosynthesis,0.022668821649858728
+all_modalities,JH21,DNA replication,6.86004639294424e-05
+all_modalities,JH21,Fatty acid synthesis,0.040011114550288766
+all_modalities,JH21,Folic acid metabolism,0.45991711359471077
+all_modalities,JH21,Membrane disruption,6.229148669509855e-06
+all_modalities,JH21,Nitrofurans,0.00013858401190304902
+all_modalities,JH21,Protein synthesis,4.2228500278440605e-05
+all_modalities,JH21,RNA Synthesis,4.77685061377997e-05
+all_modalities,JH21,lipopolysaccharide synthesis,0.0017628922971198336
+all_modalities,JH23,Cell wall biosynthesis,0.0029248614852258473
+all_modalities,JH23,DNA replication,0.0039192785898558204
+all_modalities,JH23,Fatty acid synthesis,0.006172872397582978
+all_modalities,JH23,Folic acid metabolism,0.669303344041109
+all_modalities,JH23,Membrane disruption,1.5487909210680773e-05
+all_modalities,JH23,Nitrofurans,0.001346019942394605
+all_modalities,JH23,Protein synthesis,0.0018274776406872206
+all_modalities,JH23,RNA Synthesis,0.0004483322564783521
+all_modalities,JH23,lipopolysaccharide synthesis,9.293500711589075e-05
+all_modalities,JH24,Cell wall biosynthesis,0.00042139073615402365
+all_modalities,JH24,DNA replication,0.015224714356008917
+all_modalities,JH24,Fatty acid synthesis,0.005186083682929166
+all_modalities,JH24,Folic acid metabolism,0.4521839773282409
+all_modalities,JH24,Membrane disruption,0.0001020997350783137
+all_modalities,JH24,Nitrofurans,0.008241447146428982
+all_modalities,JH24,Protein synthesis,0.006894845514220834
+all_modalities,JH24,RNA Synthesis,0.0009124043588599306
+all_modalities,JH24,lipopolysaccharide synthesis,0.00024089491922467233
+all_modalities,JH26,Cell wall biosynthesis,0.002712077761805176
+all_modalities,JH26,DNA replication,0.9911470586061478
+all_modalities,JH26,Fatty acid synthesis,1.8896816880253907e-05
+all_modalities,JH26,Folic acid metabolism,0.0014130272213014907
+all_modalities,JH26,Membrane disruption,6.4786788199321105e-06
+all_modalities,JH26,Nitrofurans,0.0013560987237205778
+all_modalities,JH26,Protein synthesis,0.0014701000451503886
+all_modalities,JH26,RNA Synthesis,0.0006216326750828216
+all_modalities,JH26,lipopolysaccharide synthesis,2.487116424907954e-06
+all_modalities,JH27,Cell wall biosynthesis,2.148747910664106e-05
+all_modalities,JH27,DNA replication,0.9982585859298705
+all_modalities,JH27,Fatty acid synthesis,5.2734204431401644e-05
+all_modalities,JH27,Folic acid metabolism,0.00010322194801602792
+all_modalities,JH27,Membrane disruption,1.9073615718426256e-06
+all_modalities,JH27,Nitrofurans,0.00011192140136031979
+all_modalities,JH27,Protein synthesis,0.0004615754603182154
+all_modalities,JH27,RNA Synthesis,7.646931283147751e-05
+all_modalities,JH27,lipopolysaccharide synthesis,1.7285245466591716e-06
+all_modalities,JH28,Cell wall biosynthesis,0.0001222657140017702
+all_modalities,JH28,DNA replication,0.9457790786027909
+all_modalities,JH28,Fatty acid synthesis,6.395930471171596e-05
+all_modalities,JH28,Folic acid metabolism,0.00014395774885315402
+all_modalities,JH28,Membrane disruption,2.159380148847756e-05
+all_modalities,JH28,Nitrofurans,0.00022522288613345152
+all_modalities,JH28,Protein synthesis,0.0015757193387298685
+all_modalities,JH28,RNA Synthesis,0.0005671953522323747
+all_modalities,JH28,lipopolysaccharide synthesis,1.4769628001167767e-05
+all_modalities,JH29,Cell wall biosynthesis,0.00016755327340646885
+all_modalities,JH29,DNA replication,0.9944175356626511
+all_modalities,JH29,Fatty acid synthesis,3.9848958702988214e-05
+all_modalities,JH29,Folic acid metabolism,7.372719341624645e-05
+all_modalities,JH29,Membrane disruption,4.4986760424917634e-05
+all_modalities,JH29,Nitrofurans,0.000243638074855852
+all_modalities,JH29,Protein synthesis,0.00036650177792878935
+all_modalities,JH29,RNA Synthesis,0.00015429555497156855
+all_modalities,JH29,lipopolysaccharide synthesis,1.5349273855236426e-05
+all_modalities,JH3,Cell wall biosynthesis,0.98655746281147
+all_modalities,JH3,DNA replication,0.0006710325947943829
+all_modalities,JH3,Fatty acid synthesis,8.647170296212535e-05
+all_modalities,JH3,Folic acid metabolism,0.0010989088817629522
+all_modalities,JH3,Membrane disruption,0.00021625437121482348
+all_modalities,JH3,Nitrofurans,5.833536746781637e-05
+all_modalities,JH3,Protein synthesis,0.0003766747986745855
+all_modalities,JH3,RNA Synthesis,5.6105249276832824e-05
+all_modalities,JH3,lipopolysaccharide synthesis,0.0003890116716206649
+all_modalities,JH30,Cell wall biosynthesis,0.0013605980026613906
+all_modalities,JH30,DNA replication,0.893819514811039
+all_modalities,JH30,Fatty acid synthesis,0.0013481133959339787
+all_modalities,JH30,Folic acid metabolism,0.0038224423339852367
+all_modalities,JH30,Membrane disruption,8.59571162887418e-05
+all_modalities,JH30,Nitrofurans,0.001540511445709285
+all_modalities,JH30,Protein synthesis,0.0015415328141079954
+all_modalities,JH30,RNA Synthesis,0.007606900966684408
+all_modalities,JH30,lipopolysaccharide synthesis,2.3270960502230763e-05
+all_modalities,JH31,Cell wall biosynthesis,0.0006360366381822757
+all_modalities,JH31,DNA replication,0.015905668479972518
+all_modalities,JH31,Fatty acid synthesis,0.000779778814862766
+all_modalities,JH31,Folic acid metabolism,0.0003537741610091416
+all_modalities,JH31,Membrane disruption,0.0004047738546057644
+all_modalities,JH31,Nitrofurans,0.9137900054454804
+all_modalities,JH31,Protein synthesis,0.01775107411580393
+all_modalities,JH31,RNA Synthesis,0.003006568490436621
+all_modalities,JH31,lipopolysaccharide synthesis,8.207431327617697e-05
+all_modalities,JH32,Cell wall biosynthesis,0.00027401147439036326
+all_modalities,JH32,DNA replication,0.8546401980519296
+all_modalities,JH32,Fatty acid synthesis,5.962432290857577e-05
+all_modalities,JH32,Folic acid metabolism,0.0016057857893247273
+all_modalities,JH32,Membrane disruption,1.0684273224885745e-05
+all_modalities,JH32,Nitrofurans,0.0008170096246340108
+all_modalities,JH32,Protein synthesis,9.573141899238634e-05
+all_modalities,JH32,RNA Synthesis,0.0002895794611134761
+all_modalities,JH32,lipopolysaccharide synthesis,6.7135147499808305e-06
+all_modalities,JH33,Cell wall biosynthesis,9.97439039005954e-06
+all_modalities,JH33,DNA replication,0.9953301545977592
+all_modalities,JH33,Fatty acid synthesis,5.478823920492815e-06
+all_modalities,JH33,Folic acid metabolism,2.6641515105154668e-05
+all_modalities,JH33,Membrane disruption,5.07600991067128e-07
+all_modalities,JH33,Nitrofurans,0.00014141375234885345
+all_modalities,JH33,Protein synthesis,6.546426853745401e-05
+all_modalities,JH33,RNA Synthesis,0.0002455516202229546
+all_modalities,JH33,lipopolysaccharide synthesis,2.2768161790896053e-07
+all_modalities,JH35,Cell wall biosynthesis,5.5469003856316586e-05
+all_modalities,JH35,DNA replication,0.9939069566130637
+all_modalities,JH35,Fatty acid synthesis,2.1300133821933187e-06
+all_modalities,JH35,Folic acid metabolism,3.5592367550023593e-05
+all_modalities,JH35,Membrane disruption,2.7656284912341153e-07
+all_modalities,JH35,Nitrofurans,2.810033848824389e-05
+all_modalities,JH35,Protein synthesis,0.0006720629401729638
+all_modalities,JH35,RNA Synthesis,4.689123711045795e-05
+all_modalities,JH35,lipopolysaccharide synthesis,3.1038288024261286e-07
+all_modalities,JH36,Cell wall biosynthesis,0.00038803742268768817
+all_modalities,JH36,DNA replication,0.9932397699356079
+all_modalities,JH36,Fatty acid synthesis,8.128182693017295e-05
+all_modalities,JH36,Folic acid metabolism,2.6034325721582266e-05
+all_modalities,JH36,Membrane disruption,2.658024508447418e-05
+all_modalities,JH36,Nitrofurans,4.19102343379052e-05
+all_modalities,JH36,Protein synthesis,0.0010149240615942288
+all_modalities,JH36,RNA Synthesis,0.00018647269104121733
+all_modalities,JH36,lipopolysaccharide synthesis,1.490355320922787e-05
+all_modalities,JH37,Cell wall biosynthesis,7.760131067669817e-05
+all_modalities,JH37,DNA replication,0.0042607156466692685
+all_modalities,JH37,Fatty acid synthesis,0.00023858951878082737
+all_modalities,JH37,Folic acid metabolism,0.00011927738915233022
+all_modalities,JH37,Membrane disruption,1.6058064770618775e-06
+all_modalities,JH37,Nitrofurans,0.0005270177603119918
+all_modalities,JH37,Protein synthesis,0.0649549042039689
+all_modalities,JH37,RNA Synthesis,0.8325539572536945
+all_modalities,JH37,lipopolysaccharide synthesis,2.370685909380832e-06
+all_modalities,JH38,Cell wall biosynthesis,2.6552351387678645e-05
+all_modalities,JH38,DNA replication,0.0013976786499551963
+all_modalities,JH38,Fatty acid synthesis,0.0021141317749970765
+all_modalities,JH38,Folic acid metabolism,0.00014085042225417513
+all_modalities,JH38,Membrane disruption,3.410313498776046e-06
+all_modalities,JH38,Nitrofurans,0.00016904506910606187
+all_modalities,JH38,Protein synthesis,0.006477610911533702
+all_modalities,JH38,RNA Synthesis,0.9241902771592141
+all_modalities,JH38,lipopolysaccharide synthesis,1.6051160054040282e-05
+all_modalities,JH39,Cell wall biosynthesis,9.331007164945505e-05
+all_modalities,JH39,DNA replication,0.006412654165469575
+all_modalities,JH39,Fatty acid synthesis,0.0009738196335933935
+all_modalities,JH39,Folic acid metabolism,6.98776689958791e-05
+all_modalities,JH39,Membrane disruption,3.059494061688595e-05
+all_modalities,JH39,Nitrofurans,0.0007427802345102918
+all_modalities,JH39,Protein synthesis,0.144702215451689
+all_modalities,JH39,RNA Synthesis,0.7245320631563663
+all_modalities,JH39,lipopolysaccharide synthesis,3.1092830490286885e-05
+all_modalities,JH40,Cell wall biosynthesis,0.004859793985469878
+all_modalities,JH40,DNA replication,0.0015549527929783835
+all_modalities,JH40,Fatty acid synthesis,0.27703687060624366
+all_modalities,JH40,Folic acid metabolism,0.008463250911881914
+all_modalities,JH40,Membrane disruption,0.0026712774273244125
+all_modalities,JH40,Nitrofurans,0.0001288609822019282
+all_modalities,JH40,Protein synthesis,0.0046642362115019865
+all_modalities,JH40,RNA Synthesis,0.0009857763984854274
+all_modalities,JH40,lipopolysaccharide synthesis,0.31893867313861846
+all_modalities,JH41,Cell wall biosynthesis,0.003440676962927682
+all_modalities,JH41,DNA replication,0.003186742680154566
+all_modalities,JH41,Fatty acid synthesis,0.31667250335216524
+all_modalities,JH41,Folic acid metabolism,0.0046711037785280496
+all_modalities,JH41,Membrane disruption,0.000181775439202075
+all_modalities,JH41,Nitrofurans,0.0011362602236552751
+all_modalities,JH41,Protein synthesis,0.0037190510229144517
+all_modalities,JH41,RNA Synthesis,0.0022458675451707674
+all_modalities,JH41,lipopolysaccharide synthesis,0.006966966000618413
+all_modalities,JH42,Cell wall biosynthesis,0.0008604917903176102
+all_modalities,JH42,DNA replication,0.0001396404473121038
+all_modalities,JH42,Fatty acid synthesis,0.46408953312784434
+all_modalities,JH42,Folic acid metabolism,0.016680932902381755
+all_modalities,JH42,Membrane disruption,3.89780581245347e-05
+all_modalities,JH42,Nitrofurans,0.00013103801341571853
+all_modalities,JH42,Protein synthesis,0.00015785388243727994
+all_modalities,JH42,RNA Synthesis,0.0002366616473693739
+all_modalities,JH42,lipopolysaccharide synthesis,0.003667767992483277
+all_modalities,JH43,Cell wall biosynthesis,0.028944991173339076
+all_modalities,JH43,DNA replication,6.2598938110269844e-06
+all_modalities,JH43,Fatty acid synthesis,0.000109763391038058
+all_modalities,JH43,Folic acid metabolism,2.218069227170938e-05
+all_modalities,JH43,Membrane disruption,0.9650963518023492
+all_modalities,JH43,Nitrofurans,7.339450529570968e-05
+all_modalities,JH43,Protein synthesis,0.0006844620905030751
+all_modalities,JH43,RNA Synthesis,5.610524373711457e-07
+all_modalities,JH43,lipopolysaccharide synthesis,0.0014042965614407877
+all_modalities,JH44,Cell wall biosynthesis,0.001148910259056688
+all_modalities,JH44,DNA replication,0.0002753678472218013
+all_modalities,JH44,Fatty acid synthesis,6.877701365393562e-05
+all_modalities,JH44,Folic acid metabolism,4.558979137932264e-05
+all_modalities,JH44,Membrane disruption,0.9128935861587525
+all_modalities,JH44,Nitrofurans,0.0005448737177675867
+all_modalities,JH44,Protein synthesis,0.00040490822124433117
+all_modalities,JH44,RNA Synthesis,1.8161007638952955e-05
+all_modalities,JH44,lipopolysaccharide synthesis,0.0002526480006657383
+all_modalities,JH45,Cell wall biosynthesis,0.04137049687094986
+all_modalities,JH45,DNA replication,1.2447045485070401e-05
+all_modalities,JH45,Fatty acid synthesis,7.594467340036697e-07
+all_modalities,JH45,Folic acid metabolism,4.3398164905431953e-08
+all_modalities,JH45,Membrane disruption,0.7916377280155817
+all_modalities,JH45,Nitrofurans,1.4766114889918451e-05
+all_modalities,JH45,Protein synthesis,0.002085969550316804
+all_modalities,JH45,RNA Synthesis,9.932052103008478e-07
+all_modalities,JH45,lipopolysaccharide synthesis,8.205147943196305e-05
+all_modalities,JH46,Cell wall biosynthesis,0.04514564920566044
+all_modalities,JH46,DNA replication,0.00017244583479453013
+all_modalities,JH46,Fatty acid synthesis,5.387657310052419e-05
+all_modalities,JH46,Folic acid metabolism,2.119306759308659e-07
+all_modalities,JH46,Membrane disruption,0.23827464710921048
+all_modalities,JH46,Nitrofurans,2.9829597066766134e-07
+all_modalities,JH46,Protein synthesis,0.0002561941218391439
+all_modalities,JH46,RNA Synthesis,1.954580052473176e-05
+all_modalities,JH46,lipopolysaccharide synthesis,0.013337652847985737
+all_modalities,JH47,Cell wall biosynthesis,0.5133031347766519
+all_modalities,JH47,DNA replication,0.0019240536336633338
+all_modalities,JH47,Fatty acid synthesis,0.009032545962945733
+all_modalities,JH47,Folic acid metabolism,0.002908130634941699
+all_modalities,JH47,Membrane disruption,0.015624512005379074
+all_modalities,JH47,Nitrofurans,0.0008522515454771451
+all_modalities,JH47,Protein synthesis,0.0007330401727791271
+all_modalities,JH47,RNA Synthesis,0.000366107366996733
+all_modalities,JH47,lipopolysaccharide synthesis,0.0886563979834318
+all_modalities,JH48,Cell wall biosynthesis,0.00931666859658435
+all_modalities,JH48,DNA replication,0.001856731693690108
+all_modalities,JH48,Fatty acid synthesis,0.13278729327023028
+all_modalities,JH48,Folic acid metabolism,0.0029196633596802715
+all_modalities,JH48,Membrane disruption,0.0005203161406572576
+all_modalities,JH48,Nitrofurans,0.0003110551692981289
+all_modalities,JH48,Protein synthesis,0.0004108786157257783
+all_modalities,JH48,RNA Synthesis,0.0003710742048690463
+all_modalities,JH48,lipopolysaccharide synthesis,0.10819315075408667
+all_modalities,JH49,Cell wall biosynthesis,0.041885777141433204
+all_modalities,JH49,DNA replication,4.972943981655931e-05
+all_modalities,JH49,Fatty acid synthesis,0.00651591000467306
+all_modalities,JH49,Folic acid metabolism,5.980820097136075e-05
+all_modalities,JH49,Membrane disruption,0.001147349437196681
+all_modalities,JH49,Nitrofurans,1.2456203116895103e-06
+all_modalities,JH49,Protein synthesis,0.00028278233548405756
+all_modalities,JH49,RNA Synthesis,5.76676925263797e-05
+all_modalities,JH49,lipopolysaccharide synthesis,0.8647883939743043
+all_modalities,JH5,Cell wall biosynthesis,0.5168546796838442
+all_modalities,JH5,DNA replication,0.001088262519078853
+all_modalities,JH5,Fatty acid synthesis,0.0004181890757111735
+all_modalities,JH5,Folic acid metabolism,0.00034897508005059307
+all_modalities,JH5,Membrane disruption,0.00011220393111306254
+all_modalities,JH5,Nitrofurans,3.956327344753893e-05
+all_modalities,JH5,Protein synthesis,0.05724039757779489
+all_modalities,JH5,RNA Synthesis,0.0001750022858631913
+all_modalities,JH5,lipopolysaccharide synthesis,0.0023817690922320863
+all_modalities,JH50,Cell wall biosynthesis,0.024477645359002053
+all_modalities,JH50,DNA replication,0.0004450878883088194
+all_modalities,JH50,Fatty acid synthesis,0.01349076726968633
+all_modalities,JH50,Folic acid metabolism,0.0004548720597233569
+all_modalities,JH50,Membrane disruption,0.0018404505318221707
+all_modalities,JH50,Nitrofurans,7.782139151344403e-06
+all_modalities,JH50,Protein synthesis,0.0006714824864116053
+all_modalities,JH50,RNA Synthesis,6.622705475635371e-05
+all_modalities,JH50,lipopolysaccharide synthesis,0.7609499005973339
+all_modalities,JH55,Cell wall biosynthesis,4.6478359195774034e-05
+all_modalities,JH55,DNA replication,0.0005644151795013386
+all_modalities,JH55,Fatty acid synthesis,1.742009793329946e-05
+all_modalities,JH55,Folic acid metabolism,1.996876931475988e-06
+all_modalities,JH55,Membrane disruption,2.123299779662746e-06
+all_modalities,JH55,Nitrofurans,1.2124575763134972e-05
+all_modalities,JH55,Protein synthesis,0.9977136021852493
+all_modalities,JH55,RNA Synthesis,6.911999097312105e-05
+all_modalities,JH55,lipopolysaccharide synthesis,1.2667715259409226e-06
+all_modalities,JH56,Cell wall biosynthesis,0.014275954393669962
+all_modalities,JH56,DNA replication,8.370337841824948e-05
+all_modalities,JH56,Fatty acid synthesis,0.0004917688378191086
+all_modalities,JH56,Folic acid metabolism,7.439110665039549e-06
+all_modalities,JH56,Membrane disruption,0.00013849229014660126
+all_modalities,JH56,Nitrofurans,1.2697447262368655e-05
+all_modalities,JH56,Protein synthesis,0.5540197621285915
+all_modalities,JH56,RNA Synthesis,0.00012317359323560595
+all_modalities,JH56,lipopolysaccharide synthesis,0.00018997039122723436
+all_modalities,JH58,Cell wall biosynthesis,6.006387852650619e-06
+all_modalities,JH58,DNA replication,0.00045971823206855336
+all_modalities,JH58,Fatty acid synthesis,0.0006248019481245137
+all_modalities,JH58,Folic acid metabolism,0.0023263114620931447
+all_modalities,JH58,Membrane disruption,7.967863641606953e-06
+all_modalities,JH58,Nitrofurans,0.9852915745973586
+all_modalities,JH58,Protein synthesis,0.0009459701747982762
+all_modalities,JH58,RNA Synthesis,0.00011005470359293668
+all_modalities,JH58,lipopolysaccharide synthesis,4.907671452869523e-07
+all_modalities,JH6,Cell wall biosynthesis,0.9946742871403694
+all_modalities,JH6,DNA replication,6.787402178360935e-06
+all_modalities,JH6,Fatty acid synthesis,1.1253078574640086e-05
+all_modalities,JH6,Folic acid metabolism,1.0883428372787663e-06
+all_modalities,JH6,Membrane disruption,0.0020879226973283945
+all_modalities,JH6,Nitrofurans,1.381013358201233e-06
+all_modalities,JH6,Protein synthesis,7.244454704618876e-05
+all_modalities,JH6,RNA Synthesis,7.839823865032902e-07
+all_modalities,JH6,lipopolysaccharide synthesis,0.0002900858005909868
+all_modalities,JH61,Cell wall biosynthesis,0.0006308967441873393
+all_modalities,JH61,DNA replication,0.0007196257353280089
+all_modalities,JH61,Fatty acid synthesis,0.4983570629358292
+all_modalities,JH61,Folic acid metabolism,0.028228203520411627
+all_modalities,JH61,Membrane disruption,0.0005540159510148612
+all_modalities,JH61,Nitrofurans,0.0010364782984106568
+all_modalities,JH61,Protein synthesis,0.00023132836997802995
+all_modalities,JH61,RNA Synthesis,0.0014639596099777917
+all_modalities,JH61,lipopolysaccharide synthesis,0.007729694059671601
+all_modalities,JH62,Cell wall biosynthesis,0.009363747005700133
+all_modalities,JH62,DNA replication,2.507400079196032e-05
+all_modalities,JH62,Fatty acid synthesis,0.3870653864741326
+all_modalities,JH62,Folic acid metabolism,0.018206169348559342
+all_modalities,JH62,Membrane disruption,0.0001341624037445399
+all_modalities,JH62,Nitrofurans,4.4872969762082e-05
+all_modalities,JH62,Protein synthesis,1.4517973275047781e-05
+all_modalities,JH62,RNA Synthesis,2.2193008614550536e-05
+all_modalities,JH62,lipopolysaccharide synthesis,0.008435708490142132
+all_modalities,JH64,Cell wall biosynthesis,4.6381704192413056e-05
+all_modalities,JH64,DNA replication,0.0009541042554701562
+all_modalities,JH64,Fatty acid synthesis,0.00010855520745280955
+all_modalities,JH64,Folic acid metabolism,7.535484634104249e-05
+all_modalities,JH64,Membrane disruption,0.00010515116059437447
+all_modalities,JH64,Nitrofurans,0.959883616566658
+all_modalities,JH64,Protein synthesis,0.0038431065315671733
+all_modalities,JH64,RNA Synthesis,0.00010481262764642451
+all_modalities,JH64,lipopolysaccharide synthesis,4.052924115143242e-06
+all_modalities,JH65,Cell wall biosynthesis,2.1748581202818416e-06
+all_modalities,JH65,DNA replication,0.0005650717407752381
+all_modalities,JH65,Fatty acid synthesis,2.0766704575407855e-05
+all_modalities,JH65,Folic acid metabolism,0.000888958391358301
+all_modalities,JH65,Membrane disruption,5.363502018985944e-05
+all_modalities,JH65,Nitrofurans,0.9807496854662896
+all_modalities,JH65,Protein synthesis,0.000849290657073567
+all_modalities,JH65,RNA Synthesis,6.144360443032681e-05
+all_modalities,JH65,lipopolysaccharide synthesis,2.0819414081765795e-06
+all_modalities,JH7,Cell wall biosynthesis,0.9035024508833885
+all_modalities,JH7,DNA replication,5.3683755363636014e-05
+all_modalities,JH7,Fatty acid synthesis,1.1195300650399532e-05
+all_modalities,JH7,Folic acid metabolism,1.2759986952559644e-06
+all_modalities,JH7,Membrane disruption,0.0003960478595911354
+all_modalities,JH7,Nitrofurans,1.6816606033254188e-07
+all_modalities,JH7,Protein synthesis,0.0003538283384841634
+all_modalities,JH7,RNA Synthesis,1.7351840491031113e-05
+all_modalities,JH7,lipopolysaccharide synthesis,0.0003173477122436452
+all_modalities,JH8,Cell wall biosynthesis,0.9934649464488029
+all_modalities,JH8,DNA replication,5.843411106631891e-07
+all_modalities,JH8,Fatty acid synthesis,1.0975696002474277e-08
+all_modalities,JH8,Folic acid metabolism,2.263262159934998e-08
+all_modalities,JH8,Membrane disruption,0.0004901231226676827
+all_modalities,JH8,Nitrofurans,2.11915370544255e-08
+all_modalities,JH8,Protein synthesis,7.906871931709247e-05
+all_modalities,JH8,RNA Synthesis,2.16370246871548e-08
+all_modalities,JH8,lipopolysaccharide synthesis,5.190145677627101e-06
+all_modalities,JH9,Cell wall biosynthesis,0.9298001509904861
+all_modalities,JH9,DNA replication,0.00012183582507077517
+all_modalities,JH9,Fatty acid synthesis,0.00040600791955341714
+all_modalities,JH9,Folic acid metabolism,0.0005675481578055042
+all_modalities,JH9,Membrane disruption,0.00047910690322433786
+all_modalities,JH9,Nitrofurans,4.7078116396370715e-07
+all_modalities,JH9,Protein synthesis,0.0005266046851647844
+all_modalities,JH9,RNA Synthesis,8.882182953016127e-06
+all_modalities,JH9,lipopolysaccharide synthesis,0.0014691488336012527
+proteomics_only,JH0,Cell wall biosynthesis,0.40915427751839156
+proteomics_only,JH0,DNA replication,1.5861985856945548e-10
+proteomics_only,JH0,Fatty acid synthesis,1.3731760908999744e-11
+proteomics_only,JH0,Folic acid metabolism,3.425325838755854e-11
+proteomics_only,JH0,Membrane disruption,0.010932519899415637
+proteomics_only,JH0,Nitrofurans,2.674126455813782e-12
+proteomics_only,JH0,Protein synthesis,8.281995972651749e-08
+proteomics_only,JH0,RNA Synthesis,1.3590696703521194e-12
+proteomics_only,JH0,lipopolysaccharide synthesis,0.00012559670342795925
+proteomics_only,JH10,Cell wall biosynthesis,0.6110887107253073
+proteomics_only,JH10,DNA replication,0.0002567083143912896
+proteomics_only,JH10,Fatty acid synthesis,1.0576288011820977e-06
+proteomics_only,JH10,Folic acid metabolism,0.025931746685528195
+proteomics_only,JH10,Membrane disruption,6.448040276474388e-07
+proteomics_only,JH10,Nitrofurans,1.2312237013745174e-06
+proteomics_only,JH10,Protein synthesis,0.00292191885567263
+proteomics_only,JH10,RNA Synthesis,5.857914651852258e-07
+proteomics_only,JH10,lipopolysaccharide synthesis,6.3497315603200375e-06
+proteomics_only,JH12,Cell wall biosynthesis,2.67244020462698e-05
+proteomics_only,JH12,DNA replication,0.00019911223623410025
+proteomics_only,JH12,Fatty acid synthesis,3.46821959928828e-07
+proteomics_only,JH12,Folic acid metabolism,0.00016786033950467072
+proteomics_only,JH12,Membrane disruption,9.325355185849614e-07
+proteomics_only,JH12,Nitrofurans,0.01796522391792678
+proteomics_only,JH12,Protein synthesis,0.5093262810632586
+proteomics_only,JH12,RNA Synthesis,0.00822532308852601
+proteomics_only,JH12,lipopolysaccharide synthesis,2.184224361435373e-09
+proteomics_only,JH13,Cell wall biosynthesis,1.0644699188728096e-05
+proteomics_only,JH13,DNA replication,0.0005556914452978389
+proteomics_only,JH13,Fatty acid synthesis,1.1469217779189745e-05
+proteomics_only,JH13,Folic acid metabolism,9.992112440579957e-06
+proteomics_only,JH13,Membrane disruption,2.017687397142462e-06
+proteomics_only,JH13,Nitrofurans,0.0003146363501852178
+proteomics_only,JH13,Protein synthesis,0.9759081786870956
+proteomics_only,JH13,RNA Synthesis,0.00405688752007336
+proteomics_only,JH13,lipopolysaccharide synthesis,2.486524071671978e-07
+proteomics_only,JH14,Cell wall biosynthesis,2.1599681154158554e-05
+proteomics_only,JH14,DNA replication,5.02603591036177e-05
+proteomics_only,JH14,Fatty acid synthesis,7.282529500585166e-05
+proteomics_only,JH14,Folic acid metabolism,4.737323230862567e-06
+proteomics_only,JH14,Membrane disruption,3.5071314053008734e-05
+proteomics_only,JH14,Nitrofurans,0.00015332017175552436
+proteomics_only,JH14,Protein synthesis,0.9260784178972244
+proteomics_only,JH14,RNA Synthesis,0.01745219656218978
+proteomics_only,JH14,lipopolysaccharide synthesis,3.2118625924043574e-06
+proteomics_only,JH15,Cell wall biosynthesis,0.0009354220816485002
+proteomics_only,JH15,DNA replication,1.3016616313299422e-05
+proteomics_only,JH15,Fatty acid synthesis,0.00012635698968302926
+proteomics_only,JH15,Folic acid metabolism,6.67655826660174e-06
+proteomics_only,JH15,Membrane disruption,1.279200832925608e-05
+proteomics_only,JH15,Nitrofurans,0.0007175451475798411
+proteomics_only,JH15,Protein synthesis,0.9373187574744225
+proteomics_only,JH15,RNA Synthesis,0.004081291112576287
+proteomics_only,JH15,lipopolysaccharide synthesis,3.1734294174829255e-06
+proteomics_only,JH16,Cell wall biosynthesis,0.6121233387788136
+proteomics_only,JH16,DNA replication,3.890659219602336e-05
+proteomics_only,JH16,Fatty acid synthesis,7.675066986227349e-05
+proteomics_only,JH16,Folic acid metabolism,0.0020616355896868298
+proteomics_only,JH16,Membrane disruption,9.799949306132926e-06
+proteomics_only,JH16,Nitrofurans,7.008942803409893e-08
+proteomics_only,JH16,Protein synthesis,0.15185236397354554
+proteomics_only,JH16,RNA Synthesis,2.454179723166379e-05
+proteomics_only,JH16,lipopolysaccharide synthesis,0.0002557417954253319
+proteomics_only,JH17,Cell wall biosynthesis,0.0131435352488279
+proteomics_only,JH17,DNA replication,0.06288833844853799
+proteomics_only,JH17,Fatty acid synthesis,5.704860058795447e-05
+proteomics_only,JH17,Folic acid metabolism,0.0008850277834410036
+proteomics_only,JH17,Membrane disruption,0.0021696958406888095
+proteomics_only,JH17,Nitrofurans,0.0015687701262647915
+proteomics_only,JH17,Protein synthesis,0.5507835459709167
+proteomics_only,JH17,RNA Synthesis,0.0018166270434137569
+proteomics_only,JH17,lipopolysaccharide synthesis,0.00012032014236238009
+proteomics_only,JH18,Cell wall biosynthesis,0.0016619474166873261
+proteomics_only,JH18,DNA replication,1.5639551017265775e-06
+proteomics_only,JH18,Fatty acid synthesis,2.386413669105969e-08
+proteomics_only,JH18,Folic acid metabolism,1.4902099024383107e-07
+proteomics_only,JH18,Membrane disruption,5.0588622176628296e-05
+proteomics_only,JH18,Nitrofurans,9.921211740433477e-06
+proteomics_only,JH18,Protein synthesis,0.9988636615872384
+proteomics_only,JH18,RNA Synthesis,2.2132829255596676e-05
+proteomics_only,JH18,lipopolysaccharide synthesis,5.4179174659441104e-08
+proteomics_only,JH2,Cell wall biosynthesis,0.1339435333876463
+proteomics_only,JH2,DNA replication,0.007703934935689176
+proteomics_only,JH2,Fatty acid synthesis,0.0024155739963309486
+proteomics_only,JH2,Folic acid metabolism,0.0077215198667340695
+proteomics_only,JH2,Membrane disruption,9.25454134146797e-05
+proteomics_only,JH2,Nitrofurans,1.7782050377169318e-06
+proteomics_only,JH2,Protein synthesis,0.001268988587287936
+proteomics_only,JH2,RNA Synthesis,0.0006102464375033633
+proteomics_only,JH2,lipopolysaccharide synthesis,0.05882626225007698
+proteomics_only,JH20,Cell wall biosynthesis,0.031795696025947104
+proteomics_only,JH20,DNA replication,0.00014177826777995507
+proteomics_only,JH20,Fatty acid synthesis,0.0007344367064797552
+proteomics_only,JH20,Folic acid metabolism,0.23177783008664848
+proteomics_only,JH20,Membrane disruption,3.273850216105601e-06
+proteomics_only,JH20,Nitrofurans,2.938800897300808e-07
+proteomics_only,JH20,Protein synthesis,2.53795422873182e-07
+proteomics_only,JH20,RNA Synthesis,9.357386969344184e-07
+proteomics_only,JH20,lipopolysaccharide synthesis,0.03361408542376011
+proteomics_only,JH21,Cell wall biosynthesis,0.04875544077476661
+proteomics_only,JH21,DNA replication,2.645517546454812e-05
+proteomics_only,JH21,Fatty acid synthesis,0.011508525862336683
+proteomics_only,JH21,Folic acid metabolism,0.5961171299777925
+proteomics_only,JH21,Membrane disruption,1.3815578909376347e-06
+proteomics_only,JH21,Nitrofurans,1.108884456227699e-05
+proteomics_only,JH21,Protein synthesis,1.2976742525552253e-05
+proteomics_only,JH21,RNA Synthesis,2.0367406716559344e-05
+proteomics_only,JH21,lipopolysaccharide synthesis,0.005136716047709341
+proteomics_only,JH23,Cell wall biosynthesis,0.01060806169083719
+proteomics_only,JH23,DNA replication,0.010902484284742968
+proteomics_only,JH23,Fatty acid synthesis,0.00043759109549455387
+proteomics_only,JH23,Folic acid metabolism,0.37100709374979485
+proteomics_only,JH23,Membrane disruption,2.5066410203036795e-06
+proteomics_only,JH23,Nitrofurans,0.0026497094580884986
+proteomics_only,JH23,Protein synthesis,0.00837935533808718
+proteomics_only,JH23,RNA Synthesis,0.0044563260232644095
+proteomics_only,JH23,lipopolysaccharide synthesis,4.211658880324265e-05
+proteomics_only,JH24,Cell wall biosynthesis,0.00011580597643099822
+proteomics_only,JH24,DNA replication,0.11495358351618053
+proteomics_only,JH24,Fatty acid synthesis,0.0007406340871308714
+proteomics_only,JH24,Folic acid metabolism,0.01559150824255994
+proteomics_only,JH24,Membrane disruption,6.1914534551688045e-06
+proteomics_only,JH24,Nitrofurans,0.017886544194416272
+proteomics_only,JH24,Protein synthesis,0.18401184998016104
+proteomics_only,JH24,RNA Synthesis,0.052372972744342404
+proteomics_only,JH24,lipopolysaccharide synthesis,1.043486125507087e-05
+proteomics_only,JH26,Cell wall biosynthesis,0.007670841087265216
+proteomics_only,JH26,DNA replication,0.926636369228363
+proteomics_only,JH26,Fatty acid synthesis,5.40282673651693e-07
+proteomics_only,JH26,Folic acid metabolism,0.002058068661942798
+proteomics_only,JH26,Membrane disruption,1.2469431976125378e-06
+proteomics_only,JH26,Nitrofurans,8.66312123854296e-06
+proteomics_only,JH26,Protein synthesis,8.614242588335984e-05
+proteomics_only,JH26,RNA Synthesis,3.915712564190877e-06
+proteomics_only,JH26,lipopolysaccharide synthesis,3.363890456938613e-06
+proteomics_only,JH27,Cell wall biosynthesis,5.332113756043366e-05
+proteomics_only,JH27,DNA replication,0.9814092686772347
+proteomics_only,JH27,Fatty acid synthesis,1.0982677561058307e-06
+proteomics_only,JH27,Folic acid metabolism,0.0007299099250568019
+proteomics_only,JH27,Membrane disruption,5.278905013010245e-07
+proteomics_only,JH27,Nitrofurans,2.584906176413604e-05
+proteomics_only,JH27,Protein synthesis,0.008025599729385675
+proteomics_only,JH27,RNA Synthesis,1.8066856188916348e-05
+proteomics_only,JH27,lipopolysaccharide synthesis,6.407189989420095e-06
+proteomics_only,JH28,Cell wall biosynthesis,0.00019522702166028695
+proteomics_only,JH28,DNA replication,0.8099593484401704
+proteomics_only,JH28,Fatty acid synthesis,1.0244581270963947e-05
+proteomics_only,JH28,Folic acid metabolism,0.0002287202026354862
+proteomics_only,JH28,Membrane disruption,2.2929072162299064e-06
+proteomics_only,JH28,Nitrofurans,3.143592245280047e-05
+proteomics_only,JH28,Protein synthesis,0.015901647018249605
+proteomics_only,JH28,RNA Synthesis,0.0019992431382638643
+proteomics_only,JH28,lipopolysaccharide synthesis,4.823867307849338e-06
+proteomics_only,JH29,Cell wall biosynthesis,5.6245896177884446e-05
+proteomics_only,JH29,DNA replication,0.9985001221299171
+proteomics_only,JH29,Fatty acid synthesis,2.8119493442752e-09
+proteomics_only,JH29,Folic acid metabolism,1.953882102831983e-05
+proteomics_only,JH29,Membrane disruption,3.2294717455978723e-09
+proteomics_only,JH29,Nitrofurans,7.470047036616246e-06
+proteomics_only,JH29,Protein synthesis,4.425187777187034e-05
+proteomics_only,JH29,RNA Synthesis,4.202881949151304e-06
+proteomics_only,JH29,lipopolysaccharide synthesis,1.2886702978331943e-09
+proteomics_only,JH3,Cell wall biosynthesis,0.9957367014884948
+proteomics_only,JH3,DNA replication,1.8293264056197243e-05
+proteomics_only,JH3,Fatty acid synthesis,6.077473946101282e-08
+proteomics_only,JH3,Folic acid metabolism,0.002652858012057777
+proteomics_only,JH3,Membrane disruption,2.733021775565447e-05
+proteomics_only,JH3,Nitrofurans,1.878207950214983e-07
+proteomics_only,JH3,Protein synthesis,5.5270337306811965e-06
+proteomics_only,JH3,RNA Synthesis,7.561475840929056e-08
+proteomics_only,JH3,lipopolysaccharide synthesis,9.793892862035136e-05
+proteomics_only,JH30,Cell wall biosynthesis,0.0022230250391839946
+proteomics_only,JH30,DNA replication,0.5603848251141608
+proteomics_only,JH30,Fatty acid synthesis,0.0007253197134203049
+proteomics_only,JH30,Folic acid metabolism,0.018715165005996823
+proteomics_only,JH30,Membrane disruption,1.805082591671281e-06
+proteomics_only,JH30,Nitrofurans,2.714114136992407e-05
+proteomics_only,JH30,Protein synthesis,0.00012826101748657947
+proteomics_only,JH30,RNA Synthesis,0.002122254461787634
+proteomics_only,JH30,lipopolysaccharide synthesis,8.758280247135985e-05
+proteomics_only,JH31,Cell wall biosynthesis,1.7656253032988233e-07
+proteomics_only,JH31,DNA replication,0.0005883877754513378
+proteomics_only,JH31,Fatty acid synthesis,4.7843852473761214e-06
+proteomics_only,JH31,Folic acid metabolism,3.3447519737386246e-05
+proteomics_only,JH31,Membrane disruption,0.00044886277438514814
+proteomics_only,JH31,Nitrofurans,0.908296091556549
+proteomics_only,JH31,Protein synthesis,0.010741058548883301
+proteomics_only,JH31,RNA Synthesis,0.0016517038739897315
+proteomics_only,JH31,lipopolysaccharide synthesis,1.520564537966368e-08
+proteomics_only,JH32,Cell wall biosynthesis,1.568476977558575e-05
+proteomics_only,JH32,DNA replication,0.9970722031593324
+proteomics_only,JH32,Fatty acid synthesis,1.977117896237446e-07
+proteomics_only,JH32,Folic acid metabolism,7.549711402816683e-05
+proteomics_only,JH32,Membrane disruption,2.7706396326675206e-07
+proteomics_only,JH32,Nitrofurans,7.712231652519109e-06
+proteomics_only,JH32,Protein synthesis,2.9975825066141937e-07
+proteomics_only,JH32,RNA Synthesis,8.539661855706982e-05
+proteomics_only,JH32,lipopolysaccharide synthesis,3.171283386116386e-08
+proteomics_only,JH33,Cell wall biosynthesis,9.866421360547884e-07
+proteomics_only,JH33,DNA replication,0.9912774011492729
+proteomics_only,JH33,Fatty acid synthesis,9.196016476685844e-09
+proteomics_only,JH33,Folic acid metabolism,1.5265760421856457e-06
+proteomics_only,JH33,Membrane disruption,1.809334404887186e-08
+proteomics_only,JH33,Nitrofurans,1.4700715236184435e-05
+proteomics_only,JH33,Protein synthesis,1.4519702397063628e-05
+proteomics_only,JH33,RNA Synthesis,0.0007130276423100668
+proteomics_only,JH33,lipopolysaccharide synthesis,6.605972361536838e-10
+proteomics_only,JH35,Cell wall biosynthesis,3.9317312314031126e-05
+proteomics_only,JH35,DNA replication,0.9844400519132614
+proteomics_only,JH35,Fatty acid synthesis,5.228954419660842e-08
+proteomics_only,JH35,Folic acid metabolism,1.208882220620211e-05
+proteomics_only,JH35,Membrane disruption,2.9135235683241162e-08
+proteomics_only,JH35,Nitrofurans,1.2200725567592665e-05
+proteomics_only,JH35,Protein synthesis,0.005246674892429724
+proteomics_only,JH35,RNA Synthesis,1.3503410954172069e-05
+proteomics_only,JH35,lipopolysaccharide synthesis,4.519895111725655e-08
+proteomics_only,JH36,Cell wall biosynthesis,2.1756365334013594e-05
+proteomics_only,JH36,DNA replication,0.9854539936780929
+proteomics_only,JH36,Fatty acid synthesis,1.6213896279942962e-06
+proteomics_only,JH36,Folic acid metabolism,0.0005435411030953218
+proteomics_only,JH36,Membrane disruption,4.657323400789146e-08
+proteomics_only,JH36,Nitrofurans,1.1265651296357149e-05
+proteomics_only,JH36,Protein synthesis,0.0018635730245182458
+proteomics_only,JH36,RNA Synthesis,0.00016125885774272318
+proteomics_only,JH36,lipopolysaccharide synthesis,3.650523010262363e-07
+proteomics_only,JH37,Cell wall biosynthesis,0.00012335879529635775
+proteomics_only,JH37,DNA replication,0.00237150679460683
+proteomics_only,JH37,Fatty acid synthesis,2.073754456649368e-05
+proteomics_only,JH37,Folic acid metabolism,0.0008846154399100214
+proteomics_only,JH37,Membrane disruption,4.967126888395963e-07
+proteomics_only,JH37,Nitrofurans,0.0003160321028110502
+proteomics_only,JH37,Protein synthesis,0.15259439756391202
+proteomics_only,JH37,RNA Synthesis,0.5903972229320789
+proteomics_only,JH37,lipopolysaccharide synthesis,1.7163441728751394e-07
+proteomics_only,JH38,Cell wall biosynthesis,6.150240522035943e-06
+proteomics_only,JH38,DNA replication,0.005333708903563092
+proteomics_only,JH38,Fatty acid synthesis,0.021200193676049823
+proteomics_only,JH38,Folic acid metabolism,0.043171119604303386
+proteomics_only,JH38,Membrane disruption,5.597646820821797e-07
+proteomics_only,JH38,Nitrofurans,0.0003109014322309633
+proteomics_only,JH38,Protein synthesis,0.013674340491188559
+proteomics_only,JH38,RNA Synthesis,0.5996528306603433
+proteomics_only,JH38,lipopolysaccharide synthesis,3.4344845344964624e-05
+proteomics_only,JH39,Cell wall biosynthesis,7.3319391709958385e-06
+proteomics_only,JH39,DNA replication,0.02102271662442945
+proteomics_only,JH39,Fatty acid synthesis,0.0005464418047449549
+proteomics_only,JH39,Folic acid metabolism,0.0025592704987392875
+proteomics_only,JH39,Membrane disruption,1.518149516726991e-05
+proteomics_only,JH39,Nitrofurans,0.003885802296872498
+proteomics_only,JH39,Protein synthesis,0.3205154574121115
+proteomics_only,JH39,RNA Synthesis,0.25453856791369617
+proteomics_only,JH39,lipopolysaccharide synthesis,2.4676907698967245e-06
+proteomics_only,JH40,Cell wall biosynthesis,0.0010428622018798705
+proteomics_only,JH40,DNA replication,7.677476769487156e-05
+proteomics_only,JH40,Fatty acid synthesis,0.033861131903831845
+proteomics_only,JH40,Folic acid metabolism,0.0005248005708028814
+proteomics_only,JH40,Membrane disruption,0.0003137342113816999
+proteomics_only,JH40,Nitrofurans,4.220079007155598e-07
+proteomics_only,JH40,Protein synthesis,0.00022113564763977852
+proteomics_only,JH40,RNA Synthesis,0.0002888936654305496
+proteomics_only,JH40,lipopolysaccharide synthesis,0.8132242799550294
+proteomics_only,JH41,Cell wall biosynthesis,1.6778510920687496e-05
+proteomics_only,JH41,DNA replication,0.0010959989661811658
+proteomics_only,JH41,Fatty acid synthesis,0.4522698392470678
+proteomics_only,JH41,Folic acid metabolism,0.0029610584078000107
+proteomics_only,JH41,Membrane disruption,2.4651116768126257e-05
+proteomics_only,JH41,Nitrofurans,0.00012701183687075475
+proteomics_only,JH41,Protein synthesis,0.00015541949112882019
+proteomics_only,JH41,RNA Synthesis,0.009504161538837555
+proteomics_only,JH41,lipopolysaccharide synthesis,0.004795188880407295
+proteomics_only,JH42,Cell wall biosynthesis,6.349243925383164e-05
+proteomics_only,JH42,DNA replication,2.937664963269526e-05
+proteomics_only,JH42,Fatty acid synthesis,0.2883146921545267
+proteomics_only,JH42,Folic acid metabolism,0.06124217444490114
+proteomics_only,JH42,Membrane disruption,9.302331764375893e-06
+proteomics_only,JH42,Nitrofurans,1.5836754064046944e-05
+proteomics_only,JH42,Protein synthesis,5.256371975410623e-06
+proteomics_only,JH42,RNA Synthesis,0.0003285469234734251
+proteomics_only,JH42,lipopolysaccharide synthesis,0.01665140680757759
+proteomics_only,JH43,Cell wall biosynthesis,0.022277678105456288
+proteomics_only,JH43,DNA replication,2.0586031788560884e-07
+proteomics_only,JH43,Fatty acid synthesis,2.8986810546360876e-07
+proteomics_only,JH43,Folic acid metabolism,2.5733433876087837e-08
+proteomics_only,JH43,Membrane disruption,0.8539237469434738
+proteomics_only,JH43,Nitrofurans,1.4819857076062704e-05
+proteomics_only,JH43,Protein synthesis,0.0030335847222204395
+proteomics_only,JH43,RNA Synthesis,2.4078581299519233e-08
+proteomics_only,JH43,lipopolysaccharide synthesis,6.966925872745834e-05
+proteomics_only,JH44,Cell wall biosynthesis,3.2633092735157023e-06
+proteomics_only,JH44,DNA replication,2.5627741524481e-06
+proteomics_only,JH44,Fatty acid synthesis,3.6140338991796916e-07
+proteomics_only,JH44,Folic acid metabolism,1.600726508140145e-08
+proteomics_only,JH44,Membrane disruption,0.9105314218997955
+proteomics_only,JH44,Nitrofurans,0.003079967893281719
+proteomics_only,JH44,Protein synthesis,2.9347935509980163e-05
+proteomics_only,JH44,RNA Synthesis,1.1330584650681707e-06
+proteomics_only,JH44,lipopolysaccharide synthesis,4.409011985668787e-06
+proteomics_only,JH45,Cell wall biosynthesis,0.0050709415261856825
+proteomics_only,JH45,DNA replication,1.2016823131603497e-07
+proteomics_only,JH45,Fatty acid synthesis,3.442761299989975e-08
+proteomics_only,JH45,Folic acid metabolism,1.4422919913409094e-09
+proteomics_only,JH45,Membrane disruption,0.9959044782320658
+proteomics_only,JH45,Nitrofurans,8.568433519625292e-07
+proteomics_only,JH45,Protein synthesis,2.1946989560414445e-05
+proteomics_only,JH45,RNA Synthesis,1.841190314871034e-08
+proteomics_only,JH45,lipopolysaccharide synthesis,1.98023137862909e-05
+proteomics_only,JH46,Cell wall biosynthesis,0.030507699896261332
+proteomics_only,JH46,DNA replication,8.511175696845897e-07
+proteomics_only,JH46,Fatty acid synthesis,4.134169037836699e-05
+proteomics_only,JH46,Folic acid metabolism,7.945000572440186e-08
+proteomics_only,JH46,Membrane disruption,0.31734741700347513
+proteomics_only,JH46,Nitrofurans,3.210753630666918e-07
+proteomics_only,JH46,Protein synthesis,1.6302624124477917e-05
+proteomics_only,JH46,RNA Synthesis,2.6696638272538654e-07
+proteomics_only,JH46,lipopolysaccharide synthesis,0.01664251245674677
+proteomics_only,JH47,Cell wall biosynthesis,0.6859443984925747
+proteomics_only,JH47,DNA replication,1.4686493781401742e-06
+proteomics_only,JH47,Fatty acid synthesis,3.9594730797309905e-06
+proteomics_only,JH47,Folic acid metabolism,1.3707396026707564e-06
+proteomics_only,JH47,Membrane disruption,0.49631171911954886
+proteomics_only,JH47,Nitrofurans,1.7300782147532114e-07
+proteomics_only,JH47,Protein synthesis,4.7333246304615e-06
+proteomics_only,JH47,RNA Synthesis,2.385930964546052e-08
+proteomics_only,JH47,lipopolysaccharide synthesis,0.01895233470975654
+proteomics_only,JH48,Cell wall biosynthesis,0.015049861805096043
+proteomics_only,JH48,DNA replication,5.375032664808544e-05
+proteomics_only,JH48,Fatty acid synthesis,0.036053174625267276
+proteomics_only,JH48,Folic acid metabolism,0.0005508303733154208
+proteomics_only,JH48,Membrane disruption,0.0002112701196148947
+proteomics_only,JH48,Nitrofurans,5.423959389029218e-06
+proteomics_only,JH48,Protein synthesis,0.00010735637336006577
+proteomics_only,JH48,RNA Synthesis,1.4130860122589794e-05
+proteomics_only,JH48,lipopolysaccharide synthesis,0.7239901164174081
+proteomics_only,JH49,Cell wall biosynthesis,0.006453411301336018
+proteomics_only,JH49,DNA replication,7.84545438492046e-05
+proteomics_only,JH49,Fatty acid synthesis,0.015932915715093258
+proteomics_only,JH49,Folic acid metabolism,0.0010680582078362022
+proteomics_only,JH49,Membrane disruption,0.00010092601105554876
+proteomics_only,JH49,Nitrofurans,2.0367692500578018e-07
+proteomics_only,JH49,Protein synthesis,2.475633583063797e-05
+proteomics_only,JH49,RNA Synthesis,4.174516719197996e-05
+proteomics_only,JH49,lipopolysaccharide synthesis,0.8740782237052918
+proteomics_only,JH5,Cell wall biosynthesis,0.22382265170415244
+proteomics_only,JH5,DNA replication,0.0008257064971803629
+proteomics_only,JH5,Fatty acid synthesis,9.492564690016062e-06
+proteomics_only,JH5,Folic acid metabolism,1.6974584329905914e-05
+proteomics_only,JH5,Membrane disruption,5.862543640650605e-05
+proteomics_only,JH5,Nitrofurans,5.695184331982092e-07
+proteomics_only,JH5,Protein synthesis,0.20371234095344942
+proteomics_only,JH5,RNA Synthesis,2.3596283839643442e-05
+proteomics_only,JH5,lipopolysaccharide synthesis,0.0025187254553262995
+proteomics_only,JH50,Cell wall biosynthesis,0.018918430185876786
+proteomics_only,JH50,DNA replication,0.00010947519515866588
+proteomics_only,JH50,Fatty acid synthesis,0.03654628315212903
+proteomics_only,JH50,Folic acid metabolism,0.0018268949459036322
+proteomics_only,JH50,Membrane disruption,0.0006242230912783952
+proteomics_only,JH50,Nitrofurans,5.804174700957399e-07
+proteomics_only,JH50,Protein synthesis,0.00012089359082594342
+proteomics_only,JH50,RNA Synthesis,0.00011062288575253375
+proteomics_only,JH50,lipopolysaccharide synthesis,0.5508299046009779
+proteomics_only,JH55,Cell wall biosynthesis,1.684897914966399e-06
+proteomics_only,JH55,DNA replication,0.007985010368815892
+proteomics_only,JH55,Fatty acid synthesis,5.262258826533791e-08
+proteomics_only,JH55,Folic acid metabolism,1.5489883748631696e-06
+proteomics_only,JH55,Membrane disruption,1.0516723523460238e-07
+proteomics_only,JH55,Nitrofurans,0.0003239177100907398
+proteomics_only,JH55,Protein synthesis,0.9799437648057937
+proteomics_only,JH55,RNA Synthesis,3.0613279690065995e-05
+proteomics_only,JH55,lipopolysaccharide synthesis,1.419081359418776e-09
+proteomics_only,JH56,Cell wall biosynthesis,0.04618435534881428
+proteomics_only,JH56,DNA replication,0.006518769857066217
+proteomics_only,JH56,Fatty acid synthesis,0.0005545424261845256
+proteomics_only,JH56,Folic acid metabolism,0.0021293165610859434
+proteomics_only,JH56,Membrane disruption,0.00029792625991845515
+proteomics_only,JH56,Nitrofurans,5.290216751552279e-05
+proteomics_only,JH56,Protein synthesis,0.05158415927871829
+proteomics_only,JH56,RNA Synthesis,0.0020282147121508842
+proteomics_only,JH56,lipopolysaccharide synthesis,0.0014675059475302988
+proteomics_only,JH58,Cell wall biosynthesis,7.655526154837222e-08
+proteomics_only,JH58,DNA replication,0.00015939089295670782
+proteomics_only,JH58,Fatty acid synthesis,1.5171178837434239e-05
+proteomics_only,JH58,Folic acid metabolism,0.0015996296972843993
+proteomics_only,JH58,Membrane disruption,2.0742469845347334e-07
+proteomics_only,JH58,Nitrofurans,0.9809564703702927
+proteomics_only,JH58,Protein synthesis,0.007929514603520146
+proteomics_only,JH58,RNA Synthesis,0.00012866279751506227
+proteomics_only,JH58,lipopolysaccharide synthesis,1.8827054898591654e-09
+proteomics_only,JH6,Cell wall biosynthesis,0.9969565930962563
+proteomics_only,JH6,DNA replication,1.920765655967216e-06
+proteomics_only,JH6,Fatty acid synthesis,5.998264262708792e-07
+proteomics_only,JH6,Folic acid metabolism,1.4108289857733826e-07
+proteomics_only,JH6,Membrane disruption,0.004091981348283298
+proteomics_only,JH6,Nitrofurans,1.6717565762139688e-09
+proteomics_only,JH6,Protein synthesis,1.2793006945495124e-05
+proteomics_only,JH6,RNA Synthesis,1.0660269791857918e-08
+proteomics_only,JH6,lipopolysaccharide synthesis,6.375763343044127e-05
+proteomics_only,JH61,Cell wall biosynthesis,2.476109102644841e-06
+proteomics_only,JH61,DNA replication,1.155374737660253e-06
+proteomics_only,JH61,Fatty acid synthesis,0.5877514538168908
+proteomics_only,JH61,Folic acid metabolism,0.01506576502259122
+proteomics_only,JH61,Membrane disruption,9.201971931332765e-05
+proteomics_only,JH61,Nitrofurans,2.510630338804276e-05
+proteomics_only,JH61,Protein synthesis,1.0039606852929595e-06
+proteomics_only,JH61,RNA Synthesis,7.66615340377541e-05
+proteomics_only,JH61,lipopolysaccharide synthesis,0.11728343525901437
+proteomics_only,JH62,Cell wall biosynthesis,0.0013242777218056292
+proteomics_only,JH62,DNA replication,2.503385746557285e-06
+proteomics_only,JH62,Fatty acid synthesis,0.5568189164996147
+proteomics_only,JH62,Folic acid metabolism,0.07277434188290499
+proteomics_only,JH62,Membrane disruption,3.0441155451370603e-05
+proteomics_only,JH62,Nitrofurans,6.2202225269203385e-06
+proteomics_only,JH62,Protein synthesis,3.1924311379327723e-07
+proteomics_only,JH62,RNA Synthesis,3.774526713318238e-06
+proteomics_only,JH62,lipopolysaccharide synthesis,0.0026338367580319754
+proteomics_only,JH64,Cell wall biosynthesis,1.50120721180258e-06
+proteomics_only,JH64,DNA replication,1.772756870423109e-05
+proteomics_only,JH64,Fatty acid synthesis,8.685599432922686e-06
+proteomics_only,JH64,Folic acid metabolism,0.00010245278371371568
+proteomics_only,JH64,Membrane disruption,3.504669638850544e-05
+proteomics_only,JH64,Nitrofurans,0.9521452337503433
+proteomics_only,JH64,Protein synthesis,0.028529713852185522
+proteomics_only,JH64,RNA Synthesis,2.3054544489760076e-05
+proteomics_only,JH64,lipopolysaccharide synthesis,1.1555326888332273e-08
+proteomics_only,JH65,Cell wall biosynthesis,1.97303506009887e-10
+proteomics_only,JH65,DNA replication,1.527199041321481e-05
+proteomics_only,JH65,Fatty acid synthesis,8.876813423153162e-07
+proteomics_only,JH65,Folic acid metabolism,3.900775855889549e-06
+proteomics_only,JH65,Membrane disruption,7.788487343448473e-08
+proteomics_only,JH65,Nitrofurans,0.9287197631597518
+proteomics_only,JH65,Protein synthesis,1.3303299914546596e-06
+proteomics_only,JH65,RNA Synthesis,2.447425946093817e-06
+proteomics_only,JH65,lipopolysaccharide synthesis,1.7835377127502142e-10
+proteomics_only,JH7,Cell wall biosynthesis,0.9863665652275084
+proteomics_only,JH7,DNA replication,0.00014682125280160107
+proteomics_only,JH7,Fatty acid synthesis,9.493866501120163e-08
+proteomics_only,JH7,Folic acid metabolism,8.776296857622158e-06
+proteomics_only,JH7,Membrane disruption,4.14951963331589e-05
+proteomics_only,JH7,Nitrofurans,5.1962756833553306e-08
+proteomics_only,JH7,Protein synthesis,7.379899250395283e-05
+proteomics_only,JH7,RNA Synthesis,2.2340001634590936e-07
+proteomics_only,JH7,lipopolysaccharide synthesis,6.689867731438426e-05
+proteomics_only,JH8,Cell wall biosynthesis,0.9793382170796395
+proteomics_only,JH8,DNA replication,1.1973520589891872e-06
+proteomics_only,JH8,Fatty acid synthesis,2.6758160275407844e-11
+proteomics_only,JH8,Folic acid metabolism,3.400750971918631e-08
+proteomics_only,JH8,Membrane disruption,0.001021672966389815
+proteomics_only,JH8,Nitrofurans,1.0882987082550715e-09
+proteomics_only,JH8,Protein synthesis,0.0001390928979327555
+proteomics_only,JH8,RNA Synthesis,8.27006371118318e-11
+proteomics_only,JH8,lipopolysaccharide synthesis,1.6715383689108743e-07
+proteomics_only,JH9,Cell wall biosynthesis,0.9725693202018737
+proteomics_only,JH9,DNA replication,0.0005532694753992473
+proteomics_only,JH9,Fatty acid synthesis,7.877888869023408e-07
+proteomics_only,JH9,Folic acid metabolism,7.281410072785376e-05
+proteomics_only,JH9,Membrane disruption,2.83441147721053e-05
+proteomics_only,JH9,Nitrofurans,4.009121027666318e-08
+proteomics_only,JH9,Protein synthesis,0.0001574263671653853
+proteomics_only,JH9,RNA Synthesis,9.817485416119265e-07
+proteomics_only,JH9,lipopolysaccharide synthesis,0.0005813613415375585

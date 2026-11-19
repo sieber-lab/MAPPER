@@ -1,0 +1,17 @@
+{
+  "rdkit_version": "2022.09.5",
+  "numpy_version": "1.26.4",
+  "settings": {
+    "valence_ring_atoms": {
+      "ringMatchesRingOnly": true,
+      "completeRingsOnly": false,
+      "matchValences": true
+    }
+  },
+  "timeout_seconds_per_pair": 15,
+  "coverage": "MCS atom count / query atom count",
+  "atom_compare": "CompareElements",
+  "bond_compare": "CompareOrder",
+  "smiles_fragment": "first",
+  "original_annotations_changed": false
+}

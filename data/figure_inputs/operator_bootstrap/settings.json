@@ -1,0 +1,18 @@
+{
+  "classes": [
+    "Cell wall biosynthesis",
+    "DNA replication",
+    "Fatty acid synthesis",
+    "Folic acid metabolism",
+    "Protein synthesis",
+    "RNA Synthesis",
+    "lipopolysaccharide synthesis"
+  ],
+  "repeats": 2000,
+  "seed": 20260917,
+  "resampling_unit": "unique compound identity, stratified by MoA",
+  "overlap": "one shared compound multiplicity across all five fixed test splits",
+  "statistic": "mean of separately recalculated split accuracies",
+  "stratification_scope": "union of fixed control test sets; individual split resample sizes may vary",
+  "interval": "2.5th and 97.5th percentiles; fitted models, splits and scores fixed"
+}

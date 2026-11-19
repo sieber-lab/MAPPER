@@ -1,0 +1,98 @@
+{
+  "classes": [
+    "Cell wall biosynthesis",
+    "DNA replication",
+    "Fatty acid synthesis",
+    "Folic acid metabolism",
+    "Membrane disruption",
+    "Nitrofurans",
+    "Protein synthesis",
+    "RNA Synthesis",
+    "lipopolysaccharide synthesis"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "jobs": {
+    "full51": {
+      "train": [
+        "JH0",
+        "JH10",
+        "JH12",
+        "JH13",
+        "JH14",
+        "JH15",
+        "JH16",
+        "JH17",
+        "JH18",
+        "JH2",
+        "JH20",
+        "JH21",
+        "JH23",
+        "JH24",
+        "JH26",
+        "JH27",
+        "JH28",
+        "JH29",
+        "JH3",
+        "JH30",
+        "JH31",
+        "JH32",
+        "JH33",
+        "JH35",
+        "JH36",
+        "JH37",
+        "JH38",
+        "JH39",
+        "JH40",
+        "JH41",
+        "JH42",
+        "JH43",
+        "JH44",
+        "JH45",
+        "JH46",
+        "JH47",
+        "JH48",
+        "JH49",
+        "JH5",
+        "JH50",
+        "JH55",
+        "JH56",
+        "JH58",
+        "JH6",
+        "JH61",
+        "JH62",
+        "JH64",
+        "JH65",
+        "JH7",
+        "JH8",
+        "JH9"
+      ],
+      "predict": []
+    }
+  },
+  "score_cutoffs": {
+    "multimodal": 0.34133748710155476,
+    "proteomics": 0.28073482250173876
+  },
+  "feature_order": [
+    "Text_Embedding",
+    "Proteomics",
+    "ECFP",
+    "InfoAlign",
+    "MIC",
+    "GC"
+  ],
+  "numeric_widths": {
+    "multimodal": 6779,
+    "proteomics": 4401
+  },
+  "preprocessing": [
+    "StandardScaler fitted on training pairs",
+    "TabM QuantileTransformer fitted on training pairs"
+  ]
+}

@@ -1,0 +1,70 @@
+campaign,moa_class,tested,train_DS_compounds,train_LE_compounds,coverage_category,test_operators,test_DS_compounds,test_LE_compounds,annotation
+C1,Cell wall biosynthesis,False,,,Not tested,,0,0,Not tested
+C2,Cell wall biosynthesis,True,7.0,0.0,Test operator missing,LE,0,2,"Train: DS7 LE0
+Test: DS0 LE2"
+C3,Cell wall biosynthesis,True,3.0,2.0,Test operators represented,DS,4,0,"Train: DS3 LE2
+Test: DS4 LE0"
+C4,Cell wall biosynthesis,True,4.0,2.0,Test operators represented,DS,3,0,"Train: DS4 LE2
+Test: DS3 LE0"
+C5,Cell wall biosynthesis,False,,,Not tested,,0,0,Not tested
+C1,DNA replication,True,4.0,2.0,Test operators represented,LE,0,3,"Train: DS4 LE2
+Test: DS0 LE3"
+C2,DNA replication,True,4.0,3.0,Test operators represented,LE,0,2,"Train: DS4 LE3
+Test: DS0 LE2"
+C3,DNA replication,True,0.0,5.0,Test operator missing,DS,4,0,"Train: DS0 LE5
+Test: DS4 LE0"
+C4,DNA replication,False,,,Not tested,,0,0,Not tested
+C5,DNA replication,False,,,Not tested,,0,0,Not tested
+C1,Fatty acid synthesis,False,,,Not tested,,0,0,Not tested
+C2,Fatty acid synthesis,True,1.0,0.0,Test operator missing,LE,0,3,"Train: DS1 LE0
+Test: DS0 LE3"
+C3,Fatty acid synthesis,False,,,Not tested,,0,0,Not tested
+C4,Fatty acid synthesis,True,0.0,2.0,Test operator missing,DS / LE,1,1,"Train: DS0 LE2
+Test: DS1 LE1"
+C5,Fatty acid synthesis,False,,,Not tested,,0,0,Not tested
+C1,Folic acid metabolism,False,,,Not tested,,0,0,Not tested
+C2,Folic acid metabolism,True,2.0,0.0,Test operator missing,LE,0,2,"Train: DS2 LE0
+Test: DS0 LE2"
+C3,Folic acid metabolism,False,,,Not tested,,0,0,Not tested
+C4,Folic acid metabolism,True,0.0,1.0,Test operator missing,DS / LE,2,1,"Train: DS0 LE1
+Test: DS2 LE1"
+C5,Folic acid metabolism,False,,,Not tested,,0,0,Not tested
+C1,Membrane disruption,False,,,Not tested,,0,0,Not tested
+C2,Membrane disruption,False,,,Not tested,,0,0,Not tested
+C3,Membrane disruption,True,1.0,0.0,Test operators represented,DS,4,0,"Train: DS1 LE0
+Test: DS4 LE0"
+C4,Membrane disruption,False,,,Not tested,,0,0,Not tested
+C5,Membrane disruption,True,4.0,0.0,Test operators represented,DS,1,0,"Train: DS4 LE0
+Test: DS1 LE0"
+C1,Nitrofurans,False,,,Not tested,,0,0,Not tested
+C2,Nitrofurans,False,,,Not tested,,0,0,Not tested
+C3,Nitrofurans,True,3.0,0.0,Test operators represented,DS,1,0,"Train: DS3 LE0
+Test: DS1 LE0"
+C4,Nitrofurans,True,3.0,0.0,Test operators represented,DS,1,0,"Train: DS3 LE0
+Test: DS1 LE0"
+C5,Nitrofurans,True,2.0,0.0,Test operators represented,DS,2,0,"Train: DS2 LE0
+Test: DS2 LE0"
+C1,Protein synthesis,True,4.0,2.0,Test operators represented,LE,0,3,"Train: DS4 LE2
+Test: DS0 LE3"
+C2,Protein synthesis,True,4.0,3.0,Test operators represented,LE,0,2,"Train: DS4 LE3
+Test: DS0 LE2"
+C3,Protein synthesis,True,1.0,5.0,Test operators represented,DS,3,0,"Train: DS1 LE5
+Test: DS3 LE0"
+C4,Protein synthesis,True,1.0,5.0,Test operators represented,DS,3,0,"Train: DS1 LE5
+Test: DS3 LE0"
+C5,Protein synthesis,False,,,Not tested,,0,0,Not tested
+C1,RNA Synthesis,False,,,Not tested,,0,0,Not tested
+C2,RNA Synthesis,True,1.0,0.0,Test operator missing,LE,0,2,"Train: DS1 LE0
+Test: DS0 LE2"
+C3,RNA Synthesis,True,0.0,1.0,Test operator missing,DS,2,0,"Train: DS0 LE1
+Test: DS2 LE0"
+C4,RNA Synthesis,True,1.0,2.0,Test operators represented,DS,1,0,"Train: DS1 LE2*
+Test: DS1 LE0"
+C5,RNA Synthesis,False,,,Not tested,,0,0,Not tested
+C1,lipopolysaccharide synthesis,False,,,Not tested,,0,0,Not tested
+C2,lipopolysaccharide synthesis,True,1.0,0.0,Test operator missing,LE,0,3,"Train: DS1 LE0
+Test: DS0 LE3"
+C3,lipopolysaccharide synthesis,False,,,Not tested,,0,0,Not tested
+C4,lipopolysaccharide synthesis,True,0.0,3.0,Test operator missing,DS,1,0,"Train: DS0 LE3
+Test: DS1 LE0"
+C5,lipopolysaccharide synthesis,False,,,Not tested,,0,0,Not tested

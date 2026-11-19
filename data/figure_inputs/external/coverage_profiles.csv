@@ -1,0 +1,333 @@
+dataset,label,sample_id,case,profile_type,detected_reference_genes,usable_panel_genes
+training,In-house reference,JH2_1,JH2,biological profile,2223.0,845
+training,In-house reference,JH2_2,JH2,biological profile,2473.0,863
+training,In-house reference,JH2_3,JH2,biological profile,2477.0,864
+training,In-house reference,JH2_4,JH2,biological profile,2457.0,864
+training,In-house reference,JH3_1,JH3,biological profile,3042.0,873
+training,In-house reference,JH3_2,JH3,biological profile,3049.0,872
+training,In-house reference,JH3_3,JH3,biological profile,3025.0,873
+training,In-house reference,JH3_4,JH3,biological profile,3062.0,873
+training,In-house reference,JH5_1,JH5,biological profile,2500.0,864
+training,In-house reference,JH5_3,JH5,biological profile,2405.0,858
+training,In-house reference,JH5_4,JH5,biological profile,2375.0,857
+training,In-house reference,JH6_1,JH6,biological profile,3026.0,873
+training,In-house reference,JH6_2,JH6,biological profile,3048.0,873
+training,In-house reference,JH6_3,JH6,biological profile,3074.0,873
+training,In-house reference,JH6_4,JH6,biological profile,3074.0,873
+training,In-house reference,JH7_1,JH7,biological profile,3074.0,873
+training,In-house reference,JH7_2,JH7,biological profile,3063.0,873
+training,In-house reference,JH7_3,JH7,biological profile,3057.0,873
+training,In-house reference,JH7_4,JH7,biological profile,3054.0,873
+training,In-house reference,JH8_1,JH8,biological profile,3068.0,872
+training,In-house reference,JH8_2,JH8,biological profile,3053.0,873
+training,In-house reference,JH8_3,JH8,biological profile,3052.0,872
+training,In-house reference,JH8_4,JH8,biological profile,3040.0,873
+training,In-house reference,JH9_1,JH9,biological profile,3052.0,873
+training,In-house reference,JH9_2,JH9,biological profile,2997.0,873
+training,In-house reference,JH9_3,JH9,biological profile,3034.0,872
+training,In-house reference,JH9_4,JH9,biological profile,3068.0,873
+training,In-house reference,JH10_1,JH10,biological profile,3034.0,872
+training,In-house reference,JH10_2,JH10,biological profile,3048.0,873
+training,In-house reference,JH10_3,JH10,biological profile,3049.0,873
+training,In-house reference,JH10_4,JH10,biological profile,3044.0,873
+training,In-house reference,JH12_1,JH12,biological profile,2998.0,873
+training,In-house reference,JH12_2,JH12,biological profile,2967.0,873
+training,In-house reference,JH12_3,JH12,biological profile,2965.0,872
+training,In-house reference,JH12_4,JH12,biological profile,2964.0,872
+training,In-house reference,JH13_1,JH13,biological profile,2689.0,870
+training,In-house reference,JH13_2,JH13,biological profile,2665.0,869
+training,In-house reference,JH13_3,JH13,biological profile,2651.0,869
+training,In-house reference,JH13_4,JH13,biological profile,2565.0,867
+training,In-house reference,JH14_1,JH14,biological profile,2968.0,873
+training,In-house reference,JH14_2,JH14,biological profile,2604.0,863
+training,In-house reference,JH14_3,JH14,biological profile,2916.0,873
+training,In-house reference,JH14_4,JH14,biological profile,2952.0,872
+training,In-house reference,JH15_1,JH15,biological profile,2698.0,866
+training,In-house reference,JH15_2,JH15,biological profile,3028.0,872
+training,In-house reference,JH15_3,JH15,biological profile,3014.0,873
+training,In-house reference,JH15_4,JH15,biological profile,2990.0,873
+training,In-house reference,JH16_1,JH16,biological profile,2246.0,855
+training,In-house reference,JH16_2,JH16,biological profile,2478.0,863
+training,In-house reference,JH16_3,JH16,biological profile,2448.0,860
+training,In-house reference,JH17_1,JH17,biological profile,2661.0,869
+training,In-house reference,JH17_2,JH17,biological profile,2672.0,867
+training,In-house reference,JH17_3,JH17,biological profile,2696.0,868
+training,In-house reference,JH17_4,JH17,biological profile,2675.0,869
+training,In-house reference,JH18_1,JH18,biological profile,2999.0,873
+training,In-house reference,JH18_2,JH18,biological profile,2998.0,873
+training,In-house reference,JH18_3,JH18,biological profile,3032.0,873
+training,In-house reference,JH18_4,JH18,biological profile,3014.0,873
+training,In-house reference,JH20_1,JH20,biological profile,3048.0,873
+training,In-house reference,JH20_2,JH20,biological profile,3037.0,873
+training,In-house reference,JH20_3,JH20,biological profile,3070.0,873
+training,In-house reference,JH20_4,JH20,biological profile,3040.0,873
+training,In-house reference,JH21_1,JH21,biological profile,3081.0,873
+training,In-house reference,JH21_2,JH21,biological profile,3047.0,873
+training,In-house reference,JH21_3,JH21,biological profile,3059.0,873
+training,In-house reference,JH21_4,JH21,biological profile,3092.0,873
+training,In-house reference,JH23_1,JH23,biological profile,2296.0,861
+training,In-house reference,JH23_2,JH23,biological profile,2979.0,867
+training,In-house reference,JH23_3,JH23,biological profile,3014.0,867
+training,In-house reference,JH23_4,JH23,biological profile,2995.0,867
+training,In-house reference,JH24_1,JH24,biological profile,2489.0,864
+training,In-house reference,JH24_2,JH24,biological profile,2522.0,865
+training,In-house reference,JH24_3,JH24,biological profile,2582.0,865
+training,In-house reference,JH24_4,JH24,biological profile,2460.0,865
+training,In-house reference,JH26_1,JH26,biological profile,3025.0,872
+training,In-house reference,JH26_2,JH26,biological profile,3006.0,873
+training,In-house reference,JH26_3,JH26,biological profile,3034.0,873
+training,In-house reference,JH26_4,JH26,biological profile,3009.0,873
+training,In-house reference,JH27_1,JH27,biological profile,2713.0,871
+training,In-house reference,JH27_2,JH27,biological profile,2663.0,869
+training,In-house reference,JH27_3,JH27,biological profile,2665.0,869
+training,In-house reference,JH27_4,JH27,biological profile,2619.0,868
+training,In-house reference,JH28_1,JH28,biological profile,2524.0,866
+training,In-house reference,JH28_2,JH28,biological profile,2496.0,865
+training,In-house reference,JH28_3,JH28,biological profile,2490.0,864
+training,In-house reference,JH28_4,JH28,biological profile,2380.0,866
+training,In-house reference,JH29_1,JH29,biological profile,3010.0,873
+training,In-house reference,JH29_2,JH29,biological profile,2995.0,873
+training,In-house reference,JH29_3,JH29,biological profile,3012.0,873
+training,In-house reference,JH29_4,JH29,biological profile,2998.0,873
+training,In-house reference,JH30_1,JH30,biological profile,2405.0,865
+training,In-house reference,JH30_2,JH30,biological profile,2457.0,863
+training,In-house reference,JH30_3,JH30,biological profile,2504.0,867
+training,In-house reference,JH30_4,JH30,biological profile,2218.0,855
+training,In-house reference,JH31_1,JH31,biological profile,3031.0,873
+training,In-house reference,JH31_2,JH31,biological profile,3017.0,873
+training,In-house reference,JH31_3,JH31,biological profile,3008.0,873
+training,In-house reference,JH31_4,JH31,biological profile,3046.0,872
+training,In-house reference,JH32_1,JH32,biological profile,3008.0,873
+training,In-house reference,JH32_2,JH32,biological profile,3003.0,872
+training,In-house reference,JH32_3,JH32,biological profile,3034.0,873
+training,In-house reference,JH32_4,JH32,biological profile,3000.0,873
+training,In-house reference,JH33_1,JH33,biological profile,2987.0,872
+training,In-house reference,JH33_2,JH33,biological profile,2905.0,873
+training,In-house reference,JH33_3,JH33,biological profile,2901.0,871
+training,In-house reference,JH33_4,JH33,biological profile,2998.0,872
+training,In-house reference,JH35_1,JH35,biological profile,2621.0,868
+training,In-house reference,JH35_2,JH35,biological profile,2651.0,868
+training,In-house reference,JH35_3,JH35,biological profile,2613.0,869
+training,In-house reference,JH35_4,JH35,biological profile,2633.0,870
+training,In-house reference,JH36_1,JH36,biological profile,2607.0,868
+training,In-house reference,JH36_2,JH36,biological profile,2594.0,869
+training,In-house reference,JH36_3,JH36,biological profile,2539.0,865
+training,In-house reference,JH36_4,JH36,biological profile,2535.0,866
+training,In-house reference,JH37_1,JH37,biological profile,2733.0,866
+training,In-house reference,JH37_2,JH37,biological profile,3040.0,872
+training,In-house reference,JH37_3,JH37,biological profile,3057.0,872
+training,In-house reference,JH37_4,JH37,biological profile,3076.0,873
+training,In-house reference,JH38_1,JH38,biological profile,2451.0,863
+training,In-house reference,JH38_2,JH38,biological profile,2539.0,865
+training,In-house reference,JH38_3,JH38,biological profile,2371.0,861
+training,In-house reference,JH38_4,JH38,biological profile,2408.0,863
+training,In-house reference,JH39_1,JH39,biological profile,2280.0,856
+training,In-house reference,JH39_2,JH39,biological profile,2941.0,872
+training,In-house reference,JH39_3,JH39,biological profile,2860.0,872
+training,In-house reference,JH39_4,JH39,biological profile,2978.0,873
+training,In-house reference,JH40_1,JH40,biological profile,2485.0,865
+training,In-house reference,JH40_2,JH40,biological profile,2584.0,865
+training,In-house reference,JH40_3,JH40,biological profile,2461.0,864
+training,In-house reference,JH40_4,JH40,biological profile,2377.0,863
+training,In-house reference,JH41_1,JH41,biological profile,2217.0,858
+training,In-house reference,JH41_2,JH41,biological profile,2126.0,854
+training,In-house reference,JH41_4,JH41,biological profile,2285.0,859
+training,In-house reference,JH42_1,JH42,biological profile,2378.0,862
+training,In-house reference,JH42_2,JH42,biological profile,3003.0,869
+training,In-house reference,JH42_3,JH42,biological profile,2990.0,869
+training,In-house reference,JH42_4,JH42,biological profile,2998.0,869
+training,In-house reference,JH43_1,JH43,biological profile,2985.0,873
+training,In-house reference,JH43_2,JH43,biological profile,2945.0,873
+training,In-house reference,JH43_3,JH43,biological profile,2922.0,870
+training,In-house reference,JH43_4,JH43,biological profile,2986.0,873
+training,In-house reference,JH44_1,JH44,biological profile,2781.0,865
+training,In-house reference,JH44_2,JH44,biological profile,2781.0,862
+training,In-house reference,JH44_3,JH44,biological profile,2765.0,862
+training,In-house reference,JH44_4,JH44,biological profile,2807.0,862
+training,In-house reference,JH45_1,JH45,biological profile,2909.0,871
+training,In-house reference,JH45_3,JH45,biological profile,2921.0,871
+training,In-house reference,JH45_4,JH45,biological profile,2885.0,869
+training,In-house reference,JH46_1,JH46,biological profile,2994.0,873
+training,In-house reference,JH46_2,JH46,biological profile,3002.0,873
+training,In-house reference,JH46_3,JH46,biological profile,2988.0,873
+training,In-house reference,JH46_4,JH46,biological profile,3006.0,873
+training,In-house reference,JH47_1,JH47,biological profile,2992.0,872
+training,In-house reference,JH47_2,JH47,biological profile,2999.0,873
+training,In-house reference,JH47_3,JH47,biological profile,3018.0,872
+training,In-house reference,JH47_4,JH47,biological profile,2986.0,873
+training,In-house reference,JH48_1,JH48,biological profile,2516.0,865
+training,In-house reference,JH48_2,JH48,biological profile,2561.0,865
+training,In-house reference,JH48_3,JH48,biological profile,2551.0,863
+training,In-house reference,JH48_4,JH48,biological profile,2343.0,861
+training,In-house reference,JH49_1,JH49,biological profile,2514.0,862
+training,In-house reference,JH49_2,JH49,biological profile,2565.0,864
+training,In-house reference,JH49_3,JH49,biological profile,2533.0,863
+training,In-house reference,JH49_4,JH49,biological profile,2480.0,858
+training,In-house reference,JH50_1,JH50,biological profile,2570.0,865
+training,In-house reference,JH50_2,JH50,biological profile,2382.0,862
+training,In-house reference,JH50_3,JH50,biological profile,2549.0,866
+training,In-house reference,JH50_4,JH50,biological profile,2439.0,862
+training,In-house reference,JH55_1,JH55,biological profile,2648.0,869
+training,In-house reference,JH55_2,JH55,biological profile,2721.0,869
+training,In-house reference,JH55_3,JH55,biological profile,2675.0,869
+training,In-house reference,JH55_4,JH55,biological profile,2717.0,869
+training,In-house reference,JH56_1,JH56,biological profile,2467.0,862
+training,In-house reference,JH56_2,JH56,biological profile,2583.0,865
+training,In-house reference,JH56_3,JH56,biological profile,2547.0,868
+training,In-house reference,JH56_4,JH56,biological profile,2505.0,867
+training,In-house reference,JH58_1,JH58,biological profile,3019.0,873
+training,In-house reference,JH58_2,JH58,biological profile,3018.0,873
+training,In-house reference,JH58_3,JH58,biological profile,3034.0,873
+training,In-house reference,JH58_4,JH58,biological profile,3039.0,873
+training,In-house reference,JH61_1,JH61,biological profile,3043.0,873
+training,In-house reference,JH61_2,JH61,biological profile,3022.0,873
+training,In-house reference,JH61_3,JH61,biological profile,3022.0,873
+training,In-house reference,JH61_4,JH61,biological profile,3051.0,873
+training,In-house reference,JH62_1,JH62,biological profile,3054.0,873
+training,In-house reference,JH62_2,JH62,biological profile,3052.0,872
+training,In-house reference,JH62_3,JH62,biological profile,3053.0,873
+training,In-house reference,JH62_4,JH62,biological profile,3079.0,872
+training,In-house reference,JH64_1,JH64,biological profile,3026.0,872
+training,In-house reference,JH64_2,JH64,biological profile,3058.0,873
+training,In-house reference,JH64_3,JH64,biological profile,3041.0,873
+training,In-house reference,JH64_4,JH64,biological profile,3034.0,873
+training,In-house reference,JH65_1,JH65,biological profile,3009.0,873
+training,In-house reference,JH65_2,JH65,biological profile,2998.0,872
+training,In-house reference,JH65_3,JH65,biological profile,2992.0,873
+training,In-house reference,JH65_4,JH65,biological profile,3026.0,873
+training,In-house reference,JH0_1,JH0,biological profile,2974.0,872
+training,In-house reference,JH0_2,JH0,biological profile,2948.0,872
+training,In-house reference,JH0_3,JH0,biological profile,2890.0,872
+training,In-house reference,JH0_4,JH0,biological profile,2831.0,871
+inhouse_corramycin,Corramycin (in-house),JH70_1,JH70,biological profile,2879.0,873
+inhouse_corramycin,Corramycin (in-house),JH70_2,JH70,biological profile,2868.0,873
+inhouse_corramycin,Corramycin (in-house),JH70_3,JH70,biological profile,2875.0,873
+inhouse_corramycin,Corramycin (in-house),JH70_4,JH70,biological profile,2881.0,873
+eclipse,Eclipse,JH29_1,JH29,biological profile,2588.0,871
+eclipse,Eclipse,JH29_2,JH29,biological profile,2601.0,871
+eclipse,Eclipse,JH29_3,JH29,biological profile,2604.0,870
+eclipse,Eclipse,JH29_4,JH29,biological profile,2601.0,871
+eclipse,Eclipse,JH55_1,JH55,biological profile,2432.0,864
+eclipse,Eclipse,JH55_2,JH55,biological profile,2482.0,864
+eclipse,Eclipse,JH55_3,JH55,biological profile,2425.0,864
+eclipse,Eclipse,JH55_4,JH55,biological profile,2451.0,863
+eclipse,Eclipse,JH6_1,JH6,biological profile,2631.0,870
+eclipse,Eclipse,JH6_2,JH6,biological profile,2635.0,871
+eclipse,Eclipse,JH6_3,JH6,biological profile,2645.0,871
+eclipse,Eclipse,JH6_4,JH6,biological profile,2636.0,871
+gentamicin,Gentamicin,Gentamicin2017_1,Gentamicin,biological profile,1462.0,802
+gentamicin,Gentamicin,Gentamicin2017_2,Gentamicin,biological profile,1465.0,802
+gentamicin,Gentamicin,Gentamicin2017_3,Gentamicin,biological profile,1463.0,802
+gentamicin,Gentamicin,Gentamicin2017_4,Gentamicin,biological profile,1464.0,802
+cefiderocol,Cefiderocol,PXD031624CFDC_1,Cefiderocol,biological profile,2718.0,871
+cefiderocol,Cefiderocol,PXD031624CFDC_2,Cefiderocol,biological profile,2701.0,870
+cefiderocol,Cefiderocol,PXD031624CFDC_3,Cefiderocol,biological profile,2723.0,870
+yu,Yu et al.,YuRifampicin_1,YuRifampicin,biological profile,466.0,433
+yu,Yu et al.,YuRifampicin_2,YuRifampicin,biological profile,858.0,667
+yu,Yu et al.,YuRifampicin_3,YuRifampicin,biological profile,1022.0,690
+yu,Yu et al.,YuTeixobactin_1,YuTeixobactin,biological profile,926.0,677
+yu,Yu et al.,YuTeixobactin_2,YuTeixobactin,biological profile,684.0,601
+yu,Yu et al.,YuTeixobactin_3,YuTeixobactin,biological profile,936.0,667
+yu,Yu et al.,YuDoxycycline_1,YuDoxycycline,biological profile,920.0,702
+yu,Yu et al.,YuDoxycycline_2,YuDoxycycline,biological profile,909.0,703
+yu,Yu et al.,YuVancomycin_1,YuVancomycin,biological profile,1271.0,842
+yu,Yu et al.,YuVancomycin_2,YuVancomycin,biological profile,1150.0,795
+yu,Yu et al.,YuVancomycin_3,YuVancomycin,biological profile,1323.0,846
+yu,Yu et al.,YuCefotaxime_1,YuCefotaxime,biological profile,885.0,805
+yu,Yu et al.,YuCefotaxime_2,YuCefotaxime,biological profile,888.0,812
+yu,Yu et al.,YuCefotaxime_3,YuCefotaxime,biological profile,900.0,817
+yu,Yu et al.,YuTetracycline_1,YuTetracycline,biological profile,921.0,770
+yu,Yu et al.,YuTetracycline_2,YuTetracycline,biological profile,849.0,719
+yu,Yu et al.,YuTetracycline_3,YuTetracycline,biological profile,900.0,763
+yu,Yu et al.,YuTeicoplanin_1,YuTeicoplanin,biological profile,1066.0,830
+yu,Yu et al.,YuTeicoplanin_2,YuTeicoplanin,biological profile,1092.0,822
+yu,Yu et al.,YuTeicoplanin_3,YuTeicoplanin,biological profile,1073.0,829
+yu,Yu et al.,YuPenicillin_1,YuPenicillin,biological profile,992.0,797
+yu,Yu et al.,YuPenicillin_2,YuPenicillin,biological profile,1023.0,813
+yu,Yu et al.,YuPenicillin_3,YuPenicillin,biological profile,1003.0,809
+yu,Yu et al.,YuIsoniazid_1,YuIsoniazid,biological profile,1059.0,815
+yu,Yu et al.,YuIsoniazid_2,YuIsoniazid,biological profile,1016.0,810
+yu,Yu et al.,YuIsoniazid_3,YuIsoniazid,biological profile,1050.0,820
+yu,Yu et al.,YuCerulenin_1,YuCerulenin,biological profile,901.0,789
+yu,Yu et al.,YuCerulenin_2,YuCerulenin,biological profile,922.0,820
+yu,Yu et al.,YuCerulenin_3,YuCerulenin,biological profile,913.0,802
+yu,Yu et al.,YuTriclosan_1,YuTriclosan,biological profile,909.0,799
+yu,Yu et al.,YuTriclosan_2,YuTriclosan,biological profile,875.0,789
+yu,Yu et al.,YuTriclosan_3,YuTriclosan,biological profile,891.0,798
+yu,Yu et al.,YuCeftriaxone_1,YuCeftriaxone,biological profile,788.0,731
+yu,Yu et al.,YuCeftriaxone_2,YuCeftriaxone,biological profile,877.0,798
+yu,Yu et al.,YuMeropenem_1,YuMeropenem,biological profile,835.0,762
+yu,Yu et al.,YuMeropenem_2,YuMeropenem,biological profile,835.0,760
+yu,Yu et al.,YuMeropenem_3,YuMeropenem,biological profile,840.0,773
+yu,Yu et al.,YuFlavomycin_1,YuFlavomycin,biological profile,814.0,750
+yu,Yu et al.,YuFlavomycin_2,YuFlavomycin,biological profile,855.0,779
+yu,Yu et al.,YuFlavomycin_3,YuFlavomycin,biological profile,819.0,756
+yu,Yu et al.,YuMonactin_1,YuMonactin,biological profile,849.0,769
+yu,Yu et al.,YuMonactin_2,YuMonactin,biological profile,830.0,774
+yu,Yu et al.,YuMonactin_3,YuMonactin,biological profile,856.0,780
+yu,Yu et al.,YuRetapamulin_1,YuRetapamulin,biological profile,827.0,732
+yu,Yu et al.,YuRetapamulin_2,YuRetapamulin,biological profile,787.0,717
+yu,Yu et al.,YuRetapamulin_3,YuRetapamulin,biological profile,826.0,757
+yu,Yu et al.,YuThiostrepton_1,YuThiostrepton,biological profile,820.0,745
+yu,Yu et al.,YuThiostrepton_2,YuThiostrepton,biological profile,854.0,754
+yu,Yu et al.,YuThiostrepton_3,YuThiostrepton,biological profile,817.0,733
+yu,Yu et al.,YuErythromycin_1,YuErythromycin,biological profile,902.0,753
+yu,Yu et al.,YuErythromycin_2,YuErythromycin,biological profile,804.0,710
+yu,Yu et al.,YuErythromycin_3,YuErythromycin,biological profile,930.0,757
+yu,Yu et al.,YuPolymyxin_1,YuPolymyxin,biological profile,1054.0,836
+yu,Yu et al.,YuPolymyxin_2,YuPolymyxin,biological profile,1065.0,836
+yu,Yu et al.,YuPolymyxin_3,YuPolymyxin,biological profile,1049.0,829
+subanovic,Subanovic et al.,Cefotaxime_1,Cefotaxime,biological profile,2067.0,834
+subanovic,Subanovic et al.,Cefotaxime_2,Cefotaxime,biological profile,2109.0,835
+subanovic,Subanovic et al.,Cefotaxime_3,Cefotaxime,biological profile,2126.0,837
+subanovic,Subanovic et al.,Ciprofloxacin_1,Ciprofloxacin,biological profile,2064.0,836
+subanovic,Subanovic et al.,Ciprofloxacin_2,Ciprofloxacin,biological profile,2040.0,833
+subanovic,Subanovic et al.,Ciprofloxacin_3,Ciprofloxacin,biological profile,2097.0,836
+subanovic,Subanovic et al.,Imipenem_1,Imipenem,biological profile,2116.0,837
+subanovic,Subanovic et al.,Imipenem_2,Imipenem,biological profile,2114.0,837
+subanovic,Subanovic et al.,Imipenem_3,Imipenem,biological profile,2100.0,835
+subanovic,Subanovic et al.,Kanamycin_1,Kanamycin,biological profile,2091.0,841
+subanovic,Subanovic et al.,Kanamycin_2,Kanamycin,biological profile,2098.0,835
+subanovic,Subanovic et al.,Kanamycin_3,Kanamycin,biological profile,2066.0,839
+st131,ST131 / pEK499,PXD027164_Amp1,ampicillin,biological profile,857.0,576
+st131,ST131 / pEK499,PXD027164_Amp2,ampicillin,biological profile,946.0,612
+st131,ST131 / pEK499,PXD027164_Amp3,ampicillin,biological profile,848.0,574
+st131,ST131 / pEK499,PXD027164_Cef2,cefotaxime,biological profile,956.0,624
+st131,ST131 / pEK499,PXD027164_Cef3,cefotaxime,biological profile,815.0,558
+st131,ST131 / pEK499,PXD027164_Cef4,cefotaxime,biological profile,928.0,608
+st131,ST131 / pEK499,PXD027164_Imp1,imipenem,biological profile,1008.0,626
+st131,ST131 / pEK499,PXD027164_Imp2,imipenem,biological profile,1015.0,637
+st131,ST131 / pEK499,PXD027164_Imp3,imipenem,biological profile,867.0,563
+st131,ST131 / pEK499,PXD027164_cip1,ciprofloxacin,biological profile,1083.0,647
+st131,ST131 / pEK499,PXD027164_cip2,ciprofloxacin,biological profile,906.0,605
+st131,ST131 / pEK499,PXD027164_cip3,ciprofloxacin,biological profile,764.0,552
+smx,Sulfamethoxazole,PXD060990SMX12h_1,12h,biological profile,2494.0,858
+smx,Sulfamethoxazole,PXD060990SMX12h_2,12h,biological profile,2498.0,863
+smx,Sulfamethoxazole,PXD060990SMX12h_3,12h,biological profile,2462.0,858
+smx,Sulfamethoxazole,PXD060990SMX24h_1,24h,biological profile,2467.0,853
+smx,Sulfamethoxazole,PXD060990SMX24h_2,24h,biological profile,2452.0,855
+smx,Sulfamethoxazole,PXD060990SMX24h_3,24h,biological profile,2466.0,853
+smx,Sulfamethoxazole,PXD060990SMX36h_1,36h,biological profile,2419.0,851
+smx,Sulfamethoxazole,PXD060990SMX36h_2,36h,biological profile,2407.0,849
+smx,Sulfamethoxazole,PXD060990SMX36h_3,36h,biological profile,2434.0,849
+ceftriaxone,Ceftriaxone,PXD039235Ceftriaxone_1,Ceftriaxone,biological profile,2623.0,834
+ceftriaxone,Ceftriaxone,PXD039235Ceftriaxone_2,Ceftriaxone,biological profile,2625.0,834
+ceftriaxone,Ceftriaxone,PXD039235Ceftriaxone_3,Ceftriaxone,biological profile,2618.0,833
+meropenem,Meropenem,PXD067730Meropenem128_1,Meropenem_128ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem128_2,Meropenem_128ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem128_3,Meropenem_128ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem128_4,Meropenem_128ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem128_5,Meropenem_128ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem192_1,Meropenem_192ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem192_2,Meropenem_192ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem192_3,Meropenem_192ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem192_4,Meropenem_192ug_ml,biological profile,2578.0,847
+meropenem,Meropenem,PXD067730Meropenem192_5,Meropenem_192ug_ml,biological profile,2578.0,847
+colistin_csa13,Colistin / CSA13,PXD022149Colistin_1,Colistin,biological profile,1815.0,833
+colistin_csa13,Colistin / CSA13,PXD022149Colistin_2,Colistin,biological profile,1802.0,832
+colistin_csa13,Colistin / CSA13,PXD022149Colistin_3,Colistin,biological profile,1814.0,833
+colistin_csa13,Colistin / CSA13,PXD022149CSA13_1,CSA13,biological profile,1810.0,832
+colistin_csa13,Colistin / CSA13,PXD022149CSA13_2,CSA13,biological profile,1769.0,834
+colistin_csa13,Colistin / CSA13,PXD022149CSA13_3,CSA13,biological profile,1763.0,832
+ptf2,MG1655 / pTF2,PXD063721_ciprofloxacin_aggregate,ciprofloxacin,aggregate ratio,,867
+ptf2,MG1655 / pTF2,PXD063721_cefotaxime_aggregate,cefotaxime,aggregate ratio,,867

@@ -1,0 +1,10 @@
+CompoundID,role,compound_name,TrueMoA,PredictedMoA,correct,max_score,bio_var,predictive_entropy_recomputed,expected_entropy_recomputed,binary_member_consistency_recomputed,replicate_top_class_agreement_recomputed,replicate_agreement_saved,global_gate_driver
+JH32,ood,Gepotidacin,DNA replication,Cell wall biosynthesis,0,0.1159841883415356,0.0022942001949019,0.33491820613994483,0.24183207788369424,0.94375,1.0,1.0,margin_penalty
+JH47,id,Lolamicin,Membrane disruption,Cell wall biosynthesis,0,0.4492723662406206,0.0113303053624968,0.6401951249659382,0.43563246817603646,0.67046875,1.0,1.0,MeanPairKL
+JH61,id,Debio-1452-NH2,Fatty acid synthesis,Fatty acid synthesis,1,0.4962979950010776,0.0002564039039606,0.6814130227274043,0.4921988065600093,0.59421875,1.0,1.0,PredEntropy
+JH40,id,Triclosan,Fatty acid synthesis,Fatty acid synthesis,1,0.2032993465755134,0.0168684078066076,0.44131228650771986,0.30738071844360426,0.85,0.5,0.5,EpistemicMI
+JH38,ood,Rifampicin,RNA Synthesis,Protein synthesis,0,0.3706190387904644,0.0318143468299862,0.5731701096611573,0.40316485529661866,0.758125,1.0,1.0,RepMarginStd
+JH31,ood,Nitrofurantoin,Nitrofurans,Protein synthesis,0,0.5275485557317734,0.0064869064935194,0.6460718814977002,0.45286592027587785,0.67296875,1.0,1.0,MeanPairKL
+JH58,ood,Nitrofurazone,Nitrofurans,Protein synthesis,0,0.3413213089853525,0.0094613996200135,0.6091303607036822,0.4107344102582139,0.71203125,1.0,1.0,MeanPairKL
+JH64,ood,MAK-1-385,Nitrofurans,Protein synthesis,0,0.6379319952428341,0.0008934647100383,0.6394129313403204,0.43748017280206014,0.68671875,1.0,1.0,MeanPairKL
+JH65,ood,MAK-1-413,Nitrofurans,Protein synthesis,0,0.3088242105022072,0.0060521733655414,0.596118343587588,0.3833165393742269,0.7340625,1.0,1.0,MeanPairKL

@@ -1,0 +1,6 @@
+CompoundID,name,PredictedMoA,PredScore,low_score_flag
+JH68,Cystobactamid CN-DM-861,DNA replication,0.05956029242137442,True
+JH53,Nitroxoline,Fatty acid synthesis,0.3072335762530565,True
+JH67,Myxovirescin,Protein synthesis,0.14486700820358234,True
+JH51,Xanthocillin,Cell wall biosynthesis,0.02760581638547587,True
+JH66,Darobactin D22,Fatty acid synthesis,0.032614822818431956,True

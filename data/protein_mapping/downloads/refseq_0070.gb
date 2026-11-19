@@ -1,0 +1,1752 @@
+LOCUS       WP_000250228             305 aa            linear   BCT 18-MAY-2023
+DEFINITION  MULTISPECIES: hypothetical protein [Enterobacteriaceae].
+ACCESSION   WP_000250228
+VERSION     WP_000250228.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..305
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..305
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=36063
+ORIGIN      
+        1 mvqkilsdkv mnertnayys yylgernisv lplnvydppe rfiayikknr enlnitlsdf
+       61 eleqiisgmr lkalaflvpl ekiswiagse raclfswyll mqfiqnnrak isadllqknk
+      121 lylkeeyleg nafpsdsstq frqilrvldi lsdknlrdew iiqtkdrwmr afkskspfsy
+      181 llpeneheci wtwnylkgkn ialeklasfp gsadiyhaih lsfdiwvtcp ltspddiknf
+      241 rnsfnkakaq rkykkmqedk vnvqffldae traqlkelsr vrrlstgeml hdliveeykr
+      301 yrhsr
+//
+
+LOCUS       WP_000259031             279 aa            linear   BCT 10-OCT-2022
+DEFINITION  MULTISPECIES: sulfonamide-resistant dihydropteroate synthase Sul1
+            [Bacteria].
+ACCESSION   WP_000259031
+VERSION     WP_000259031.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (bacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Antimicrobial Resistance Protein
+            Evidence Accession :: NG_048082.1
+            Evidence Source    :: Bacterial Antimicrobial Resistance Reference
+                                  Gene Database
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     gene            1..279
+                     /gene="sul1"
+     Protein         1..279
+                     /product="sulfonamide-resistant dihydropteroate synthase
+                     Sul1"
+                     /calculated_mol_wt=29995
+     Region          2..279
+                     /region_name="PRK13753"
+                     /note="dihydropteroate synthase; Provisional"
+                     /db_xref="CDD:184303"
+     Site            order(9,82,101,103,125,173,208,212,246,248)
+                     /site_type="other"
+                     /note="substrate binding pocket [chemical binding]"
+                     /db_xref="CDD:238380"
+     Site            order(188,192..193,232,236,240,255..256)
+                     /site_type="other"
+                     /note="dimer interface [polypeptide binding]"
+                     /db_xref="CDD:238380"
+     Site            210..212
+                     /site_type="active"
+                     /note="inhibitor binding site [active]"
+                     /db_xref="CDD:238380"
+ORIGIN      
+        1 mvtvfgilnl tedsffdesr rldpagavta aiemlrvgsd vvdvgpaash pdarpvspad
+       61 eirriaplld alsdqmhrvs idsfqpetqr yalkrgvgyl ndiqgfpdpa lypdiaeadc
+      121 rlvvmhsaqr dgiatrtghl rpedaldeiv rffearvsal rrsgvaadrl ildpgmgffl
+      181 spapetslhv lsnlqklksa lglpllvsvs rksflgatvg lpvkdlgpas laaelhaign
+      241 gadyvrthap gdlrsaitfs etlakfrsrd ardrgldha
+//
+
+LOCUS       WP_000301062             142 aa            linear   BCT 06-AUG-2026
+DEFINITION  MULTISPECIES: TOBE domain-containing protein [Pseudomonadati].
+ACCESSION   WP_000301062
+VERSION     WP_000301062.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+REFERENCE   1  (residues 1 to 142)
+  AUTHORS   Murzin,A.G.
+  TITLE     OB(oligonucleotide/oligosaccharide binding)-fold: common structural
+            and functional solution for non-homologous sequences
+  JOURNAL   EMBO J 12 (3), 861-867 (1993)
+   PUBMED   8458342
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10007583
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..142
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     Protein         1..142
+                     /product="TOBE domain-containing protein"
+                     /GO_process="GO:0015689 - molybdate ion transport
+                     [Evidence IEA]"
+                     /calculated_mol_wt=14377
+     Region          1..142
+                     /region_name="MopI"
+                     /note="Molybdopterin-binding protein MopI [Coenzyme
+                     transport and metabolism]; COG3585"
+                     /db_xref="CDD:442804"
+ORIGIN      
+        1 mavsarnqlt gtvsavamga vndeveltla ggaklvaivt hssqqalgla kgkeaialik
+       61 apwvtlated cglkfsarnq fagsvstite gavnatvhik tdagfeivav vtnesqdemk
+      121 lttgsrvial ikasailiat ka
+//
+
+LOCUS       WP_000331918             281 aa            linear   BCT 17-MAY-2026
+DEFINITION  MULTISPECIES: DUF4062 domain-containing protein [Escherichia].
+ACCESSION   WP_000331918
+VERSION     WP_000331918.1
+KEYWORDS    RefSeq.
+SOURCE      Escherichia
+  ORGANISM  Escherichia
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024668.8
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF13271
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..281
+                     /organism="Escherichia"
+                     /db_xref="taxon:561"
+     Protein         1..281
+                     /product="DUF4062 domain-containing protein"
+                     /calculated_mol_wt=31039
+     Region          10..98
+                     /region_name="DUF4062"
+                     /note="Domain of unknown function (DUF4062); pfam13271"
+                     /db_xref="CDD:463823"
+     Region          72..>228
+                     /region_name="Cnd2"
+                     /note="Condensin complex subunit 2; cl19886"
+                     /db_xref="CDD:450400"
+ORIGIN      
+        1 maytatvipv miaspgdvae erqviremih ewndinsars kvmltpigwe thtspelgvr
+       61 pqklinqrll vdcdlligvf wtrlgsptgn easgtveeih rhlnagkpam iyfsskpvap
+      121 esldreqyes lklfktecmq kgliesfndl sdfkdkvrrq lsiiissspy lsslistinn
+      181 spdantsqsl pesnlsadal sllklacvdd sgtiyvirhl ggtdiqagnq sfggssarev
+      241 arwegalnel lsfdyvierg akgqmyyvth kgwtflesln e
+//
+
+LOCUS       WP_000332260             365 aa            linear   BCT 23-DEC-2024
+DEFINITION  MULTISPECIES: tyrosine-type recombinase/integrase [Escherichia].
+ACCESSION   WP_000332260
+VERSION     WP_000332260.1
+KEYWORDS    RefSeq.
+SOURCE      Escherichia
+  ORGANISM  Escherichia
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales; Enterobacteriaceae.
+REFERENCE   1  (residues 1 to 365)
+  AUTHORS   Gopaul,D.N. and Duyne,G.D.
+  TITLE     Structure and mechanism in site-specific recombination
+  JOURNAL   Curr Opin Struct Biol 9 (1), 14-20 (1999)
+   PUBMED   10047575
+REFERENCE   2  (residues 1 to 365)
+  AUTHORS   Esposito,D. and Scocca,J.J.
+  TITLE     The integrase family of tyrosine recombinases: evolution of a
+            conserved active site domain
+  JOURNAL   Nucleic Acids Res 25 (18), 3605-3614 (1997)
+   PUBMED   9278480
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11471964
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..365
+                     /organism="Escherichia"
+                     /db_xref="taxon:561"
+     Protein         1..365
+                     /product="tyrosine-type recombinase/integrase"
+                     /GO_function="GO:0009009 - site-specific recombinase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006310 - DNA recombination [Evidence
+                     IEA]"
+                     /calculated_mol_wt=41658
+     Region          69..357
+                     /region_name="XerD"
+                     /note="Site-specific recombinase XerD [Replication,
+                     recombination and repair]; COG4974"
+                     /db_xref="CDD:443999"
+ORIGIN      
+        1 mayyniekrl ksdgtpryrc nviikekgvi tyresktfpk hahaktwgtq kvmeldlhgi
+       61 pssnavdglt vrdllrkyln dpnaggkagr tkryvlellm dsdisairls eltendvieh
+      121 crlrnnagag patvshdvsy lgsvldaakp vyginytsnp akaarpyllk lgligksnrr
+      181 nrrpasdeld mlieglqqrs thkcskipfv dilkfsvwsc mrigevcrlr wedldqeqks
+      241 ilvrdrkdpr kkegnhmkva llgeawdivq rqpkksefif pynstsvtag fqrvrsklgi
+      301 kdlryhdlrr egasrlfeag fsieevaqvt ghrslnvlwq vytelypksl hnrfeelqrs
+      361 rnkts
+//
+
+LOCUS       WP_000345347             418 aa            linear   BCT 30-APR-2026
+DEFINITION  MULTISPECIES: PTS ascorbate transporter subunit IIC
+            [Enterobacteriaceae].
+ACCESSION   WP_000345347
+VERSION     WP_000345347.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 418)
+  AUTHORS   Luo,P., Yu,X., Wang,W., Fan,S., Li,X. and Wang,J.
+  TITLE     Crystal structure of a phosphorylation-coupled vitamin C
+            transporter
+  JOURNAL   Nat Struct Mol Biol 22 (3), 238-241 (2015)
+   PUBMED   25686089
+REFERENCE   2  (residues 1 to 418)
+  AUTHORS   Afzal,M., Shafeeq,S. and Kuipers,O.P.
+  TITLE     Ascorbic acid-dependent gene expression in Streptococcus pneumoniae
+            and the activator function of the transcriptional regulator UlaR2
+  JOURNAL   Front Microbiol 6, 72 (2015)
+   PUBMED   25717320
+REFERENCE   3  (residues 1 to 418)
+  AUTHORS   Campos,E., Baldoma,L., Aguilar,J. and Badia,J.
+  TITLE     Regulation of expression of the divergent ulaG and ulaABCDEF
+            operons involved in LaAscorbate dissimilation in Escherichia coli
+  JOURNAL   J Bacteriol 186 (6), 1720-1728 (2004)
+   PUBMED   14996803
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006919.1
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK09410
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..418
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     gene            1..418
+                     /gene="ulaA"
+                     /gene_synonym="sgaT"
+                     /GO_process="GO:0009401 - phosphoenolpyruvate-dependent
+                     sugar phosphotransferase system [Evidence IEA]"
+     Protein         1..418
+                     /product="PTS ascorbate transporter subunit IIC"
+                     /EC_number="2.7.1.194"
+                     /calculated_mol_wt=44193
+     Region          1..418
+                     /region_name="UlaA"
+                     /note="Ascorbate-specific PTS system IIC component UlaA
+                     [Carbohydrate transport and metabolism]; COG3037"
+                     /db_xref="CDD:442271"
+ORIGIN      
+        1 mdffrflmsd vlsepavlvg lialigliaq kkpvtecikg tvktimgfvi lgagaglvvs
+       61 slgdfanifq hafgiqgvvp nneaivsvaq ksfgkemami mffamvinim iarftpwkfi
+      121 fltghhtlfm smmvavilat agmtgitlia vgslvvgvam vffpaiahpy mkkvtgsddv
+      181 aighfstlsy vlagfigskf gnkehstedm nvpksllflr dtpvaisftm siiflvtclf
+      241 agadavkels ggknwfmfsi mqsitfaagv yiilqgvrmv iaeivpafkg isdklvpnar
+      301 paldcpvvfp yapnavlvgf lssfaaglig mftlyllnmi viipgvvphf fvgaaagvfg
+      361 natggrrgai lgafaqglli tflpvfllpv lgdigfantt fsdadfgalg illgiivr
+//
+
+LOCUS       WP_000347633             248 aa            linear   BCT 08-JUN-2020
+DEFINITION  MULTISPECIES: 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase EntA
+            [Enterobacteriaceae].
+ACCESSION   WP_000347633
+VERSION     WP_000347633.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 248)
+  AUTHORS   Khalil,S. and Pawelek,P.D.
+  TITLE     Enzymatic adenylation of 2,3-dihydroxybenzoate is enhanced by a
+            protein-protein interaction between Escherichia coli
+            2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EntA) and
+            2,3-dihydroxybenzoate-AMP ligase (EntE)
+  JOURNAL   Biochemistry 50 (4), 533-545 (2011)
+   PUBMED   21166461
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR012092
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..248
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     gene            1..248
+                     /gene="entA"
+     Protein         1..248
+                     /product="2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+                     EntA"
+                     /EC_number="1.3.1.28"
+                     /calculated_mol_wt=26117
+     Region          1..248
+                     /region_name="PRK08220"
+                     /note="2,3-dihydroxybenzoate-2,3-dehydrogenase; Validated"
+                     /db_xref="CDD:236190"
+ORIGIN      
+        1 mdfsgknvwv tgagkgigya talafveaga kvtgfdqafa qeqypfatev mdvadaaqva
+       61 qvcqrllaet erldvlvnaa gilrmgatdq lskedwqqtf avnvggafnl fqqtmnqfrr
+      121 qrggaivtva sdaahtprig msaygaskaa lkslalsvgl elagsgvrcn vvspgstdtd
+      181 mqrtlwvsdd aeeqrirgfg eqfklgiplg kiarpqeian tilflasdla shitlqdivv
+      241 dggstlga
+//
+
+LOCUS       WP_000350635             712 aa            linear   BCT 17-AUG-2026
+DEFINITION  MULTISPECIES: AAA family ATPase [Gammaproteobacteria].
+ACCESSION   WP_000350635
+VERSION     WP_000350635.1
+KEYWORDS    RefSeq.
+SOURCE      Gammaproteobacteria (g-proteobacteria)
+  ORGANISM  Gammaproteobacteria
+            Bacteria; Pseudomonadati; Pseudomonadota.
+REFERENCE   1  (residues 1 to 712)
+  AUTHORS   Snider,J., Thibault,G. and Houry,W.A.
+  TITLE     The AAA+ superfamily of functionally diverse proteins
+  JOURNAL   Genome Biol 9 (4), 216 (2008)
+   PUBMED   18466635
+REFERENCE   2  (residues 1 to 712)
+  AUTHORS   Snider,J. and Houry,W.A.
+  TITLE     AAA+ proteins: diversity in function, similarity in structure
+  JOURNAL   Biochem Soc Trans 36 (Pt 1), 72-77 (2008)
+   PUBMED   18208389
+REFERENCE   3  (residues 1 to 712)
+  AUTHORS   White,S.R. and Lauring,B.
+  TITLE     AAA+ ATPases: achieving diversity of function with conserved
+            machinery
+  JOURNAL   Traffic 8 (12), 1657-1667 (2007)
+   PUBMED   17897320
+REFERENCE   4  (residues 1 to 712)
+  AUTHORS   Hanson,P.I. and Whiteheart,S.W.
+  TITLE     AAA+ proteins: have engine, will work
+  JOURNAL   Nat Rev Mol Cell Biol 6 (7), 519-529 (2005)
+   PUBMED   16072036
+REFERENCE   5  (residues 1 to 712)
+  AUTHORS   Iyer,L.M., Leipe,D.D., Koonin,E.V. and Aravind,L.
+  TITLE     Evolutionary history and higher order classification of AAA+
+            ATPases
+  JOURNAL   J Struct Biol 146 (1-2), 11-31 (2004)
+   PUBMED   15037234
+REFERENCE   6  (residues 1 to 712)
+  AUTHORS   Frickey,T. and Lupas,A.N.
+  TITLE     Phylogenetic analysis of AAA proteins
+  JOURNAL   J Struct Biol 146 (1-2), 2-10 (2004)
+   PUBMED   15037233
+REFERENCE   7  (residues 1 to 712)
+  AUTHORS   Leipe,D.D., Wolf,Y.I., Koonin,E.V. and Aravind,L.
+  TITLE     Classification and evolution of P-loop GTPases and related ATPases
+  JOURNAL   J Mol Biol 317 (1), 41-72 (2002)
+   PUBMED   11916378
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Superfamily architecture ID 1906272
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /organism="Gammaproteobacteria"
+                     /db_xref="taxon:1236"
+     Protein         1..712
+                     /product="AAA family ATPase"
+                     /GO_function="GO:0005524 - ATP binding [Evidence IEA];
+                     GO:0016887 - ATP hydrolysis activity [Evidence IEA]"
+                     /calculated_mol_wt=80900
+     Region          21..489
+                     /region_name="RloC"
+                     /note="Wobble nucleotide-excising tRNase [Translation,
+                     ribosomal structure and biogenesis]; COG4694"
+                     /db_xref="CDD:443729"
+ORIGIN      
+        1 mdieirhcnn ivrahitlta dklnikfapn gtgkstlsra iscaarddiq glqalmpfrl
+       61 rgenpdstgp ivigadgigd vmcfneeyvs qftfqpdeli sdsfnilirn qahaererei
+      121 eemtqkirav ftdhtelnsl idhlqelsna fkstssgisr sstgmrglsg gnkihhipag
+      181 lenyqpyirs errvewidwq tkglefspls dgccpfctgd itgkeaqirq vreeydksti
+      241 knltaiirlv enlgnyltes arerllaitm lqngpeaehi eylvalkrqt dtltekltal
+      301 rglnvfslqe qqnvrevlta rlidlqffpd lqselmqgit drlnaalmdl inlagplqgk
+      361 inrhrdsmir liaqhktnin nfltyagyky rvdiagegeq rklrlrhidf dgyvsggsqh
+      421 lsygernafa ivlfmyecls knpgliildd pissfdknkk failemlfrr asgeclknrt
+      481 vlmlthdvep vidtlksvrr lfsnqvtasc lrlsagviee lpvndgdimt fmqicksita
+      541 sadceeiikl iylrryfeiv dergdayqll snlfhrrvap ldyrepaaag sgypkmapek
+      601 iqqalrdire yvdsfdyprl qalvsspdei knlyrrcrng yeklqvfrll eldqdhpvir
+      661 kfvnetyhie neficqldps rfdlipeyvi mecdklialp paanqssvar ia
+//
+
+LOCUS       WP_000351937             216 aa            linear   BCT 27-JUL-2024
+DEFINITION  MULTISPECIES: YkgJ family cysteine cluster protein
+            [Pseudomonadota].
+ACCESSION   WP_000351937
+VERSION     WP_000351937.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadota (proteobacteria)
+  ORGANISM  Pseudomonadota
+            Bacteria; Pseudomonadati.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10002295
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..216
+                     /organism="Pseudomonadota"
+                     /db_xref="taxon:1224"
+     Protein         1..216
+                     /product="YkgJ family cysteine cluster protein"
+                     /GO_function="GO:0051536 - iron-sulfur cluster binding
+                     [Evidence IEA]; GO:0046872 - metal ion binding [Evidence
+                     IEA]"
+                     /calculated_mol_wt=24775
+     Region          64..>138
+                     /region_name="YkgJ"
+                     /note="Uncharacterized protein YkgJ, contains CxxCxxCC
+                     motif [General function prediction only]; COG0727"
+                     /db_xref="CDD:440491"
+ORIGIN      
+        1 mdikpnsvih lepgetlpgy tnlkpvpdky fdelkalink lntqsgniyl klkqmyafld
+       61 rfnkefvstf tscqkgcssc ckmdvhltal eathiaqask ltardnpltt gheskcpfls
+      121 ekgtcsiyny rpllcrtyhv ltppemcndl daqvmqygsq sanmgnhiyk tiaewiyfqt
+      181 yhctgkletk dirdyfpypr ediqrflhhn pprpfc
+//
+
+LOCUS       WP_000355059             652 aa            linear   BCT 29-DEC-2023
+DEFINITION  MULTISPECIES: chemotaxis protein CheA [Pseudomonadota].
+ACCESSION   WP_000355059
+VERSION     WP_000355059.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadota
+  ORGANISM  Pseudomonadota
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF007835.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK10547
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /organism="Pseudomonadota"
+                     /db_xref="taxon:1224"
+     gene            1..652
+                     /gene="cheA"
+     Protein         1..652
+                     /product="chemotaxis protein CheA"
+                     /GO_function="GO:0000155 - phosphorelay sensor kinase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006935 - chemotaxis [Evidence IEA];
+                     GO:0000160 - phosphorelay signal transduction system
+                     [Evidence IEA]; GO:0016310 - phosphorylation [Evidence
+                     IEA]"
+                     /calculated_mol_wt=71033
+     Region          1..652
+                     /region_name="PRK10547"
+                     /note="chemotaxis protein CheA; Provisional"
+                     /db_xref="CDD:236712"
+ORIGIN      
+        1 mdisdfyqtf fdeadellad meqhllvlqp eapdaeqlna ifraahsikg gagtfgfsvl
+       61 qetthlmenl ldearrgemq lntdiinlfl etkdimqeql daykqsqepd aasfdyicqa
+      121 lrqlaleakg etpsavtrls vvaksepqde qsrsqsprri ilsrlkagev dlleeelghl
+      181 ttltdvvkga dslsailpgd iaedditavl cfvieadqit fetvevspki stppvlklaa
+      241 eqaptgrver ekttrsnest sirvavekvd qlinlvgelv itqsmlaqrs seldpvnhgd
+      301 litsmgqlqr nardlqesvm sirmmpmeyv fsryprlvrd lagklgkqve ltlvgsstel
+      361 dkslieriid plthlvrnsl dhgielpekr laagknsvgn lilsaehqgg nicievtddg
+      421 aglnrerila kaasqgltvs enmsddevam lifapgfsta eqvtdvsgrg vgmdvvkrni
+      481 qkmgghveiq skqgtgttir illpltlail dgmsvrvade vfilplnavm eslqpreadl
+      541 hplaggervl evrgeylpiv elwkvfnvag akteatqgiv vilqsggrry allvdqligq
+      601 hqvvvknles nyrkvpgisa atilgdgsva livdvsalqa inreqrmant aa
+//
+
+LOCUS       WP_000355546             156 aa            linear   BCT 18-JUL-2024
+DEFINITION  MULTISPECIES: PTS sugar transporter subunit IIA [Enterobacterales].
+ACCESSION   WP_000355546
+VERSION     WP_000355546.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacterales
+  ORGANISM  Enterobacterales
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria.
+REFERENCE   1  (residues 1 to 156)
+  AUTHORS   Siebold,C., Flukiger,K., Beutler,R. and Erni,B.
+  TITLE     Carbohydrate transporters of the bacterial phosphoenolpyruvate:
+            sugar phosphotransferase system (PTS)
+  JOURNAL   FEBS Lett 504 (3), 104-111 (2001)
+   PUBMED   11532441
+REFERENCE   2  (residues 1 to 156)
+  AUTHORS   Robillard,G.T. and Broos,J.
+  TITLE     Structure/function studies on the bacterial carbohydrate
+            transporters, enzymes II, of the phosphoenolpyruvate-dependent
+            phosphotransferase system
+  JOURNAL   Biochim Biophys Acta 1422 (2), 73-104 (1999)
+   PUBMED   10393270
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10004459
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..156
+                     /organism="Enterobacterales"
+                     /db_xref="taxon:91347"
+     Protein         1..156
+                     /product="PTS sugar transporter subunit IIA"
+                     /GO_component="GO:1902495 - transmembrane transporter
+                     complex [Evidence IEA]"
+                     /GO_function="GO:0016301 - kinase activity [Evidence IEA]"
+                     /GO_process="GO:0008643 - carbohydrate transport [Evidence
+                     IEA]; GO:0009401 - phosphoenolpyruvate-dependent sugar
+                     phosphotransferase system [Evidence IEA]; GO:0016310 -
+                     phosphorylation [Evidence IEA]"
+                     /calculated_mol_wt=17250
+     Region          1..150
+                     /region_name="PtsN"
+                     /note="Phosphotransferase system
+                     mannitol/fructose-specific IIA domain (Ntr-type)
+                     [Carbohydrate transport and metabolism, Signal
+                     transduction mechanisms]; COG1762"
+                     /db_xref="CDD:441368"
+ORIGIN      
+        1 mditkilntn rvildmqatn kaeaieeltn llkkdgaidc retfikdvwq reaegstgfe
+       61 nhiaiphgks savinttlai grtrqdipwe tldgssvrci ilfavrledq ntthirllsq
+      121 vagaladddi ieqllvetsp qkiidlfsqy aqsdvc
+//
+
+LOCUS       WP_000356397              96 aa            linear   BCT 05-OCT-2026
+DEFINITION  MULTISPECIES: type II toxin-antitoxin system RelB family anti-toxin
+            transcriptional regulator [Gammaproteobacteria].
+ACCESSION   WP_000356397
+VERSION     WP_000356397.1
+KEYWORDS    RefSeq.
+SOURCE      Gammaproteobacteria (g-proteobacteria)
+  ORGANISM  Gammaproteobacteria
+            Bacteria; Pseudomonadati; Pseudomonadota.
+REFERENCE   1  (residues 1 to 96)
+  AUTHORS   Ebihara,S., Yen,H. and Tobe,T.
+  TITLE     A novel toxin-antitoxin system swpAB alters gene expression
+            patterns and reduces virulence expression in enterohemorrhagic
+            Escherichia coli
+  JOURNAL   Microbiol Immunol 67 (4), 171-184 (2023)
+   PUBMED   36636756
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF058905.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Gammaproteobacteria"
+                     /db_xref="taxon:1236"
+     gene            1..96
+                     /gene="relB"
+     Protein         1..96
+                     /product="type II toxin-antitoxin system RelB family
+                     anti-toxin transcriptional regulator"
+                     /GO_component="GO:0110001 - toxin-antitoxin complex
+                     [Evidence IEA]"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA]"
+                     /GO_process="GO:0006351 - DNA-templated transcription
+                     [Evidence IEA]"
+                     /calculated_mol_wt=10715
+     Region          31..90
+                     /region_name="YiaG"
+                     /note="DNA-binding transcriptional regulator YiaG,
+                     XRE-type HTH domain [Transcription]; COG2944"
+                     /db_xref="CDD:442187"
+ORIGIN      
+        1 mdkalferlt hsmaqmneii egtrqpsrtf evdamkikei rrasglsqsk fadlisvsvd
+       61 tlrnweqgrr sptgpakall raiandpqhv lqalnr
+//
+
+LOCUS       WP_000361611             325 aa            linear   BCT 28-FEB-2026
+DEFINITION  MULTISPECIES: RepB family plasmid replication initiator protein
+            [Gammaproteobacteria].
+ACCESSION   WP_000361611
+VERSION     WP_000361611.1
+KEYWORDS    RefSeq.
+SOURCE      Gammaproteobacteria (g-proteobacteria)
+  ORGANISM  Gammaproteobacteria
+            Bacteria; Pseudomonadati; Pseudomonadota.
+REFERENCE   1  (residues 1 to 325)
+  AUTHORS   Kilic,T., Popov,A.N., Burk-Korner,A., Koromyslova,A., Zur
+            Hausen,H., Bund,T. and Hansman,G.S.
+  TITLE     Structural analysis of a replication protein encoded by a plasmid
+            isolated from a multiple sclerosis patient
+  JOURNAL   Acta Crystallogr D Struct Biol 75 (Pt 5), 498-504 (2019)
+   PUBMED   31063152
+REFERENCE   2  (residues 1 to 325)
+  AUTHORS   Nakamura,A., Wada,C. and Miki,K.
+  TITLE     Structural basis for regulation of bifunctional roles in
+            replication initiator protein
+  JOURNAL   Proc Natl Acad Sci U S A 104 (47), 18484-18489 (2007)
+   PUBMED   18000058
+REFERENCE   3  (residues 1 to 325)
+  AUTHORS   Giraldo,R. and Fernandez-Tresguerres,M.E.
+  TITLE     Twenty years of the pPS10 replicon: insights on the molecular
+            mechanism for the activation of DNA replication in
+            iteron-containing bacterial plasmids
+  JOURNAL   Plasmid 52 (2), 69-83 (2004)
+   PUBMED   15336485
+REFERENCE   4  (residues 1 to 325)
+  AUTHORS   del Solar,G., Giraldo,R., Ruiz-Echevarria,M.J., Espinosa,M. and
+            Diaz-Orejas,R.
+  TITLE     Replication and control of circular bacterial plasmids
+  JOURNAL   Microbiol Mol Biol Rev 62 (2), 434-464 (1998)
+   PUBMED   9618448
+REFERENCE   5  (residues 1 to 325)
+  AUTHORS   Moscoso,M., Eritja,R. and Espinosa,M.
+  TITLE     Initiation of replication of plasmid pMV158: mechanisms of DNA
+            strand-transfer reactions mediated by the initiator RepB protein
+  JOURNAL   J Mol Biol 268 (5), 840-856 (1997)
+   PUBMED   9180376
+REFERENCE   6  (residues 1 to 325)
+  AUTHORS   Spiers,A.J., Bhana,N. and Bergquist,P.L.
+  TITLE     Regulatory interactions between RepA, an essential replication
+            protein, and the DNA repeats of RepFIB from plasmid P307
+  JOURNAL   J Bacteriol 175 (13), 4016-4024 (1993)
+   PUBMED   8320218
+REFERENCE   7  (residues 1 to 325)
+  AUTHORS   Abeles,A.L.
+  TITLE     P1 plasmid replication. Purification and DNA-binding activity of
+            the replication protein RepA
+  JOURNAL   J Biol Chem 261 (8), 3548-3555 (1986)
+   PUBMED   3949778
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013235.7
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01051.28
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..325
+                     /organism="Gammaproteobacteria"
+                     /db_xref="taxon:1236"
+     Protein         1..325
+                     /product="RepB family plasmid replication initiator
+                     protein"
+                     /GO_function="GO:0003887 - DNA-directed DNA polymerase
+                     activity [Evidence IEA]"
+                     /GO_process="GO:0006270 - DNA replication initiation
+                     [Evidence IEA]"
+                     /calculated_mol_wt=37184
+ORIGIN      
+        1 mdkssgelvt ltpnnnntvq pvalmrlgvf vptlkslkns kkntlsrtda teeltrlsla
+       61 raegfdkvei tgprldmdnd fktwvgiihs farhnvigdk velpfvefak lcgipssqss
+      121 rrlrerisps lkriagtvis fsrtdekhtr eyithlvqsa yydterdivq lqadprlfel
+      181 yqfdrkvllq lkainalkrr esaqalytfi eslprdpapi slarlrarln lkspvfsqnq
+      241 tvrrameqlr eigyldytei qrgrtkffci hyrrprlkap ndeskenplq pspaekvspe
+      301 maeklallek lgitlddlek lfksr
+//
+
+LOCUS       WP_000373426             164 aa            linear   BCT 19-MAY-2026
+DEFINITION  MULTISPECIES: DUF1441 family protein [Enterobacteriaceae].
+ACCESSION   WP_000373426
+VERSION     WP_000373426.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF018929.9
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF07278
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..164
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..164
+                     /product="DUF1441 family protein"
+                     /calculated_mol_wt=18262
+     Region          10..151
+                     /region_name="DUF1441"
+                     /note="Protein of unknown function (DUF1441); cl46780"
+                     /db_xref="CDD:481120"
+ORIGIN      
+        1 mdrelknltl nisqlaalsg vhrqtaaarl qnlpvagghe snlklyrvvd ivsaflalpp
+       61 pvaegemdah erkawyqser erlkfeqeta qlipasdvrr efaiwakavv qvletlpdil
+      121 erdcglqpaa vsrvqsiidd lrdqialrvt eagaddeeel qree
+//
+
+LOCUS       WP_000379700             118 aa            linear   BCT 19-APR-2026
+DEFINITION  MULTISPECIES: hypothetical protein [Enterobacteriaceae].
+ACCESSION   WP_000379700
+VERSION     WP_000379700.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..118
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..118
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=13605
+ORIGIN      
+        1 mdtiitwmgd rllgwitnks dlrqraitgl tpaiystily teklkrgepn npneeeklyr
+       61 lwyeassqvv dfdrelakrc ldkseywlhs elyspekvge lnislvgmka tlegikhn
+//
+
+LOCUS       WP_000381622             149 aa            linear   BCT 06-AUG-2026
+DEFINITION  MULTISPECIES: STM2901 family protein [Pseudomonadati].
+ACCESSION   WP_000381622
+VERSION     WP_000381622.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF045926.1
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..149
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     Protein         1..149
+                     /product="STM2901 family protein"
+                     /calculated_mol_wt=16690
+ORIGIN      
+        1 mdtteerngt yfyrghpnls kiellnvifl eefckelgid svsgaailsg qpwlgtrakp
+       61 qgatlgtsvv skyarilmrd armpfgisvh tpvgvrmqks nklaaiiarw vpwigwasls
+      121 mslyrvstrt qekynliakp qdrikwtsf
+//
+
+LOCUS       WP_000386516             320 aa            linear   BCT 26-OCT-2024
+DEFINITION  MULTISPECIES: DNA-binding protein YbiB [Enterobacteriaceae].
+ACCESSION   WP_000386516
+VERSION     WP_000386516.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF006005.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK08136
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..320
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     gene            1..320
+                     /gene="ybiB"
+     Protein         1..320
+                     /product="DNA-binding protein YbiB"
+                     /calculated_mol_wt=34976
+     Region          1..315
+                     /region_name="PRK08136"
+                     /note="glycosyl transferase family protein; Provisional"
+                     /db_xref="CDD:236160"
+ORIGIN      
+        1 mdyrkiikei grgknhardl drdtarglya hmlngevpdl elggvlialr ikgegeaeml
+       61 gfyeamqnht ikltppadkp mpivipsyng arkqanltpl laillhklgf pvvvhgvsed
+      121 ptrvltetif elmgitptlh ggqaqaklde hqpvfmpvga fcpplekqla mrwrmgvrns
+      181 ahtlaklatp faegealrls svshpeyigr vakffsdigg rallmhgteg evyanpqrcp
+      241 qinlidregm rvlyekqdta gsellpqakd pettaqwier clagsepipe slkiqmaccl
+      301 vatgeaatis dglarvnqaf
+//
+
+LOCUS       WP_000399648             326 aa            linear   BCT 11-OCT-2023
+DEFINITION  MULTISPECIES: IS110-like element IS621 family transposase
+            [Bacteria].
+ACCESSION   WP_000399648
+VERSION     WP_000399648.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (bacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+REFERENCE   1  (residues 1 to 326)
+  AUTHORS   Siguier,P., Varani,A., Perochon,J. and Chandler,M.
+  TITLE     Exploring bacterial insertion sequences with ISfinder: objectives,
+            uses, and future developments
+  JOURNAL   Methods Mol Biol 859, 91-103 (2012)
+   PUBMED   22367867
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR003348
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..326
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..326
+                     /product="IS110-like element IS621 family transposase"
+                     /GO_function="GO:0004803 - transposase activity [Evidence
+                     IEA]"
+                     /GO_process="GO:0006313 - DNA transposition [Evidence
+                     IEA]"
+                     /calculated_mol_wt=36382
+     Region          1..321
+                     /region_name="COG3547"
+                     /note="Transposase [Mobilome: prophages, transposons]"
+                     /db_xref="CDD:442768"
+ORIGIN      
+        1 mehelhyigi dtakekldvd vlrpdgrhrt kkfanttkgh delvswlkgh kidhahicie
+       61 atgtymepva eclydagyiv svinpalgka faqseglrnk tdtvdarmla efcrqkrpaa
+      121 weaphplera lralvvrhqa ltdmhtqeln rtetarevqr psidahllwl eaelkrlekq
+      181 ikdltdddpd mkhrrklles ipgigektsa vllayiglkd rfaharqfaa fagltprrye
+      241 sgssvrgasr mskaghvslr ralympamva tsktewgraf rdrlaangkk gkvilgammr
+      301 klaqvaygvl ksgvpfdasr hnpvaa
+//
+
+LOCUS       WP_000416151             343 aa            linear   BCT 26-JUL-2024
+DEFINITION  MULTISPECIES: LacI family DNA-binding transcriptional regulator
+            [Enterobacteriaceae].
+ACCESSION   WP_000416151
+VERSION     WP_000416151.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 343)
+  AUTHORS   Fukami-Kobayashi,K., Tateno,Y. and Nishikawa,K.
+  TITLE     Parallel evolution of ligand specificity between LacI/GalR family
+            repressors and periplasmic sugar-binding proteins
+  JOURNAL   Mol Biol Evol 20 (2), 267-277 (2003)
+   PUBMED   12598694
+REFERENCE   2  (residues 1 to 343)
+  AUTHORS   Nguyen,C.C. and Saier,M.H. Jr.
+  TITLE     Phylogenetic, structural and functional analyses of the LacI-GalR
+            family of bacterial transcription factors
+  JOURNAL   FEBS Lett 377 (2), 98-102 (1995)
+   PUBMED   8543068
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11446715
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..343
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..343
+                     /product="LacI family DNA-binding transcriptional
+                     regulator"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA];
+                     GO:0003700 - DNA-binding transcription factor activity
+                     [Evidence IEA]"
+                     /GO_process="GO:0006355 - regulation of DNA-templated
+                     transcription [Evidence IEA]"
+                     /calculated_mol_wt=38230
+     Region          10..343
+                     /region_name="PurR"
+                     /note="DNA-binding transcriptional regulator, LacI/PurR
+                     family [Transcription]; COG1609"
+                     /db_xref="CDD:441217"
+ORIGIN      
+        1 mektrkrrgt grvtlqevan fagvgtmtvs ralrtpeqvs dklrekieqa veelgyipnr
+       61 tagalasghs dtvavlvpsl tdkassrfmq slqqvlnkne fqlllgchey nqlkeaeilm
+      121 tllqgnpaal vifgsqladk thqilektni ptinvvgspf spaqitieta ffeashklte
+      181 hlleqgykni gfigahmdnr lqrqqlngwh kamlshyqns dlvitmpdaa slqlgryaln
+      241 eillrqpeld avicsheeia lgimfecqrr llkipeniav acldgsdncd qthptltsir
+      301 idykkmgiet gklligllnn nhdeseesri vqfnyqielr qst
+//
+
+LOCUS       WP_000428546             197 aa            linear   BCT 29-JUN-2026
+DEFINITION  MULTISPECIES: tetracyline resistance-associated transcriptional
+            repressor TetC [Pseudomonadati].
+ACCESSION   WP_000428546
+VERSION     WP_000428546.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+REFERENCE   1  (residues 1 to 197)
+  AUTHORS   Griffith,K.L., Becker,S.M. and Wolf,R.E. Jr.
+  TITLE     Characterization of TetD as a transcriptional activator of a subset
+            of genes of the Escherichia coli SoxS/MarA/Rob regulon
+  JOURNAL   Mol. Microbiol. 56 (4), 1103-1117 (2005)
+   PUBMED   15853893
+  REMARK    Erratum:[Mol Microbiol. 2005 Jul;57(1):306]
+REFERENCE   2  (residues 1 to 197)
+  AUTHORS   Pepe,C.M., Suzuki,C., Laurie,C. and Simons,R.W.
+  TITLE     Regulation of the 'tetCD' genes of transposon Tn10
+  JOURNAL   J. Mol. Biol. 270 (1), 14-25 (1997)
+   PUBMED   9231897
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF000040.3
+            Evidence Source    :: NCBIFAM
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..197
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     gene            1..197
+                     /gene="tetC"
+     Protein         1..197
+                     /product="tetracyline resistance-associated
+                     transcriptional repressor TetC"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA]"
+                     /calculated_mol_wt=22615
+     Region          1..197
+                     /region_name="Tn10_TetC"
+                     /note="tetracyline resistance-associated transcriptional
+                     repressor TetC; NF000040"
+                     /db_xref="CDD:439388"
+ORIGIN      
+        1 menknhqqen fkstyqslvn sarilfvekg yqavsideis gkalvtkgaf yhhfknkkql
+       61 lsacykqqli midayittkt dltngwsale sifehyldyi idnnknlipi qevmpiigwn
+      121 elekisleyi tgkvnaivsk liqenqlkay dddvlknlln gwfmhiaiha knlkeladkk
+      181 gqfiaiyrgf llslkdk
+//
+
+LOCUS       WP_000439434             110 aa            linear   BCT 11-MAY-2024
+DEFINITION  MULTISPECIES: type II toxin-antitoxin system toxin endoribonuclease
+            PemK-mt [Bacteria].
+ACCESSION   WP_000439434
+VERSION     WP_000439434.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (bacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+REFERENCE   1  (residues 1 to 110)
+  AUTHORS   Chi,X., Chang,Y., Li,M., Lin,J., Liu,Y., Li,C., Tang,S. and
+            Zhang,J.
+  TITLE     Biochemical characterization of mt-PemIK, a novel toxin-antitoxin
+            system in Mycobacterium tuberculosis
+  JOURNAL   FEBS Lett 592 (24), 4039-4050 (2018)
+   PUBMED   30372528
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR016613
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..110
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     gene            1..110
+                     /gene="pemK-mt"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA]"
+     Protein         1..110
+                     /product="type II toxin-antitoxin system toxin
+                     endoribonuclease PemK-mt"
+                     /calculated_mol_wt=11750
+     Region          2..109
+                     /region_name="CcdB"
+                     /note="CcdB protein; cl00995"
+                     /db_xref="CDD:470026"
+ORIGIN      
+        1 mergeiwlvs ldptagheqq gtrpvlivtp aafnrvtrlp vvvpvtsggn fartagfavs
+       61 ldgvgirttg vvrcdqprti dmkarggkrl ervpetimne vlgrlstilt
+//
+
+LOCUS       WP_000458583             190 aa            linear   BCT 16-MAR-2023
+DEFINITION  MULTISPECIES: Panacea domain-containing protein
+            [Enterobacteriaceae].
+ACCESSION   WP_000458583
+VERSION     WP_000458583.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 190)
+  AUTHORS   Kurata,T., Saha,C.K., Buttress,J.A., Mets,T., Brodiazhenko,T.,
+            Turnbull,K.J., Awoyomi,O.F., Oliveira,S.R.A., Jimmy,S., Ernits,K.,
+            Delannoy,M., Persson,K., Tenson,T., Strahl,H., Hauryliuk,V. and
+            Atkinson,G.C.
+  TITLE     A hyperpromiscuous antitoxin protein domain for the neutralization
+            of diverse toxin domains
+  JOURNAL   Proc Natl Acad Sci U S A 119 (6) (2022)
+   PUBMED   35121656
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10594106
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..190
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..190
+                     /product="Panacea domain-containing protein"
+                     /calculated_mol_wt=21825
+     Region          33..135
+                     /region_name="DUF4065"
+                     /note="Protein of unknown function (DUF4065); pfam13274"
+                     /db_xref="CDD:433077"
+ORIGIN      
+        1 mfceekvaqm aaylllkrgg rmaylklmkl lylsnrksil khgrmigeds lysmkfgpvm
+       61 sntlnlirgk aegigdywyn lietnghdvl lrsdpremda devfdelsra dirildeiys
+      121 lyghmnrfdl anmthlesvc pewhnpgnsr kpidlkemli segksedean riigkmeesq
+      181 klkefslqls
+//
+
+LOCUS       WP_000470717             298 aa            linear   BCT 28-FEB-2026
+DEFINITION  MULTISPECIES: LysR substrate-binding domain-containing protein
+            [Enterobacteriaceae].
+ACCESSION   WP_000470717
+VERSION     WP_000470717.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 298)
+  AUTHORS   Tyrrell,R., Verschueren,K.H., Dodson,E.J., Murshudov,G.N., Addy,C.
+            and Wilkinson,A.J.
+  TITLE     The structure of the cofactor-binding fragment of the LysR family
+            member, CysB: a familiar fold with a surprising subunit arrangement
+  JOURNAL   Structure 5 (8), 1017-1032 (1997)
+   PUBMED   9309218
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF015431.7
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF03466.26
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..298
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..298
+                     /product="LysR substrate-binding domain-containing
+                     protein"
+                     /calculated_mol_wt=33305
+     Region          1..289
+                     /region_name="PRK11074"
+                     /note="putative DNA-binding transcriptional regulator;
+                     Provisional"
+                     /db_xref="CDD:182948"
+ORIGIN      
+        1 mfisdetlrv ihlvarhqsi ttaaeqlnkv psaisytikk aeeslgvelf irkgryiels
+       61 pagsyfiehs ktilgdleal krntvlihdg iereltiavn niipgdllva firdferqft
+      121 sttltvdlev yngcwdalys kradlvygap havpssegii sepvgqmewd fvvsplhpla
+      181 akrhplense lrhypavcir dtsvnfppmq awllegqkpi fvpdfataia lieqnvgigy
+      241 iphhlalpll nsgkllkkpm rehkhatklf laarsdgmgk acqwcieylr npqlifcs
+//
+
+LOCUS       WP_000490679             451 aa            linear   BCT 06-AUG-2026
+DEFINITION  MULTISPECIES: PTS galactitol transporter subunit IIC
+            [Pseudomonadati].
+ACCESSION   WP_000490679
+VERSION     WP_000490679.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+REFERENCE   1  (residues 1 to 451)
+  AUTHORS   McCoy,J.G., Levin,E.J. and Zhou,M.
+  TITLE     Structural insight into the PTS sugar transporter EIIC
+  JOURNAL   Biochim Biophys Acta 1850 (3), 577-585 (2015)
+   PUBMED   24657490
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10017428
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..451
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     Protein         1..451
+                     /product="PTS galactitol transporter subunit IIC"
+                     /GO_component="GO:0016020 - membrane [Evidence IEA]"
+                     /GO_function="GO:0015577 - galactitol transmembrane
+                     transporter activity [Evidence IEA]"
+                     /GO_process="GO:0015796 - galactitol transmembrane
+                     transport [Evidence IEA]; GO:0009401 -
+                     phosphoenolpyruvate-dependent sugar phosphotransferase
+                     system [Evidence IEA]"
+                     /calculated_mol_wt=48234
+     Region          9..413
+                     /region_name="EIIC-GAT"
+                     /note="PTS system, galactitol-specific IIC component;
+                     TIGR00827"
+                     /db_xref="CDD:129907"
+ORIGIN      
+        1 mfsevmryil dlgptvmlpi viiifskilg mkagdcfkag lhigigfvgi glviglmlds
+       61 igpaakamae nfdlnlhvvd vgwpgsspmt wasqialvai piailvnvam lltrmtrvvn
+      121 vdiwniwhmt ftgallhlat gswmigmagv vihaafvykl gdwfardtrn ffelegiaip
+      181 hgtsaymgpi avlvdaiiek ipgvnrikfs addiqrkfgp fgepvtvgfv mgliigilag
+      241 ydvkgvlqla vktaavmllm prvikpimdg ltpiakqars rlqakfggqe fligldpall
+      301 lghtavvsas lifipltili avcvpgnqvl pfgdlatigf fvamavavhr gnlfrtlisg
+      361 viimsitlwi atqtiglhtq laanagalka ggmvasmdqg gspitwlliq vfspqnipgf
+      421 iiigaiyltg ifmtwrrarg fikqekvvla e
+//
+
+LOCUS       WP_000493756             105 aa            linear   BCT 24-SEP-2026
+DEFINITION  MULTISPECIES: type II toxin-antitoxin system RelE/ParE family toxin
+            [Pseudomonadati].
+ACCESSION   WP_000493756
+VERSION     WP_000493756.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+REFERENCE   1  (residues 1 to 105)
+  AUTHORS   Shinohara,M., Guo,J.X., Mori,M., Nakashima,T., Takagi,H.,
+            Nishimoto,E., Yamashita,S., Tsumoto,K., Kakuta,Y. and Kimura,M.
+  TITLE     The structural mechanism of the inhibition of archaeal RelE toxin
+            by its cognate RelB antitoxin
+  JOURNAL   Biochem Biophys Res Commun 400 (3), 346-351 (2010)
+   PUBMED   20728434
+REFERENCE   2  (residues 1 to 105)
+  AUTHORS   Francuski,D. and Saenger,W.
+  TITLE     Crystal structure of the antitoxin-toxin protein complex RelB-RelE
+            from Methanococcus jannaschii
+  JOURNAL   J Mol Biol 393 (4), 898-908 (2009)
+   PUBMED   19712680
+REFERENCE   3  (residues 1 to 105)
+  AUTHORS   Li,G.Y., Zhang,Y., Inouye,M. and Ikura,M.
+  TITLE     Inhibitory mechanism of Escherichia coli RelE-RelB toxin-antitoxin
+            module involves a helix displacement near an mRNA interferase
+            active site
+  JOURNAL   J Biol Chem 284 (21), 14628-14636 (2009)
+   PUBMED   19297318
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Superfamily architecture ID 1905905
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..105
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     Protein         1..105
+                     /product="type II toxin-antitoxin system RelE/ParE family
+                     toxin"
+                     /calculated_mol_wt=12135
+     Region          <48..105
+                     /region_name="COG4737"
+                     /note="Uncharacterized conserved protein [Function
+                     unknown]"
+                     /db_xref="CDD:443771"
+ORIGIN      
+        1 mftfielqgf skrrqlllpd defrafqell iqdptagdii agtgsfrkir wnrsgmgkrg
+       61 giriiyynvt rngriylali ypkneqddlt eeqrkalkll sekll
+//
+
+LOCUS       WP_000500725             237 aa            linear   BCT 20-JUN-2019
+DEFINITION  MULTISPECIES: SDR family oxidoreductase [Enterobacteriaceae].
+ACCESSION   WP_000500725
+VERSION     WP_000500725.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 237)
+  AUTHORS   Ma,Q., Yang,Z., Pu,M., Peti,W. and Wood,T.K.
+  TITLE     Engineering a novel c-di-GMP-binding protein for biofilm dispersal
+  JOURNAL   Environ. Microbiol. 13 (3), 631-642 (2011)
+   PUBMED   21059164
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF009383.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK12742
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..237
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     gene            1..237
+                     /gene="bdcA"
+     Protein         1..237
+                     /product="SDR family oxidoreductase"
+                     /GO_function="GO:0016491 - oxidoreductase activity
+                     [Evidence IEA]"
+                     /calculated_mol_wt=24501
+     Region          1..237
+                     /region_name="PRK12742"
+                     /note="SDR family oxidoreductase"
+                     /db_xref="CDD:183714"
+ORIGIN      
+        1 mgaftgktvl ilggsrgiga aivrrfvtdg anvrftyags kdaakrlaqe tgatavftds
+       61 adrdavidvv rksgaldilv vnagigvfge alelnaddid rlfkinihap yhasveaarq
+      121 mpeggrilii gsvngdrmpv agmaayaask salqgmargl ardfgprgit invvqpgpid
+      181 tdanpangpm rdmlhsfmai krhgqpeeva gmvawlagpe asfvtgamht idgafga
+//
+
+LOCUS       WP_000503573             262 aa            linear   BCT 27-JUL-2019
+DEFINITION  MULTISPECIES: ANT(3'')-Ia family aminoglycoside
+            nucleotidyltransferase AadA5 [Bacteria].
+ACCESSION   WP_000503573
+VERSION     WP_000503573.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (bacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Antimicrobial Resistance Protein
+            Evidence Accession :: NG_047357.1
+            Evidence Source    :: Bacterial Antimicrobial Resistance Reference
+                                  Gene Database
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..262
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     Protein         1..262
+                     /product="ANT(3'')-Ia family aminoglycoside
+                     nucleotidyltransferase AadA5"
+                     /calculated_mol_wt=28911
+     Region          1..262
+                     /region_name="PRK13746"
+                     /note="aminoglycoside resistance protein; Provisional"
+                     /db_xref="CDD:184296"
+ORIGIN      
+        1 mgeffpaqvf kqlsharavi erhlaatldt ihlfgsaidg glkpdsdidl lvtvsaapnd
+       61 slrqalmldl lkvssppgdg gtwrpleltv varsevvpwr yparrelqfg ewlrhdilsg
+      121 tfepavldhd lailltkarq hslallgpsa atffepvpke hfskalfdti aqwnaesdwk
+      181 gdernvvlal ariwysastg liapkdvaaa wvserlpaeh rplickaraa ylgsedddla
+      241 mrveetaafv ryakatieri lr
+//
+
+LOCUS       WP_000510385              84 aa            linear   BCT 26-AUG-2023
+DEFINITION  MULTISPECIES: hypothetical protein [Enterobacterales].
+ACCESSION   WP_000510385
+VERSION     WP_000510385.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacterales
+  ORGANISM  Enterobacterales
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..84
+                     /organism="Enterobacterales"
+                     /db_xref="taxon:91347"
+     Protein         1..84
+                     /product="hypothetical protein"
+                     /calculated_mol_wt=9426
+     Region          18..>77
+                     /region_name="PRK10929"
+                     /note="putative mechanosensitive channel protein;
+                     Provisional"
+                     /db_xref="CDD:236798"
+ORIGIN      
+        1 mghytirtnd dedqaikkaq eatgqasask tfmtailelq rnrdemaqlr relaqekars
+       61 qelvssvkqf rsslnnlfdl adnp
+//
+
+LOCUS       WP_000516402             220 aa            linear   BCT 01-MAR-2026
+DEFINITION  MULTISPECIES: nucleotide-binding protein [Gammaproteobacteria].
+ACCESSION   WP_000516402
+VERSION     WP_000516402.1
+KEYWORDS    RefSeq.
+SOURCE      Gammaproteobacteria (g-proteobacteria)
+  ORGANISM  Gammaproteobacteria
+            Bacteria; Pseudomonadati; Pseudomonadota.
+REFERENCE   1  (residues 1 to 220)
+  AUTHORS   Galperin,M.Y. and Grishin,N.V.
+  TITLE     The synthetase domains of cobalamin biosynthesis amidotransferases
+            cobB and cobQ belong to a new family of ATP-dependent amidoligases,
+            related to dethiobiotin synthetase
+  JOURNAL   Proteins 41 (2), 238-247 (2000)
+   PUBMED   10966576
+REFERENCE   2  (residues 1 to 220)
+  AUTHORS   Raux,E., Lanois,A., Rambach,A., Warren,M.J. and Thermes,C.
+  TITLE     Cobalamin (vitamin B12) biosynthesis: functional characterization
+            of the Bacillus megaterium cbi genes required to convert
+            uroporphyrinogen III into cobyrinic acid a,c-diamide
+  JOURNAL   Biochem J 335 (Pt 1) (Pt 1), 167-173 (1998)
+   PUBMED   9742226
+REFERENCE   3  (residues 1 to 220)
+  AUTHORS   Raux,E., Lanois,A., Warren,M.J., Rambach,A. and Thermes,C.
+  TITLE     Cobalamin (vitamin B12) biosynthesis: identification and
+            characterization of a Bacillus megaterium cobI operon
+  JOURNAL   Biochem J 335 (Pt 1) (Pt 1), 159-166 (1998)
+   PUBMED   9742225
+REFERENCE   4  (residues 1 to 220)
+  AUTHORS   Pollich,M. and Klug,G.
+  TITLE     Identification and sequence analysis of genes involved in late
+            steps in cobalamin (vitamin B12) synthesis in Rhodobacter
+            capsulatus
+  JOURNAL   J Bacteriol 177 (15), 4481-4487 (1995)
+   PUBMED   7635831
+REFERENCE   5  (residues 1 to 220)
+  AUTHORS   Roth,J.R., Lawrence,J.G., Rubenfield,M., Kieffer-Higgins,S. and
+            Church,G.M.
+  TITLE     Characterization of the cobalamin (vitamin B12) biosynthetic genes
+            of Salmonella typhimurium
+  JOURNAL   J Bacteriol 175 (11), 3303-3316 (1993)
+   PUBMED   8501034
+REFERENCE   6  (residues 1 to 220)
+  AUTHORS   Motallebi-Veshareh,M., Rouch,D.A. and Thomas,C.M.
+  TITLE     A family of ATPases involved in active partitioning of diverse
+            bacterial plasmids
+  JOURNAL   Mol Microbiol 4 (9), 1455-1463 (1990)
+   PUBMED   2149583
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013793.7
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01656.30
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /organism="Gammaproteobacteria"
+                     /db_xref="taxon:1236"
+     Protein         1..220
+                     /product="nucleotide-binding protein"
+                     /calculated_mol_wt=23889
+     Region          4..216
+                     /region_name="ParA_partition"
+                     /note="ParA family partition ATPase; NF041546"
+                     /db_xref="CDD:469431"
+ORIGIN      
+        1 mgkillvvsd kggvgkstyv antgsmlvnk gksviilktd knhdllswne krtdngllti
+       61 pvhaaygnvs neikrlsklc evlivdcpgh dsqefrsalt vsdivvtlvk pssdfesetl
+      121 tsvtekirta qkanaalepw vlftrinsak prhrkaaidl dkllrsdniw iqplktrise
+      181 ldvyesacne gagvhdvsra sslstakaqi elvaqeigil
+//
+
+LOCUS       WP_000522601             342 aa            linear   BCT 29-OCT-2018
+DEFINITION  MULTISPECIES: major capsid protein [Enterobacteriaceae].
+ACCESSION   WP_000522601
+VERSION     WP_000522601.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10511084
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..342
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..342
+                     /product="major capsid protein"
+                     /calculated_mol_wt=38365
+     Region          4..340
+                     /region_name="Phage_cap_E"
+                     /note="Phage major capsid protein E; pfam03864"
+                     /db_xref="CDD:427552"
+ORIGIN      
+        1 mglfttrqll gyteqkvkfr alflelffrr tvnfhteevm ldkitgktpv aayvspiveg
+       61 kvlrhrgget rvlrpgyvkp khefnyqqav erlpgedpaq lndpayrrlr iitdnlkqee
+      121 haivqveemq avnavlygky tmegeqfdtv evdfgrsegn nieqadgkkw seqdrdtfdp
+      181 thdidlycdq asglvniaim dgtvwrllng fklfrekldt rrgsnsqlet avkdlgavvs
+      241 fkgyygdlai vvaktsyvad dgtekrylpv gtlvlgntaa egircygaiq daqalsegvv
+      301 assrypkhwl tvgdpareft mtqsaplmvl pdpdefvvvq vk
+//
+
+LOCUS       WP_000532176              83 aa            linear   BCT 01-MAR-2026
+DEFINITION  MULTISPECIES: Arc family DNA-binding protein [Enterobacteriaceae].
+ACCESSION   WP_000532176
+VERSION     WP_000532176.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+REFERENCE   1  (residues 1 to 83)
+  AUTHORS   Raumann,B.E., Rould,M.A., Pabo,C.O. and Sauer,R.T.
+  TITLE     DNA recognition by beta-sheets in the Arc repressor-operator
+            crystal structure
+  JOURNAL   Nature 367 (6465), 754-757 (1994)
+   PUBMED   8107872
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF015807.7
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF03869.21
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..83
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     Protein         1..83
+                     /product="Arc family DNA-binding protein"
+                     /GO_function="GO:0003677 - DNA binding [Evidence IEA]"
+                     /calculated_mol_wt=9441
+     Region          1..81
+                     /region_name="mnt"
+                     /note="Mnt; PHA01513"
+                     /db_xref="CDD:164855"
+ORIGIN      
+        1 mgrddpqfnl rlpyelkekl kqraksngrs lnselvqivt davskpskis gyrddaeria
+       61 deqselvkkm vfdtlkdlyk kpt
+//
+
+LOCUS       WP_000545669             483 aa            linear   BCT 02-JUN-2019
+DEFINITION  MULTISPECIES: Trk system potassium transporter TrkH
+            [Enterobacteriaceae].
+ACCESSION   WP_000545669
+VERSION     WP_000545669.1
+KEYWORDS    RefSeq.
+SOURCE      Enterobacteriaceae (enterobacteria)
+  ORGANISM  Enterobacteriaceae
+            Bacteria; Pseudomonadati; Pseudomonadota; Gammaproteobacteria;
+            Enterobacterales.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF008020.0
+            Evidence Source    :: NCBI Protein Cluster (PRK)
+            Source Identifier  :: PRK10750
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..483
+                     /organism="Enterobacteriaceae"
+                     /db_xref="taxon:543"
+     gene            1..483
+                     /gene="trkH"
+     Protein         1..483
+                     /product="Trk system potassium transporter TrkH"
+                     /calculated_mol_wt=52843
+     Region          1..483
+                     /region_name="PRK10750"
+                     /note="Trk system potassium transporter TrkH"
+                     /db_xref="CDD:182698"
+ORIGIN      
+        1 mhfraitriv gllvilfsgt miipglvali yrdgagraft qtffvalaig smlwwpnrke
+       61 kgelksregf livvlfwtvl gsvgalpfif sespnltitd affesfsglt ttgattlvgl
+      121 dslphailfy rqmlqwfggm giivlavail pilgvggmql yraempgplk dnkmrpriae
+      181 taktlwliyv lltvacalal wfagmdafda ighsfatiai ggfsthdasi gyfdsptint
+      241 iiaifllisg cnyglhfsll sgrslkvywr dpefrmfigv qftlviictl vlwfhnvyss
+      301 almtinqaff qvvsmattag fttdsiarwp lflpvlllcs afiggcagst ggglkviril
+      361 llfkqgnrel krlvhpnavy siklgnralp erileavwgf fsayalvfiv smlaiiatgv
+      421 ddfsafasvv atlnnlgpgl gvvadnftsm npvakwilia nmlfgrlevf tllvlftptf
+      481 wre
+//
+
+LOCUS       WP_000545983             377 aa            linear   BCT 01-MAR-2026
+DEFINITION  MULTISPECIES: DUF3800 domain-containing protein
+            [Gammaproteobacteria].
+ACCESSION   WP_000545983
+VERSION     WP_000545983.1
+KEYWORDS    RefSeq.
+SOURCE      Gammaproteobacteria (g-proteobacteria)
+  ORGANISM  Gammaproteobacteria
+            Bacteria; Pseudomonadati; Pseudomonadota.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF024098.7
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF12686.13
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..377
+                     /organism="Gammaproteobacteria"
+                     /db_xref="taxon:1236"
+     Protein         1..377
+                     /product="DUF3800 domain-containing protein"
+                     /calculated_mol_wt=43151
+ORIGIN      
+        1 mhfyvdetgq tgrnlfdktq pilsygvlss eadldkvaea dlaalrktlg verlhaaelg
+       61 vhrlsevvdt llvlqknhri rfdiwqvvkr dhaiisffdq vfdqglnpvv pwsaywtplr
+      121 yplllnlsnl fddelaekaw rarleahder scslfsevcg vllqrvhslg darsvelitd
+      181 alswamvnfd elgyncktnk eklqimpnmi gfqsvlhgic srlgapnrka diivdqqsqf
+      241 nttqrelnef yyqireqpwa lgpglpvmdm knmpakplvf qsgtmsagle lvdiylwifk
+      301 rymerkeltk plsrlvytnl ktartdsvsl qsvakrfkef feklseptae miekanelra
+      361 veetrrlahr vqsvsqs
+//
+
+LOCUS       WP_000557619              85 aa            linear   BCT 14-JAN-2026
+DEFINITION  MULTISPECIES: type II toxin-antitoxin system antitoxin PemI
+            [Bacteria].
+ACCESSION   WP_000557619
+VERSION     WP_000557619.1
+KEYWORDS    RefSeq.
+SOURCE      Bacteria (bacteria)
+  ORGANISM  Bacteria
+            Unclassified.
+REFERENCE   1  (residues 1 to 85)
+  AUTHORS   Tsuchimoto,S. and Ohtsubo,E.
+  TITLE     Autoregulation by cooperative binding of the PemI and PemK proteins
+            to the promoter region of the pem operon
+  JOURNAL   Mol Gen Genet 237 (1-2), 81-88 (1993)
+   PUBMED   8455570
+REFERENCE   2  (residues 1 to 85)
+  AUTHORS   Tsuchimoto,S., Ohtsubo,H. and Ohtsubo,E.
+  TITLE     Two genes, pemK and pemI, responsible for stable maintenance of
+            resistance plasmid R100
+  JOURNAL   J Bacteriol 170 (4), 1461-1466 (1988)
+   PUBMED   2832364
+REFERENCE   3  (residues 1 to 85)
+  AUTHORS   Bravo,A., de Torrontegui,G. and Diaz,R.
+  TITLE     Identification of components of a new stability system of plasmid
+            R1, ParD, that is close to the origin of replication of this
+            plasmid
+  JOURNAL   Mol Gen Genet 210 (1), 101-110 (1987)
+   PUBMED   3323833
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            REFSEQ INFORMATION: The reference sequence is identical to P13975.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: BlastRule
+            Evidence Accession :: NBR009176
+            Evidence Source    :: NCBI
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..85
+                     /organism="Bacteria"
+                     /db_xref="taxon:2"
+     gene            1..85
+                     /gene="pemI"
+     Protein         1..85
+                     /product="type II toxin-antitoxin system antitoxin PemI"
+                     /calculated_mol_wt=9201
+     Region          3..85
+                     /region_name="MazE"
+                     /note="Antitoxin component MazE of the MazEF
+                     toxin-antitoxin module [Defense mechanisms]; COG2336"
+                     /db_xref="CDD:441907"
+ORIGIN      
+        1 mhttrlkrvg gsvmltvppa llnalslgtd nevgmvidng rlivepyrrp qyslaellaq
+       61 cdpnaeisae erewldapat gqeei
+//
+
+LOCUS       WP_000558152             150 aa            linear   BCT 06-AUG-2026
+DEFINITION  MULTISPECIES: acyltransferase [Pseudomonadati].
+ACCESSION   WP_000558152
+VERSION     WP_000558152.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonadati
+  ORGANISM  Pseudomonadati
+            Bacteria.
+REFERENCE   1  (residues 1 to 150)
+  AUTHORS   Parisi,G. and Echave,J.
+  TITLE     The structurally constrained protein evolution model accounts for
+            sequence patterns of the LbetaH superfamily
+  JOURNAL   BMC Evol Biol 4, 41 (2004)
+   PUBMED   15500694
+REFERENCE   2  (residues 1 to 150)
+  AUTHORS   Jenkins,J. and Pickersgill,R.
+  TITLE     The architecture of parallel beta-helices and related folds
+  JOURNAL   Prog Biophys Mol Biol 77 (2), 111-175 (2001)
+   PUBMED   11747907
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 10129729
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..150
+                     /organism="Pseudomonadati"
+                     /db_xref="taxon:3379134"
+     Protein         1..150
+                     /product="acyltransferase"
+                     /EC_number="2.3.1.-"
+                     /GO_function="GO:0016740 - transferase activity [Evidence
+                     IEA]"
+                     /calculated_mol_wt=15706
+     Region          30..148
+                     /region_name="LbH_WxcM_N_like"
+                     /note="WcxM-like, Left-handed parallel beta-Helix (LbH)
+                     N-terminal domain: This group is composed of Xanthomonas
+                     campestris WcxM and proteins with similarity to the WcxM
+                     N-terminal domain. WcxM is thought to be bifunctional,
+                     catalyzing both the isomerization...; cd03358"
+                     /db_xref="CDD:100048"
+     Site            order(51,53,61,69,71,77,83..84,86,103,105,108,126,142)
+                     /site_type="other"
+                     /note="putative trimer interface [polypeptide binding]"
+                     /db_xref="CDD:100048"
+     Site            order(53,55,83,86,105,107..108,113,124..125,130..131,
+                     140..141,143)
+                     /site_type="active"
+                     /note="putative active site [active]"
+                     /db_xref="CDD:100048"
+     Site            order(53,55,83)
+                     /site_type="other"
+                     /note="putative substrate binding site [chemical binding]"
+                     /db_xref="CDD:100048"
+     Site            order(83,86,105,107..108,113,122,124..125,130..131,138,
+                     140..141,143,147)
+                     /site_type="other"
+                     /note="putative CoA binding site [chemical binding]"
+                     /db_xref="CDD:100048"
+ORIGIN      
+        1 mhvinsgird vkfgenvkvv mpvnlyecel gddvfigpfv eiqkgciigk rsriqshsfi
+       61 cenvilgdgc fighgvtfan dlfkcggpda saeswirivl gntvtvgsga tiltteicsg
+      121 avigagsvvt kpvlvkgvya gnparllrtl
+//
+

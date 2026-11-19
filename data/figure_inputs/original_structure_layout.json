@@ -1,0 +1,119 @@
+{
+  "main04": {
+    "artwork": "original_layout/main04.svg",
+    "width": 299.0,
+    "height": 284.5,
+    "letters": {
+      "d": [
+        16.33,
+        1.759999999999991
+      ],
+      "e": [
+        153.82,
+        1.759999999999991
+      ],
+      "g": [
+        154.13,
+        150.27999999999997
+      ]
+    },
+    "annotations": [
+      {
+        "compound_id": "JH14",
+        "x": 153.9600067138672,
+        "y": 108.06918334960938
+      },
+      {
+        "compound_id": "JH13",
+        "x": 153.9600067138672,
+        "y": 259.1275634765625
+      }
+    ],
+    "original_crop": [
+      3,
+      390.5,
+      302,
+      675
+    ],
+    "source": "revisions/current_paper/images/figure4_R2_presentation_R1_minor.pdf",
+    "source_sha256": "625244cb52c6ae73c637172d11675a0f04d5ba4f26eb0c857869da7a7460674d"
+  },
+  "extended02_dna": {
+    "artwork": "original_layout/extended02_dna.svg",
+    "width": 299.0,
+    "height": 290.5,
+    "letters": {
+      "a": [
+        5.84,
+        1.129999999999999
+      ],
+      "b": [
+        153.82,
+        1.129999999999999
+      ],
+      "d": [
+        154.08,
+        155.32
+      ]
+    },
+    "annotations": [
+      {
+        "compound_id": "JH27",
+        "x": 153.9600067138672,
+        "y": 113.75918579101562
+      },
+      {
+        "compound_id": "JH32",
+        "x": 153.9600067138672,
+        "y": 264.8171691894531
+      }
+    ],
+    "original_crop": [
+      3,
+      27.5,
+      302,
+      318
+    ],
+    "source": "revisions/current_paper/images/fig4_extended_R2_presentation_R1_minor.pdf",
+    "source_sha256": "b1708298d520e037f24bbc2b0c28feb31e3342a63f69f8addeca4b89fcc02271"
+  },
+  "extended02_fatty": {
+    "artwork": "original_layout/extended02_fatty.svg",
+    "width": 299.0,
+    "height": 284.5,
+    "letters": {
+      "f": [
+        6.07,
+        1.8199999999999932
+      ],
+      "g": [
+        154.1,
+        1.8199999999999932
+      ],
+      "i": [
+        153.81,
+        150.34000000000003
+      ]
+    },
+    "annotations": [
+      {
+        "compound_id": "JH42",
+        "x": 153.9600067138672,
+        "y": 108.13217163085938
+      },
+      {
+        "compound_id": "JH61",
+        "x": 153.9600067138672,
+        "y": 259.19091796875
+      }
+    ],
+    "original_crop": [
+      3,
+      363.5,
+      302,
+      648
+    ],
+    "source": "revisions/current_paper/images/fig4_extended_R2_presentation_R1_minor.pdf",
+    "source_sha256": "b1708298d520e037f24bbc2b0c28feb31e3342a63f69f8addeca4b89fcc02271"
+  }
+}

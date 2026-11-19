@@ -1,0 +1,13 @@
+dataset,proteomics_all,combined_all,combined_certain
+inhouse_corramycin,1/1,0/1,— (0)
+eclipse,3/3,3/3,3/3
+gentamicin,1/1,1/1,1/1
+cefiderocol,1/1,1/1,1/1
+yu,10/19,15/19,9/10
+subanovic,2/4,4/4,4/4
+pxd027164,3/4,4/4,4/4
+smx,0/3,3/3,3/3
+ceftriaxone,0/1,1/1,1/1
+meropenem,1/2,2/2,2/2
+colistin_csa13,0/2,1/2,1/1
+pxd063721,0/2,2/2,2/2

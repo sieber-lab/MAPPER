@@ -1,0 +1,39 @@
+training_setting,calibration_mode,case_key,compound_name,expected,predicted,score,score_cutoff,uncertain,reference_rank,correct,score_to_cutoff,outcome
+inhouse_only,inhouse,yu::yucefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,0.074039793331176,0.1446307109016925,True,1,True,0.5119230408920681,correct_uncertain
+inhouse_only,inhouse,yu::yuceftriaxone,Ceftriaxone,Cell wall biosynthesis,Protein synthesis,0.121682800007984,0.1446307109016925,True,2,False,0.8413344527545985,incorrect_uncertain
+inhouse_only,inhouse,yu::yudoxycycline,Doxycycline,Protein synthesis,DNA replication,0.0415146319154882,0.1446307109016925,True,2,False,0.2870388429723358,incorrect_uncertain
+inhouse_only,inhouse,yu::yuerythromycin,Erythromycin,Protein synthesis,Protein synthesis,0.0703293639084828,0.1446307109016925,True,1,True,0.4862685350159597,correct_uncertain
+inhouse_only,inhouse,yu::yuflavomycin,Flavomycin,Cell wall biosynthesis,DNA replication,0.1107740389206446,0.1446307109016925,True,4,False,0.7659095238489095,incorrect_uncertain
+inhouse_only,inhouse,yu::yuisoniazid,Isoniazid,Fatty acid synthesis,Fatty acid synthesis,0.0289768987331384,0.1446307109016925,True,1,True,0.2003509389705925,correct_uncertain
+inhouse_only,inhouse,yu::yumeropenem,Meropenem,Cell wall biosynthesis,DNA replication,0.209805035131673,0.1446307109016925,False,6,False,1.4506257614558806,incorrect_certain
+inhouse_only,inhouse,yu::yumonactin,Monactin,Membrane disruption,DNA replication,0.0547846339034731,0.1446307109016925,True,9,False,0.3787897712866182,incorrect_uncertain
+inhouse_only,inhouse,yu::yupenicillin,Penicillin G,Cell wall biosynthesis,Cell wall biosynthesis,0.0746395544117937,0.1446307109016925,True,1,True,0.5160698854790753,correct_uncertain
+inhouse_only,inhouse,yu::yuretapamulin,Retapamulin,Protein synthesis,Protein synthesis,0.0802942642447305,0.1446307109016925,True,1,True,0.5551674588622304,correct_uncertain
+inhouse_only,inhouse,yu::yuteicoplanin,Teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,0.1051722289078558,0.1446307109016925,True,1,True,0.7271777083315508,correct_uncertain
+inhouse_only,inhouse,yu::yuteixobactin,Teixobactin,Cell wall biosynthesis,DNA replication,0.0758324001574268,0.1446307109016925,True,3,False,0.5243174128416691,incorrect_uncertain
+inhouse_only,inhouse,yu::yuthiostrepton,Thiostrepton,Protein synthesis,Protein synthesis,0.0718914426139235,0.1446307109016925,True,1,True,0.49706899845627606,correct_uncertain
+inhouse_only,inhouse,yu::yuvancomycin,Vancomycin,Cell wall biosynthesis,Protein synthesis,0.0648460768948765,0.1446307109016925,True,2,False,0.44835620658017283,incorrect_uncertain
+inhouse_only,inhouse,yu::yutetracycline,Tetracycline,Protein synthesis,Protein synthesis,0.1174736386234871,0.1446307109016925,True,1,True,0.8122316338701783,correct_uncertain
+inhouse_only,inhouse,yu::yurifampicin,Rifampicin,RNA Synthesis,DNA replication,0.0568940593667988,0.3399305416643619,True,6,False,0.16736966054369554,incorrect_uncertain
+inhouse_only,inhouse,yu::yutriclosan,Triclosan,Fatty acid synthesis,Fatty acid synthesis,0.1170400014411037,0.287140240818262,True,1,True,0.4076057089998094,correct_uncertain
+inhouse_only,inhouse,yu::yucerulenin,Cerulenin,Fatty acid synthesis,Fatty acid synthesis,0.2418113047629594,0.2909944419314463,True,1,True,0.8309825547112213,correct_uncertain
+inhouse_only,inhouse,yu::yupolymyxin,Polymyxin B,Membrane disruption,Cell wall biosynthesis,0.0720380634818381,0.102711033928208,True,5,False,0.701366354974,incorrect_uncertain
+inhouse_plus_yu,inhouse,yu::yucefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,0.9346137889226278,0.2220267199166118,False,1,True,4.209465370986193,correct_certain
+inhouse_plus_yu,inhouse,yu::yuceftriaxone,Ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,0.9037908083200454,0.2409223691374063,False,1,True,3.7513777220270588,correct_certain
+inhouse_plus_yu,inhouse,yu::yucerulenin,Cerulenin,Fatty acid synthesis,Fatty acid synthesis,0.5920381258924802,0.2137040377687662,False,1,True,2.770364715958629,correct_certain
+inhouse_plus_yu,inhouse,yu::yudoxycycline,Doxycycline,Protein synthesis,Cell wall biosynthesis,0.0235503712634238,0.2409223691374063,True,3,False,0.0977508703228475,incorrect_uncertain
+inhouse_plus_yu,inhouse,yu::yuerythromycin,Erythromycin,Protein synthesis,Protein synthesis,0.984444573322932,0.2243760654982179,False,1,True,4.387475870641608,correct_certain
+inhouse_plus_yu,inhouse,yu::yuflavomycin,Flavomycin,Cell wall biosynthesis,Cell wall biosynthesis,0.9027631306648254,0.2386163267772644,False,1,True,3.7833250677247516,correct_certain
+inhouse_plus_yu,inhouse,yu::yuisoniazid,Isoniazid,Fatty acid synthesis,Fatty acid synthesis,0.3476367735366026,0.1967124736588448,False,1,True,1.7672329927562362,correct_certain
+inhouse_plus_yu,inhouse,yu::yumeropenem,Meropenem,Cell wall biosynthesis,Cell wall biosynthesis,0.594351882537206,0.2226759317331015,False,1,True,2.6691339199136883,correct_certain
+inhouse_plus_yu,inhouse,yu::yumonactin,Monactin,Membrane disruption,Cell wall biosynthesis,0.5759999527533849,0.2067177978802161,False,8,False,2.7864071630985134,incorrect_certain
+inhouse_plus_yu,inhouse,yu::yupenicillin,Penicillin G,Cell wall biosynthesis,Cell wall biosynthesis,0.4015635154644648,0.2067177978802161,False,1,True,1.9425686592170124,correct_certain
+inhouse_plus_yu,inhouse,yu::yupolymyxin,Polymyxin B,Membrane disruption,Cell wall biosynthesis,0.7651720364888509,0.2067177978802161,False,5,False,3.7015295457638078,incorrect_certain
+inhouse_plus_yu,inhouse,yu::yuretapamulin,Retapamulin,Protein synthesis,Protein synthesis,0.9437441674868264,0.2409223691374063,False,1,True,3.917212714061336,correct_certain
+inhouse_plus_yu,inhouse,yu::yurifampicin,Rifampicin,RNA Synthesis,Cell wall biosynthesis,0.3016543519559005,0.232832062030211,False,4,False,1.2955876837819678,incorrect_certain
+inhouse_plus_yu,inhouse,yu::yuteicoplanin,Teicoplanin,Cell wall biosynthesis,Membrane disruption,0.4301320898036162,0.2409223691374063,False,2,False,1.7853555539224217,incorrect_certain
+inhouse_plus_yu,inhouse,yu::yuteixobactin,Teixobactin,Cell wall biosynthesis,RNA Synthesis,0.343445377945809,0.2409223691374063,False,2,False,1.4255437516054406,incorrect_certain
+inhouse_plus_yu,inhouse,yu::yutetracycline,Tetracycline,Protein synthesis,Protein synthesis,0.9649375267823536,0.203237957060337,False,1,True,4.747821424399992,correct_certain
+inhouse_plus_yu,inhouse,yu::yuthiostrepton,Thiostrepton,Protein synthesis,Protein synthesis,0.8917304452260335,0.2489591427613049,False,1,True,3.5818344943491383,correct_certain
+inhouse_plus_yu,inhouse,yu::yutriclosan,Triclosan,Fatty acid synthesis,Fatty acid synthesis,0.452424706791838,0.2409223691374063,False,1,True,1.8778858451861091,correct_certain
+inhouse_plus_yu,inhouse,yu::yuvancomycin,Vancomycin,Cell wall biosynthesis,Cell wall biosynthesis,0.4173648251096407,0.2067177978802161,False,1,True,2.01900769739955,correct_certain

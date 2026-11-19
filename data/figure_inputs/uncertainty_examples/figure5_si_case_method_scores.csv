@@ -1,0 +1,64 @@
+context,CompoundID,role,TrueMoA,PredictedMoA,correct,method,risk,threshold,flag
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,low_max_score,-0.2032993465755134,-0.2583576257526873,True
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,high_predictive_entropy,0.4413122832775116,0.6087172031402589,False
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,high_expected_entropy,0.3073807060718536,0.4284923374652863,False
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,z_gate_global,1.1149385176360176,2.299275576435799,False
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,z_gate_class,1.028029349948154,2.213497637660497,False
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,meta_model,0.990529125114766,0.7591968097385311,True
+id_00,JH40,id,Fatty acid synthesis,Fatty acid synthesis,1,low_margin,-0.0340451598074287,-0.1551003906410187,True
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,low_max_score,-0.4492723662406206,-0.2110055545531212,False
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,low_max_score,-0.4962979950010776,-0.2110055545531212,False
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,high_predictive_entropy,0.6401951313018799,0.566514015197754,True
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,high_predictive_entropy,0.6814130544662476,0.566514015197754,True
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,high_expected_entropy,0.4356324672698974,0.4035191833972931,True
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,high_expected_entropy,0.4921987950801849,0.4035191833972931,True
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,z_gate_global,2.187651715607582,1.737868309654933,True
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,z_gate_global,1.8973371541058608,1.737868309654933,True
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,z_gate_class,2.213261915302625,1.6675436946993567,True
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,z_gate_class,1.9439950569692832,1.6675436946993567,True
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,meta_model,0.8278328537211751,0.8159509737243258,True
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,meta_model,0.7001141084446398,0.8159509737243258,False
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,low_margin,-0.279601812325418,-0.1743894563912181,False
+id_03,JH61,id,Fatty acid synthesis,Fatty acid synthesis,1,low_margin,-0.4644760444253916,-0.1743894563912181,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,low_max_score,-0.1159841883415356,-0.3042321653664111,True
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,high_predictive_entropy,0.334918200969696,0.6035809516906739,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,high_expected_entropy,0.2418320626020431,0.4535103738307953,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,z_gate_global,0.5838610609413728,2.605638890074184,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,z_gate_class,0.6519327813502931,2.3329298307445203,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,meta_model,0.431096417818145,0.6788524072592088,False
+loco_01,JH32,ood,DNA replication,Cell wall biosynthesis,0,low_margin,-0.1085421272023813,-0.2542060601169941,True
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,low_max_score,-0.5275485557317734,-0.3588657657802104,False
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,low_max_score,-0.3413213089853525,-0.3588657657802104,True
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,low_max_score,-0.6379319952428341,-0.3588657657802104,False
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,low_max_score,-0.3088242105022072,-0.3588657657802104,True
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,high_predictive_entropy,0.6460718512535095,0.6033025383949281,True
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,high_predictive_entropy,0.6091303825378418,0.6033025383949281,True
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,high_predictive_entropy,0.6394129395484924,0.6033025383949281,True
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,high_predictive_entropy,0.5961183309555054,0.6033025383949281,False
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,high_expected_entropy,0.4528658986091614,0.4312171339988709,True
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,high_expected_entropy,0.4107344150543213,0.4312171339988709,False
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,high_expected_entropy,0.4374801516532898,0.4312171339988709,True
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,high_expected_entropy,0.3833165466785431,0.4312171339988709,False
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,z_gate_global,2.140572486943688,2.3385420946328046,False
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,z_gate_global,2.268295099534279,2.3385420946328046,False
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,z_gate_global,2.3178915851787445,2.3385420946328046,False
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,z_gate_global,2.7569327786368234,2.3385420946328046,True
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,z_gate_class,2.027745026290918,2.174274679727065,False
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,z_gate_class,2.3388900074886974,2.174274679727065,True
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,z_gate_class,2.196140423816701,2.174274679727065,True
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,z_gate_class,2.8076904285090056,2.174274679727065,True
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,meta_model,0.6218656753291375,0.829489937841629,False
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,meta_model,0.8428177810514532,0.829489937841629,True
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,meta_model,0.4612763786008984,0.829489937841629,False
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,meta_model,0.8673001840895807,0.829489937841629,True
+loco_05,JH31,ood,Nitrofurans,Protein synthesis,0,low_margin,-0.5146189620136284,-0.3273291289417829,False
+loco_05,JH58,ood,Nitrofurans,Protein synthesis,0,low_margin,-0.3281567941793765,-0.3273291289417829,False
+loco_05,JH64,ood,Nitrofurans,Protein synthesis,0,low_margin,-0.6293086595379282,-0.3273291289417829,False
+loco_05,JH65,ood,Nitrofurans,Protein synthesis,0,low_margin,-0.3020786537165986,-0.3273291289417829,True
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,low_max_score,-0.3706190387904644,-0.2716371491365134,False
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,high_predictive_entropy,0.5731700658798218,0.6035325527191163,False
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,high_expected_entropy,0.4031648635864258,0.4283001720905304,False
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,z_gate_global,1.947855678770056,1.856318357355736,True
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,z_gate_class,2.482407572497428,1.969035262414103,True
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,meta_model,0.7608187630193128,0.8128814111326794,False
+loco_07,JH38,ood,RNA Synthesis,Protein synthesis,0,low_margin,-0.3535721994595952,-0.2164673004171345,False

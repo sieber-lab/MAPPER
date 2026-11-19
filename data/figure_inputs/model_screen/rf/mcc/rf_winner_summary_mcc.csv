@@ -1,0 +1,2 @@
+model,metric,best,mean,std,n_cycles,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc,mcs_size
+rf,mcc,ECFP,0.7947904868272024,0.07717941594042417,25,2.088189057537643e-84,0.016666666666666666,True,Conover–Friedman (BH),4

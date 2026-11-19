@@ -1,0 +1,9 @@
+var_tag,mean
+CellPaint+ECFP+GC+Proteomics,0.9810258630599826
+CellPaint+ECFP+GC+MIC+Proteomics,0.9808304396000493
+CellPaint+Proteomics,0.9802229597452847
+CellPaint+ECFP+MIC+Proteomics,0.9788814839677344
+CellPaint+ECFP+Proteomics,0.9786458015467759
+CellPaint+MIC+Proteomics,0.9784213185575554
+CellPaint+GC+Proteomics,0.9774456266099963
+CellPaint+GC+MIC+Proteomics,0.9773030219997879

@@ -1,0 +1,397 @@
+SampleID,CompoundID,CandidateMoA,Score
+JH3_1,JH3,Cell wall biosynthesis,0.23569001
+JH3_2,JH3,Cell wall biosynthesis,0.06565019
+JH3_3,JH3,Cell wall biosynthesis,0.04939233
+JH3_4,JH3,Cell wall biosynthesis,0.047645263
+JH10_1,JH10,Cell wall biosynthesis,0.033082463
+JH10_2,JH10,Cell wall biosynthesis,0.03656438
+JH10_3,JH10,Cell wall biosynthesis,0.028747596
+JH10_4,JH10,Cell wall biosynthesis,0.023665452
+JH12_1,JH12,Cell wall biosynthesis,0.011115768
+JH12_2,JH12,Cell wall biosynthesis,0.007377104
+JH12_3,JH12,Cell wall biosynthesis,0.012250051
+JH12_4,JH12,Cell wall biosynthesis,0.013431815
+JH13_1,JH13,Cell wall biosynthesis,0.003727756
+JH13_2,JH13,Cell wall biosynthesis,0.004504763
+JH13_3,JH13,Cell wall biosynthesis,0.0053087734
+JH13_4,JH13,Cell wall biosynthesis,0.012054302
+JH24_1,JH24,Cell wall biosynthesis,0.06588435
+JH24_2,JH24,Cell wall biosynthesis,0.026657118
+JH24_3,JH24,Cell wall biosynthesis,0.021169914
+JH24_4,JH24,Cell wall biosynthesis,0.010548002
+JH30_1,JH30,Cell wall biosynthesis,0.06604756
+JH30_2,JH30,Cell wall biosynthesis,0.046052795
+JH30_3,JH30,Cell wall biosynthesis,0.07765629
+JH30_4,JH30,Cell wall biosynthesis,0.15891106
+JH35_1,JH35,Cell wall biosynthesis,0.005672784
+JH35_2,JH35,Cell wall biosynthesis,0.013813726
+JH35_3,JH35,Cell wall biosynthesis,0.0067357146
+JH35_4,JH35,Cell wall biosynthesis,0.00410372
+JH38_1,JH38,Cell wall biosynthesis,0.011350304
+JH38_2,JH38,Cell wall biosynthesis,0.03553336
+JH38_3,JH38,Cell wall biosynthesis,0.0049530244
+JH38_4,JH38,Cell wall biosynthesis,0.011135787
+JH40_1,JH40,Cell wall biosynthesis,0.01819973
+JH40_2,JH40,Cell wall biosynthesis,0.05730651
+JH40_3,JH40,Cell wall biosynthesis,0.04432532
+JH40_4,JH40,Cell wall biosynthesis,0.044291176
+JH43_1,JH43,Cell wall biosynthesis,0.009803934
+JH43_2,JH43,Cell wall biosynthesis,0.0038266662
+JH43_3,JH43,Cell wall biosynthesis,0.0062217764
+JH43_4,JH43,Cell wall biosynthesis,0.009410332
+JH48_1,JH48,Cell wall biosynthesis,0.031031925
+JH48_2,JH48,Cell wall biosynthesis,0.08579032
+JH48_3,JH48,Cell wall biosynthesis,0.11383668
+JH48_4,JH48,Cell wall biosynthesis,0.0710216
+JH3_1,JH3,DNA replication,0.05615124
+JH3_2,JH3,DNA replication,0.049029
+JH3_3,JH3,DNA replication,0.07226286
+JH3_4,JH3,DNA replication,0.047156297
+JH10_1,JH10,DNA replication,0.058714308
+JH10_2,JH10,DNA replication,0.0712904
+JH10_3,JH10,DNA replication,0.06742294
+JH10_4,JH10,DNA replication,0.05733875
+JH12_1,JH12,DNA replication,0.043468975
+JH12_2,JH12,DNA replication,0.021061389
+JH12_3,JH12,DNA replication,0.026863106
+JH12_4,JH12,DNA replication,0.058536533
+JH13_1,JH13,DNA replication,0.04107197
+JH13_2,JH13,DNA replication,0.091919295
+JH13_3,JH13,DNA replication,0.049470942
+JH13_4,JH13,DNA replication,0.019093746
+JH24_1,JH24,DNA replication,0.17122738
+JH24_2,JH24,DNA replication,0.1288646
+JH24_3,JH24,DNA replication,0.2618105
+JH24_4,JH24,DNA replication,0.26182166
+JH30_1,JH30,DNA replication,0.37076452
+JH30_2,JH30,DNA replication,0.38413727
+JH30_3,JH30,DNA replication,0.41340286
+JH30_4,JH30,DNA replication,0.070698954
+JH35_1,JH35,DNA replication,0.88495195
+JH35_2,JH35,DNA replication,0.7538946
+JH35_3,JH35,DNA replication,0.8976111
+JH35_4,JH35,DNA replication,0.9464305
+JH38_1,JH38,DNA replication,0.097252786
+JH38_2,JH38,DNA replication,0.09964347
+JH38_3,JH38,DNA replication,0.019768935
+JH38_4,JH38,DNA replication,0.1749232
+JH40_1,JH40,DNA replication,0.013479705
+JH40_2,JH40,DNA replication,0.04963399
+JH40_3,JH40,DNA replication,0.038628828
+JH40_4,JH40,DNA replication,0.024510862
+JH43_1,JH43,DNA replication,0.008945384
+JH43_2,JH43,DNA replication,0.004469653
+JH43_3,JH43,DNA replication,0.0034122984
+JH43_4,JH43,DNA replication,0.0049876356
+JH48_1,JH48,DNA replication,0.029818518
+JH48_2,JH48,DNA replication,0.07573239
+JH48_3,JH48,DNA replication,0.113235265
+JH48_4,JH48,DNA replication,0.058958653
+JH3_1,JH3,Fatty acid synthesis,0.040344566
+JH3_2,JH3,Fatty acid synthesis,0.026983604
+JH3_3,JH3,Fatty acid synthesis,0.028142245
+JH3_4,JH3,Fatty acid synthesis,0.040857412
+JH10_1,JH10,Fatty acid synthesis,0.04670826
+JH10_2,JH10,Fatty acid synthesis,0.053714033
+JH10_3,JH10,Fatty acid synthesis,0.044198986
+JH10_4,JH10,Fatty acid synthesis,0.04877461
+JH12_1,JH12,Fatty acid synthesis,0.049444262
+JH12_2,JH12,Fatty acid synthesis,0.034812737
+JH12_3,JH12,Fatty acid synthesis,0.05732211
+JH12_4,JH12,Fatty acid synthesis,0.013008615
+JH13_1,JH13,Fatty acid synthesis,0.007945383
+JH13_2,JH13,Fatty acid synthesis,0.0016349204
+JH13_3,JH13,Fatty acid synthesis,0.004250211
+JH13_4,JH13,Fatty acid synthesis,0.010572513
+JH24_1,JH24,Fatty acid synthesis,0.03837999
+JH24_2,JH24,Fatty acid synthesis,0.021819022
+JH24_3,JH24,Fatty acid synthesis,0.015071887
+JH24_4,JH24,Fatty acid synthesis,0.04982407
+JH30_1,JH30,Fatty acid synthesis,0.060517296
+JH30_2,JH30,Fatty acid synthesis,0.052614573
+JH30_3,JH30,Fatty acid synthesis,0.03796886
+JH30_4,JH30,Fatty acid synthesis,0.16546899
+JH35_1,JH35,Fatty acid synthesis,0.004647949
+JH35_2,JH35,Fatty acid synthesis,0.010526035
+JH35_3,JH35,Fatty acid synthesis,0.006266798
+JH35_4,JH35,Fatty acid synthesis,0.0027516389
+JH38_1,JH38,Fatty acid synthesis,0.025579404
+JH38_2,JH38,Fatty acid synthesis,0.055873215
+JH38_3,JH38,Fatty acid synthesis,0.0041258205
+JH38_4,JH38,Fatty acid synthesis,0.019407202
+JH40_1,JH40,Fatty acid synthesis,0.018220898
+JH40_2,JH40,Fatty acid synthesis,0.04940115
+JH40_3,JH40,Fatty acid synthesis,0.03972969
+JH40_4,JH40,Fatty acid synthesis,0.17783132
+JH43_1,JH43,Fatty acid synthesis,0.031630907
+JH43_2,JH43,Fatty acid synthesis,0.022426803
+JH43_3,JH43,Fatty acid synthesis,0.008310577
+JH43_4,JH43,Fatty acid synthesis,0.026622942
+JH48_1,JH48,Fatty acid synthesis,0.027486725
+JH48_2,JH48,Fatty acid synthesis,0.03777666
+JH48_3,JH48,Fatty acid synthesis,0.026185652
+JH48_4,JH48,Fatty acid synthesis,0.25679612
+JH3_1,JH3,Folic acid metabolism,0.30545446
+JH3_2,JH3,Folic acid metabolism,0.58585405
+JH3_3,JH3,Folic acid metabolism,0.60995233
+JH3_4,JH3,Folic acid metabolism,0.5802256
+JH10_1,JH10,Folic acid metabolism,0.5348546
+JH10_2,JH10,Folic acid metabolism,0.61498356
+JH10_3,JH10,Folic acid metabolism,0.5878968
+JH10_4,JH10,Folic acid metabolism,0.63789386
+JH12_1,JH12,Folic acid metabolism,0.05297332
+JH12_2,JH12,Folic acid metabolism,0.058834013
+JH12_3,JH12,Folic acid metabolism,0.07946263
+JH12_4,JH12,Folic acid metabolism,0.11398863
+JH13_1,JH13,Folic acid metabolism,0.023138132
+JH13_2,JH13,Folic acid metabolism,0.012322721
+JH13_3,JH13,Folic acid metabolism,0.014735207
+JH13_4,JH13,Folic acid metabolism,0.0064980844
+JH24_1,JH24,Folic acid metabolism,0.049960665
+JH24_2,JH24,Folic acid metabolism,0.06971159
+JH24_3,JH24,Folic acid metabolism,0.119109
+JH24_4,JH24,Folic acid metabolism,0.19931033
+JH30_1,JH30,Folic acid metabolism,0.07058888
+JH30_2,JH30,Folic acid metabolism,0.052311737
+JH30_3,JH30,Folic acid metabolism,0.04673288
+JH30_4,JH30,Folic acid metabolism,0.058534138
+JH35_1,JH35,Folic acid metabolism,0.025293654
+JH35_2,JH35,Folic acid metabolism,0.030290106
+JH35_3,JH35,Folic acid metabolism,0.013304639
+JH35_4,JH35,Folic acid metabolism,0.01409872
+JH38_1,JH38,Folic acid metabolism,0.085190214
+JH38_2,JH38,Folic acid metabolism,0.07100707
+JH38_3,JH38,Folic acid metabolism,0.025147472
+JH38_4,JH38,Folic acid metabolism,0.030775769
+JH40_1,JH40,Folic acid metabolism,0.00400118
+JH40_2,JH40,Folic acid metabolism,0.014225824
+JH40_3,JH40,Folic acid metabolism,0.015411353
+JH40_4,JH40,Folic acid metabolism,0.025688564
+JH43_1,JH43,Folic acid metabolism,0.019680293
+JH43_2,JH43,Folic acid metabolism,0.011583672
+JH43_3,JH43,Folic acid metabolism,0.006873297
+JH43_4,JH43,Folic acid metabolism,0.022477144
+JH48_1,JH48,Folic acid metabolism,0.021104943
+JH48_2,JH48,Folic acid metabolism,0.028436314
+JH48_3,JH48,Folic acid metabolism,0.016933858
+JH48_4,JH48,Folic acid metabolism,0.025724014
+JH3_1,JH3,Membrane disruption,0.14730704
+JH3_2,JH3,Membrane disruption,0.08711322
+JH3_3,JH3,Membrane disruption,0.09212818
+JH3_4,JH3,Membrane disruption,0.08666073
+JH10_1,JH10,Membrane disruption,0.09453637
+JH10_2,JH10,Membrane disruption,0.050223015
+JH10_3,JH10,Membrane disruption,0.07945249
+JH10_4,JH10,Membrane disruption,0.048321754
+JH12_1,JH12,Membrane disruption,0.033743806
+JH12_2,JH12,Membrane disruption,0.037329156
+JH12_3,JH12,Membrane disruption,0.04695839
+JH12_4,JH12,Membrane disruption,0.042075843
+JH13_1,JH13,Membrane disruption,0.018273726
+JH13_2,JH13,Membrane disruption,0.009720678
+JH13_3,JH13,Membrane disruption,0.0067009735
+JH13_4,JH13,Membrane disruption,0.0057220403
+JH24_1,JH24,Membrane disruption,0.07430283
+JH24_2,JH24,Membrane disruption,0.03394481
+JH24_3,JH24,Membrane disruption,0.040056594
+JH24_4,JH24,Membrane disruption,0.030520214
+JH30_1,JH30,Membrane disruption,0.039474368
+JH30_2,JH30,Membrane disruption,0.028817898
+JH30_3,JH30,Membrane disruption,0.013699607
+JH30_4,JH30,Membrane disruption,0.065252826
+JH35_1,JH35,Membrane disruption,0.0046219886
+JH35_2,JH35,Membrane disruption,0.015043191
+JH35_3,JH35,Membrane disruption,0.007445105
+JH35_4,JH35,Membrane disruption,0.0024471693
+JH38_1,JH38,Membrane disruption,0.016794799
+JH38_2,JH38,Membrane disruption,0.04053218
+JH38_3,JH38,Membrane disruption,0.004379044
+JH38_4,JH38,Membrane disruption,0.008571439
+JH40_1,JH40,Membrane disruption,0.0058875945
+JH40_2,JH40,Membrane disruption,0.020104673
+JH40_3,JH40,Membrane disruption,0.00907714
+JH40_4,JH40,Membrane disruption,0.012891913
+JH43_1,JH43,Membrane disruption,0.8363188
+JH43_2,JH43,Membrane disruption,0.90779936
+JH43_3,JH43,Membrane disruption,0.93775684
+JH43_4,JH43,Membrane disruption,0.85121787
+JH48_1,JH48,Membrane disruption,0.015332754
+JH48_2,JH48,Membrane disruption,0.017219324
+JH48_3,JH48,Membrane disruption,0.015709465
+JH48_4,JH48,Membrane disruption,0.063364126
+JH3_1,JH3,Nitrofurans,0.07197632
+JH3_2,JH3,Nitrofurans,0.050263982
+JH3_3,JH3,Nitrofurans,0.04351043
+JH3_4,JH3,Nitrofurans,0.06971555
+JH10_1,JH10,Nitrofurans,0.06717557
+JH10_2,JH10,Nitrofurans,0.06048884
+JH10_3,JH10,Nitrofurans,0.060057554
+JH10_4,JH10,Nitrofurans,0.059784018
+JH12_1,JH12,Nitrofurans,0.3022154
+JH12_2,JH12,Nitrofurans,0.3434238
+JH12_3,JH12,Nitrofurans,0.2505184
+JH12_4,JH12,Nitrofurans,0.35105714
+JH13_1,JH13,Nitrofurans,0.041745752
+JH13_2,JH13,Nitrofurans,0.015888343
+JH13_3,JH13,Nitrofurans,0.009958979
+JH13_4,JH13,Nitrofurans,0.01449072
+JH24_1,JH24,Nitrofurans,0.048922822
+JH24_2,JH24,Nitrofurans,0.056060083
+JH24_3,JH24,Nitrofurans,0.03691551
+JH24_4,JH24,Nitrofurans,0.043992486
+JH30_1,JH30,Nitrofurans,0.023028752
+JH30_2,JH30,Nitrofurans,0.027743964
+JH30_3,JH30,Nitrofurans,0.02999721
+JH30_4,JH30,Nitrofurans,0.013064763
+JH35_1,JH35,Nitrofurans,0.005133785
+JH35_2,JH35,Nitrofurans,0.019320507
+JH35_3,JH35,Nitrofurans,0.0040882505
+JH35_4,JH35,Nitrofurans,0.0037156818
+JH38_1,JH38,Nitrofurans,0.037470482
+JH38_2,JH38,Nitrofurans,0.04222044
+JH38_3,JH38,Nitrofurans,0.010436325
+JH38_4,JH38,Nitrofurans,0.0059979726
+JH40_1,JH40,Nitrofurans,0.00353965
+JH40_2,JH40,Nitrofurans,0.0128893
+JH40_3,JH40,Nitrofurans,0.020578893
+JH40_4,JH40,Nitrofurans,0.025988398
+JH43_1,JH43,Nitrofurans,0.04260282
+JH43_2,JH43,Nitrofurans,0.009305337
+JH43_3,JH43,Nitrofurans,0.0049442756
+JH43_4,JH43,Nitrofurans,0.019204548
+JH48_1,JH48,Nitrofurans,0.0096038
+JH48_2,JH48,Nitrofurans,0.011760082
+JH48_3,JH48,Nitrofurans,0.011298757
+JH48_4,JH48,Nitrofurans,0.015318274
+JH3_1,JH3,Protein synthesis,0.023052942
+JH3_2,JH3,Protein synthesis,0.010509079
+JH3_3,JH3,Protein synthesis,0.012215545
+JH3_4,JH3,Protein synthesis,0.008425884
+JH10_1,JH10,Protein synthesis,0.0096385935
+JH10_2,JH10,Protein synthesis,0.0068516764
+JH10_3,JH10,Protein synthesis,0.011268645
+JH10_4,JH10,Protein synthesis,0.014727748
+JH12_1,JH12,Protein synthesis,0.15266442
+JH12_2,JH12,Protein synthesis,0.4171325
+JH12_3,JH12,Protein synthesis,0.3636942
+JH12_4,JH12,Protein synthesis,0.32248724
+JH13_1,JH13,Protein synthesis,0.8305756
+JH13_2,JH13,Protein synthesis,0.83132774
+JH13_3,JH13,Protein synthesis,0.8898174
+JH13_4,JH13,Protein synthesis,0.8959146
+JH24_1,JH24,Protein synthesis,0.280558
+JH24_2,JH24,Protein synthesis,0.2703949
+JH24_3,JH24,Protein synthesis,0.38629594
+JH24_4,JH24,Protein synthesis,0.09269628
+JH30_1,JH30,Protein synthesis,0.04922426
+JH30_2,JH30,Protein synthesis,0.16755475
+JH30_3,JH30,Protein synthesis,0.094354324
+JH30_4,JH30,Protein synthesis,0.15262084
+JH35_1,JH35,Protein synthesis,0.0534197
+JH35_2,JH35,Protein synthesis,0.10556626
+JH35_3,JH35,Protein synthesis,0.05139623
+JH35_4,JH35,Protein synthesis,0.017247215
+JH38_1,JH38,Protein synthesis,0.026487993
+JH38_2,JH38,Protein synthesis,0.23395923
+JH38_3,JH38,Protein synthesis,0.052641973
+JH38_4,JH38,Protein synthesis,0.096874356
+JH40_1,JH40,Protein synthesis,0.031961292
+JH40_2,JH40,Protein synthesis,0.08283756
+JH40_3,JH40,Protein synthesis,0.012806913
+JH40_4,JH40,Protein synthesis,0.01604247
+JH43_1,JH43,Protein synthesis,0.01357724
+JH43_2,JH43,Protein synthesis,0.012106155
+JH43_3,JH43,Protein synthesis,0.008228597
+JH43_4,JH43,Protein synthesis,0.021276286
+JH48_1,JH48,Protein synthesis,0.04245817
+JH48_2,JH48,Protein synthesis,0.06463156
+JH48_3,JH48,Protein synthesis,0.05710434
+JH48_4,JH48,Protein synthesis,0.093591735
+JH3_1,JH3,RNA Synthesis,0.029909164
+JH3_2,JH3,RNA Synthesis,0.024762604
+JH3_3,JH3,RNA Synthesis,0.019602692
+JH3_4,JH3,RNA Synthesis,0.02547835
+JH10_1,JH10,RNA Synthesis,0.029522352
+JH10_2,JH10,RNA Synthesis,0.026389668
+JH10_3,JH10,RNA Synthesis,0.022410301
+JH10_4,JH10,RNA Synthesis,0.0348714
+JH12_1,JH12,RNA Synthesis,0.30919936
+JH12_2,JH12,RNA Synthesis,0.05411723
+JH12_3,JH12,RNA Synthesis,0.12286557
+JH12_4,JH12,RNA Synthesis,0.047729813
+JH13_1,JH13,RNA Synthesis,0.022945533
+JH13_2,JH13,RNA Synthesis,0.027876984
+JH13_3,JH13,RNA Synthesis,0.013484267
+JH13_4,JH13,RNA Synthesis,0.030727023
+JH24_1,JH24,RNA Synthesis,0.13048813
+JH24_2,JH24,RNA Synthesis,0.13795076
+JH24_3,JH24,RNA Synthesis,0.057197317
+JH24_4,JH24,RNA Synthesis,0.13994968
+JH30_1,JH30,RNA Synthesis,0.2300418
+JH30_2,JH30,RNA Synthesis,0.07146463
+JH30_3,JH30,RNA Synthesis,0.035697266
+JH30_4,JH30,RNA Synthesis,0.15744588
+JH35_1,JH35,RNA Synthesis,0.00616331
+JH35_2,JH35,RNA Synthesis,0.01806268
+JH35_3,JH35,RNA Synthesis,0.006529269
+JH35_4,JH35,RNA Synthesis,0.003988331
+JH38_1,JH38,RNA Synthesis,0.6588929
+JH38_2,JH38,RNA Synthesis,0.3039097
+JH38_3,JH38,RNA Synthesis,0.7871406
+JH38_4,JH38,RNA Synthesis,0.6339395
+JH40_1,JH40,RNA Synthesis,0.0074982075
+JH40_2,JH40,RNA Synthesis,0.020043612
+JH40_3,JH40,RNA Synthesis,0.023644667
+JH40_4,JH40,RNA Synthesis,0.15356426
+JH43_1,JH43,RNA Synthesis,0.009634089
+JH43_2,JH43,RNA Synthesis,0.00657465
+JH43_3,JH43,RNA Synthesis,0.0058712205
+JH43_4,JH43,RNA Synthesis,0.014740083
+JH48_1,JH48,RNA Synthesis,0.018239278
+JH48_2,JH48,RNA Synthesis,0.019383788
+JH48_3,JH48,RNA Synthesis,0.02248385
+JH48_4,JH48,RNA Synthesis,0.072331086
+JH3_1,JH3,lipopolysaccharide synthesis,0.0901142
+JH3_2,JH3,lipopolysaccharide synthesis,0.099834286
+JH3_3,JH3,lipopolysaccharide synthesis,0.07279334
+JH3_4,JH3,lipopolysaccharide synthesis,0.09383492
+JH10_1,JH10,lipopolysaccharide synthesis,0.12576742
+JH10_2,JH10,lipopolysaccharide synthesis,0.07949442
+JH10_3,JH10,lipopolysaccharide synthesis,0.098544724
+JH10_4,JH10,lipopolysaccharide synthesis,0.07462235
+JH12_1,JH12,lipopolysaccharide synthesis,0.045174763
+JH12_2,JH12,lipopolysaccharide synthesis,0.02591195
+JH12_3,JH12,lipopolysaccharide synthesis,0.040065516
+JH12_4,JH12,lipopolysaccharide synthesis,0.0376844
+JH13_1,JH13,lipopolysaccharide synthesis,0.010576243
+JH13_2,JH13,lipopolysaccharide synthesis,0.0048046154
+JH13_3,JH13,lipopolysaccharide synthesis,0.0062732277
+JH13_4,JH13,lipopolysaccharide synthesis,0.0049269074
+JH24_1,JH24,lipopolysaccharide synthesis,0.14027576
+JH24_2,JH24,lipopolysaccharide synthesis,0.2545972
+JH24_3,JH24,lipopolysaccharide synthesis,0.062373392
+JH24_4,JH24,lipopolysaccharide synthesis,0.17133719
+JH30_1,JH30,lipopolysaccharide synthesis,0.09031252
+JH30_2,JH30,lipopolysaccharide synthesis,0.16930234
+JH30_3,JH30,lipopolysaccharide synthesis,0.2504907
+JH30_4,JH30,lipopolysaccharide synthesis,0.15800263
+JH35_1,JH35,lipopolysaccharide synthesis,0.010094918
+JH35_2,JH35,lipopolysaccharide synthesis,0.033482812
+JH35_3,JH35,lipopolysaccharide synthesis,0.0066229757
+JH35_4,JH35,lipopolysaccharide synthesis,0.005217047
+JH38_1,JH38,lipopolysaccharide synthesis,0.04098099
+JH38_2,JH38,lipopolysaccharide synthesis,0.11732135
+JH38_3,JH38,lipopolysaccharide synthesis,0.091406785
+JH38_4,JH38,lipopolysaccharide synthesis,0.018374672
+JH40_1,JH40,lipopolysaccharide synthesis,0.8972118
+JH40_2,JH40,lipopolysaccharide synthesis,0.6935573
+JH40_3,JH40,lipopolysaccharide synthesis,0.79579717
+JH40_4,JH40,lipopolysaccharide synthesis,0.51919097
+JH43_1,JH43,lipopolysaccharide synthesis,0.02780649
+JH43_2,JH43,lipopolysaccharide synthesis,0.021907683
+JH43_3,JH43,lipopolysaccharide synthesis,0.018381173
+JH43_4,JH43,lipopolysaccharide synthesis,0.03006322
+JH48_1,JH48,lipopolysaccharide synthesis,0.80492383
+JH48_2,JH48,lipopolysaccharide synthesis,0.6592696
+JH48_3,JH48,lipopolysaccharide synthesis,0.62321216
+JH48_4,JH48,lipopolysaccharide synthesis,0.3428944

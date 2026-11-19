@@ -1,0 +1,10 @@
+dataset,representation,cases,correct,accuracy,balanced_accuracy,low,high,bootstrap_draws,distinct_bootstrap_rates,collapsed_interval
+eclipse,fold_change,3,3,1.0,1.0,1.0,1.0,2000,1,True
+eclipse,intensity,3,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,2000,1,True
+eclipse,significant_intensity,3,3,1.0,1.0,1.0,1.0,2000,1,True
+subanovic,fold_change,4,3,0.75,0.6666666666666666,0.6666666666666666,0.6666666666666666,2000,1,True
+subanovic,intensity,4,0,0.0,0.0,0.0,0.0,2000,1,True
+subanovic,significant_intensity,4,2,0.5,0.3333333333333333,0.3333333333333333,0.3333333333333333,2000,1,True
+yu,fold_change,19,9,0.47368421052631576,0.3683333333333333,0.22666666666666666,0.5,2000,111,False
+yu,intensity,19,0,0.0,0.0,0.0,0.0,2000,1,True
+yu,significant_intensity,19,8,0.42105263157894735,0.2,0.2,0.2,2000,1,True

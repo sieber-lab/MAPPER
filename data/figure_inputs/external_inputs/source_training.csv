@@ -1,0 +1,201 @@
+sample_id,compound_id,moa,retained_genes
+JH2_1,JH2,Cell wall biosynthesis,129
+JH2_2,JH2,Cell wall biosynthesis,143
+JH2_3,JH2,Cell wall biosynthesis,142
+JH2_4,JH2,Cell wall biosynthesis,140
+JH3_1,JH3,Cell wall biosynthesis,824
+JH3_2,JH3,Cell wall biosynthesis,821
+JH3_3,JH3,Cell wall biosynthesis,820
+JH3_4,JH3,Cell wall biosynthesis,822
+JH5_1,JH5,Cell wall biosynthesis,586
+JH5_3,JH5,Cell wall biosynthesis,571
+JH5_4,JH5,Cell wall biosynthesis,575
+JH6_1,JH6,Cell wall biosynthesis,748
+JH6_2,JH6,Cell wall biosynthesis,751
+JH6_3,JH6,Cell wall biosynthesis,753
+JH6_4,JH6,Cell wall biosynthesis,753
+JH7_1,JH7,Cell wall biosynthesis,626
+JH7_2,JH7,Cell wall biosynthesis,625
+JH7_3,JH7,Cell wall biosynthesis,625
+JH7_4,JH7,Cell wall biosynthesis,623
+JH8_1,JH8,Cell wall biosynthesis,1646
+JH8_2,JH8,Cell wall biosynthesis,1641
+JH8_3,JH8,Cell wall biosynthesis,1641
+JH8_4,JH8,Cell wall biosynthesis,1640
+JH9_1,JH9,Cell wall biosynthesis,390
+JH9_2,JH9,Cell wall biosynthesis,390
+JH9_3,JH9,Cell wall biosynthesis,392
+JH9_4,JH9,Cell wall biosynthesis,394
+JH10_1,JH10,Cell wall biosynthesis,524
+JH10_2,JH10,Cell wall biosynthesis,525
+JH10_3,JH10,Cell wall biosynthesis,524
+JH10_4,JH10,Cell wall biosynthesis,522
+JH12_1,JH12,Protein synthesis,1411
+JH12_2,JH12,Protein synthesis,1405
+JH12_3,JH12,Protein synthesis,1407
+JH12_4,JH12,Protein synthesis,1409
+JH13_1,JH13,Protein synthesis,922
+JH13_2,JH13,Protein synthesis,925
+JH13_3,JH13,Protein synthesis,919
+JH13_4,JH13,Protein synthesis,906
+JH14_1,JH14,Protein synthesis,853
+JH14_2,JH14,Protein synthesis,713
+JH14_3,JH14,Protein synthesis,839
+JH14_4,JH14,Protein synthesis,848
+JH15_1,JH15,Protein synthesis,816
+JH15_2,JH15,Protein synthesis,917
+JH15_3,JH15,Protein synthesis,913
+JH15_4,JH15,Protein synthesis,919
+JH16_1,JH16,Protein synthesis,640
+JH16_2,JH16,Protein synthesis,660
+JH16_3,JH16,Protein synthesis,664
+JH17_1,JH17,Protein synthesis,341
+JH17_2,JH17,Protein synthesis,344
+JH17_3,JH17,Protein synthesis,344
+JH17_4,JH17,Protein synthesis,344
+JH18_1,JH18,Protein synthesis,1543
+JH18_2,JH18,Protein synthesis,1542
+JH18_3,JH18,Protein synthesis,1546
+JH18_4,JH18,Protein synthesis,1549
+JH20_1,JH20,Folic acid metabolism,461
+JH20_2,JH20,Folic acid metabolism,458
+JH20_3,JH20,Folic acid metabolism,461
+JH20_4,JH20,Folic acid metabolism,458
+JH21_1,JH21,Folic acid metabolism,470
+JH21_2,JH21,Folic acid metabolism,469
+JH21_3,JH21,Folic acid metabolism,467
+JH21_4,JH21,Folic acid metabolism,472
+JH23_1,JH23,Folic acid metabolism,889
+JH23_2,JH23,Folic acid metabolism,961
+JH23_3,JH23,Folic acid metabolism,961
+JH23_4,JH23,Folic acid metabolism,960
+JH24_1,JH24,Folic acid metabolism,715
+JH24_2,JH24,Folic acid metabolism,715
+JH24_3,JH24,Folic acid metabolism,712
+JH24_4,JH24,Folic acid metabolism,714
+JH26_1,JH26,DNA replication,621
+JH26_2,JH26,DNA replication,623
+JH26_3,JH26,DNA replication,624
+JH26_4,JH26,DNA replication,619
+JH27_1,JH27,DNA replication,463
+JH27_2,JH27,DNA replication,460
+JH27_3,JH27,DNA replication,462
+JH27_4,JH27,DNA replication,460
+JH28_1,JH28,DNA replication,312
+JH28_2,JH28,DNA replication,310
+JH28_3,JH28,DNA replication,311
+JH28_4,JH28,DNA replication,299
+JH29_1,JH29,DNA replication,896
+JH29_2,JH29,DNA replication,899
+JH29_3,JH29,DNA replication,898
+JH29_4,JH29,DNA replication,897
+JH30_1,JH30,DNA replication,154
+JH30_2,JH30,DNA replication,155
+JH30_3,JH30,DNA replication,159
+JH30_4,JH30,DNA replication,148
+JH31_1,JH31,Nitrofurans,1706
+JH31_2,JH31,Nitrofurans,1702
+JH31_3,JH31,Nitrofurans,1702
+JH31_4,JH31,Nitrofurans,1712
+JH32_1,JH32,DNA replication,1092
+JH32_2,JH32,DNA replication,1095
+JH32_3,JH32,DNA replication,1093
+JH32_4,JH32,DNA replication,1091
+JH33_1,JH33,DNA replication,1081
+JH33_2,JH33,DNA replication,1059
+JH33_3,JH33,DNA replication,1061
+JH33_4,JH33,DNA replication,1079
+JH35_1,JH35,DNA replication,714
+JH35_2,JH35,DNA replication,718
+JH35_3,JH35,DNA replication,715
+JH35_4,JH35,DNA replication,718
+JH36_1,JH36,DNA replication,423
+JH36_2,JH36,DNA replication,426
+JH36_3,JH36,DNA replication,421
+JH36_4,JH36,DNA replication,419
+JH37_1,JH37,RNA Synthesis,641
+JH37_2,JH37,RNA Synthesis,727
+JH37_3,JH37,RNA Synthesis,729
+JH37_4,JH37,RNA Synthesis,730
+JH38_1,JH38,RNA Synthesis,513
+JH38_2,JH38,RNA Synthesis,510
+JH38_3,JH38,RNA Synthesis,499
+JH38_4,JH38,RNA Synthesis,509
+JH39_1,JH39,RNA Synthesis,626
+JH39_2,JH39,RNA Synthesis,822
+JH39_3,JH39,RNA Synthesis,806
+JH39_4,JH39,RNA Synthesis,830
+JH40_1,JH40,Fatty acid synthesis,243
+JH40_2,JH40,Fatty acid synthesis,242
+JH40_3,JH40,Fatty acid synthesis,239
+JH40_4,JH40,Fatty acid synthesis,234
+JH41_1,JH41,Fatty acid synthesis,763
+JH41_2,JH41,Fatty acid synthesis,744
+JH41_4,JH41,Fatty acid synthesis,762
+JH42_1,JH42,Fatty acid synthesis,736
+JH42_2,JH42,Fatty acid synthesis,819
+JH42_3,JH42,Fatty acid synthesis,818
+JH42_4,JH42,Fatty acid synthesis,822
+JH43_1,JH43,Membrane disruption,1991
+JH43_2,JH43,Membrane disruption,1979
+JH43_3,JH43,Membrane disruption,1964
+JH43_4,JH43,Membrane disruption,1994
+JH44_1,JH44,Membrane disruption,1846
+JH44_2,JH44,Membrane disruption,1852
+JH44_3,JH44,Membrane disruption,1839
+JH44_4,JH44,Membrane disruption,1858
+JH45_1,JH45,Membrane disruption,1992
+JH45_3,JH45,Membrane disruption,2010
+JH45_4,JH45,Membrane disruption,1984
+JH46_1,JH46,Membrane disruption,1107
+JH46_2,JH46,Membrane disruption,1106
+JH46_3,JH46,Membrane disruption,1108
+JH46_4,JH46,Membrane disruption,1101
+JH47_1,JH47,Membrane disruption,1985
+JH47_2,JH47,Membrane disruption,1987
+JH47_3,JH47,Membrane disruption,1995
+JH47_4,JH47,Membrane disruption,1984
+JH48_1,JH48,lipopolysaccharide synthesis,283
+JH48_2,JH48,lipopolysaccharide synthesis,288
+JH48_3,JH48,lipopolysaccharide synthesis,288
+JH48_4,JH48,lipopolysaccharide synthesis,282
+JH49_1,JH49,lipopolysaccharide synthesis,300
+JH49_2,JH49,lipopolysaccharide synthesis,306
+JH49_3,JH49,lipopolysaccharide synthesis,303
+JH49_4,JH49,lipopolysaccharide synthesis,302
+JH50_1,JH50,lipopolysaccharide synthesis,247
+JH50_2,JH50,lipopolysaccharide synthesis,242
+JH50_3,JH50,lipopolysaccharide synthesis,246
+JH50_4,JH50,lipopolysaccharide synthesis,245
+JH55_1,JH55,Protein synthesis,665
+JH55_2,JH55,Protein synthesis,670
+JH55_3,JH55,Protein synthesis,666
+JH55_4,JH55,Protein synthesis,667
+JH56_1,JH56,Protein synthesis,645
+JH56_2,JH56,Protein synthesis,650
+JH56_3,JH56,Protein synthesis,649
+JH56_4,JH56,Protein synthesis,647
+JH58_1,JH58,Nitrofurans,1699
+JH58_2,JH58,Nitrofurans,1696
+JH58_3,JH58,Nitrofurans,1702
+JH58_4,JH58,Nitrofurans,1694
+JH61_1,JH61,Fatty acid synthesis,823
+JH61_2,JH61,Fatty acid synthesis,822
+JH61_3,JH61,Fatty acid synthesis,827
+JH61_4,JH61,Fatty acid synthesis,829
+JH62_1,JH62,lipopolysaccharide synthesis,719
+JH62_2,JH62,lipopolysaccharide synthesis,719
+JH62_3,JH62,lipopolysaccharide synthesis,721
+JH62_4,JH62,lipopolysaccharide synthesis,719
+JH64_1,JH64,Nitrofurans,1859
+JH64_2,JH64,Nitrofurans,1878
+JH64_3,JH64,Nitrofurans,1875
+JH64_4,JH64,Nitrofurans,1878
+JH65_1,JH65,Nitrofurans,1963
+JH65_2,JH65,Nitrofurans,1964
+JH65_3,JH65,Nitrofurans,1956
+JH65_4,JH65,Nitrofurans,1970
+JH0_1,JH0,Cell wall biosynthesis,2343
+JH0_2,JH0,Cell wall biosynthesis,2317
+JH0_3,JH0,Cell wall biosynthesis,2292
+JH0_4,JH0,Cell wall biosynthesis,2252

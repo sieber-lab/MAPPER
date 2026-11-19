@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying MAPPER manuscript when using this software or its data."
+title: "MAPPER: Decoding antibiotic modes of action from multimodal cellular responses"
+type: software
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/sieber-lab/MAPPER"
+authors:
+  - name: MAPPER contributors
+preferred-citation:
+  type: unpublished
+  title: "Decoding antibiotic modes of action from multimodal cellular responses"
+  authors:
+    - family-names: Hesse
+      given-names: Joshua
+    - family-names: Schum
+      given-names: Dominik
+    - family-names: Leidel
+      given-names: Laura
+    - family-names: Gareis
+      given-names: Leonard R.
+    - family-names: Herrmann
+      given-names: Jennifer
+    - family-names: Müller
+      given-names: Rolf
+    - family-names: Sieber
+      given-names: Stephan A.

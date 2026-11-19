@@ -1,0 +1,7 @@
+compound_id,name,tanimoto,tanimoto_neighbor,mcs,mcs_neighbor,reference_panel
+JH14,Tigecycline,0.6477272727272727,JH18,0.8095238095238095,JH18,"51 training compounds, same-class neighbors excluding query"
+JH13,Chloramphenicol,0.08235294117647059,JH15,0.35,JH14,"51 training compounds, same-class neighbors excluding query"
+JH27,Temafloxacin,0.5151515151515151,JH29,0.8333333333333334,JH26,"51 training compounds, same-class neighbors excluding query"
+JH32,Gepotidacin,0.13392857142857142,JH28,0.3333333333333333,JH30,"51 training compounds, same-class neighbors excluding query"
+JH42,MUT056399,0.2653061224489796,JH40,0.6666666666666666,JH40,"51 training compounds, same-class neighbors excluding query"
+JH61,Debio-1452-NH₂,0.12222222222222222,JH42,0.2758620689655172,JH42,"51 training compounds, same-class neighbors excluding query"

@@ -1,4 +1,0 @@
-metric,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc_performed
-mcc,2.0881890575374637e-84,0.016666666666666666,True,True
-roc_auc,2.9018048257746074e-67,0.016666666666666666,True,True
-pr_auc,5.0791189340842116e-77,0.016666666666666666,True,True

@@ -1,0 +1,79 @@
+dataset,case,representation,expected,predicted,score,correct
+eclipse,Ciprofloxacin,intensity,DNA replication,DNA replication,0.0083421254818199,True
+eclipse,Kanamycin,intensity,Protein synthesis,Protein synthesis,0.0040525363384935,True
+eclipse,Imipenem,intensity,Cell wall biosynthesis,Folic acid metabolism,0.0078748566626813,False
+subanovic,Kanamycin,intensity,Protein synthesis,Nitrofurans,0.0112332879100783,False
+subanovic,Imipenem,intensity,Cell wall biosynthesis,Nitrofurans,0.0291948300458413,False
+subanovic,Cefotaxime,intensity,Cell wall biosynthesis,Nitrofurans,0.027946759655703,False
+subanovic,Ciprofloxacin,intensity,DNA replication,Nitrofurans,0.0184280847559481,False
+eclipse,Ciprofloxacin,significant_intensity,DNA replication,DNA replication,0.134820563737303,True
+eclipse,Kanamycin,significant_intensity,Protein synthesis,Protein synthesis,0.1284316876530647,True
+eclipse,Imipenem,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.2444756921380758,True
+subanovic,Kanamycin,significant_intensity,Protein synthesis,Cell wall biosynthesis,0.3426110776265462,False
+subanovic,Imipenem,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.1761796561380227,True
+subanovic,Cefotaxime,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.3352985935409864,True
+subanovic,Ciprofloxacin,significant_intensity,DNA replication,Cell wall biosynthesis,0.228576910495758,False
+yu,YuCefotaxime,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.1013938698731362,True
+yu,YuCeftriaxone,fold_change,Cell wall biosynthesis,Protein synthesis,0.1271115831285715,False
+yu,YuCerulenin,fold_change,Fatty acid synthesis,Fatty acid synthesis,0.2847010429700215,True
+yu,YuDoxycycline,fold_change,Protein synthesis,DNA replication,0.0450723685172852,False
+yu,YuErythromycin,fold_change,Protein synthesis,Protein synthesis,0.1015427066215974,True
+yu,YuFlavomycin,fold_change,Cell wall biosynthesis,DNA replication,0.0765067967151602,False
+yu,YuIsoniazid,fold_change,Fatty acid synthesis,Protein synthesis,0.0280104111924689,False
+yu,YuMeropenem,fold_change,Cell wall biosynthesis,DNA replication,0.2103233202298482,False
+yu,YuMonactin,fold_change,Membrane disruption,DNA replication,0.0461226544372038,False
+yu,YuPenicillin,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.0960834665658573,True
+yu,YuPolymyxin,fold_change,Membrane disruption,Cell wall biosynthesis,0.061051202071103,False
+yu,YuRetapamulin,fold_change,Protein synthesis,Protein synthesis,0.0590348713744121,True
+yu,YuRifampicin,fold_change,RNA Synthesis,DNA replication,0.0478100572707626,False
+yu,YuTeicoplanin,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.0680562685972351,True
+yu,YuTeixobactin,fold_change,Cell wall biosynthesis,DNA replication,0.0699627491373879,False
+yu,YuTetracycline,fold_change,Protein synthesis,Protein synthesis,0.1607710773032158,True
+yu,YuThiostrepton,fold_change,Protein synthesis,Protein synthesis,0.080815947362862,True
+yu,YuTriclosan,fold_change,Fatty acid synthesis,Fatty acid synthesis,0.1767642915373047,True
+yu,YuVancomycin,fold_change,Cell wall biosynthesis,Protein synthesis,0.0561580074387165,False
+eclipse,Ciprofloxacin,fold_change,DNA replication,DNA replication,0.9999822393059732,True
+eclipse,Kanamycin,fold_change,Protein synthesis,Protein synthesis,0.9766080844402314,True
+eclipse,Imipenem,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.9988488507270812,True
+subanovic,Cefotaxime,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.2439099070429802,True
+subanovic,Ciprofloxacin,fold_change,DNA replication,DNA replication,0.093331420890366,True
+subanovic,Imipenem,fold_change,Cell wall biosynthesis,Cell wall biosynthesis,0.0442963019773984,True
+subanovic,Kanamycin,fold_change,Protein synthesis,Cell wall biosynthesis,0.0629485824486861,False
+yu,YuCefotaxime,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.0368426019033333,True
+yu,YuCeftriaxone,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.05269701802,True
+yu,YuCerulenin,significant_intensity,Fatty acid synthesis,Cell wall biosynthesis,0.0780655918733333,False
+yu,YuDoxycycline,significant_intensity,Protein synthesis,Cell wall biosynthesis,0.23945672818,False
+yu,YuErythromycin,significant_intensity,Protein synthesis,Fatty acid synthesis,0.0107146073626666,False
+yu,YuFlavomycin,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.1612746171933333,True
+yu,YuIsoniazid,significant_intensity,Fatty acid synthesis,Cell wall biosynthesis,0.0459623074633333,False
+yu,YuMeropenem,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.15871425118,True
+yu,YuMonactin,significant_intensity,Membrane disruption,Cell wall biosynthesis,0.13164852498,False
+yu,YuPenicillin,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.1776298631666666,True
+yu,YuPolymyxin,significant_intensity,Membrane disruption,Cell wall biosynthesis,0.0764309720266666,False
+yu,YuRetapamulin,significant_intensity,Protein synthesis,Cell wall biosynthesis,0.0594920956533333,False
+yu,YuRifampicin,significant_intensity,RNA Synthesis,Cell wall biosynthesis,0.3300542894666667,False
+yu,YuTeicoplanin,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.0916625561933333,True
+yu,YuTeixobactin,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.2194553987599999,True
+yu,YuTetracycline,significant_intensity,Protein synthesis,Fatty acid synthesis,0.0142213387326666,False
+yu,YuThiostrepton,significant_intensity,Protein synthesis,Cell wall biosynthesis,0.0263677785206666,False
+yu,YuTriclosan,significant_intensity,Fatty acid synthesis,Cell wall biosynthesis,0.0807197280933333,False
+yu,YuVancomycin,significant_intensity,Cell wall biosynthesis,Cell wall biosynthesis,0.2303572456666666,True
+yu,YuCefotaxime,intensity,Cell wall biosynthesis,DNA replication,0.0009958995276882,False
+yu,YuCeftriaxone,intensity,Cell wall biosynthesis,DNA replication,0.0045430653362806,False
+yu,YuCerulenin,intensity,Fatty acid synthesis,Nitrofurans,0.0005337611818024,False
+yu,YuDoxycycline,intensity,Protein synthesis,DNA replication,7.02898651370313e-05,False
+yu,YuErythromycin,intensity,Protein synthesis,DNA replication,0.0004963312921119,False
+yu,YuFlavomycin,intensity,Cell wall biosynthesis,DNA replication,0.0058509580213066,False
+yu,YuIsoniazid,intensity,Fatty acid synthesis,Nitrofurans,1.4290433068506009e-05,False
+yu,YuMeropenem,intensity,Cell wall biosynthesis,DNA replication,0.003928872798242,False
+yu,YuMonactin,intensity,Membrane disruption,DNA replication,0.0007941404629632,False
+yu,YuPenicillin,intensity,Cell wall biosynthesis,DNA replication,0.0031936467456493,False
+yu,YuPolymyxin,intensity,Membrane disruption,DNA replication,0.0038663704588573,False
+yu,YuRetapamulin,intensity,Protein synthesis,DNA replication,0.0008575781271025,False
+yu,YuRifampicin,intensity,RNA Synthesis,DNA replication,0.0107982931704784,False
+yu,YuTeicoplanin,intensity,Cell wall biosynthesis,DNA replication,0.0004430719236528,False
+yu,YuTeixobactin,intensity,Cell wall biosynthesis,DNA replication,0.0124137972873,False
+yu,YuTetracycline,intensity,Protein synthesis,DNA replication,0.0029932261377373,False
+yu,YuThiostrepton,intensity,Protein synthesis,DNA replication,0.0001717664282617,False
+yu,YuTriclosan,intensity,Fatty acid synthesis,DNA replication,0.0005231316597026,False
+yu,YuVancomycin,intensity,Cell wall biosynthesis,Nitrofurans,5.368246723074434e-05,False

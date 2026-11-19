@@ -1,0 +1,9 @@
+method,id_flag,ood_flag,n
+fixed_original_meta,False,False,27
+fixed_original_meta,False,True,20
+fixed_original_meta,True,False,2
+fixed_original_meta,True,True,2
+low_max_score,False,False,14
+low_max_score,False,True,33
+low_max_score,True,False,2
+low_max_score,True,True,2

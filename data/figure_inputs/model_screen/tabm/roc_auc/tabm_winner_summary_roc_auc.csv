@@ -1,0 +1,2 @@
+model,metric,best,mean,std,n_cycles,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc,mcs_size
+tabm,roc_auc,CellPaint+ECFP+Proteomics,0.9925448534297305,0.00947559231460788,25,1.280803082131992e-72,0.016666666666666666,True,Conover–Friedman (BH),8

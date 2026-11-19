@@ -1,0 +1,12 @@
+{
+  "profile_ids": "sample_ids",
+  "compound_ids": "groups",
+  "labels": "labels",
+  "text": "text",
+  "text_classes": "text_classes",
+  "feature_blocks": {
+    "proteomics": [
+      "proteomics"
+    ]
+  }
+}

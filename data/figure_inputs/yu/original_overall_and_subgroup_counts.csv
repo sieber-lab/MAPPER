@@ -1,0 +1,10 @@
+arm,group,cases,correct,accuracy
+proteomics,All cases,43,22,51.16279069767442
+ecfp_only,All cases,43,34,79.06976744186046
+ecfp_proteomics,All cases,43,37,86.04651162790698
+proteomics,Other cases,34,17,50.0
+proteomics,Structurally distant,9,5,55.55555555555556
+ecfp_only,Other cases,34,33,97.05882352941177
+ecfp_only,Structurally distant,9,1,11.11111111111111
+ecfp_proteomics,Other cases,34,33,97.05882352941177
+ecfp_proteomics,Structurally distant,9,4,44.44444444444444

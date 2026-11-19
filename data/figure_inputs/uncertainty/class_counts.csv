@@ -1,0 +1,145 @@
+method,role,TrueMoA,n,correct_n,flagged,eligible_n,eligible_flagged
+fixed_original_meta,id,Cell wall biosynthesis,9,8,1,8,1
+fixed_original_meta,id,DNA replication,9,9,0,9,0
+fixed_original_meta,id,Fatty acid synthesis,4,4,1,4,1
+fixed_original_meta,id,Folic acid metabolism,4,4,0,4,0
+fixed_original_meta,id,Membrane disruption,5,4,0,4,0
+fixed_original_meta,id,Nitrofurans,4,4,0,4,0
+fixed_original_meta,id,Protein synthesis,9,9,1,9,1
+fixed_original_meta,id,RNA Synthesis,3,3,1,3,1
+fixed_original_meta,id,lipopolysaccharide synthesis,4,3,0,3,0
+fixed_original_meta,ood,Cell wall biosynthesis,9,0,7,9,7
+fixed_original_meta,ood,DNA replication,9,0,0,9,0
+fixed_original_meta,ood,Fatty acid synthesis,4,0,3,4,3
+fixed_original_meta,ood,Folic acid metabolism,4,0,3,4,3
+fixed_original_meta,ood,Membrane disruption,5,0,4,5,4
+fixed_original_meta,ood,Nitrofurans,4,0,0,4,0
+fixed_original_meta,ood,Protein synthesis,9,0,4,9,4
+fixed_original_meta,ood,RNA Synthesis,3,0,1,3,1
+fixed_original_meta,ood,lipopolysaccharide synthesis,4,0,0,4,0
+selected_nested_meta,id,Cell wall biosynthesis,9,8,2,8,1
+selected_nested_meta,id,DNA replication,9,9,0,9,0
+selected_nested_meta,id,Fatty acid synthesis,4,4,3,4,3
+selected_nested_meta,id,Folic acid metabolism,4,4,0,4,0
+selected_nested_meta,id,Membrane disruption,5,4,2,4,1
+selected_nested_meta,id,Nitrofurans,4,4,0,4,0
+selected_nested_meta,id,Protein synthesis,9,9,1,9,1
+selected_nested_meta,id,RNA Synthesis,3,3,0,3,0
+selected_nested_meta,id,lipopolysaccharide synthesis,4,3,2,3,1
+selected_nested_meta,ood,Cell wall biosynthesis,9,0,7,9,7
+selected_nested_meta,ood,DNA replication,9,0,0,9,0
+selected_nested_meta,ood,Fatty acid synthesis,4,0,3,4,3
+selected_nested_meta,ood,Folic acid metabolism,4,0,4,4,4
+selected_nested_meta,ood,Membrane disruption,5,0,2,5,2
+selected_nested_meta,ood,Nitrofurans,4,0,2,4,2
+selected_nested_meta,ood,Protein synthesis,9,0,8,9,8
+selected_nested_meta,ood,RNA Synthesis,3,0,0,3,0
+selected_nested_meta,ood,lipopolysaccharide synthesis,4,0,4,4,4
+low_max_score,id,Cell wall biosynthesis,9,8,2,8,1
+low_max_score,id,DNA replication,9,9,0,9,0
+low_max_score,id,Fatty acid synthesis,4,4,1,4,1
+low_max_score,id,Folic acid metabolism,4,4,0,4,0
+low_max_score,id,Membrane disruption,5,4,0,4,0
+low_max_score,id,Nitrofurans,4,4,0,4,0
+low_max_score,id,Protein synthesis,9,9,0,9,0
+low_max_score,id,RNA Synthesis,3,3,0,3,0
+low_max_score,id,lipopolysaccharide synthesis,4,3,1,3,0
+low_max_score,ood,Cell wall biosynthesis,9,0,7,9,7
+low_max_score,ood,DNA replication,9,0,7,9,7
+low_max_score,ood,Fatty acid synthesis,4,0,3,4,3
+low_max_score,ood,Folic acid metabolism,4,0,4,4,4
+low_max_score,ood,Membrane disruption,5,0,2,5,2
+low_max_score,ood,Nitrofurans,4,0,2,4,2
+low_max_score,ood,Protein synthesis,9,0,8,9,8
+low_max_score,ood,RNA Synthesis,3,0,0,3,0
+low_max_score,ood,lipopolysaccharide synthesis,4,0,2,4,2
+high_predictive_entropy,id,Cell wall biosynthesis,9,8,1,8,1
+high_predictive_entropy,id,DNA replication,9,9,0,9,0
+high_predictive_entropy,id,Fatty acid synthesis,4,4,1,4,1
+high_predictive_entropy,id,Folic acid metabolism,4,4,2,4,2
+high_predictive_entropy,id,Membrane disruption,5,4,1,4,0
+high_predictive_entropy,id,Nitrofurans,4,4,0,4,0
+high_predictive_entropy,id,Protein synthesis,9,9,0,9,0
+high_predictive_entropy,id,RNA Synthesis,3,3,0,3,0
+high_predictive_entropy,id,lipopolysaccharide synthesis,4,3,0,3,0
+high_predictive_entropy,ood,Cell wall biosynthesis,9,0,1,9,1
+high_predictive_entropy,ood,DNA replication,9,0,0,9,0
+high_predictive_entropy,ood,Fatty acid synthesis,4,0,1,4,1
+high_predictive_entropy,ood,Folic acid metabolism,4,0,0,4,0
+high_predictive_entropy,ood,Membrane disruption,5,0,3,5,3
+high_predictive_entropy,ood,Nitrofurans,4,0,3,4,3
+high_predictive_entropy,ood,Protein synthesis,9,0,1,9,1
+high_predictive_entropy,ood,RNA Synthesis,3,0,0,3,0
+high_predictive_entropy,ood,lipopolysaccharide synthesis,4,0,2,4,2
+high_expected_entropy,id,Cell wall biosynthesis,9,8,0,8,0
+high_expected_entropy,id,DNA replication,9,9,0,9,0
+high_expected_entropy,id,Fatty acid synthesis,4,4,1,4,1
+high_expected_entropy,id,Folic acid metabolism,4,4,2,4,2
+high_expected_entropy,id,Membrane disruption,5,4,1,4,0
+high_expected_entropy,id,Nitrofurans,4,4,0,4,0
+high_expected_entropy,id,Protein synthesis,9,9,0,9,0
+high_expected_entropy,id,RNA Synthesis,3,3,0,3,0
+high_expected_entropy,id,lipopolysaccharide synthesis,4,3,0,3,0
+high_expected_entropy,ood,Cell wall biosynthesis,9,0,0,9,0
+high_expected_entropy,ood,DNA replication,9,0,0,9,0
+high_expected_entropy,ood,Fatty acid synthesis,4,0,1,4,1
+high_expected_entropy,ood,Folic acid metabolism,4,0,0,4,0
+high_expected_entropy,ood,Membrane disruption,5,0,0,5,0
+high_expected_entropy,ood,Nitrofurans,4,0,2,4,2
+high_expected_entropy,ood,Protein synthesis,9,0,0,9,0
+high_expected_entropy,ood,RNA Synthesis,3,0,0,3,0
+high_expected_entropy,ood,lipopolysaccharide synthesis,4,0,3,4,3
+z_gate_global,id,Cell wall biosynthesis,9,8,3,8,3
+z_gate_global,id,DNA replication,9,9,0,9,0
+z_gate_global,id,Fatty acid synthesis,4,4,2,4,2
+z_gate_global,id,Folic acid metabolism,4,4,1,4,1
+z_gate_global,id,Membrane disruption,5,4,2,4,1
+z_gate_global,id,Nitrofurans,4,4,0,4,0
+z_gate_global,id,Protein synthesis,9,9,1,9,1
+z_gate_global,id,RNA Synthesis,3,3,2,3,2
+z_gate_global,id,lipopolysaccharide synthesis,4,3,0,3,0
+z_gate_global,ood,Cell wall biosynthesis,9,0,1,9,1
+z_gate_global,ood,DNA replication,9,0,0,9,0
+z_gate_global,ood,Fatty acid synthesis,4,0,0,4,0
+z_gate_global,ood,Folic acid metabolism,4,0,1,4,1
+z_gate_global,ood,Membrane disruption,5,0,4,5,4
+z_gate_global,ood,Nitrofurans,4,0,1,4,1
+z_gate_global,ood,Protein synthesis,9,0,0,9,0
+z_gate_global,ood,RNA Synthesis,3,0,3,3,3
+z_gate_global,ood,lipopolysaccharide synthesis,4,0,2,4,2
+z_gate_class,id,Cell wall biosynthesis,9,8,3,8,3
+z_gate_class,id,DNA replication,9,9,0,9,0
+z_gate_class,id,Fatty acid synthesis,4,4,2,4,2
+z_gate_class,id,Folic acid metabolism,4,4,2,4,2
+z_gate_class,id,Membrane disruption,5,4,2,4,1
+z_gate_class,id,Nitrofurans,4,4,0,4,0
+z_gate_class,id,Protein synthesis,9,9,2,9,2
+z_gate_class,id,RNA Synthesis,3,3,2,3,2
+z_gate_class,id,lipopolysaccharide synthesis,4,3,0,3,0
+z_gate_class,ood,Cell wall biosynthesis,9,0,2,9,2
+z_gate_class,ood,DNA replication,9,0,0,9,0
+z_gate_class,ood,Fatty acid synthesis,4,0,0,4,0
+z_gate_class,ood,Folic acid metabolism,4,0,1,4,1
+z_gate_class,ood,Membrane disruption,5,0,4,5,4
+z_gate_class,ood,Nitrofurans,4,0,3,4,3
+z_gate_class,ood,Protein synthesis,9,0,5,9,5
+z_gate_class,ood,RNA Synthesis,3,0,3,3,3
+z_gate_class,ood,lipopolysaccharide synthesis,4,0,1,4,1
+low_margin,id,Cell wall biosynthesis,9,8,2,8,1
+low_margin,id,DNA replication,9,9,0,9,0
+low_margin,id,Fatty acid synthesis,4,4,1,4,1
+low_margin,id,Folic acid metabolism,4,4,0,4,0
+low_margin,id,Membrane disruption,5,4,0,4,0
+low_margin,id,Nitrofurans,4,4,0,4,0
+low_margin,id,Protein synthesis,9,9,0,9,0
+low_margin,id,RNA Synthesis,3,3,0,3,0
+low_margin,id,lipopolysaccharide synthesis,4,3,1,3,0
+low_margin,ood,Cell wall biosynthesis,9,0,7,9,7
+low_margin,ood,DNA replication,9,0,7,9,7
+low_margin,ood,Fatty acid synthesis,4,0,3,4,3
+low_margin,ood,Folic acid metabolism,4,0,4,4,4
+low_margin,ood,Membrane disruption,5,0,2,5,2
+low_margin,ood,Nitrofurans,4,0,1,4,1
+low_margin,ood,Protein synthesis,9,0,8,9,8
+low_margin,ood,RNA Synthesis,3,0,0,3,0
+low_margin,ood,lipopolysaccharide synthesis,4,0,3,4,3

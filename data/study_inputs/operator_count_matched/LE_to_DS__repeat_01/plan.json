@@ -1,0 +1,73 @@
+{
+  "classes": [
+    "Cell wall biosynthesis",
+    "DNA replication",
+    "Fatty acid synthesis",
+    "Folic acid metabolism",
+    "Protein synthesis",
+    "RNA Synthesis",
+    "lipopolysaccharide synthesis"
+  ],
+  "seeds": [
+    42
+  ],
+  "jobs": {
+    "pilot": {
+      "train": [
+        "JH13",
+        "JH15",
+        "JH16",
+        "JH17",
+        "JH18",
+        "JH20",
+        "JH24",
+        "JH26",
+        "JH28",
+        "JH29",
+        "JH35",
+        "JH36",
+        "JH37",
+        "JH40",
+        "JH41",
+        "JH48",
+        "JH5",
+        "JH50",
+        "JH61",
+        "JH62",
+        "JH8"
+      ],
+      "predict": [
+        "JH0",
+        "JH10",
+        "JH12",
+        "JH14",
+        "JH2",
+        "JH21",
+        "JH23",
+        "JH27",
+        "JH3",
+        "JH30",
+        "JH32",
+        "JH33",
+        "JH38",
+        "JH39",
+        "JH42",
+        "JH49",
+        "JH55",
+        "JH56",
+        "JH6",
+        "JH7",
+        "JH9"
+      ],
+      "candidates": [
+        "Cell wall biosynthesis",
+        "DNA replication",
+        "Fatty acid synthesis",
+        "Folic acid metabolism",
+        "Protein synthesis",
+        "RNA Synthesis",
+        "lipopolysaccharide synthesis"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+MoA,n,mean,std,sem,ConfigKey,Config,CompoundID,SplitTask
+Cell wall biosynthesis,200,0.0002686233137683303,0.0003073642106645371,2.1733931765494473e-05,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+DNA replication,200,0.001802467864567916,0.0036423696433607335,0.0002575544274408401,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Fatty acid synthesis,200,0.00040879791868064785,0.0005622427100477863,3.975656329474915e-05,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Folic acid metabolism,200,5.797947147502924e-05,0.00012494337090453468,8.834830483090245e-06,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Membrane disruption,200,0.00010153551281803174,0.00022915914845849346,1.6203998784593548e-05,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Nitrofurans,200,0.0005291390542313934,0.0010842376399218755,7.666717876064563e-05,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Protein synthesis,200,0.9820210373401642,0.015384450338431886,0.001087844915913286,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+RNA Synthesis,200,0.0012726027230155522,0.0025938605017931915,0.00018341363502699065,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+lipopolysaccharide synthesis,200,0.0005804157152556399,0.0012010331800252018,8.492587060258636e-05,ecfp_cp,ecfp_cp,JH14,binary_loo_ablation
+Cell wall biosynthesis,200,7.245546080149268e-05,0.0001618730645282113,1.1446154161934578e-05,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+DNA replication,200,0.0004959972376698829,0.0013754466787442964,9.725876737006067e-05,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Fatty acid synthesis,200,9.475288044827224e-05,0.00018599822277157638,1.3152060461042777e-05,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Folic acid metabolism,200,4.033598439802944e-06,8.299634317814425e-06,5.868727707495165e-07,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Membrane disruption,200,5.9187582169126784e-05,0.00015171066460905775,1.0727563972338269e-05,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Nitrofurans,200,4.9093676843909864e-05,8.40326818496681e-05,5.942007917719202e-06,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Protein synthesis,200,0.9890609040856362,0.01579306348335443,0.0011167382284789553,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+RNA Synthesis,200,0.0011891351497320102,0.001993749878597451,0.00014097940591461134,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+lipopolysaccharide synthesis,200,2.927270563876705e-05,0.00011491317946752006,8.125588844919017e-06,ecfp_cp_prot,ecfp_cp_prot,JH14,binary_loo_ablation
+Cell wall biosynthesis,200,5.959337842227797e-05,0.0001480198864629648,1.0466586546842525e-05,all_modalities,all_modalities,JH14,binary_loo_ablation
+DNA replication,200,0.0001808925902912506,0.0003449488135657109,2.439156452345683e-05,all_modalities,all_modalities,JH14,binary_loo_ablation
+Fatty acid synthesis,200,7.810870831775673e-05,0.00021370393249142136,1.511114998309162e-05,all_modalities,all_modalities,JH14,binary_loo_ablation
+Folic acid metabolism,200,1.5777738183464507e-06,6.487003619022582e-06,4.587004248592543e-07,all_modalities,all_modalities,JH14,binary_loo_ablation
+Membrane disruption,200,4.6921460960422936e-05,0.00017021537679572397,1.2036044719447973e-05,all_modalities,all_modalities,JH14,binary_loo_ablation
+Nitrofurans,200,8.442502179036638e-05,0.00011241553322398736,7.94897858533831e-06,all_modalities,all_modalities,JH14,binary_loo_ablation
+Protein synthesis,200,0.982242319881916,0.0225675669965569,0.001595767965814711,all_modalities,all_modalities,JH14,binary_loo_ablation
+RNA Synthesis,200,0.002807813953131699,0.005873027988544769,0.0004152857916798395,all_modalities,all_modalities,JH14,binary_loo_ablation
+lipopolysaccharide synthesis,200,5.891673460505231e-06,2.752065361235155e-05,1.9460040791979835e-06,all_modalities,all_modalities,JH14,binary_loo_ablation

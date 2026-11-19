@@ -1,0 +1,190 @@
+panel,reference,predicted,count,denominator,total,percent
+f,Cell wall biosynthesis,Cell wall biosynthesis,17,18,18,94.44444444444444
+f,Cell wall biosynthesis,Protein synthesis,0,18,18,0.0
+f,Cell wall biosynthesis,DNA replication,1,18,18,5.555555555555555
+f,Cell wall biosynthesis,Fatty acid synthesis,0,18,18,0.0
+f,Cell wall biosynthesis,Membrane disruption,0,18,18,0.0
+f,Cell wall biosynthesis,Folic acid metabolism,0,18,18,0.0
+f,Cell wall biosynthesis,RNA Synthesis,0,18,18,0.0
+f,Cell wall biosynthesis,Nitrofurans,0,18,18,0.0
+f,Cell wall biosynthesis,lipopolysaccharide synthesis,0,18,18,0.0
+f,Protein synthesis,Cell wall biosynthesis,4,8,8,50.0
+f,Protein synthesis,Protein synthesis,2,8,8,25.0
+f,Protein synthesis,DNA replication,0,8,8,0.0
+f,Protein synthesis,Fatty acid synthesis,2,8,8,25.0
+f,Protein synthesis,Membrane disruption,0,8,8,0.0
+f,Protein synthesis,Folic acid metabolism,0,8,8,0.0
+f,Protein synthesis,RNA Synthesis,0,8,8,0.0
+f,Protein synthesis,Nitrofurans,0,8,8,0.0
+f,Protein synthesis,lipopolysaccharide synthesis,0,8,8,0.0
+f,DNA replication,Cell wall biosynthesis,1,4,4,25.0
+f,DNA replication,Protein synthesis,0,4,4,0.0
+f,DNA replication,DNA replication,2,4,4,50.0
+f,DNA replication,Fatty acid synthesis,1,4,4,25.0
+f,DNA replication,Membrane disruption,0,4,4,0.0
+f,DNA replication,Folic acid metabolism,0,4,4,0.0
+f,DNA replication,RNA Synthesis,0,4,4,0.0
+f,DNA replication,Nitrofurans,0,4,4,0.0
+f,DNA replication,lipopolysaccharide synthesis,0,4,4,0.0
+f,Fatty acid synthesis,Cell wall biosynthesis,2,3,3,66.66666666666667
+f,Fatty acid synthesis,Protein synthesis,0,3,3,0.0
+f,Fatty acid synthesis,DNA replication,0,3,3,0.0
+f,Fatty acid synthesis,Fatty acid synthesis,1,3,3,33.333333333333336
+f,Fatty acid synthesis,Membrane disruption,0,3,3,0.0
+f,Fatty acid synthesis,Folic acid metabolism,0,3,3,0.0
+f,Fatty acid synthesis,RNA Synthesis,0,3,3,0.0
+f,Fatty acid synthesis,Nitrofurans,0,3,3,0.0
+f,Fatty acid synthesis,lipopolysaccharide synthesis,0,3,3,0.0
+f,Membrane disruption,Cell wall biosynthesis,3,4,4,75.0
+f,Membrane disruption,Protein synthesis,0,4,4,0.0
+f,Membrane disruption,DNA replication,0,4,4,0.0
+f,Membrane disruption,Fatty acid synthesis,0,4,4,0.0
+f,Membrane disruption,Membrane disruption,0,4,4,0.0
+f,Membrane disruption,Folic acid metabolism,0,4,4,0.0
+f,Membrane disruption,RNA Synthesis,0,4,4,0.0
+f,Membrane disruption,Nitrofurans,1,4,4,25.0
+f,Membrane disruption,lipopolysaccharide synthesis,0,4,4,0.0
+f,Folic acid metabolism,Cell wall biosynthesis,0,3,3,0.0
+f,Folic acid metabolism,Protein synthesis,0,3,3,0.0
+f,Folic acid metabolism,DNA replication,0,3,3,0.0
+f,Folic acid metabolism,Fatty acid synthesis,0,3,3,0.0
+f,Folic acid metabolism,Membrane disruption,2,3,3,66.66666666666667
+f,Folic acid metabolism,Folic acid metabolism,0,3,3,0.0
+f,Folic acid metabolism,RNA Synthesis,0,3,3,0.0
+f,Folic acid metabolism,Nitrofurans,1,3,3,33.333333333333336
+f,Folic acid metabolism,lipopolysaccharide synthesis,0,3,3,0.0
+f,RNA Synthesis,Cell wall biosynthesis,1,1,1,100.0
+f,RNA Synthesis,Protein synthesis,0,1,1,0.0
+f,RNA Synthesis,DNA replication,0,1,1,0.0
+f,RNA Synthesis,Fatty acid synthesis,0,1,1,0.0
+f,RNA Synthesis,Membrane disruption,0,1,1,0.0
+f,RNA Synthesis,Folic acid metabolism,0,1,1,0.0
+f,RNA Synthesis,RNA Synthesis,0,1,1,0.0
+f,RNA Synthesis,Nitrofurans,0,1,1,0.0
+f,RNA Synthesis,lipopolysaccharide synthesis,0,1,1,0.0
+g,Cell wall biosynthesis,Cell wall biosynthesis,11,19,19,57.89473684210526
+g,Cell wall biosynthesis,Protein synthesis,2,19,19,10.526315789473685
+g,Cell wall biosynthesis,DNA replication,3,19,19,15.789473684210526
+g,Cell wall biosynthesis,Fatty acid synthesis,0,19,19,0.0
+g,Cell wall biosynthesis,Membrane disruption,3,19,19,15.789473684210526
+g,Cell wall biosynthesis,Folic acid metabolism,0,19,19,0.0
+g,Cell wall biosynthesis,RNA Synthesis,0,19,19,0.0
+g,Cell wall biosynthesis,Nitrofurans,0,19,19,0.0
+g,Cell wall biosynthesis,lipopolysaccharide synthesis,0,19,19,0.0
+g,Protein synthesis,Cell wall biosynthesis,1,8,8,12.5
+g,Protein synthesis,Protein synthesis,6,8,8,75.0
+g,Protein synthesis,DNA replication,1,8,8,12.5
+g,Protein synthesis,Fatty acid synthesis,0,8,8,0.0
+g,Protein synthesis,Membrane disruption,0,8,8,0.0
+g,Protein synthesis,Folic acid metabolism,0,8,8,0.0
+g,Protein synthesis,RNA Synthesis,0,8,8,0.0
+g,Protein synthesis,Nitrofurans,0,8,8,0.0
+g,Protein synthesis,lipopolysaccharide synthesis,0,8,8,0.0
+g,DNA replication,Cell wall biosynthesis,2,5,5,40.0
+g,DNA replication,Protein synthesis,1,5,5,20.0
+g,DNA replication,DNA replication,2,5,5,40.0
+g,DNA replication,Fatty acid synthesis,0,5,5,0.0
+g,DNA replication,Membrane disruption,0,5,5,0.0
+g,DNA replication,Folic acid metabolism,0,5,5,0.0
+g,DNA replication,RNA Synthesis,0,5,5,0.0
+g,DNA replication,Nitrofurans,0,5,5,0.0
+g,DNA replication,lipopolysaccharide synthesis,0,5,5,0.0
+g,Fatty acid synthesis,Cell wall biosynthesis,0,3,3,0.0
+g,Fatty acid synthesis,Protein synthesis,0,3,3,0.0
+g,Fatty acid synthesis,DNA replication,0,3,3,0.0
+g,Fatty acid synthesis,Fatty acid synthesis,3,3,3,100.0
+g,Fatty acid synthesis,Membrane disruption,0,3,3,0.0
+g,Fatty acid synthesis,Folic acid metabolism,0,3,3,0.0
+g,Fatty acid synthesis,RNA Synthesis,0,3,3,0.0
+g,Fatty acid synthesis,Nitrofurans,0,3,3,0.0
+g,Fatty acid synthesis,lipopolysaccharide synthesis,0,3,3,0.0
+g,Membrane disruption,Cell wall biosynthesis,1,4,4,25.0
+g,Membrane disruption,Protein synthesis,2,4,4,50.0
+g,Membrane disruption,DNA replication,1,4,4,25.0
+g,Membrane disruption,Fatty acid synthesis,0,4,4,0.0
+g,Membrane disruption,Membrane disruption,0,4,4,0.0
+g,Membrane disruption,Folic acid metabolism,0,4,4,0.0
+g,Membrane disruption,RNA Synthesis,0,4,4,0.0
+g,Membrane disruption,Nitrofurans,0,4,4,0.0
+g,Membrane disruption,lipopolysaccharide synthesis,0,4,4,0.0
+g,Folic acid metabolism,Cell wall biosynthesis,0,3,3,0.0
+g,Folic acid metabolism,Protein synthesis,0,3,3,0.0
+g,Folic acid metabolism,DNA replication,2,3,3,66.66666666666667
+g,Folic acid metabolism,Fatty acid synthesis,1,3,3,33.333333333333336
+g,Folic acid metabolism,Membrane disruption,0,3,3,0.0
+g,Folic acid metabolism,Folic acid metabolism,0,3,3,0.0
+g,Folic acid metabolism,RNA Synthesis,0,3,3,0.0
+g,Folic acid metabolism,Nitrofurans,0,3,3,0.0
+g,Folic acid metabolism,lipopolysaccharide synthesis,0,3,3,0.0
+g,RNA Synthesis,Cell wall biosynthesis,0,1,1,0.0
+g,RNA Synthesis,Protein synthesis,0,1,1,0.0
+g,RNA Synthesis,DNA replication,1,1,1,100.0
+g,RNA Synthesis,Fatty acid synthesis,0,1,1,0.0
+g,RNA Synthesis,Membrane disruption,0,1,1,0.0
+g,RNA Synthesis,Folic acid metabolism,0,1,1,0.0
+g,RNA Synthesis,RNA Synthesis,0,1,1,0.0
+g,RNA Synthesis,Nitrofurans,0,1,1,0.0
+g,RNA Synthesis,lipopolysaccharide synthesis,0,1,1,0.0
+h,Cell wall biosynthesis,Cell wall biosynthesis,5,8,19,62.5
+h,Cell wall biosynthesis,Protein synthesis,0,8,19,0.0
+h,Cell wall biosynthesis,DNA replication,1,8,19,12.5
+h,Cell wall biosynthesis,Fatty acid synthesis,0,8,19,0.0
+h,Cell wall biosynthesis,Membrane disruption,2,8,19,25.0
+h,Cell wall biosynthesis,Folic acid metabolism,0,8,19,0.0
+h,Cell wall biosynthesis,RNA Synthesis,0,8,19,0.0
+h,Cell wall biosynthesis,Nitrofurans,0,8,19,0.0
+h,Cell wall biosynthesis,lipopolysaccharide synthesis,0,8,19,0.0
+h,Protein synthesis,Cell wall biosynthesis,0,2,8,0.0
+h,Protein synthesis,Protein synthesis,2,2,8,100.0
+h,Protein synthesis,DNA replication,0,2,8,0.0
+h,Protein synthesis,Fatty acid synthesis,0,2,8,0.0
+h,Protein synthesis,Membrane disruption,0,2,8,0.0
+h,Protein synthesis,Folic acid metabolism,0,2,8,0.0
+h,Protein synthesis,RNA Synthesis,0,2,8,0.0
+h,Protein synthesis,Nitrofurans,0,2,8,0.0
+h,Protein synthesis,lipopolysaccharide synthesis,0,2,8,0.0
+h,DNA replication,Cell wall biosynthesis,0,3,5,0.0
+h,DNA replication,Protein synthesis,1,3,5,33.333333333333336
+h,DNA replication,DNA replication,2,3,5,66.66666666666667
+h,DNA replication,Fatty acid synthesis,0,3,5,0.0
+h,DNA replication,Membrane disruption,0,3,5,0.0
+h,DNA replication,Folic acid metabolism,0,3,5,0.0
+h,DNA replication,RNA Synthesis,0,3,5,0.0
+h,DNA replication,Nitrofurans,0,3,5,0.0
+h,DNA replication,lipopolysaccharide synthesis,0,3,5,0.0
+h,Fatty acid synthesis,Cell wall biosynthesis,0,2,3,0.0
+h,Fatty acid synthesis,Protein synthesis,0,2,3,0.0
+h,Fatty acid synthesis,DNA replication,0,2,3,0.0
+h,Fatty acid synthesis,Fatty acid synthesis,2,2,3,100.0
+h,Fatty acid synthesis,Membrane disruption,0,2,3,0.0
+h,Fatty acid synthesis,Folic acid metabolism,0,2,3,0.0
+h,Fatty acid synthesis,RNA Synthesis,0,2,3,0.0
+h,Fatty acid synthesis,Nitrofurans,0,2,3,0.0
+h,Fatty acid synthesis,lipopolysaccharide synthesis,0,2,3,0.0
+h,Membrane disruption,Cell wall biosynthesis,0,1,4,0.0
+h,Membrane disruption,Protein synthesis,1,1,4,100.0
+h,Membrane disruption,DNA replication,0,1,4,0.0
+h,Membrane disruption,Fatty acid synthesis,0,1,4,0.0
+h,Membrane disruption,Membrane disruption,0,1,4,0.0
+h,Membrane disruption,Folic acid metabolism,0,1,4,0.0
+h,Membrane disruption,RNA Synthesis,0,1,4,0.0
+h,Membrane disruption,Nitrofurans,0,1,4,0.0
+h,Membrane disruption,lipopolysaccharide synthesis,0,1,4,0.0
+h,Folic acid metabolism,Cell wall biosynthesis,0,0,3,
+h,Folic acid metabolism,Protein synthesis,0,0,3,
+h,Folic acid metabolism,DNA replication,0,0,3,
+h,Folic acid metabolism,Fatty acid synthesis,0,0,3,
+h,Folic acid metabolism,Membrane disruption,0,0,3,
+h,Folic acid metabolism,Folic acid metabolism,0,0,3,
+h,Folic acid metabolism,RNA Synthesis,0,0,3,
+h,Folic acid metabolism,Nitrofurans,0,0,3,
+h,Folic acid metabolism,lipopolysaccharide synthesis,0,0,3,
+h,RNA Synthesis,Cell wall biosynthesis,0,0,1,
+h,RNA Synthesis,Protein synthesis,0,0,1,
+h,RNA Synthesis,DNA replication,0,0,1,
+h,RNA Synthesis,Fatty acid synthesis,0,0,1,
+h,RNA Synthesis,Membrane disruption,0,0,1,
+h,RNA Synthesis,Folic acid metabolism,0,0,1,
+h,RNA Synthesis,RNA Synthesis,0,0,1,
+h,RNA Synthesis,Nitrofurans,0,0,1,
+h,RNA Synthesis,lipopolysaccharide synthesis,0,0,1,

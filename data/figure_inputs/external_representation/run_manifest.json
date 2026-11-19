@@ -1,0 +1,22 @@
+{
+  "preparation_sha256": "a777e2cce2610221099caf9840e1a31b9a45a1b529efb64ee976a7cbf070ede6",
+  "datasets": [
+    "eclipse",
+    "subanovic",
+    "yu"
+  ],
+  "treatments_per_representation": 26,
+  "new_fits": 90,
+  "reused_873_protein_predictions": true,
+  "uncertainty_comparison": false,
+  "significance_masks": "Existing verified source-specific masks; not recalculated",
+  "no_configuration_selection": true,
+  "experimental_independence": false,
+  "scope": "These datasets informed representation development; this is a matched diagnostic comparison.",
+  "outputs": {
+    "class_scores.csv": "5aa407f83584433d8dfd0e7e7ffd91987e786f995d105a8d846e1ebbf96ac5f6",
+    "case_predictions.csv": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",
+    "metrics.csv": "b6d33580fece34ae4ce07f23cef3af5eea31630d0ed25de9261034250850b12a",
+    "confusion_counts.csv": "f57ed320d77e99303174ecaeed701a6d38aa04f0f73c1fde285a152afea4e3e4"
+  }
+}

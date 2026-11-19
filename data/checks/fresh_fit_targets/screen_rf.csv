@@ -1,0 +1,3961 @@
+SampleID,CompoundID,CandidateMoA,Score
+JH3_1,JH3,Cell wall biosynthesis,0.425
+JH3_1,JH3,Cell wall biosynthesis,0.4225
+JH3_1,JH3,Cell wall biosynthesis,0.3925
+JH3_1,JH3,Cell wall biosynthesis,0.4075
+JH3_1,JH3,Cell wall biosynthesis,0.44
+JH3_1,JH3,Cell wall biosynthesis,0.4325
+JH3_1,JH3,Cell wall biosynthesis,0.4525
+JH3_1,JH3,Cell wall biosynthesis,0.425
+JH3_1,JH3,Cell wall biosynthesis,0.4575
+JH3_1,JH3,Cell wall biosynthesis,0.435
+JH3_1,JH3,DNA replication,0.115
+JH3_1,JH3,DNA replication,0.085
+JH3_1,JH3,DNA replication,0.085
+JH3_1,JH3,DNA replication,0.085
+JH3_1,JH3,DNA replication,0.09
+JH3_1,JH3,DNA replication,0.0875
+JH3_1,JH3,DNA replication,0.1075
+JH3_1,JH3,DNA replication,0.11
+JH3_1,JH3,DNA replication,0.08
+JH3_1,JH3,DNA replication,0.09
+JH3_1,JH3,Fatty acid synthesis,0.035
+JH3_1,JH3,Fatty acid synthesis,0.0325
+JH3_1,JH3,Fatty acid synthesis,0.0375
+JH3_1,JH3,Fatty acid synthesis,0.0425
+JH3_1,JH3,Fatty acid synthesis,0.04
+JH3_1,JH3,Fatty acid synthesis,0.03
+JH3_1,JH3,Fatty acid synthesis,0.0325
+JH3_1,JH3,Fatty acid synthesis,0.0325
+JH3_1,JH3,Fatty acid synthesis,0.0325
+JH3_1,JH3,Fatty acid synthesis,0.0325
+JH3_1,JH3,Folic acid metabolism,0.0975
+JH3_1,JH3,Folic acid metabolism,0.0775
+JH3_1,JH3,Folic acid metabolism,0.1075
+JH3_1,JH3,Folic acid metabolism,0.08
+JH3_1,JH3,Folic acid metabolism,0.0975
+JH3_1,JH3,Folic acid metabolism,0.12
+JH3_1,JH3,Folic acid metabolism,0.0975
+JH3_1,JH3,Folic acid metabolism,0.1
+JH3_1,JH3,Folic acid metabolism,0.12
+JH3_1,JH3,Folic acid metabolism,0.0925
+JH3_1,JH3,Membrane disruption,0.06
+JH3_1,JH3,Membrane disruption,0.0675
+JH3_1,JH3,Membrane disruption,0.0625
+JH3_1,JH3,Membrane disruption,0.06
+JH3_1,JH3,Membrane disruption,0.0525
+JH3_1,JH3,Membrane disruption,0.0475
+JH3_1,JH3,Membrane disruption,0.055
+JH3_1,JH3,Membrane disruption,0.0525
+JH3_1,JH3,Membrane disruption,0.055
+JH3_1,JH3,Membrane disruption,0.06
+JH3_1,JH3,Nitrofurans,0.0125
+JH3_1,JH3,Nitrofurans,0.035
+JH3_1,JH3,Nitrofurans,0.025
+JH3_1,JH3,Nitrofurans,0.0275
+JH3_1,JH3,Nitrofurans,0.0175
+JH3_1,JH3,Nitrofurans,0.0225
+JH3_1,JH3,Nitrofurans,0.025
+JH3_1,JH3,Nitrofurans,0.0175
+JH3_1,JH3,Nitrofurans,0.03
+JH3_1,JH3,Nitrofurans,0.02
+JH3_1,JH3,Protein synthesis,0.0675
+JH3_1,JH3,Protein synthesis,0.0625
+JH3_1,JH3,Protein synthesis,0.07
+JH3_1,JH3,Protein synthesis,0.0525
+JH3_1,JH3,Protein synthesis,0.0675
+JH3_1,JH3,Protein synthesis,0.0725
+JH3_1,JH3,Protein synthesis,0.0725
+JH3_1,JH3,Protein synthesis,0.0625
+JH3_1,JH3,Protein synthesis,0.06
+JH3_1,JH3,Protein synthesis,0.065
+JH3_1,JH3,RNA Synthesis,0.025
+JH3_1,JH3,RNA Synthesis,0.015
+JH3_1,JH3,RNA Synthesis,0.015
+JH3_1,JH3,RNA Synthesis,0.02
+JH3_1,JH3,RNA Synthesis,0.0225
+JH3_1,JH3,RNA Synthesis,0.02
+JH3_1,JH3,RNA Synthesis,0.0125
+JH3_1,JH3,RNA Synthesis,0.015
+JH3_1,JH3,RNA Synthesis,0.0225
+JH3_1,JH3,RNA Synthesis,0.0275
+JH3_1,JH3,lipopolysaccharide synthesis,0.045
+JH3_1,JH3,lipopolysaccharide synthesis,0.0375
+JH3_1,JH3,lipopolysaccharide synthesis,0.0475
+JH3_1,JH3,lipopolysaccharide synthesis,0.03
+JH3_1,JH3,lipopolysaccharide synthesis,0.0375
+JH3_1,JH3,lipopolysaccharide synthesis,0.0325
+JH3_1,JH3,lipopolysaccharide synthesis,0.04
+JH3_1,JH3,lipopolysaccharide synthesis,0.0425
+JH3_1,JH3,lipopolysaccharide synthesis,0.0425
+JH3_1,JH3,lipopolysaccharide synthesis,0.0475
+JH3_2,JH3,Cell wall biosynthesis,0.325
+JH3_2,JH3,Cell wall biosynthesis,0.325
+JH3_2,JH3,Cell wall biosynthesis,0.325
+JH3_2,JH3,Cell wall biosynthesis,0.3025
+JH3_2,JH3,Cell wall biosynthesis,0.3325
+JH3_2,JH3,Cell wall biosynthesis,0.3275
+JH3_2,JH3,Cell wall biosynthesis,0.35
+JH3_2,JH3,Cell wall biosynthesis,0.325
+JH3_2,JH3,Cell wall biosynthesis,0.35
+JH3_2,JH3,Cell wall biosynthesis,0.3475
+JH3_2,JH3,DNA replication,0.1375
+JH3_2,JH3,DNA replication,0.1025
+JH3_2,JH3,DNA replication,0.12
+JH3_2,JH3,DNA replication,0.1275
+JH3_2,JH3,DNA replication,0.1225
+JH3_2,JH3,DNA replication,0.1375
+JH3_2,JH3,DNA replication,0.115
+JH3_2,JH3,DNA replication,0.1375
+JH3_2,JH3,DNA replication,0.15
+JH3_2,JH3,DNA replication,0.125
+JH3_2,JH3,Fatty acid synthesis,0.045
+JH3_2,JH3,Fatty acid synthesis,0.045
+JH3_2,JH3,Fatty acid synthesis,0.05
+JH3_2,JH3,Fatty acid synthesis,0.0525
+JH3_2,JH3,Fatty acid synthesis,0.05
+JH3_2,JH3,Fatty acid synthesis,0.0475
+JH3_2,JH3,Fatty acid synthesis,0.0475
+JH3_2,JH3,Fatty acid synthesis,0.0425
+JH3_2,JH3,Fatty acid synthesis,0.0475
+JH3_2,JH3,Fatty acid synthesis,0.0425
+JH3_2,JH3,Folic acid metabolism,0.155
+JH3_2,JH3,Folic acid metabolism,0.155
+JH3_2,JH3,Folic acid metabolism,0.16
+JH3_2,JH3,Folic acid metabolism,0.1425
+JH3_2,JH3,Folic acid metabolism,0.1475
+JH3_2,JH3,Folic acid metabolism,0.175
+JH3_2,JH3,Folic acid metabolism,0.1625
+JH3_2,JH3,Folic acid metabolism,0.17
+JH3_2,JH3,Folic acid metabolism,0.1525
+JH3_2,JH3,Folic acid metabolism,0.1525
+JH3_2,JH3,Membrane disruption,0.0475
+JH3_2,JH3,Membrane disruption,0.035
+JH3_2,JH3,Membrane disruption,0.04
+JH3_2,JH3,Membrane disruption,0.0425
+JH3_2,JH3,Membrane disruption,0.0325
+JH3_2,JH3,Membrane disruption,0.05
+JH3_2,JH3,Membrane disruption,0.045
+JH3_2,JH3,Membrane disruption,0.04
+JH3_2,JH3,Membrane disruption,0.03
+JH3_2,JH3,Membrane disruption,0.0425
+JH3_2,JH3,Nitrofurans,0.035
+JH3_2,JH3,Nitrofurans,0.0525
+JH3_2,JH3,Nitrofurans,0.055
+JH3_2,JH3,Nitrofurans,0.06
+JH3_2,JH3,Nitrofurans,0.0375
+JH3_2,JH3,Nitrofurans,0.0525
+JH3_2,JH3,Nitrofurans,0.05
+JH3_2,JH3,Nitrofurans,0.05
+JH3_2,JH3,Nitrofurans,0.0475
+JH3_2,JH3,Nitrofurans,0.045
+JH3_2,JH3,Protein synthesis,0.0675
+JH3_2,JH3,Protein synthesis,0.05
+JH3_2,JH3,Protein synthesis,0.055
+JH3_2,JH3,Protein synthesis,0.05
+JH3_2,JH3,Protein synthesis,0.06
+JH3_2,JH3,Protein synthesis,0.0575
+JH3_2,JH3,Protein synthesis,0.0675
+JH3_2,JH3,Protein synthesis,0.055
+JH3_2,JH3,Protein synthesis,0.055
+JH3_2,JH3,Protein synthesis,0.055
+JH3_2,JH3,RNA Synthesis,0.0325
+JH3_2,JH3,RNA Synthesis,0.0175
+JH3_2,JH3,RNA Synthesis,0.0175
+JH3_2,JH3,RNA Synthesis,0.0275
+JH3_2,JH3,RNA Synthesis,0.03
+JH3_2,JH3,RNA Synthesis,0.03
+JH3_2,JH3,RNA Synthesis,0.0175
+JH3_2,JH3,RNA Synthesis,0.0225
+JH3_2,JH3,RNA Synthesis,0.0175
+JH3_2,JH3,RNA Synthesis,0.025
+JH3_2,JH3,lipopolysaccharide synthesis,0.0625
+JH3_2,JH3,lipopolysaccharide synthesis,0.0525
+JH3_2,JH3,lipopolysaccharide synthesis,0.0625
+JH3_2,JH3,lipopolysaccharide synthesis,0.0475
+JH3_2,JH3,lipopolysaccharide synthesis,0.06
+JH3_2,JH3,lipopolysaccharide synthesis,0.055
+JH3_2,JH3,lipopolysaccharide synthesis,0.05
+JH3_2,JH3,lipopolysaccharide synthesis,0.055
+JH3_2,JH3,lipopolysaccharide synthesis,0.0675
+JH3_2,JH3,lipopolysaccharide synthesis,0.0525
+JH3_3,JH3,Cell wall biosynthesis,0.3075
+JH3_3,JH3,Cell wall biosynthesis,0.315
+JH3_3,JH3,Cell wall biosynthesis,0.3025
+JH3_3,JH3,Cell wall biosynthesis,0.275
+JH3_3,JH3,Cell wall biosynthesis,0.325
+JH3_3,JH3,Cell wall biosynthesis,0.325
+JH3_3,JH3,Cell wall biosynthesis,0.3325
+JH3_3,JH3,Cell wall biosynthesis,0.3175
+JH3_3,JH3,Cell wall biosynthesis,0.3175
+JH3_3,JH3,Cell wall biosynthesis,0.3425
+JH3_3,JH3,DNA replication,0.1275
+JH3_3,JH3,DNA replication,0.11
+JH3_3,JH3,DNA replication,0.1275
+JH3_3,JH3,DNA replication,0.1375
+JH3_3,JH3,DNA replication,0.125
+JH3_3,JH3,DNA replication,0.13
+JH3_3,JH3,DNA replication,0.1175
+JH3_3,JH3,DNA replication,0.125
+JH3_3,JH3,DNA replication,0.1325
+JH3_3,JH3,DNA replication,0.1225
+JH3_3,JH3,Fatty acid synthesis,0.05
+JH3_3,JH3,Fatty acid synthesis,0.0375
+JH3_3,JH3,Fatty acid synthesis,0.0475
+JH3_3,JH3,Fatty acid synthesis,0.0525
+JH3_3,JH3,Fatty acid synthesis,0.0525
+JH3_3,JH3,Fatty acid synthesis,0.0425
+JH3_3,JH3,Fatty acid synthesis,0.03
+JH3_3,JH3,Fatty acid synthesis,0.0375
+JH3_3,JH3,Fatty acid synthesis,0.0425
+JH3_3,JH3,Fatty acid synthesis,0.035
+JH3_3,JH3,Folic acid metabolism,0.15
+JH3_3,JH3,Folic acid metabolism,0.1375
+JH3_3,JH3,Folic acid metabolism,0.1525
+JH3_3,JH3,Folic acid metabolism,0.1425
+JH3_3,JH3,Folic acid metabolism,0.1525
+JH3_3,JH3,Folic acid metabolism,0.17
+JH3_3,JH3,Folic acid metabolism,0.1575
+JH3_3,JH3,Folic acid metabolism,0.1625
+JH3_3,JH3,Folic acid metabolism,0.1475
+JH3_3,JH3,Folic acid metabolism,0.1525
+JH3_3,JH3,Membrane disruption,0.05
+JH3_3,JH3,Membrane disruption,0.0475
+JH3_3,JH3,Membrane disruption,0.06
+JH3_3,JH3,Membrane disruption,0.0425
+JH3_3,JH3,Membrane disruption,0.0375
+JH3_3,JH3,Membrane disruption,0.065
+JH3_3,JH3,Membrane disruption,0.04
+JH3_3,JH3,Membrane disruption,0.0525
+JH3_3,JH3,Membrane disruption,0.0525
+JH3_3,JH3,Membrane disruption,0.0525
+JH3_3,JH3,Nitrofurans,0.0225
+JH3_3,JH3,Nitrofurans,0.0425
+JH3_3,JH3,Nitrofurans,0.045
+JH3_3,JH3,Nitrofurans,0.0425
+JH3_3,JH3,Nitrofurans,0.03
+JH3_3,JH3,Nitrofurans,0.0375
+JH3_3,JH3,Nitrofurans,0.0325
+JH3_3,JH3,Nitrofurans,0.0225
+JH3_3,JH3,Nitrofurans,0.04
+JH3_3,JH3,Nitrofurans,0.025
+JH3_3,JH3,Protein synthesis,0.075
+JH3_3,JH3,Protein synthesis,0.0675
+JH3_3,JH3,Protein synthesis,0.0725
+JH3_3,JH3,Protein synthesis,0.065
+JH3_3,JH3,Protein synthesis,0.085
+JH3_3,JH3,Protein synthesis,0.08
+JH3_3,JH3,Protein synthesis,0.09
+JH3_3,JH3,Protein synthesis,0.07
+JH3_3,JH3,Protein synthesis,0.0575
+JH3_3,JH3,Protein synthesis,0.0725
+JH3_3,JH3,RNA Synthesis,0.0275
+JH3_3,JH3,RNA Synthesis,0.0125
+JH3_3,JH3,RNA Synthesis,0.01
+JH3_3,JH3,RNA Synthesis,0.0225
+JH3_3,JH3,RNA Synthesis,0.025
+JH3_3,JH3,RNA Synthesis,0.015
+JH3_3,JH3,RNA Synthesis,0.01
+JH3_3,JH3,RNA Synthesis,0.0125
+JH3_3,JH3,RNA Synthesis,0.015
+JH3_3,JH3,RNA Synthesis,0.0225
+JH3_3,JH3,lipopolysaccharide synthesis,0.045
+JH3_3,JH3,lipopolysaccharide synthesis,0.0475
+JH3_3,JH3,lipopolysaccharide synthesis,0.06
+JH3_3,JH3,lipopolysaccharide synthesis,0.045
+JH3_3,JH3,lipopolysaccharide synthesis,0.055
+JH3_3,JH3,lipopolysaccharide synthesis,0.0425
+JH3_3,JH3,lipopolysaccharide synthesis,0.0525
+JH3_3,JH3,lipopolysaccharide synthesis,0.06
+JH3_3,JH3,lipopolysaccharide synthesis,0.07
+JH3_3,JH3,lipopolysaccharide synthesis,0.0475
+JH3_4,JH3,Cell wall biosynthesis,0.275
+JH3_4,JH3,Cell wall biosynthesis,0.2725
+JH3_4,JH3,Cell wall biosynthesis,0.2925
+JH3_4,JH3,Cell wall biosynthesis,0.2475
+JH3_4,JH3,Cell wall biosynthesis,0.295
+JH3_4,JH3,Cell wall biosynthesis,0.2775
+JH3_4,JH3,Cell wall biosynthesis,0.3225
+JH3_4,JH3,Cell wall biosynthesis,0.3025
+JH3_4,JH3,Cell wall biosynthesis,0.2975
+JH3_4,JH3,Cell wall biosynthesis,0.3225
+JH3_4,JH3,DNA replication,0.1275
+JH3_4,JH3,DNA replication,0.09
+JH3_4,JH3,DNA replication,0.125
+JH3_4,JH3,DNA replication,0.12
+JH3_4,JH3,DNA replication,0.12
+JH3_4,JH3,DNA replication,0.12
+JH3_4,JH3,DNA replication,0.11
+JH3_4,JH3,DNA replication,0.1175
+JH3_4,JH3,DNA replication,0.1275
+JH3_4,JH3,DNA replication,0.12
+JH3_4,JH3,Fatty acid synthesis,0.045
+JH3_4,JH3,Fatty acid synthesis,0.0425
+JH3_4,JH3,Fatty acid synthesis,0.0475
+JH3_4,JH3,Fatty acid synthesis,0.0525
+JH3_4,JH3,Fatty acid synthesis,0.04
+JH3_4,JH3,Fatty acid synthesis,0.0375
+JH3_4,JH3,Fatty acid synthesis,0.04
+JH3_4,JH3,Fatty acid synthesis,0.0375
+JH3_4,JH3,Fatty acid synthesis,0.04
+JH3_4,JH3,Fatty acid synthesis,0.035
+JH3_4,JH3,Folic acid metabolism,0.15
+JH3_4,JH3,Folic acid metabolism,0.14
+JH3_4,JH3,Folic acid metabolism,0.16
+JH3_4,JH3,Folic acid metabolism,0.1325
+JH3_4,JH3,Folic acid metabolism,0.1575
+JH3_4,JH3,Folic acid metabolism,0.16
+JH3_4,JH3,Folic acid metabolism,0.1625
+JH3_4,JH3,Folic acid metabolism,0.165
+JH3_4,JH3,Folic acid metabolism,0.1475
+JH3_4,JH3,Folic acid metabolism,0.1575
+JH3_4,JH3,Membrane disruption,0.045
+JH3_4,JH3,Membrane disruption,0.045
+JH3_4,JH3,Membrane disruption,0.045
+JH3_4,JH3,Membrane disruption,0.04
+JH3_4,JH3,Membrane disruption,0.0375
+JH3_4,JH3,Membrane disruption,0.0375
+JH3_4,JH3,Membrane disruption,0.025
+JH3_4,JH3,Membrane disruption,0.035
+JH3_4,JH3,Membrane disruption,0.0375
+JH3_4,JH3,Membrane disruption,0.035
+JH3_4,JH3,Nitrofurans,0.025
+JH3_4,JH3,Nitrofurans,0.05
+JH3_4,JH3,Nitrofurans,0.04
+JH3_4,JH3,Nitrofurans,0.0425
+JH3_4,JH3,Nitrofurans,0.0325
+JH3_4,JH3,Nitrofurans,0.045
+JH3_4,JH3,Nitrofurans,0.04
+JH3_4,JH3,Nitrofurans,0.04
+JH3_4,JH3,Nitrofurans,0.0375
+JH3_4,JH3,Nitrofurans,0.0325
+JH3_4,JH3,Protein synthesis,0.0675
+JH3_4,JH3,Protein synthesis,0.0575
+JH3_4,JH3,Protein synthesis,0.0625
+JH3_4,JH3,Protein synthesis,0.0625
+JH3_4,JH3,Protein synthesis,0.0725
+JH3_4,JH3,Protein synthesis,0.055
+JH3_4,JH3,Protein synthesis,0.0775
+JH3_4,JH3,Protein synthesis,0.06
+JH3_4,JH3,Protein synthesis,0.0575
+JH3_4,JH3,Protein synthesis,0.0625
+JH3_4,JH3,RNA Synthesis,0.0225
+JH3_4,JH3,RNA Synthesis,0.0125
+JH3_4,JH3,RNA Synthesis,0.01
+JH3_4,JH3,RNA Synthesis,0.025
+JH3_4,JH3,RNA Synthesis,0.0175
+JH3_4,JH3,RNA Synthesis,0.02
+JH3_4,JH3,RNA Synthesis,0.01
+JH3_4,JH3,RNA Synthesis,0.0125
+JH3_4,JH3,RNA Synthesis,0.0175
+JH3_4,JH3,RNA Synthesis,0.02
+JH3_4,JH3,lipopolysaccharide synthesis,0.05
+JH3_4,JH3,lipopolysaccharide synthesis,0.035
+JH3_4,JH3,lipopolysaccharide synthesis,0.055
+JH3_4,JH3,lipopolysaccharide synthesis,0.0425
+JH3_4,JH3,lipopolysaccharide synthesis,0.0475
+JH3_4,JH3,lipopolysaccharide synthesis,0.045
+JH3_4,JH3,lipopolysaccharide synthesis,0.0425
+JH3_4,JH3,lipopolysaccharide synthesis,0.0375
+JH3_4,JH3,lipopolysaccharide synthesis,0.0575
+JH3_4,JH3,lipopolysaccharide synthesis,0.0375
+JH10_1,JH10,Cell wall biosynthesis,0.125
+JH10_1,JH10,Cell wall biosynthesis,0.1375
+JH10_1,JH10,Cell wall biosynthesis,0.1125
+JH10_1,JH10,Cell wall biosynthesis,0.1125
+JH10_1,JH10,Cell wall biosynthesis,0.14
+JH10_1,JH10,Cell wall biosynthesis,0.1275
+JH10_1,JH10,Cell wall biosynthesis,0.1525
+JH10_1,JH10,Cell wall biosynthesis,0.155
+JH10_1,JH10,Cell wall biosynthesis,0.1625
+JH10_1,JH10,Cell wall biosynthesis,0.1525
+JH10_1,JH10,DNA replication,0.1575
+JH10_1,JH10,DNA replication,0.1125
+JH10_1,JH10,DNA replication,0.1425
+JH10_1,JH10,DNA replication,0.155
+JH10_1,JH10,DNA replication,0.14
+JH10_1,JH10,DNA replication,0.17
+JH10_1,JH10,DNA replication,0.1575
+JH10_1,JH10,DNA replication,0.13
+JH10_1,JH10,DNA replication,0.155
+JH10_1,JH10,DNA replication,0.1475
+JH10_1,JH10,Fatty acid synthesis,0.045
+JH10_1,JH10,Fatty acid synthesis,0.0575
+JH10_1,JH10,Fatty acid synthesis,0.07
+JH10_1,JH10,Fatty acid synthesis,0.055
+JH10_1,JH10,Fatty acid synthesis,0.055
+JH10_1,JH10,Fatty acid synthesis,0.06
+JH10_1,JH10,Fatty acid synthesis,0.0625
+JH10_1,JH10,Fatty acid synthesis,0.045
+JH10_1,JH10,Fatty acid synthesis,0.0525
+JH10_1,JH10,Fatty acid synthesis,0.0475
+JH10_1,JH10,Folic acid metabolism,0.28
+JH10_1,JH10,Folic acid metabolism,0.27
+JH10_1,JH10,Folic acid metabolism,0.2925
+JH10_1,JH10,Folic acid metabolism,0.2875
+JH10_1,JH10,Folic acid metabolism,0.26
+JH10_1,JH10,Folic acid metabolism,0.2825
+JH10_1,JH10,Folic acid metabolism,0.2425
+JH10_1,JH10,Folic acid metabolism,0.2875
+JH10_1,JH10,Folic acid metabolism,0.2625
+JH10_1,JH10,Folic acid metabolism,0.2775
+JH10_1,JH10,Membrane disruption,0.045
+JH10_1,JH10,Membrane disruption,0.035
+JH10_1,JH10,Membrane disruption,0.03
+JH10_1,JH10,Membrane disruption,0.025
+JH10_1,JH10,Membrane disruption,0.0225
+JH10_1,JH10,Membrane disruption,0.0325
+JH10_1,JH10,Membrane disruption,0.025
+JH10_1,JH10,Membrane disruption,0.04
+JH10_1,JH10,Membrane disruption,0.045
+JH10_1,JH10,Membrane disruption,0.0425
+JH10_1,JH10,Nitrofurans,0.0775
+JH10_1,JH10,Nitrofurans,0.08
+JH10_1,JH10,Nitrofurans,0.08
+JH10_1,JH10,Nitrofurans,0.1
+JH10_1,JH10,Nitrofurans,0.0825
+JH10_1,JH10,Nitrofurans,0.09
+JH10_1,JH10,Nitrofurans,0.085
+JH10_1,JH10,Nitrofurans,0.07
+JH10_1,JH10,Nitrofurans,0.075
+JH10_1,JH10,Nitrofurans,0.0925
+JH10_1,JH10,Protein synthesis,0.0825
+JH10_1,JH10,Protein synthesis,0.0775
+JH10_1,JH10,Protein synthesis,0.09
+JH10_1,JH10,Protein synthesis,0.0875
+JH10_1,JH10,Protein synthesis,0.1025
+JH10_1,JH10,Protein synthesis,0.08
+JH10_1,JH10,Protein synthesis,0.09
+JH10_1,JH10,Protein synthesis,0.08
+JH10_1,JH10,Protein synthesis,0.095
+JH10_1,JH10,Protein synthesis,0.0825
+JH10_1,JH10,RNA Synthesis,0.0075
+JH10_1,JH10,RNA Synthesis,0.0075
+JH10_1,JH10,RNA Synthesis,0.0075
+JH10_1,JH10,RNA Synthesis,0.005
+JH10_1,JH10,RNA Synthesis,0.01
+JH10_1,JH10,RNA Synthesis,0.0075
+JH10_1,JH10,RNA Synthesis,0.0175
+JH10_1,JH10,RNA Synthesis,0.0275
+JH10_1,JH10,RNA Synthesis,0.01
+JH10_1,JH10,RNA Synthesis,0.0175
+JH10_1,JH10,lipopolysaccharide synthesis,0.08
+JH10_1,JH10,lipopolysaccharide synthesis,0.0725
+JH10_1,JH10,lipopolysaccharide synthesis,0.085
+JH10_1,JH10,lipopolysaccharide synthesis,0.0825
+JH10_1,JH10,lipopolysaccharide synthesis,0.0875
+JH10_1,JH10,lipopolysaccharide synthesis,0.095
+JH10_1,JH10,lipopolysaccharide synthesis,0.0625
+JH10_1,JH10,lipopolysaccharide synthesis,0.0625
+JH10_1,JH10,lipopolysaccharide synthesis,0.0775
+JH10_1,JH10,lipopolysaccharide synthesis,0.075
+JH10_2,JH10,Cell wall biosynthesis,0.165
+JH10_2,JH10,Cell wall biosynthesis,0.17
+JH10_2,JH10,Cell wall biosynthesis,0.1325
+JH10_2,JH10,Cell wall biosynthesis,0.15
+JH10_2,JH10,Cell wall biosynthesis,0.1525
+JH10_2,JH10,Cell wall biosynthesis,0.1575
+JH10_2,JH10,Cell wall biosynthesis,0.175
+JH10_2,JH10,Cell wall biosynthesis,0.17
+JH10_2,JH10,Cell wall biosynthesis,0.1875
+JH10_2,JH10,Cell wall biosynthesis,0.175
+JH10_2,JH10,DNA replication,0.1625
+JH10_2,JH10,DNA replication,0.1275
+JH10_2,JH10,DNA replication,0.15
+JH10_2,JH10,DNA replication,0.1475
+JH10_2,JH10,DNA replication,0.1475
+JH10_2,JH10,DNA replication,0.1675
+JH10_2,JH10,DNA replication,0.15
+JH10_2,JH10,DNA replication,0.135
+JH10_2,JH10,DNA replication,0.1525
+JH10_2,JH10,DNA replication,0.14
+JH10_2,JH10,Fatty acid synthesis,0.05
+JH10_2,JH10,Fatty acid synthesis,0.0525
+JH10_2,JH10,Fatty acid synthesis,0.065
+JH10_2,JH10,Fatty acid synthesis,0.065
+JH10_2,JH10,Fatty acid synthesis,0.0625
+JH10_2,JH10,Fatty acid synthesis,0.045
+JH10_2,JH10,Fatty acid synthesis,0.055
+JH10_2,JH10,Fatty acid synthesis,0.045
+JH10_2,JH10,Fatty acid synthesis,0.05
+JH10_2,JH10,Fatty acid synthesis,0.0425
+JH10_2,JH10,Folic acid metabolism,0.285
+JH10_2,JH10,Folic acid metabolism,0.2675
+JH10_2,JH10,Folic acid metabolism,0.3075
+JH10_2,JH10,Folic acid metabolism,0.2875
+JH10_2,JH10,Folic acid metabolism,0.2575
+JH10_2,JH10,Folic acid metabolism,0.285
+JH10_2,JH10,Folic acid metabolism,0.26
+JH10_2,JH10,Folic acid metabolism,0.31
+JH10_2,JH10,Folic acid metabolism,0.2775
+JH10_2,JH10,Folic acid metabolism,0.29
+JH10_2,JH10,Membrane disruption,0.0325
+JH10_2,JH10,Membrane disruption,0.0275
+JH10_2,JH10,Membrane disruption,0.0275
+JH10_2,JH10,Membrane disruption,0.035
+JH10_2,JH10,Membrane disruption,0.02
+JH10_2,JH10,Membrane disruption,0.025
+JH10_2,JH10,Membrane disruption,0.025
+JH10_2,JH10,Membrane disruption,0.03
+JH10_2,JH10,Membrane disruption,0.0375
+JH10_2,JH10,Membrane disruption,0.025
+JH10_2,JH10,Nitrofurans,0.07
+JH10_2,JH10,Nitrofurans,0.08
+JH10_2,JH10,Nitrofurans,0.07
+JH10_2,JH10,Nitrofurans,0.0925
+JH10_2,JH10,Nitrofurans,0.0725
+JH10_2,JH10,Nitrofurans,0.085
+JH10_2,JH10,Nitrofurans,0.0825
+JH10_2,JH10,Nitrofurans,0.075
+JH10_2,JH10,Nitrofurans,0.07
+JH10_2,JH10,Nitrofurans,0.0875
+JH10_2,JH10,Protein synthesis,0.09
+JH10_2,JH10,Protein synthesis,0.09
+JH10_2,JH10,Protein synthesis,0.1175
+JH10_2,JH10,Protein synthesis,0.0975
+JH10_2,JH10,Protein synthesis,0.095
+JH10_2,JH10,Protein synthesis,0.095
+JH10_2,JH10,Protein synthesis,0.0975
+JH10_2,JH10,Protein synthesis,0.105
+JH10_2,JH10,Protein synthesis,0.1075
+JH10_2,JH10,Protein synthesis,0.085
+JH10_2,JH10,RNA Synthesis,0.0125
+JH10_2,JH10,RNA Synthesis,0.0175
+JH10_2,JH10,RNA Synthesis,0.0125
+JH10_2,JH10,RNA Synthesis,0.01
+JH10_2,JH10,RNA Synthesis,0.0125
+JH10_2,JH10,RNA Synthesis,0.015
+JH10_2,JH10,RNA Synthesis,0.01
+JH10_2,JH10,RNA Synthesis,0.0225
+JH10_2,JH10,RNA Synthesis,0.015
+JH10_2,JH10,RNA Synthesis,0.02
+JH10_2,JH10,lipopolysaccharide synthesis,0.085
+JH10_2,JH10,lipopolysaccharide synthesis,0.0625
+JH10_2,JH10,lipopolysaccharide synthesis,0.08
+JH10_2,JH10,lipopolysaccharide synthesis,0.065
+JH10_2,JH10,lipopolysaccharide synthesis,0.0725
+JH10_2,JH10,lipopolysaccharide synthesis,0.075
+JH10_2,JH10,lipopolysaccharide synthesis,0.06
+JH10_2,JH10,lipopolysaccharide synthesis,0.0525
+JH10_2,JH10,lipopolysaccharide synthesis,0.0625
+JH10_2,JH10,lipopolysaccharide synthesis,0.0625
+JH10_3,JH10,Cell wall biosynthesis,0.1575
+JH10_3,JH10,Cell wall biosynthesis,0.1275
+JH10_3,JH10,Cell wall biosynthesis,0.1175
+JH10_3,JH10,Cell wall biosynthesis,0.13
+JH10_3,JH10,Cell wall biosynthesis,0.1325
+JH10_3,JH10,Cell wall biosynthesis,0.14
+JH10_3,JH10,Cell wall biosynthesis,0.1475
+JH10_3,JH10,Cell wall biosynthesis,0.155
+JH10_3,JH10,Cell wall biosynthesis,0.145
+JH10_3,JH10,Cell wall biosynthesis,0.15
+JH10_3,JH10,DNA replication,0.18
+JH10_3,JH10,DNA replication,0.13
+JH10_3,JH10,DNA replication,0.1575
+JH10_3,JH10,DNA replication,0.17
+JH10_3,JH10,DNA replication,0.1675
+JH10_3,JH10,DNA replication,0.1675
+JH10_3,JH10,DNA replication,0.1675
+JH10_3,JH10,DNA replication,0.1425
+JH10_3,JH10,DNA replication,0.16
+JH10_3,JH10,DNA replication,0.165
+JH10_3,JH10,Fatty acid synthesis,0.0625
+JH10_3,JH10,Fatty acid synthesis,0.0725
+JH10_3,JH10,Fatty acid synthesis,0.085
+JH10_3,JH10,Fatty acid synthesis,0.07
+JH10_3,JH10,Fatty acid synthesis,0.07
+JH10_3,JH10,Fatty acid synthesis,0.0675
+JH10_3,JH10,Fatty acid synthesis,0.07
+JH10_3,JH10,Fatty acid synthesis,0.0425
+JH10_3,JH10,Fatty acid synthesis,0.07
+JH10_3,JH10,Fatty acid synthesis,0.06
+JH10_3,JH10,Folic acid metabolism,0.2975
+JH10_3,JH10,Folic acid metabolism,0.29
+JH10_3,JH10,Folic acid metabolism,0.325
+JH10_3,JH10,Folic acid metabolism,0.3125
+JH10_3,JH10,Folic acid metabolism,0.2925
+JH10_3,JH10,Folic acid metabolism,0.315
+JH10_3,JH10,Folic acid metabolism,0.275
+JH10_3,JH10,Folic acid metabolism,0.3325
+JH10_3,JH10,Folic acid metabolism,0.2975
+JH10_3,JH10,Folic acid metabolism,0.3025
+JH10_3,JH10,Membrane disruption,0.0325
+JH10_3,JH10,Membrane disruption,0.025
+JH10_3,JH10,Membrane disruption,0.025
+JH10_3,JH10,Membrane disruption,0.0325
+JH10_3,JH10,Membrane disruption,0.015
+JH10_3,JH10,Membrane disruption,0.04
+JH10_3,JH10,Membrane disruption,0.03
+JH10_3,JH10,Membrane disruption,0.0375
+JH10_3,JH10,Membrane disruption,0.0325
+JH10_3,JH10,Membrane disruption,0.035
+JH10_3,JH10,Nitrofurans,0.065
+JH10_3,JH10,Nitrofurans,0.0725
+JH10_3,JH10,Nitrofurans,0.07
+JH10_3,JH10,Nitrofurans,0.08
+JH10_3,JH10,Nitrofurans,0.0675
+JH10_3,JH10,Nitrofurans,0.0775
+JH10_3,JH10,Nitrofurans,0.0675
+JH10_3,JH10,Nitrofurans,0.0625
+JH10_3,JH10,Nitrofurans,0.065
+JH10_3,JH10,Nitrofurans,0.0775
+JH10_3,JH10,Protein synthesis,0.0825
+JH10_3,JH10,Protein synthesis,0.0825
+JH10_3,JH10,Protein synthesis,0.105
+JH10_3,JH10,Protein synthesis,0.09
+JH10_3,JH10,Protein synthesis,0.1025
+JH10_3,JH10,Protein synthesis,0.095
+JH10_3,JH10,Protein synthesis,0.0925
+JH10_3,JH10,Protein synthesis,0.095
+JH10_3,JH10,Protein synthesis,0.1075
+JH10_3,JH10,Protein synthesis,0.0875
+JH10_3,JH10,RNA Synthesis,0.01
+JH10_3,JH10,RNA Synthesis,0.0025
+JH10_3,JH10,RNA Synthesis,0.0025
+JH10_3,JH10,RNA Synthesis,0.0075
+JH10_3,JH10,RNA Synthesis,0.005
+JH10_3,JH10,RNA Synthesis,0.0075
+JH10_3,JH10,RNA Synthesis,0.01
+JH10_3,JH10,RNA Synthesis,0.0075
+JH10_3,JH10,RNA Synthesis,0.005
+JH10_3,JH10,RNA Synthesis,0.01
+JH10_3,JH10,lipopolysaccharide synthesis,0.095
+JH10_3,JH10,lipopolysaccharide synthesis,0.075
+JH10_3,JH10,lipopolysaccharide synthesis,0.0975
+JH10_3,JH10,lipopolysaccharide synthesis,0.075
+JH10_3,JH10,lipopolysaccharide synthesis,0.0925
+JH10_3,JH10,lipopolysaccharide synthesis,0.085
+JH10_3,JH10,lipopolysaccharide synthesis,0.075
+JH10_3,JH10,lipopolysaccharide synthesis,0.065
+JH10_3,JH10,lipopolysaccharide synthesis,0.0825
+JH10_3,JH10,lipopolysaccharide synthesis,0.0825
+JH10_4,JH10,Cell wall biosynthesis,0.17
+JH10_4,JH10,Cell wall biosynthesis,0.1675
+JH10_4,JH10,Cell wall biosynthesis,0.14
+JH10_4,JH10,Cell wall biosynthesis,0.145
+JH10_4,JH10,Cell wall biosynthesis,0.1575
+JH10_4,JH10,Cell wall biosynthesis,0.1675
+JH10_4,JH10,Cell wall biosynthesis,0.1725
+JH10_4,JH10,Cell wall biosynthesis,0.165
+JH10_4,JH10,Cell wall biosynthesis,0.1875
+JH10_4,JH10,Cell wall biosynthesis,0.1675
+JH10_4,JH10,DNA replication,0.1475
+JH10_4,JH10,DNA replication,0.1025
+JH10_4,JH10,DNA replication,0.1175
+JH10_4,JH10,DNA replication,0.1275
+JH10_4,JH10,DNA replication,0.135
+JH10_4,JH10,DNA replication,0.15
+JH10_4,JH10,DNA replication,0.145
+JH10_4,JH10,DNA replication,0.1275
+JH10_4,JH10,DNA replication,0.145
+JH10_4,JH10,DNA replication,0.1375
+JH10_4,JH10,Fatty acid synthesis,0.0425
+JH10_4,JH10,Fatty acid synthesis,0.0525
+JH10_4,JH10,Fatty acid synthesis,0.065
+JH10_4,JH10,Fatty acid synthesis,0.05
+JH10_4,JH10,Fatty acid synthesis,0.055
+JH10_4,JH10,Fatty acid synthesis,0.0375
+JH10_4,JH10,Fatty acid synthesis,0.04
+JH10_4,JH10,Fatty acid synthesis,0.0425
+JH10_4,JH10,Fatty acid synthesis,0.0675
+JH10_4,JH10,Fatty acid synthesis,0.055
+JH10_4,JH10,Folic acid metabolism,0.2825
+JH10_4,JH10,Folic acid metabolism,0.27
+JH10_4,JH10,Folic acid metabolism,0.295
+JH10_4,JH10,Folic acid metabolism,0.28
+JH10_4,JH10,Folic acid metabolism,0.2575
+JH10_4,JH10,Folic acid metabolism,0.29
+JH10_4,JH10,Folic acid metabolism,0.255
+JH10_4,JH10,Folic acid metabolism,0.3
+JH10_4,JH10,Folic acid metabolism,0.28
+JH10_4,JH10,Folic acid metabolism,0.2775
+JH10_4,JH10,Membrane disruption,0.025
+JH10_4,JH10,Membrane disruption,0.0225
+JH10_4,JH10,Membrane disruption,0.0225
+JH10_4,JH10,Membrane disruption,0.0225
+JH10_4,JH10,Membrane disruption,0.0175
+JH10_4,JH10,Membrane disruption,0.01
+JH10_4,JH10,Membrane disruption,0.0225
+JH10_4,JH10,Membrane disruption,0.025
+JH10_4,JH10,Membrane disruption,0.025
+JH10_4,JH10,Membrane disruption,0.0275
+JH10_4,JH10,Nitrofurans,0.095
+JH10_4,JH10,Nitrofurans,0.095
+JH10_4,JH10,Nitrofurans,0.075
+JH10_4,JH10,Nitrofurans,0.105
+JH10_4,JH10,Nitrofurans,0.09
+JH10_4,JH10,Nitrofurans,0.08
+JH10_4,JH10,Nitrofurans,0.0875
+JH10_4,JH10,Nitrofurans,0.0825
+JH10_4,JH10,Nitrofurans,0.0675
+JH10_4,JH10,Nitrofurans,0.0825
+JH10_4,JH10,Protein synthesis,0.075
+JH10_4,JH10,Protein synthesis,0.0875
+JH10_4,JH10,Protein synthesis,0.1
+JH10_4,JH10,Protein synthesis,0.0875
+JH10_4,JH10,Protein synthesis,0.115
+JH10_4,JH10,Protein synthesis,0.1025
+JH10_4,JH10,Protein synthesis,0.12
+JH10_4,JH10,Protein synthesis,0.0875
+JH10_4,JH10,Protein synthesis,0.1425
+JH10_4,JH10,Protein synthesis,0.0875
+JH10_4,JH10,RNA Synthesis,0.015
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.01
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.015
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.0075
+JH10_4,JH10,RNA Synthesis,0.015
+JH10_4,JH10,lipopolysaccharide synthesis,0.0725
+JH10_4,JH10,lipopolysaccharide synthesis,0.055
+JH10_4,JH10,lipopolysaccharide synthesis,0.07
+JH10_4,JH10,lipopolysaccharide synthesis,0.06
+JH10_4,JH10,lipopolysaccharide synthesis,0.07
+JH10_4,JH10,lipopolysaccharide synthesis,0.0675
+JH10_4,JH10,lipopolysaccharide synthesis,0.055
+JH10_4,JH10,lipopolysaccharide synthesis,0.0575
+JH10_4,JH10,lipopolysaccharide synthesis,0.0575
+JH10_4,JH10,lipopolysaccharide synthesis,0.0525
+JH12_1,JH12,Cell wall biosynthesis,0.0675
+JH12_1,JH12,Cell wall biosynthesis,0.05
+JH12_1,JH12,Cell wall biosynthesis,0.0475
+JH12_1,JH12,Cell wall biosynthesis,0.04
+JH12_1,JH12,Cell wall biosynthesis,0.05
+JH12_1,JH12,Cell wall biosynthesis,0.0675
+JH12_1,JH12,Cell wall biosynthesis,0.0625
+JH12_1,JH12,Cell wall biosynthesis,0.055
+JH12_1,JH12,Cell wall biosynthesis,0.0625
+JH12_1,JH12,Cell wall biosynthesis,0.0575
+JH12_1,JH12,DNA replication,0.05
+JH12_1,JH12,DNA replication,0.0525
+JH12_1,JH12,DNA replication,0.0625
+JH12_1,JH12,DNA replication,0.0575
+JH12_1,JH12,DNA replication,0.0675
+JH12_1,JH12,DNA replication,0.0675
+JH12_1,JH12,DNA replication,0.0575
+JH12_1,JH12,DNA replication,0.075
+JH12_1,JH12,DNA replication,0.0675
+JH12_1,JH12,DNA replication,0.0675
+JH12_1,JH12,Fatty acid synthesis,0.02
+JH12_1,JH12,Fatty acid synthesis,0.0275
+JH12_1,JH12,Fatty acid synthesis,0.035
+JH12_1,JH12,Fatty acid synthesis,0.0375
+JH12_1,JH12,Fatty acid synthesis,0.035
+JH12_1,JH12,Fatty acid synthesis,0.035
+JH12_1,JH12,Fatty acid synthesis,0.035
+JH12_1,JH12,Fatty acid synthesis,0.02
+JH12_1,JH12,Fatty acid synthesis,0.0175
+JH12_1,JH12,Fatty acid synthesis,0.0275
+JH12_1,JH12,Folic acid metabolism,0.055
+JH12_1,JH12,Folic acid metabolism,0.0525
+JH12_1,JH12,Folic acid metabolism,0.035
+JH12_1,JH12,Folic acid metabolism,0.04
+JH12_1,JH12,Folic acid metabolism,0.0575
+JH12_1,JH12,Folic acid metabolism,0.035
+JH12_1,JH12,Folic acid metabolism,0.0375
+JH12_1,JH12,Folic acid metabolism,0.045
+JH12_1,JH12,Folic acid metabolism,0.055
+JH12_1,JH12,Folic acid metabolism,0.0375
+JH12_1,JH12,Membrane disruption,0.065
+JH12_1,JH12,Membrane disruption,0.0425
+JH12_1,JH12,Membrane disruption,0.0475
+JH12_1,JH12,Membrane disruption,0.055
+JH12_1,JH12,Membrane disruption,0.06
+JH12_1,JH12,Membrane disruption,0.0425
+JH12_1,JH12,Membrane disruption,0.065
+JH12_1,JH12,Membrane disruption,0.05
+JH12_1,JH12,Membrane disruption,0.06
+JH12_1,JH12,Membrane disruption,0.0575
+JH12_1,JH12,Nitrofurans,0.1425
+JH12_1,JH12,Nitrofurans,0.1325
+JH12_1,JH12,Nitrofurans,0.1225
+JH12_1,JH12,Nitrofurans,0.1175
+JH12_1,JH12,Nitrofurans,0.14
+JH12_1,JH12,Nitrofurans,0.1325
+JH12_1,JH12,Nitrofurans,0.1275
+JH12_1,JH12,Nitrofurans,0.135
+JH12_1,JH12,Nitrofurans,0.1275
+JH12_1,JH12,Nitrofurans,0.1275
+JH12_1,JH12,Protein synthesis,0.4125
+JH12_1,JH12,Protein synthesis,0.405
+JH12_1,JH12,Protein synthesis,0.41
+JH12_1,JH12,Protein synthesis,0.4325
+JH12_1,JH12,Protein synthesis,0.395
+JH12_1,JH12,Protein synthesis,0.3875
+JH12_1,JH12,Protein synthesis,0.4225
+JH12_1,JH12,Protein synthesis,0.4525
+JH12_1,JH12,Protein synthesis,0.4
+JH12_1,JH12,Protein synthesis,0.4
+JH12_1,JH12,RNA Synthesis,0.1125
+JH12_1,JH12,RNA Synthesis,0.1
+JH12_1,JH12,RNA Synthesis,0.085
+JH12_1,JH12,RNA Synthesis,0.105
+JH12_1,JH12,RNA Synthesis,0.11
+JH12_1,JH12,RNA Synthesis,0.08
+JH12_1,JH12,RNA Synthesis,0.0925
+JH12_1,JH12,RNA Synthesis,0.095
+JH12_1,JH12,RNA Synthesis,0.105
+JH12_1,JH12,RNA Synthesis,0.0975
+JH12_1,JH12,lipopolysaccharide synthesis,0.0175
+JH12_1,JH12,lipopolysaccharide synthesis,0.015
+JH12_1,JH12,lipopolysaccharide synthesis,0.0275
+JH12_1,JH12,lipopolysaccharide synthesis,0.015
+JH12_1,JH12,lipopolysaccharide synthesis,0.0175
+JH12_1,JH12,lipopolysaccharide synthesis,0.025
+JH12_1,JH12,lipopolysaccharide synthesis,0.01
+JH12_1,JH12,lipopolysaccharide synthesis,0.0175
+JH12_1,JH12,lipopolysaccharide synthesis,0.0175
+JH12_1,JH12,lipopolysaccharide synthesis,0.02
+JH12_2,JH12,Cell wall biosynthesis,0.0425
+JH12_2,JH12,Cell wall biosynthesis,0.04
+JH12_2,JH12,Cell wall biosynthesis,0.0575
+JH12_2,JH12,Cell wall biosynthesis,0.0375
+JH12_2,JH12,Cell wall biosynthesis,0.0425
+JH12_2,JH12,Cell wall biosynthesis,0.045
+JH12_2,JH12,Cell wall biosynthesis,0.0675
+JH12_2,JH12,Cell wall biosynthesis,0.04
+JH12_2,JH12,Cell wall biosynthesis,0.045
+JH12_2,JH12,Cell wall biosynthesis,0.0425
+JH12_2,JH12,DNA replication,0.025
+JH12_2,JH12,DNA replication,0.025
+JH12_2,JH12,DNA replication,0.03
+JH12_2,JH12,DNA replication,0.035
+JH12_2,JH12,DNA replication,0.0275
+JH12_2,JH12,DNA replication,0.0275
+JH12_2,JH12,DNA replication,0.0325
+JH12_2,JH12,DNA replication,0.0275
+JH12_2,JH12,DNA replication,0.035
+JH12_2,JH12,DNA replication,0.04
+JH12_2,JH12,Fatty acid synthesis,0.0175
+JH12_2,JH12,Fatty acid synthesis,0.0275
+JH12_2,JH12,Fatty acid synthesis,0.03
+JH12_2,JH12,Fatty acid synthesis,0.025
+JH12_2,JH12,Fatty acid synthesis,0.03
+JH12_2,JH12,Fatty acid synthesis,0.025
+JH12_2,JH12,Fatty acid synthesis,0.0275
+JH12_2,JH12,Fatty acid synthesis,0.0275
+JH12_2,JH12,Fatty acid synthesis,0.025
+JH12_2,JH12,Fatty acid synthesis,0.0325
+JH12_2,JH12,Folic acid metabolism,0.055
+JH12_2,JH12,Folic acid metabolism,0.0525
+JH12_2,JH12,Folic acid metabolism,0.0525
+JH12_2,JH12,Folic acid metabolism,0.045
+JH12_2,JH12,Folic acid metabolism,0.065
+JH12_2,JH12,Folic acid metabolism,0.055
+JH12_2,JH12,Folic acid metabolism,0.055
+JH12_2,JH12,Folic acid metabolism,0.04
+JH12_2,JH12,Folic acid metabolism,0.0575
+JH12_2,JH12,Folic acid metabolism,0.05
+JH12_2,JH12,Membrane disruption,0.0725
+JH12_2,JH12,Membrane disruption,0.055
+JH12_2,JH12,Membrane disruption,0.045
+JH12_2,JH12,Membrane disruption,0.05
+JH12_2,JH12,Membrane disruption,0.0625
+JH12_2,JH12,Membrane disruption,0.0325
+JH12_2,JH12,Membrane disruption,0.055
+JH12_2,JH12,Membrane disruption,0.0575
+JH12_2,JH12,Membrane disruption,0.075
+JH12_2,JH12,Membrane disruption,0.0525
+JH12_2,JH12,Nitrofurans,0.17
+JH12_2,JH12,Nitrofurans,0.175
+JH12_2,JH12,Nitrofurans,0.18
+JH12_2,JH12,Nitrofurans,0.1875
+JH12_2,JH12,Nitrofurans,0.185
+JH12_2,JH12,Nitrofurans,0.175
+JH12_2,JH12,Nitrofurans,0.1825
+JH12_2,JH12,Nitrofurans,0.1675
+JH12_2,JH12,Nitrofurans,0.19
+JH12_2,JH12,Nitrofurans,0.18
+JH12_2,JH12,Protein synthesis,0.4175
+JH12_2,JH12,Protein synthesis,0.4225
+JH12_2,JH12,Protein synthesis,0.4325
+JH12_2,JH12,Protein synthesis,0.4325
+JH12_2,JH12,Protein synthesis,0.4075
+JH12_2,JH12,Protein synthesis,0.41
+JH12_2,JH12,Protein synthesis,0.4275
+JH12_2,JH12,Protein synthesis,0.43
+JH12_2,JH12,Protein synthesis,0.445
+JH12_2,JH12,Protein synthesis,0.4025
+JH12_2,JH12,RNA Synthesis,0.05
+JH12_2,JH12,RNA Synthesis,0.0575
+JH12_2,JH12,RNA Synthesis,0.0525
+JH12_2,JH12,RNA Synthesis,0.0625
+JH12_2,JH12,RNA Synthesis,0.0825
+JH12_2,JH12,RNA Synthesis,0.035
+JH12_2,JH12,RNA Synthesis,0.05
+JH12_2,JH12,RNA Synthesis,0.0525
+JH12_2,JH12,RNA Synthesis,0.0625
+JH12_2,JH12,RNA Synthesis,0.05
+JH12_2,JH12,lipopolysaccharide synthesis,0.02
+JH12_2,JH12,lipopolysaccharide synthesis,0.0225
+JH12_2,JH12,lipopolysaccharide synthesis,0.025
+JH12_2,JH12,lipopolysaccharide synthesis,0.0225
+JH12_2,JH12,lipopolysaccharide synthesis,0.0275
+JH12_2,JH12,lipopolysaccharide synthesis,0.025
+JH12_2,JH12,lipopolysaccharide synthesis,0.02
+JH12_2,JH12,lipopolysaccharide synthesis,0.0225
+JH12_2,JH12,lipopolysaccharide synthesis,0.0225
+JH12_2,JH12,lipopolysaccharide synthesis,0.03
+JH12_3,JH12,Cell wall biosynthesis,0.0425
+JH12_3,JH12,Cell wall biosynthesis,0.0325
+JH12_3,JH12,Cell wall biosynthesis,0.0425
+JH12_3,JH12,Cell wall biosynthesis,0.0375
+JH12_3,JH12,Cell wall biosynthesis,0.035
+JH12_3,JH12,Cell wall biosynthesis,0.0325
+JH12_3,JH12,Cell wall biosynthesis,0.0575
+JH12_3,JH12,Cell wall biosynthesis,0.035
+JH12_3,JH12,Cell wall biosynthesis,0.04
+JH12_3,JH12,Cell wall biosynthesis,0.04
+JH12_3,JH12,DNA replication,0.0375
+JH12_3,JH12,DNA replication,0.0225
+JH12_3,JH12,DNA replication,0.035
+JH12_3,JH12,DNA replication,0.035
+JH12_3,JH12,DNA replication,0.04
+JH12_3,JH12,DNA replication,0.04
+JH12_3,JH12,DNA replication,0.035
+JH12_3,JH12,DNA replication,0.04
+JH12_3,JH12,DNA replication,0.0325
+JH12_3,JH12,DNA replication,0.0475
+JH12_3,JH12,Fatty acid synthesis,0.02
+JH12_3,JH12,Fatty acid synthesis,0.0275
+JH12_3,JH12,Fatty acid synthesis,0.03
+JH12_3,JH12,Fatty acid synthesis,0.03
+JH12_3,JH12,Fatty acid synthesis,0.03
+JH12_3,JH12,Fatty acid synthesis,0.025
+JH12_3,JH12,Fatty acid synthesis,0.035
+JH12_3,JH12,Fatty acid synthesis,0.03
+JH12_3,JH12,Fatty acid synthesis,0.025
+JH12_3,JH12,Fatty acid synthesis,0.0325
+JH12_3,JH12,Folic acid metabolism,0.0575
+JH12_3,JH12,Folic acid metabolism,0.065
+JH12_3,JH12,Folic acid metabolism,0.06
+JH12_3,JH12,Folic acid metabolism,0.0525
+JH12_3,JH12,Folic acid metabolism,0.07
+JH12_3,JH12,Folic acid metabolism,0.0575
+JH12_3,JH12,Folic acid metabolism,0.065
+JH12_3,JH12,Folic acid metabolism,0.0525
+JH12_3,JH12,Folic acid metabolism,0.07
+JH12_3,JH12,Folic acid metabolism,0.0575
+JH12_3,JH12,Membrane disruption,0.0575
+JH12_3,JH12,Membrane disruption,0.0425
+JH12_3,JH12,Membrane disruption,0.0425
+JH12_3,JH12,Membrane disruption,0.0475
+JH12_3,JH12,Membrane disruption,0.0475
+JH12_3,JH12,Membrane disruption,0.0425
+JH12_3,JH12,Membrane disruption,0.0475
+JH12_3,JH12,Membrane disruption,0.06
+JH12_3,JH12,Membrane disruption,0.065
+JH12_3,JH12,Membrane disruption,0.065
+JH12_3,JH12,Nitrofurans,0.18
+JH12_3,JH12,Nitrofurans,0.19
+JH12_3,JH12,Nitrofurans,0.18
+JH12_3,JH12,Nitrofurans,0.18
+JH12_3,JH12,Nitrofurans,0.185
+JH12_3,JH12,Nitrofurans,0.18
+JH12_3,JH12,Nitrofurans,0.175
+JH12_3,JH12,Nitrofurans,0.1675
+JH12_3,JH12,Nitrofurans,0.18
+JH12_3,JH12,Nitrofurans,0.1725
+JH12_3,JH12,Protein synthesis,0.3975
+JH12_3,JH12,Protein synthesis,0.41
+JH12_3,JH12,Protein synthesis,0.4225
+JH12_3,JH12,Protein synthesis,0.4375
+JH12_3,JH12,Protein synthesis,0.39
+JH12_3,JH12,Protein synthesis,0.3925
+JH12_3,JH12,Protein synthesis,0.41
+JH12_3,JH12,Protein synthesis,0.4275
+JH12_3,JH12,Protein synthesis,0.4025
+JH12_3,JH12,Protein synthesis,0.395
+JH12_3,JH12,RNA Synthesis,0.055
+JH12_3,JH12,RNA Synthesis,0.0525
+JH12_3,JH12,RNA Synthesis,0.0625
+JH12_3,JH12,RNA Synthesis,0.0675
+JH12_3,JH12,RNA Synthesis,0.06
+JH12_3,JH12,RNA Synthesis,0.0425
+JH12_3,JH12,RNA Synthesis,0.0575
+JH12_3,JH12,RNA Synthesis,0.0625
+JH12_3,JH12,RNA Synthesis,0.065
+JH12_3,JH12,RNA Synthesis,0.0625
+JH12_3,JH12,lipopolysaccharide synthesis,0.03
+JH12_3,JH12,lipopolysaccharide synthesis,0.0175
+JH12_3,JH12,lipopolysaccharide synthesis,0.025
+JH12_3,JH12,lipopolysaccharide synthesis,0.0175
+JH12_3,JH12,lipopolysaccharide synthesis,0.025
+JH12_3,JH12,lipopolysaccharide synthesis,0.0275
+JH12_3,JH12,lipopolysaccharide synthesis,0.0175
+JH12_3,JH12,lipopolysaccharide synthesis,0.0225
+JH12_3,JH12,lipopolysaccharide synthesis,0.0225
+JH12_3,JH12,lipopolysaccharide synthesis,0.0275
+JH12_4,JH12,Cell wall biosynthesis,0.05
+JH12_4,JH12,Cell wall biosynthesis,0.04
+JH12_4,JH12,Cell wall biosynthesis,0.04
+JH12_4,JH12,Cell wall biosynthesis,0.0325
+JH12_4,JH12,Cell wall biosynthesis,0.0425
+JH12_4,JH12,Cell wall biosynthesis,0.03
+JH12_4,JH12,Cell wall biosynthesis,0.0475
+JH12_4,JH12,Cell wall biosynthesis,0.045
+JH12_4,JH12,Cell wall biosynthesis,0.0475
+JH12_4,JH12,Cell wall biosynthesis,0.045
+JH12_4,JH12,DNA replication,0.0275
+JH12_4,JH12,DNA replication,0.0275
+JH12_4,JH12,DNA replication,0.03
+JH12_4,JH12,DNA replication,0.0375
+JH12_4,JH12,DNA replication,0.035
+JH12_4,JH12,DNA replication,0.035
+JH12_4,JH12,DNA replication,0.035
+JH12_4,JH12,DNA replication,0.0325
+JH12_4,JH12,DNA replication,0.035
+JH12_4,JH12,DNA replication,0.0325
+JH12_4,JH12,Fatty acid synthesis,0.02
+JH12_4,JH12,Fatty acid synthesis,0.0325
+JH12_4,JH12,Fatty acid synthesis,0.0375
+JH12_4,JH12,Fatty acid synthesis,0.035
+JH12_4,JH12,Fatty acid synthesis,0.0325
+JH12_4,JH12,Fatty acid synthesis,0.025
+JH12_4,JH12,Fatty acid synthesis,0.0325
+JH12_4,JH12,Fatty acid synthesis,0.025
+JH12_4,JH12,Fatty acid synthesis,0.025
+JH12_4,JH12,Fatty acid synthesis,0.0375
+JH12_4,JH12,Folic acid metabolism,0.0675
+JH12_4,JH12,Folic acid metabolism,0.0725
+JH12_4,JH12,Folic acid metabolism,0.055
+JH12_4,JH12,Folic acid metabolism,0.06
+JH12_4,JH12,Folic acid metabolism,0.0725
+JH12_4,JH12,Folic acid metabolism,0.055
+JH12_4,JH12,Folic acid metabolism,0.065
+JH12_4,JH12,Folic acid metabolism,0.0725
+JH12_4,JH12,Folic acid metabolism,0.07
+JH12_4,JH12,Folic acid metabolism,0.0525
+JH12_4,JH12,Membrane disruption,0.0625
+JH12_4,JH12,Membrane disruption,0.0525
+JH12_4,JH12,Membrane disruption,0.055
+JH12_4,JH12,Membrane disruption,0.0575
+JH12_4,JH12,Membrane disruption,0.0525
+JH12_4,JH12,Membrane disruption,0.0625
+JH12_4,JH12,Membrane disruption,0.0675
+JH12_4,JH12,Membrane disruption,0.0725
+JH12_4,JH12,Membrane disruption,0.08
+JH12_4,JH12,Membrane disruption,0.0725
+JH12_4,JH12,Nitrofurans,0.2075
+JH12_4,JH12,Nitrofurans,0.21
+JH12_4,JH12,Nitrofurans,0.2025
+JH12_4,JH12,Nitrofurans,0.2025
+JH12_4,JH12,Nitrofurans,0.2025
+JH12_4,JH12,Nitrofurans,0.1775
+JH12_4,JH12,Nitrofurans,0.2025
+JH12_4,JH12,Nitrofurans,0.1775
+JH12_4,JH12,Nitrofurans,0.195
+JH12_4,JH12,Nitrofurans,0.1975
+JH12_4,JH12,Protein synthesis,0.38
+JH12_4,JH12,Protein synthesis,0.38
+JH12_4,JH12,Protein synthesis,0.4125
+JH12_4,JH12,Protein synthesis,0.3925
+JH12_4,JH12,Protein synthesis,0.3625
+JH12_4,JH12,Protein synthesis,0.3825
+JH12_4,JH12,Protein synthesis,0.375
+JH12_4,JH12,Protein synthesis,0.4075
+JH12_4,JH12,Protein synthesis,0.39
+JH12_4,JH12,Protein synthesis,0.38
+JH12_4,JH12,RNA Synthesis,0.0425
+JH12_4,JH12,RNA Synthesis,0.0375
+JH12_4,JH12,RNA Synthesis,0.04
+JH12_4,JH12,RNA Synthesis,0.055
+JH12_4,JH12,RNA Synthesis,0.05
+JH12_4,JH12,RNA Synthesis,0.0425
+JH12_4,JH12,RNA Synthesis,0.045
+JH12_4,JH12,RNA Synthesis,0.05
+JH12_4,JH12,RNA Synthesis,0.05
+JH12_4,JH12,RNA Synthesis,0.0525
+JH12_4,JH12,lipopolysaccharide synthesis,0.0325
+JH12_4,JH12,lipopolysaccharide synthesis,0.02
+JH12_4,JH12,lipopolysaccharide synthesis,0.035
+JH12_4,JH12,lipopolysaccharide synthesis,0.0275
+JH12_4,JH12,lipopolysaccharide synthesis,0.03
+JH12_4,JH12,lipopolysaccharide synthesis,0.0325
+JH12_4,JH12,lipopolysaccharide synthesis,0.015
+JH12_4,JH12,lipopolysaccharide synthesis,0.02
+JH12_4,JH12,lipopolysaccharide synthesis,0.0225
+JH12_4,JH12,lipopolysaccharide synthesis,0.03
+JH13_1,JH13,Cell wall biosynthesis,0.0775
+JH13_1,JH13,Cell wall biosynthesis,0.0825
+JH13_1,JH13,Cell wall biosynthesis,0.08
+JH13_1,JH13,Cell wall biosynthesis,0.095
+JH13_1,JH13,Cell wall biosynthesis,0.09
+JH13_1,JH13,Cell wall biosynthesis,0.0875
+JH13_1,JH13,Cell wall biosynthesis,0.0725
+JH13_1,JH13,Cell wall biosynthesis,0.0825
+JH13_1,JH13,Cell wall biosynthesis,0.07
+JH13_1,JH13,Cell wall biosynthesis,0.0725
+JH13_1,JH13,DNA replication,0.0975
+JH13_1,JH13,DNA replication,0.105
+JH13_1,JH13,DNA replication,0.12
+JH13_1,JH13,DNA replication,0.1225
+JH13_1,JH13,DNA replication,0.11
+JH13_1,JH13,DNA replication,0.1125
+JH13_1,JH13,DNA replication,0.11
+JH13_1,JH13,DNA replication,0.1075
+JH13_1,JH13,DNA replication,0.125
+JH13_1,JH13,DNA replication,0.1125
+JH13_1,JH13,Fatty acid synthesis,0.055
+JH13_1,JH13,Fatty acid synthesis,0.0525
+JH13_1,JH13,Fatty acid synthesis,0.05
+JH13_1,JH13,Fatty acid synthesis,0.0675
+JH13_1,JH13,Fatty acid synthesis,0.06
+JH13_1,JH13,Fatty acid synthesis,0.055
+JH13_1,JH13,Fatty acid synthesis,0.0725
+JH13_1,JH13,Fatty acid synthesis,0.0575
+JH13_1,JH13,Fatty acid synthesis,0.06
+JH13_1,JH13,Fatty acid synthesis,0.075
+JH13_1,JH13,Folic acid metabolism,0.0925
+JH13_1,JH13,Folic acid metabolism,0.085
+JH13_1,JH13,Folic acid metabolism,0.09
+JH13_1,JH13,Folic acid metabolism,0.1025
+JH13_1,JH13,Folic acid metabolism,0.095
+JH13_1,JH13,Folic acid metabolism,0.075
+JH13_1,JH13,Folic acid metabolism,0.0775
+JH13_1,JH13,Folic acid metabolism,0.0875
+JH13_1,JH13,Folic acid metabolism,0.0975
+JH13_1,JH13,Folic acid metabolism,0.0725
+JH13_1,JH13,Membrane disruption,0.0425
+JH13_1,JH13,Membrane disruption,0.055
+JH13_1,JH13,Membrane disruption,0.06
+JH13_1,JH13,Membrane disruption,0.06
+JH13_1,JH13,Membrane disruption,0.0475
+JH13_1,JH13,Membrane disruption,0.05
+JH13_1,JH13,Membrane disruption,0.05
+JH13_1,JH13,Membrane disruption,0.0425
+JH13_1,JH13,Membrane disruption,0.0575
+JH13_1,JH13,Membrane disruption,0.065
+JH13_1,JH13,Nitrofurans,0.09
+JH13_1,JH13,Nitrofurans,0.1225
+JH13_1,JH13,Nitrofurans,0.1
+JH13_1,JH13,Nitrofurans,0.085
+JH13_1,JH13,Nitrofurans,0.0975
+JH13_1,JH13,Nitrofurans,0.0825
+JH13_1,JH13,Nitrofurans,0.11
+JH13_1,JH13,Nitrofurans,0.1325
+JH13_1,JH13,Nitrofurans,0.095
+JH13_1,JH13,Nitrofurans,0.11
+JH13_1,JH13,Protein synthesis,0.2575
+JH13_1,JH13,Protein synthesis,0.225
+JH13_1,JH13,Protein synthesis,0.2475
+JH13_1,JH13,Protein synthesis,0.23
+JH13_1,JH13,Protein synthesis,0.2375
+JH13_1,JH13,Protein synthesis,0.2525
+JH13_1,JH13,Protein synthesis,0.2425
+JH13_1,JH13,Protein synthesis,0.225
+JH13_1,JH13,Protein synthesis,0.2475
+JH13_1,JH13,Protein synthesis,0.2225
+JH13_1,JH13,RNA Synthesis,0.055
+JH13_1,JH13,RNA Synthesis,0.045
+JH13_1,JH13,RNA Synthesis,0.055
+JH13_1,JH13,RNA Synthesis,0.0625
+JH13_1,JH13,RNA Synthesis,0.055
+JH13_1,JH13,RNA Synthesis,0.05
+JH13_1,JH13,RNA Synthesis,0.0425
+JH13_1,JH13,RNA Synthesis,0.0475
+JH13_1,JH13,RNA Synthesis,0.05
+JH13_1,JH13,RNA Synthesis,0.055
+JH13_1,JH13,lipopolysaccharide synthesis,0.09
+JH13_1,JH13,lipopolysaccharide synthesis,0.0725
+JH13_1,JH13,lipopolysaccharide synthesis,0.075
+JH13_1,JH13,lipopolysaccharide synthesis,0.085
+JH13_1,JH13,lipopolysaccharide synthesis,0.0575
+JH13_1,JH13,lipopolysaccharide synthesis,0.0775
+JH13_1,JH13,lipopolysaccharide synthesis,0.0775
+JH13_1,JH13,lipopolysaccharide synthesis,0.0775
+JH13_1,JH13,lipopolysaccharide synthesis,0.07
+JH13_1,JH13,lipopolysaccharide synthesis,0.0625
+JH13_2,JH13,Cell wall biosynthesis,0.0725
+JH13_2,JH13,Cell wall biosynthesis,0.075
+JH13_2,JH13,Cell wall biosynthesis,0.0825
+JH13_2,JH13,Cell wall biosynthesis,0.08
+JH13_2,JH13,Cell wall biosynthesis,0.0825
+JH13_2,JH13,Cell wall biosynthesis,0.075
+JH13_2,JH13,Cell wall biosynthesis,0.07
+JH13_2,JH13,Cell wall biosynthesis,0.085
+JH13_2,JH13,Cell wall biosynthesis,0.065
+JH13_2,JH13,Cell wall biosynthesis,0.0675
+JH13_2,JH13,DNA replication,0.1175
+JH13_2,JH13,DNA replication,0.1125
+JH13_2,JH13,DNA replication,0.1325
+JH13_2,JH13,DNA replication,0.135
+JH13_2,JH13,DNA replication,0.1275
+JH13_2,JH13,DNA replication,0.115
+JH13_2,JH13,DNA replication,0.1325
+JH13_2,JH13,DNA replication,0.115
+JH13_2,JH13,DNA replication,0.1325
+JH13_2,JH13,DNA replication,0.125
+JH13_2,JH13,Fatty acid synthesis,0.0525
+JH13_2,JH13,Fatty acid synthesis,0.065
+JH13_2,JH13,Fatty acid synthesis,0.0525
+JH13_2,JH13,Fatty acid synthesis,0.0575
+JH13_2,JH13,Fatty acid synthesis,0.05
+JH13_2,JH13,Fatty acid synthesis,0.055
+JH13_2,JH13,Fatty acid synthesis,0.0625
+JH13_2,JH13,Fatty acid synthesis,0.055
+JH13_2,JH13,Fatty acid synthesis,0.055
+JH13_2,JH13,Fatty acid synthesis,0.075
+JH13_2,JH13,Folic acid metabolism,0.0775
+JH13_2,JH13,Folic acid metabolism,0.08
+JH13_2,JH13,Folic acid metabolism,0.07
+JH13_2,JH13,Folic acid metabolism,0.0875
+JH13_2,JH13,Folic acid metabolism,0.0875
+JH13_2,JH13,Folic acid metabolism,0.07
+JH13_2,JH13,Folic acid metabolism,0.0575
+JH13_2,JH13,Folic acid metabolism,0.0725
+JH13_2,JH13,Folic acid metabolism,0.085
+JH13_2,JH13,Folic acid metabolism,0.06
+JH13_2,JH13,Membrane disruption,0.0325
+JH13_2,JH13,Membrane disruption,0.0425
+JH13_2,JH13,Membrane disruption,0.0425
+JH13_2,JH13,Membrane disruption,0.0425
+JH13_2,JH13,Membrane disruption,0.04
+JH13_2,JH13,Membrane disruption,0.04
+JH13_2,JH13,Membrane disruption,0.0375
+JH13_2,JH13,Membrane disruption,0.02
+JH13_2,JH13,Membrane disruption,0.045
+JH13_2,JH13,Membrane disruption,0.0525
+JH13_2,JH13,Nitrofurans,0.095
+JH13_2,JH13,Nitrofurans,0.1175
+JH13_2,JH13,Nitrofurans,0.0875
+JH13_2,JH13,Nitrofurans,0.0875
+JH13_2,JH13,Nitrofurans,0.085
+JH13_2,JH13,Nitrofurans,0.08
+JH13_2,JH13,Nitrofurans,0.1025
+JH13_2,JH13,Nitrofurans,0.11
+JH13_2,JH13,Nitrofurans,0.0925
+JH13_2,JH13,Nitrofurans,0.1025
+JH13_2,JH13,Protein synthesis,0.26
+JH13_2,JH13,Protein synthesis,0.25
+JH13_2,JH13,Protein synthesis,0.26
+JH13_2,JH13,Protein synthesis,0.2275
+JH13_2,JH13,Protein synthesis,0.25
+JH13_2,JH13,Protein synthesis,0.2525
+JH13_2,JH13,Protein synthesis,0.2625
+JH13_2,JH13,Protein synthesis,0.2375
+JH13_2,JH13,Protein synthesis,0.27
+JH13_2,JH13,Protein synthesis,0.26
+JH13_2,JH13,RNA Synthesis,0.045
+JH13_2,JH13,RNA Synthesis,0.0425
+JH13_2,JH13,RNA Synthesis,0.0425
+JH13_2,JH13,RNA Synthesis,0.045
+JH13_2,JH13,RNA Synthesis,0.0575
+JH13_2,JH13,RNA Synthesis,0.045
+JH13_2,JH13,RNA Synthesis,0.04
+JH13_2,JH13,RNA Synthesis,0.0425
+JH13_2,JH13,RNA Synthesis,0.045
+JH13_2,JH13,RNA Synthesis,0.055
+JH13_2,JH13,lipopolysaccharide synthesis,0.0625
+JH13_2,JH13,lipopolysaccharide synthesis,0.075
+JH13_2,JH13,lipopolysaccharide synthesis,0.0675
+JH13_2,JH13,lipopolysaccharide synthesis,0.07
+JH13_2,JH13,lipopolysaccharide synthesis,0.0575
+JH13_2,JH13,lipopolysaccharide synthesis,0.0625
+JH13_2,JH13,lipopolysaccharide synthesis,0.065
+JH13_2,JH13,lipopolysaccharide synthesis,0.0775
+JH13_2,JH13,lipopolysaccharide synthesis,0.0425
+JH13_2,JH13,lipopolysaccharide synthesis,0.0475
+JH13_3,JH13,Cell wall biosynthesis,0.0875
+JH13_3,JH13,Cell wall biosynthesis,0.105
+JH13_3,JH13,Cell wall biosynthesis,0.1075
+JH13_3,JH13,Cell wall biosynthesis,0.115
+JH13_3,JH13,Cell wall biosynthesis,0.1125
+JH13_3,JH13,Cell wall biosynthesis,0.0925
+JH13_3,JH13,Cell wall biosynthesis,0.0975
+JH13_3,JH13,Cell wall biosynthesis,0.105
+JH13_3,JH13,Cell wall biosynthesis,0.0925
+JH13_3,JH13,Cell wall biosynthesis,0.085
+JH13_3,JH13,DNA replication,0.11
+JH13_3,JH13,DNA replication,0.135
+JH13_3,JH13,DNA replication,0.12
+JH13_3,JH13,DNA replication,0.1125
+JH13_3,JH13,DNA replication,0.11
+JH13_3,JH13,DNA replication,0.1125
+JH13_3,JH13,DNA replication,0.115
+JH13_3,JH13,DNA replication,0.11
+JH13_3,JH13,DNA replication,0.1175
+JH13_3,JH13,DNA replication,0.1175
+JH13_3,JH13,Fatty acid synthesis,0.045
+JH13_3,JH13,Fatty acid synthesis,0.0375
+JH13_3,JH13,Fatty acid synthesis,0.05
+JH13_3,JH13,Fatty acid synthesis,0.0525
+JH13_3,JH13,Fatty acid synthesis,0.05
+JH13_3,JH13,Fatty acid synthesis,0.04
+JH13_3,JH13,Fatty acid synthesis,0.0475
+JH13_3,JH13,Fatty acid synthesis,0.04
+JH13_3,JH13,Fatty acid synthesis,0.0425
+JH13_3,JH13,Fatty acid synthesis,0.045
+JH13_3,JH13,Folic acid metabolism,0.07
+JH13_3,JH13,Folic acid metabolism,0.0675
+JH13_3,JH13,Folic acid metabolism,0.0825
+JH13_3,JH13,Folic acid metabolism,0.0725
+JH13_3,JH13,Folic acid metabolism,0.065
+JH13_3,JH13,Folic acid metabolism,0.0675
+JH13_3,JH13,Folic acid metabolism,0.0525
+JH13_3,JH13,Folic acid metabolism,0.06
+JH13_3,JH13,Folic acid metabolism,0.08
+JH13_3,JH13,Folic acid metabolism,0.0575
+JH13_3,JH13,Membrane disruption,0.0275
+JH13_3,JH13,Membrane disruption,0.03
+JH13_3,JH13,Membrane disruption,0.0375
+JH13_3,JH13,Membrane disruption,0.0325
+JH13_3,JH13,Membrane disruption,0.025
+JH13_3,JH13,Membrane disruption,0.045
+JH13_3,JH13,Membrane disruption,0.03
+JH13_3,JH13,Membrane disruption,0.025
+JH13_3,JH13,Membrane disruption,0.0425
+JH13_3,JH13,Membrane disruption,0.055
+JH13_3,JH13,Nitrofurans,0.075
+JH13_3,JH13,Nitrofurans,0.09
+JH13_3,JH13,Nitrofurans,0.08
+JH13_3,JH13,Nitrofurans,0.0875
+JH13_3,JH13,Nitrofurans,0.0725
+JH13_3,JH13,Nitrofurans,0.0675
+JH13_3,JH13,Nitrofurans,0.09
+JH13_3,JH13,Nitrofurans,0.0975
+JH13_3,JH13,Nitrofurans,0.08
+JH13_3,JH13,Nitrofurans,0.0975
+JH13_3,JH13,Protein synthesis,0.285
+JH13_3,JH13,Protein synthesis,0.2675
+JH13_3,JH13,Protein synthesis,0.3
+JH13_3,JH13,Protein synthesis,0.2475
+JH13_3,JH13,Protein synthesis,0.2925
+JH13_3,JH13,Protein synthesis,0.2875
+JH13_3,JH13,Protein synthesis,0.265
+JH13_3,JH13,Protein synthesis,0.2675
+JH13_3,JH13,Protein synthesis,0.3
+JH13_3,JH13,Protein synthesis,0.26
+JH13_3,JH13,RNA Synthesis,0.0575
+JH13_3,JH13,RNA Synthesis,0.0525
+JH13_3,JH13,RNA Synthesis,0.055
+JH13_3,JH13,RNA Synthesis,0.0575
+JH13_3,JH13,RNA Synthesis,0.06
+JH13_3,JH13,RNA Synthesis,0.0425
+JH13_3,JH13,RNA Synthesis,0.0525
+JH13_3,JH13,RNA Synthesis,0.0475
+JH13_3,JH13,RNA Synthesis,0.055
+JH13_3,JH13,RNA Synthesis,0.055
+JH13_3,JH13,lipopolysaccharide synthesis,0.08
+JH13_3,JH13,lipopolysaccharide synthesis,0.0625
+JH13_3,JH13,lipopolysaccharide synthesis,0.075
+JH13_3,JH13,lipopolysaccharide synthesis,0.0775
+JH13_3,JH13,lipopolysaccharide synthesis,0.0575
+JH13_3,JH13,lipopolysaccharide synthesis,0.0675
+JH13_3,JH13,lipopolysaccharide synthesis,0.0675
+JH13_3,JH13,lipopolysaccharide synthesis,0.07
+JH13_3,JH13,lipopolysaccharide synthesis,0.0575
+JH13_3,JH13,lipopolysaccharide synthesis,0.06
+JH13_4,JH13,Cell wall biosynthesis,0.1
+JH13_4,JH13,Cell wall biosynthesis,0.1
+JH13_4,JH13,Cell wall biosynthesis,0.085
+JH13_4,JH13,Cell wall biosynthesis,0.11
+JH13_4,JH13,Cell wall biosynthesis,0.105
+JH13_4,JH13,Cell wall biosynthesis,0.105
+JH13_4,JH13,Cell wall biosynthesis,0.0875
+JH13_4,JH13,Cell wall biosynthesis,0.1025
+JH13_4,JH13,Cell wall biosynthesis,0.1
+JH13_4,JH13,Cell wall biosynthesis,0.1025
+JH13_4,JH13,DNA replication,0.0975
+JH13_4,JH13,DNA replication,0.115
+JH13_4,JH13,DNA replication,0.1125
+JH13_4,JH13,DNA replication,0.1075
+JH13_4,JH13,DNA replication,0.1
+JH13_4,JH13,DNA replication,0.11
+JH13_4,JH13,DNA replication,0.1125
+JH13_4,JH13,DNA replication,0.1025
+JH13_4,JH13,DNA replication,0.1175
+JH13_4,JH13,DNA replication,0.1125
+JH13_4,JH13,Fatty acid synthesis,0.0725
+JH13_4,JH13,Fatty acid synthesis,0.0875
+JH13_4,JH13,Fatty acid synthesis,0.085
+JH13_4,JH13,Fatty acid synthesis,0.09
+JH13_4,JH13,Fatty acid synthesis,0.0875
+JH13_4,JH13,Fatty acid synthesis,0.0875
+JH13_4,JH13,Fatty acid synthesis,0.0725
+JH13_4,JH13,Fatty acid synthesis,0.0825
+JH13_4,JH13,Fatty acid synthesis,0.09
+JH13_4,JH13,Fatty acid synthesis,0.105
+JH13_4,JH13,Folic acid metabolism,0.06
+JH13_4,JH13,Folic acid metabolism,0.0575
+JH13_4,JH13,Folic acid metabolism,0.0575
+JH13_4,JH13,Folic acid metabolism,0.0625
+JH13_4,JH13,Folic acid metabolism,0.06
+JH13_4,JH13,Folic acid metabolism,0.045
+JH13_4,JH13,Folic acid metabolism,0.0475
+JH13_4,JH13,Folic acid metabolism,0.06
+JH13_4,JH13,Folic acid metabolism,0.055
+JH13_4,JH13,Folic acid metabolism,0.0375
+JH13_4,JH13,Membrane disruption,0.04
+JH13_4,JH13,Membrane disruption,0.0425
+JH13_4,JH13,Membrane disruption,0.0475
+JH13_4,JH13,Membrane disruption,0.0375
+JH13_4,JH13,Membrane disruption,0.0375
+JH13_4,JH13,Membrane disruption,0.0375
+JH13_4,JH13,Membrane disruption,0.0475
+JH13_4,JH13,Membrane disruption,0.04
+JH13_4,JH13,Membrane disruption,0.045
+JH13_4,JH13,Membrane disruption,0.0575
+JH13_4,JH13,Nitrofurans,0.06
+JH13_4,JH13,Nitrofurans,0.0975
+JH13_4,JH13,Nitrofurans,0.08
+JH13_4,JH13,Nitrofurans,0.08
+JH13_4,JH13,Nitrofurans,0.085
+JH13_4,JH13,Nitrofurans,0.0725
+JH13_4,JH13,Nitrofurans,0.0925
+JH13_4,JH13,Nitrofurans,0.1
+JH13_4,JH13,Nitrofurans,0.085
+JH13_4,JH13,Nitrofurans,0.1
+JH13_4,JH13,Protein synthesis,0.235
+JH13_4,JH13,Protein synthesis,0.22
+JH13_4,JH13,Protein synthesis,0.22
+JH13_4,JH13,Protein synthesis,0.23
+JH13_4,JH13,Protein synthesis,0.22
+JH13_4,JH13,Protein synthesis,0.225
+JH13_4,JH13,Protein synthesis,0.2125
+JH13_4,JH13,Protein synthesis,0.2225
+JH13_4,JH13,Protein synthesis,0.24
+JH13_4,JH13,Protein synthesis,0.21
+JH13_4,JH13,RNA Synthesis,0.0525
+JH13_4,JH13,RNA Synthesis,0.05
+JH13_4,JH13,RNA Synthesis,0.0525
+JH13_4,JH13,RNA Synthesis,0.0525
+JH13_4,JH13,RNA Synthesis,0.0625
+JH13_4,JH13,RNA Synthesis,0.0475
+JH13_4,JH13,RNA Synthesis,0.0475
+JH13_4,JH13,RNA Synthesis,0.05
+JH13_4,JH13,RNA Synthesis,0.055
+JH13_4,JH13,RNA Synthesis,0.0475
+JH13_4,JH13,lipopolysaccharide synthesis,0.0875
+JH13_4,JH13,lipopolysaccharide synthesis,0.07
+JH13_4,JH13,lipopolysaccharide synthesis,0.0825
+JH13_4,JH13,lipopolysaccharide synthesis,0.0875
+JH13_4,JH13,lipopolysaccharide synthesis,0.07
+JH13_4,JH13,lipopolysaccharide synthesis,0.0725
+JH13_4,JH13,lipopolysaccharide synthesis,0.0625
+JH13_4,JH13,lipopolysaccharide synthesis,0.0575
+JH13_4,JH13,lipopolysaccharide synthesis,0.0525
+JH13_4,JH13,lipopolysaccharide synthesis,0.065
+JH24_1,JH24,Cell wall biosynthesis,0.085
+JH24_1,JH24,Cell wall biosynthesis,0.0625
+JH24_1,JH24,Cell wall biosynthesis,0.0475
+JH24_1,JH24,Cell wall biosynthesis,0.085
+JH24_1,JH24,Cell wall biosynthesis,0.0875
+JH24_1,JH24,Cell wall biosynthesis,0.075
+JH24_1,JH24,Cell wall biosynthesis,0.0825
+JH24_1,JH24,Cell wall biosynthesis,0.0675
+JH24_1,JH24,Cell wall biosynthesis,0.0875
+JH24_1,JH24,Cell wall biosynthesis,0.0725
+JH24_1,JH24,DNA replication,0.125
+JH24_1,JH24,DNA replication,0.1275
+JH24_1,JH24,DNA replication,0.13
+JH24_1,JH24,DNA replication,0.1275
+JH24_1,JH24,DNA replication,0.1225
+JH24_1,JH24,DNA replication,0.11
+JH24_1,JH24,DNA replication,0.1325
+JH24_1,JH24,DNA replication,0.11
+JH24_1,JH24,DNA replication,0.1225
+JH24_1,JH24,DNA replication,0.1425
+JH24_1,JH24,Fatty acid synthesis,0.075
+JH24_1,JH24,Fatty acid synthesis,0.0775
+JH24_1,JH24,Fatty acid synthesis,0.095
+JH24_1,JH24,Fatty acid synthesis,0.1025
+JH24_1,JH24,Fatty acid synthesis,0.085
+JH24_1,JH24,Fatty acid synthesis,0.0725
+JH24_1,JH24,Fatty acid synthesis,0.0875
+JH24_1,JH24,Fatty acid synthesis,0.075
+JH24_1,JH24,Fatty acid synthesis,0.085
+JH24_1,JH24,Fatty acid synthesis,0.09
+JH24_1,JH24,Folic acid metabolism,0.2675
+JH24_1,JH24,Folic acid metabolism,0.27
+JH24_1,JH24,Folic acid metabolism,0.275
+JH24_1,JH24,Folic acid metabolism,0.255
+JH24_1,JH24,Folic acid metabolism,0.265
+JH24_1,JH24,Folic acid metabolism,0.2925
+JH24_1,JH24,Folic acid metabolism,0.265
+JH24_1,JH24,Folic acid metabolism,0.2725
+JH24_1,JH24,Folic acid metabolism,0.265
+JH24_1,JH24,Folic acid metabolism,0.2725
+JH24_1,JH24,Membrane disruption,0.04
+JH24_1,JH24,Membrane disruption,0.0475
+JH24_1,JH24,Membrane disruption,0.05
+JH24_1,JH24,Membrane disruption,0.0525
+JH24_1,JH24,Membrane disruption,0.05
+JH24_1,JH24,Membrane disruption,0.0425
+JH24_1,JH24,Membrane disruption,0.0475
+JH24_1,JH24,Membrane disruption,0.05
+JH24_1,JH24,Membrane disruption,0.04
+JH24_1,JH24,Membrane disruption,0.0425
+JH24_1,JH24,Nitrofurans,0.045
+JH24_1,JH24,Nitrofurans,0.055
+JH24_1,JH24,Nitrofurans,0.05
+JH24_1,JH24,Nitrofurans,0.0475
+JH24_1,JH24,Nitrofurans,0.06
+JH24_1,JH24,Nitrofurans,0.0575
+JH24_1,JH24,Nitrofurans,0.055
+JH24_1,JH24,Nitrofurans,0.045
+JH24_1,JH24,Nitrofurans,0.0375
+JH24_1,JH24,Nitrofurans,0.0475
+JH24_1,JH24,Protein synthesis,0.14
+JH24_1,JH24,Protein synthesis,0.135
+JH24_1,JH24,Protein synthesis,0.1425
+JH24_1,JH24,Protein synthesis,0.125
+JH24_1,JH24,Protein synthesis,0.115
+JH24_1,JH24,Protein synthesis,0.12
+JH24_1,JH24,Protein synthesis,0.115
+JH24_1,JH24,Protein synthesis,0.135
+JH24_1,JH24,Protein synthesis,0.14
+JH24_1,JH24,Protein synthesis,0.1275
+JH24_1,JH24,RNA Synthesis,0.065
+JH24_1,JH24,RNA Synthesis,0.0725
+JH24_1,JH24,RNA Synthesis,0.05
+JH24_1,JH24,RNA Synthesis,0.0625
+JH24_1,JH24,RNA Synthesis,0.0625
+JH24_1,JH24,RNA Synthesis,0.055
+JH24_1,JH24,RNA Synthesis,0.06
+JH24_1,JH24,RNA Synthesis,0.045
+JH24_1,JH24,RNA Synthesis,0.05
+JH24_1,JH24,RNA Synthesis,0.0475
+JH24_1,JH24,lipopolysaccharide synthesis,0.075
+JH24_1,JH24,lipopolysaccharide synthesis,0.055
+JH24_1,JH24,lipopolysaccharide synthesis,0.08
+JH24_1,JH24,lipopolysaccharide synthesis,0.06
+JH24_1,JH24,lipopolysaccharide synthesis,0.055
+JH24_1,JH24,lipopolysaccharide synthesis,0.065
+JH24_1,JH24,lipopolysaccharide synthesis,0.0575
+JH24_1,JH24,lipopolysaccharide synthesis,0.08
+JH24_1,JH24,lipopolysaccharide synthesis,0.0675
+JH24_1,JH24,lipopolysaccharide synthesis,0.0825
+JH24_2,JH24,Cell wall biosynthesis,0.085
+JH24_2,JH24,Cell wall biosynthesis,0.0675
+JH24_2,JH24,Cell wall biosynthesis,0.07
+JH24_2,JH24,Cell wall biosynthesis,0.08
+JH24_2,JH24,Cell wall biosynthesis,0.075
+JH24_2,JH24,Cell wall biosynthesis,0.0825
+JH24_2,JH24,Cell wall biosynthesis,0.075
+JH24_2,JH24,Cell wall biosynthesis,0.0775
+JH24_2,JH24,Cell wall biosynthesis,0.085
+JH24_2,JH24,Cell wall biosynthesis,0.0775
+JH24_2,JH24,DNA replication,0.12
+JH24_2,JH24,DNA replication,0.1175
+JH24_2,JH24,DNA replication,0.12
+JH24_2,JH24,DNA replication,0.1175
+JH24_2,JH24,DNA replication,0.115
+JH24_2,JH24,DNA replication,0.115
+JH24_2,JH24,DNA replication,0.12
+JH24_2,JH24,DNA replication,0.125
+JH24_2,JH24,DNA replication,0.115
+JH24_2,JH24,DNA replication,0.1075
+JH24_2,JH24,Fatty acid synthesis,0.06
+JH24_2,JH24,Fatty acid synthesis,0.0825
+JH24_2,JH24,Fatty acid synthesis,0.0725
+JH24_2,JH24,Fatty acid synthesis,0.0925
+JH24_2,JH24,Fatty acid synthesis,0.07
+JH24_2,JH24,Fatty acid synthesis,0.07
+JH24_2,JH24,Fatty acid synthesis,0.0575
+JH24_2,JH24,Fatty acid synthesis,0.0775
+JH24_2,JH24,Fatty acid synthesis,0.065
+JH24_2,JH24,Fatty acid synthesis,0.07
+JH24_2,JH24,Folic acid metabolism,0.28
+JH24_2,JH24,Folic acid metabolism,0.28
+JH24_2,JH24,Folic acid metabolism,0.2775
+JH24_2,JH24,Folic acid metabolism,0.2875
+JH24_2,JH24,Folic acid metabolism,0.265
+JH24_2,JH24,Folic acid metabolism,0.2875
+JH24_2,JH24,Folic acid metabolism,0.2675
+JH24_2,JH24,Folic acid metabolism,0.2775
+JH24_2,JH24,Folic acid metabolism,0.265
+JH24_2,JH24,Folic acid metabolism,0.2825
+JH24_2,JH24,Membrane disruption,0.055
+JH24_2,JH24,Membrane disruption,0.075
+JH24_2,JH24,Membrane disruption,0.0575
+JH24_2,JH24,Membrane disruption,0.07
+JH24_2,JH24,Membrane disruption,0.055
+JH24_2,JH24,Membrane disruption,0.06
+JH24_2,JH24,Membrane disruption,0.055
+JH24_2,JH24,Membrane disruption,0.065
+JH24_2,JH24,Membrane disruption,0.045
+JH24_2,JH24,Membrane disruption,0.0525
+JH24_2,JH24,Nitrofurans,0.05
+JH24_2,JH24,Nitrofurans,0.0525
+JH24_2,JH24,Nitrofurans,0.055
+JH24_2,JH24,Nitrofurans,0.0425
+JH24_2,JH24,Nitrofurans,0.0575
+JH24_2,JH24,Nitrofurans,0.0575
+JH24_2,JH24,Nitrofurans,0.055
+JH24_2,JH24,Nitrofurans,0.05
+JH24_2,JH24,Nitrofurans,0.0375
+JH24_2,JH24,Nitrofurans,0.05
+JH24_2,JH24,Protein synthesis,0.115
+JH24_2,JH24,Protein synthesis,0.1
+JH24_2,JH24,Protein synthesis,0.1075
+JH24_2,JH24,Protein synthesis,0.1175
+JH24_2,JH24,Protein synthesis,0.0875
+JH24_2,JH24,Protein synthesis,0.105
+JH24_2,JH24,Protein synthesis,0.0975
+JH24_2,JH24,Protein synthesis,0.115
+JH24_2,JH24,Protein synthesis,0.1275
+JH24_2,JH24,Protein synthesis,0.1
+JH24_2,JH24,RNA Synthesis,0.0375
+JH24_2,JH24,RNA Synthesis,0.065
+JH24_2,JH24,RNA Synthesis,0.05
+JH24_2,JH24,RNA Synthesis,0.0525
+JH24_2,JH24,RNA Synthesis,0.0425
+JH24_2,JH24,RNA Synthesis,0.0475
+JH24_2,JH24,RNA Synthesis,0.04
+JH24_2,JH24,RNA Synthesis,0.0425
+JH24_2,JH24,RNA Synthesis,0.05
+JH24_2,JH24,RNA Synthesis,0.0375
+JH24_2,JH24,lipopolysaccharide synthesis,0.09
+JH24_2,JH24,lipopolysaccharide synthesis,0.0825
+JH24_2,JH24,lipopolysaccharide synthesis,0.0725
+JH24_2,JH24,lipopolysaccharide synthesis,0.0775
+JH24_2,JH24,lipopolysaccharide synthesis,0.0625
+JH24_2,JH24,lipopolysaccharide synthesis,0.075
+JH24_2,JH24,lipopolysaccharide synthesis,0.0675
+JH24_2,JH24,lipopolysaccharide synthesis,0.0775
+JH24_2,JH24,lipopolysaccharide synthesis,0.0825
+JH24_2,JH24,lipopolysaccharide synthesis,0.0775
+JH24_3,JH24,Cell wall biosynthesis,0.0675
+JH24_3,JH24,Cell wall biosynthesis,0.0725
+JH24_3,JH24,Cell wall biosynthesis,0.06
+JH24_3,JH24,Cell wall biosynthesis,0.075
+JH24_3,JH24,Cell wall biosynthesis,0.07
+JH24_3,JH24,Cell wall biosynthesis,0.075
+JH24_3,JH24,Cell wall biosynthesis,0.0825
+JH24_3,JH24,Cell wall biosynthesis,0.0725
+JH24_3,JH24,Cell wall biosynthesis,0.0775
+JH24_3,JH24,Cell wall biosynthesis,0.0725
+JH24_3,JH24,DNA replication,0.1425
+JH24_3,JH24,DNA replication,0.1425
+JH24_3,JH24,DNA replication,0.1475
+JH24_3,JH24,DNA replication,0.1525
+JH24_3,JH24,DNA replication,0.1425
+JH24_3,JH24,DNA replication,0.1425
+JH24_3,JH24,DNA replication,0.15
+JH24_3,JH24,DNA replication,0.1475
+JH24_3,JH24,DNA replication,0.145
+JH24_3,JH24,DNA replication,0.1375
+JH24_3,JH24,Fatty acid synthesis,0.0675
+JH24_3,JH24,Fatty acid synthesis,0.06
+JH24_3,JH24,Fatty acid synthesis,0.085
+JH24_3,JH24,Fatty acid synthesis,0.085
+JH24_3,JH24,Fatty acid synthesis,0.07
+JH24_3,JH24,Fatty acid synthesis,0.0775
+JH24_3,JH24,Fatty acid synthesis,0.085
+JH24_3,JH24,Fatty acid synthesis,0.0625
+JH24_3,JH24,Fatty acid synthesis,0.0725
+JH24_3,JH24,Fatty acid synthesis,0.0775
+JH24_3,JH24,Folic acid metabolism,0.2675
+JH24_3,JH24,Folic acid metabolism,0.2725
+JH24_3,JH24,Folic acid metabolism,0.2825
+JH24_3,JH24,Folic acid metabolism,0.2725
+JH24_3,JH24,Folic acid metabolism,0.265
+JH24_3,JH24,Folic acid metabolism,0.2925
+JH24_3,JH24,Folic acid metabolism,0.24
+JH24_3,JH24,Folic acid metabolism,0.2925
+JH24_3,JH24,Folic acid metabolism,0.2575
+JH24_3,JH24,Folic acid metabolism,0.28
+JH24_3,JH24,Membrane disruption,0.05
+JH24_3,JH24,Membrane disruption,0.0575
+JH24_3,JH24,Membrane disruption,0.0625
+JH24_3,JH24,Membrane disruption,0.065
+JH24_3,JH24,Membrane disruption,0.06
+JH24_3,JH24,Membrane disruption,0.0625
+JH24_3,JH24,Membrane disruption,0.0575
+JH24_3,JH24,Membrane disruption,0.0675
+JH24_3,JH24,Membrane disruption,0.03
+JH24_3,JH24,Membrane disruption,0.065
+JH24_3,JH24,Nitrofurans,0.04
+JH24_3,JH24,Nitrofurans,0.03
+JH24_3,JH24,Nitrofurans,0.04
+JH24_3,JH24,Nitrofurans,0.0375
+JH24_3,JH24,Nitrofurans,0.05
+JH24_3,JH24,Nitrofurans,0.0375
+JH24_3,JH24,Nitrofurans,0.0425
+JH24_3,JH24,Nitrofurans,0.04
+JH24_3,JH24,Nitrofurans,0.0325
+JH24_3,JH24,Nitrofurans,0.04
+JH24_3,JH24,Protein synthesis,0.1025
+JH24_3,JH24,Protein synthesis,0.1275
+JH24_3,JH24,Protein synthesis,0.1175
+JH24_3,JH24,Protein synthesis,0.1075
+JH24_3,JH24,Protein synthesis,0.1075
+JH24_3,JH24,Protein synthesis,0.12
+JH24_3,JH24,Protein synthesis,0.0925
+JH24_3,JH24,Protein synthesis,0.135
+JH24_3,JH24,Protein synthesis,0.1625
+JH24_3,JH24,Protein synthesis,0.1225
+JH24_3,JH24,RNA Synthesis,0.0375
+JH24_3,JH24,RNA Synthesis,0.0375
+JH24_3,JH24,RNA Synthesis,0.0375
+JH24_3,JH24,RNA Synthesis,0.0475
+JH24_3,JH24,RNA Synthesis,0.035
+JH24_3,JH24,RNA Synthesis,0.045
+JH24_3,JH24,RNA Synthesis,0.0275
+JH24_3,JH24,RNA Synthesis,0.0375
+JH24_3,JH24,RNA Synthesis,0.03
+JH24_3,JH24,RNA Synthesis,0.035
+JH24_3,JH24,lipopolysaccharide synthesis,0.0925
+JH24_3,JH24,lipopolysaccharide synthesis,0.0675
+JH24_3,JH24,lipopolysaccharide synthesis,0.0775
+JH24_3,JH24,lipopolysaccharide synthesis,0.0675
+JH24_3,JH24,lipopolysaccharide synthesis,0.0725
+JH24_3,JH24,lipopolysaccharide synthesis,0.0725
+JH24_3,JH24,lipopolysaccharide synthesis,0.07
+JH24_3,JH24,lipopolysaccharide synthesis,0.0675
+JH24_3,JH24,lipopolysaccharide synthesis,0.06
+JH24_3,JH24,lipopolysaccharide synthesis,0.065
+JH24_4,JH24,Cell wall biosynthesis,0.08
+JH24_4,JH24,Cell wall biosynthesis,0.0575
+JH24_4,JH24,Cell wall biosynthesis,0.0775
+JH24_4,JH24,Cell wall biosynthesis,0.075
+JH24_4,JH24,Cell wall biosynthesis,0.08
+JH24_4,JH24,Cell wall biosynthesis,0.08
+JH24_4,JH24,Cell wall biosynthesis,0.08
+JH24_4,JH24,Cell wall biosynthesis,0.0775
+JH24_4,JH24,Cell wall biosynthesis,0.07
+JH24_4,JH24,Cell wall biosynthesis,0.0775
+JH24_4,JH24,DNA replication,0.1175
+JH24_4,JH24,DNA replication,0.1175
+JH24_4,JH24,DNA replication,0.105
+JH24_4,JH24,DNA replication,0.1125
+JH24_4,JH24,DNA replication,0.12
+JH24_4,JH24,DNA replication,0.1
+JH24_4,JH24,DNA replication,0.1025
+JH24_4,JH24,DNA replication,0.125
+JH24_4,JH24,DNA replication,0.1
+JH24_4,JH24,DNA replication,0.12
+JH24_4,JH24,Fatty acid synthesis,0.0875
+JH24_4,JH24,Fatty acid synthesis,0.1
+JH24_4,JH24,Fatty acid synthesis,0.0875
+JH24_4,JH24,Fatty acid synthesis,0.105
+JH24_4,JH24,Fatty acid synthesis,0.09
+JH24_4,JH24,Fatty acid synthesis,0.0725
+JH24_4,JH24,Fatty acid synthesis,0.08
+JH24_4,JH24,Fatty acid synthesis,0.07
+JH24_4,JH24,Fatty acid synthesis,0.09
+JH24_4,JH24,Fatty acid synthesis,0.0775
+JH24_4,JH24,Folic acid metabolism,0.315
+JH24_4,JH24,Folic acid metabolism,0.305
+JH24_4,JH24,Folic acid metabolism,0.32
+JH24_4,JH24,Folic acid metabolism,0.3125
+JH24_4,JH24,Folic acid metabolism,0.295
+JH24_4,JH24,Folic acid metabolism,0.34
+JH24_4,JH24,Folic acid metabolism,0.2875
+JH24_4,JH24,Folic acid metabolism,0.315
+JH24_4,JH24,Folic acid metabolism,0.3
+JH24_4,JH24,Folic acid metabolism,0.3025
+JH24_4,JH24,Membrane disruption,0.0625
+JH24_4,JH24,Membrane disruption,0.06
+JH24_4,JH24,Membrane disruption,0.055
+JH24_4,JH24,Membrane disruption,0.0675
+JH24_4,JH24,Membrane disruption,0.0725
+JH24_4,JH24,Membrane disruption,0.065
+JH24_4,JH24,Membrane disruption,0.06
+JH24_4,JH24,Membrane disruption,0.0575
+JH24_4,JH24,Membrane disruption,0.0475
+JH24_4,JH24,Membrane disruption,0.0575
+JH24_4,JH24,Nitrofurans,0.03
+JH24_4,JH24,Nitrofurans,0.04
+JH24_4,JH24,Nitrofurans,0.0325
+JH24_4,JH24,Nitrofurans,0.0325
+JH24_4,JH24,Nitrofurans,0.04
+JH24_4,JH24,Nitrofurans,0.045
+JH24_4,JH24,Nitrofurans,0.04
+JH24_4,JH24,Nitrofurans,0.0375
+JH24_4,JH24,Nitrofurans,0.0475
+JH24_4,JH24,Nitrofurans,0.035
+JH24_4,JH24,Protein synthesis,0.0875
+JH24_4,JH24,Protein synthesis,0.1025
+JH24_4,JH24,Protein synthesis,0.1
+JH24_4,JH24,Protein synthesis,0.0825
+JH24_4,JH24,Protein synthesis,0.09
+JH24_4,JH24,Protein synthesis,0.0925
+JH24_4,JH24,Protein synthesis,0.09
+JH24_4,JH24,Protein synthesis,0.105
+JH24_4,JH24,Protein synthesis,0.1075
+JH24_4,JH24,Protein synthesis,0.095
+JH24_4,JH24,RNA Synthesis,0.06
+JH24_4,JH24,RNA Synthesis,0.085
+JH24_4,JH24,RNA Synthesis,0.05
+JH24_4,JH24,RNA Synthesis,0.0775
+JH24_4,JH24,RNA Synthesis,0.0625
+JH24_4,JH24,RNA Synthesis,0.055
+JH24_4,JH24,RNA Synthesis,0.0575
+JH24_4,JH24,RNA Synthesis,0.05
+JH24_4,JH24,RNA Synthesis,0.075
+JH24_4,JH24,RNA Synthesis,0.0475
+JH24_4,JH24,lipopolysaccharide synthesis,0.0675
+JH24_4,JH24,lipopolysaccharide synthesis,0.06
+JH24_4,JH24,lipopolysaccharide synthesis,0.0725
+JH24_4,JH24,lipopolysaccharide synthesis,0.065
+JH24_4,JH24,lipopolysaccharide synthesis,0.0575
+JH24_4,JH24,lipopolysaccharide synthesis,0.07
+JH24_4,JH24,lipopolysaccharide synthesis,0.055
+JH24_4,JH24,lipopolysaccharide synthesis,0.0525
+JH24_4,JH24,lipopolysaccharide synthesis,0.07
+JH24_4,JH24,lipopolysaccharide synthesis,0.0775
+JH30_1,JH30,Cell wall biosynthesis,0.16
+JH30_1,JH30,Cell wall biosynthesis,0.145
+JH30_1,JH30,Cell wall biosynthesis,0.11
+JH30_1,JH30,Cell wall biosynthesis,0.125
+JH30_1,JH30,Cell wall biosynthesis,0.13
+JH30_1,JH30,Cell wall biosynthesis,0.145
+JH30_1,JH30,Cell wall biosynthesis,0.135
+JH30_1,JH30,Cell wall biosynthesis,0.1475
+JH30_1,JH30,Cell wall biosynthesis,0.1325
+JH30_1,JH30,Cell wall biosynthesis,0.1525
+JH30_1,JH30,DNA replication,0.525
+JH30_1,JH30,DNA replication,0.5175
+JH30_1,JH30,DNA replication,0.5225
+JH30_1,JH30,DNA replication,0.53
+JH30_1,JH30,DNA replication,0.5125
+JH30_1,JH30,DNA replication,0.5175
+JH30_1,JH30,DNA replication,0.4975
+JH30_1,JH30,DNA replication,0.5175
+JH30_1,JH30,DNA replication,0.51
+JH30_1,JH30,DNA replication,0.5075
+JH30_1,JH30,Fatty acid synthesis,0.0325
+JH30_1,JH30,Fatty acid synthesis,0.0325
+JH30_1,JH30,Fatty acid synthesis,0.04
+JH30_1,JH30,Fatty acid synthesis,0.0325
+JH30_1,JH30,Fatty acid synthesis,0.035
+JH30_1,JH30,Fatty acid synthesis,0.0275
+JH30_1,JH30,Fatty acid synthesis,0.0425
+JH30_1,JH30,Fatty acid synthesis,0.05
+JH30_1,JH30,Fatty acid synthesis,0.0275
+JH30_1,JH30,Fatty acid synthesis,0.035
+JH30_1,JH30,Folic acid metabolism,0.0375
+JH30_1,JH30,Folic acid metabolism,0.0375
+JH30_1,JH30,Folic acid metabolism,0.0275
+JH30_1,JH30,Folic acid metabolism,0.0275
+JH30_1,JH30,Folic acid metabolism,0.0275
+JH30_1,JH30,Folic acid metabolism,0.035
+JH30_1,JH30,Folic acid metabolism,0.0275
+JH30_1,JH30,Folic acid metabolism,0.025
+JH30_1,JH30,Folic acid metabolism,0.0175
+JH30_1,JH30,Folic acid metabolism,0.0325
+JH30_1,JH30,Membrane disruption,0.01
+JH30_1,JH30,Membrane disruption,0.0175
+JH30_1,JH30,Membrane disruption,0.01
+JH30_1,JH30,Membrane disruption,0.01
+JH30_1,JH30,Membrane disruption,0.0075
+JH30_1,JH30,Membrane disruption,0.0125
+JH30_1,JH30,Membrane disruption,0.01
+JH30_1,JH30,Membrane disruption,0.0175
+JH30_1,JH30,Membrane disruption,0.0125
+JH30_1,JH30,Membrane disruption,0.01
+JH30_1,JH30,Nitrofurans,0.0075
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Nitrofurans,0.005
+JH30_1,JH30,Nitrofurans,0.005
+JH30_1,JH30,Nitrofurans,0.0075
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Nitrofurans,0.0025
+JH30_1,JH30,Protein synthesis,0.085
+JH30_1,JH30,Protein synthesis,0.0825
+JH30_1,JH30,Protein synthesis,0.0775
+JH30_1,JH30,Protein synthesis,0.0675
+JH30_1,JH30,Protein synthesis,0.0725
+JH30_1,JH30,Protein synthesis,0.08
+JH30_1,JH30,Protein synthesis,0.0725
+JH30_1,JH30,Protein synthesis,0.08
+JH30_1,JH30,Protein synthesis,0.08
+JH30_1,JH30,Protein synthesis,0.0775
+JH30_1,JH30,RNA Synthesis,0.035
+JH30_1,JH30,RNA Synthesis,0.0325
+JH30_1,JH30,RNA Synthesis,0.035
+JH30_1,JH30,RNA Synthesis,0.03
+JH30_1,JH30,RNA Synthesis,0.03
+JH30_1,JH30,RNA Synthesis,0.0275
+JH30_1,JH30,RNA Synthesis,0.0275
+JH30_1,JH30,RNA Synthesis,0.025
+JH30_1,JH30,RNA Synthesis,0.0225
+JH30_1,JH30,RNA Synthesis,0.025
+JH30_1,JH30,lipopolysaccharide synthesis,0.055
+JH30_1,JH30,lipopolysaccharide synthesis,0.055
+JH30_1,JH30,lipopolysaccharide synthesis,0.0675
+JH30_1,JH30,lipopolysaccharide synthesis,0.065
+JH30_1,JH30,lipopolysaccharide synthesis,0.0675
+JH30_1,JH30,lipopolysaccharide synthesis,0.065
+JH30_1,JH30,lipopolysaccharide synthesis,0.0475
+JH30_1,JH30,lipopolysaccharide synthesis,0.0625
+JH30_1,JH30,lipopolysaccharide synthesis,0.065
+JH30_1,JH30,lipopolysaccharide synthesis,0.06
+JH30_2,JH30,Cell wall biosynthesis,0.1275
+JH30_2,JH30,Cell wall biosynthesis,0.15
+JH30_2,JH30,Cell wall biosynthesis,0.1275
+JH30_2,JH30,Cell wall biosynthesis,0.1225
+JH30_2,JH30,Cell wall biosynthesis,0.1475
+JH30_2,JH30,Cell wall biosynthesis,0.1575
+JH30_2,JH30,Cell wall biosynthesis,0.15
+JH30_2,JH30,Cell wall biosynthesis,0.1325
+JH30_2,JH30,Cell wall biosynthesis,0.1275
+JH30_2,JH30,Cell wall biosynthesis,0.1525
+JH30_2,JH30,DNA replication,0.635
+JH30_2,JH30,DNA replication,0.63
+JH30_2,JH30,DNA replication,0.6125
+JH30_2,JH30,DNA replication,0.635
+JH30_2,JH30,DNA replication,0.625
+JH30_2,JH30,DNA replication,0.635
+JH30_2,JH30,DNA replication,0.6025
+JH30_2,JH30,DNA replication,0.6075
+JH30_2,JH30,DNA replication,0.6225
+JH30_2,JH30,DNA replication,0.635
+JH30_2,JH30,Fatty acid synthesis,0.02
+JH30_2,JH30,Fatty acid synthesis,0.0225
+JH30_2,JH30,Fatty acid synthesis,0.035
+JH30_2,JH30,Fatty acid synthesis,0.02
+JH30_2,JH30,Fatty acid synthesis,0.0275
+JH30_2,JH30,Fatty acid synthesis,0.0225
+JH30_2,JH30,Fatty acid synthesis,0.015
+JH30_2,JH30,Fatty acid synthesis,0.03
+JH30_2,JH30,Fatty acid synthesis,0.0175
+JH30_2,JH30,Fatty acid synthesis,0.0225
+JH30_2,JH30,Folic acid metabolism,0.02
+JH30_2,JH30,Folic acid metabolism,0.0125
+JH30_2,JH30,Folic acid metabolism,0.01
+JH30_2,JH30,Folic acid metabolism,0.0125
+JH30_2,JH30,Folic acid metabolism,0.0075
+JH30_2,JH30,Folic acid metabolism,0.0075
+JH30_2,JH30,Folic acid metabolism,0.005
+JH30_2,JH30,Folic acid metabolism,0.015
+JH30_2,JH30,Folic acid metabolism,0.0175
+JH30_2,JH30,Folic acid metabolism,0.0075
+JH30_2,JH30,Membrane disruption,0.005
+JH30_2,JH30,Membrane disruption,0.01
+JH30_2,JH30,Membrane disruption,0.005
+JH30_2,JH30,Membrane disruption,0.005
+JH30_2,JH30,Membrane disruption,0.0025
+JH30_2,JH30,Membrane disruption,0.0075
+JH30_2,JH30,Membrane disruption,0.0025
+JH30_2,JH30,Membrane disruption,0.0025
+JH30_2,JH30,Membrane disruption,0.005
+JH30_2,JH30,Membrane disruption,0.0075
+JH30_2,JH30,Nitrofurans,0.0
+JH30_2,JH30,Nitrofurans,0.0
+JH30_2,JH30,Nitrofurans,0.0025
+JH30_2,JH30,Nitrofurans,0.0
+JH30_2,JH30,Nitrofurans,0.0025
+JH30_2,JH30,Nitrofurans,0.0025
+JH30_2,JH30,Nitrofurans,0.0025
+JH30_2,JH30,Nitrofurans,0.0025
+JH30_2,JH30,Nitrofurans,0.0
+JH30_2,JH30,Nitrofurans,0.0075
+JH30_2,JH30,Protein synthesis,0.1075
+JH30_2,JH30,Protein synthesis,0.0825
+JH30_2,JH30,Protein synthesis,0.1025
+JH30_2,JH30,Protein synthesis,0.0825
+JH30_2,JH30,Protein synthesis,0.095
+JH30_2,JH30,Protein synthesis,0.12
+JH30_2,JH30,Protein synthesis,0.095
+JH30_2,JH30,Protein synthesis,0.11
+JH30_2,JH30,Protein synthesis,0.08
+JH30_2,JH30,Protein synthesis,0.075
+JH30_2,JH30,RNA Synthesis,0.0275
+JH30_2,JH30,RNA Synthesis,0.02
+JH30_2,JH30,RNA Synthesis,0.0225
+JH30_2,JH30,RNA Synthesis,0.02
+JH30_2,JH30,RNA Synthesis,0.015
+JH30_2,JH30,RNA Synthesis,0.0175
+JH30_2,JH30,RNA Synthesis,0.02
+JH30_2,JH30,RNA Synthesis,0.015
+JH30_2,JH30,RNA Synthesis,0.0175
+JH30_2,JH30,RNA Synthesis,0.025
+JH30_2,JH30,lipopolysaccharide synthesis,0.0375
+JH30_2,JH30,lipopolysaccharide synthesis,0.0475
+JH30_2,JH30,lipopolysaccharide synthesis,0.0475
+JH30_2,JH30,lipopolysaccharide synthesis,0.0475
+JH30_2,JH30,lipopolysaccharide synthesis,0.04
+JH30_2,JH30,lipopolysaccharide synthesis,0.045
+JH30_2,JH30,lipopolysaccharide synthesis,0.0425
+JH30_2,JH30,lipopolysaccharide synthesis,0.05
+JH30_2,JH30,lipopolysaccharide synthesis,0.04
+JH30_2,JH30,lipopolysaccharide synthesis,0.04
+JH30_3,JH30,Cell wall biosynthesis,0.15
+JH30_3,JH30,Cell wall biosynthesis,0.1475
+JH30_3,JH30,Cell wall biosynthesis,0.15
+JH30_3,JH30,Cell wall biosynthesis,0.1175
+JH30_3,JH30,Cell wall biosynthesis,0.15
+JH30_3,JH30,Cell wall biosynthesis,0.165
+JH30_3,JH30,Cell wall biosynthesis,0.1425
+JH30_3,JH30,Cell wall biosynthesis,0.1625
+JH30_3,JH30,Cell wall biosynthesis,0.1425
+JH30_3,JH30,Cell wall biosynthesis,0.1725
+JH30_3,JH30,DNA replication,0.605
+JH30_3,JH30,DNA replication,0.6025
+JH30_3,JH30,DNA replication,0.59
+JH30_3,JH30,DNA replication,0.6075
+JH30_3,JH30,DNA replication,0.59
+JH30_3,JH30,DNA replication,0.5975
+JH30_3,JH30,DNA replication,0.585
+JH30_3,JH30,DNA replication,0.6
+JH30_3,JH30,DNA replication,0.59
+JH30_3,JH30,DNA replication,0.605
+JH30_3,JH30,Fatty acid synthesis,0.03
+JH30_3,JH30,Fatty acid synthesis,0.0425
+JH30_3,JH30,Fatty acid synthesis,0.0425
+JH30_3,JH30,Fatty acid synthesis,0.0375
+JH30_3,JH30,Fatty acid synthesis,0.035
+JH30_3,JH30,Fatty acid synthesis,0.0325
+JH30_3,JH30,Fatty acid synthesis,0.03
+JH30_3,JH30,Fatty acid synthesis,0.035
+JH30_3,JH30,Fatty acid synthesis,0.0275
+JH30_3,JH30,Fatty acid synthesis,0.035
+JH30_3,JH30,Folic acid metabolism,0.025
+JH30_3,JH30,Folic acid metabolism,0.0175
+JH30_3,JH30,Folic acid metabolism,0.02
+JH30_3,JH30,Folic acid metabolism,0.025
+JH30_3,JH30,Folic acid metabolism,0.025
+JH30_3,JH30,Folic acid metabolism,0.0225
+JH30_3,JH30,Folic acid metabolism,0.01
+JH30_3,JH30,Folic acid metabolism,0.0275
+JH30_3,JH30,Folic acid metabolism,0.0175
+JH30_3,JH30,Folic acid metabolism,0.0175
+JH30_3,JH30,Membrane disruption,0.01
+JH30_3,JH30,Membrane disruption,0.0175
+JH30_3,JH30,Membrane disruption,0.015
+JH30_3,JH30,Membrane disruption,0.01
+JH30_3,JH30,Membrane disruption,0.0125
+JH30_3,JH30,Membrane disruption,0.0125
+JH30_3,JH30,Membrane disruption,0.01
+JH30_3,JH30,Membrane disruption,0.0
+JH30_3,JH30,Membrane disruption,0.0125
+JH30_3,JH30,Membrane disruption,0.0125
+JH30_3,JH30,Nitrofurans,0.0
+JH30_3,JH30,Nitrofurans,0.0025
+JH30_3,JH30,Nitrofurans,0.0025
+JH30_3,JH30,Nitrofurans,0.0025
+JH30_3,JH30,Nitrofurans,0.005
+JH30_3,JH30,Nitrofurans,0.0
+JH30_3,JH30,Nitrofurans,0.005
+JH30_3,JH30,Nitrofurans,0.0025
+JH30_3,JH30,Nitrofurans,0.005
+JH30_3,JH30,Nitrofurans,0.0025
+JH30_3,JH30,Protein synthesis,0.105
+JH30_3,JH30,Protein synthesis,0.08
+JH30_3,JH30,Protein synthesis,0.0975
+JH30_3,JH30,Protein synthesis,0.08
+JH30_3,JH30,Protein synthesis,0.085
+JH30_3,JH30,Protein synthesis,0.1025
+JH30_3,JH30,Protein synthesis,0.0975
+JH30_3,JH30,Protein synthesis,0.0875
+JH30_3,JH30,Protein synthesis,0.0875
+JH30_3,JH30,Protein synthesis,0.0775
+JH30_3,JH30,RNA Synthesis,0.0225
+JH30_3,JH30,RNA Synthesis,0.015
+JH30_3,JH30,RNA Synthesis,0.015
+JH30_3,JH30,RNA Synthesis,0.02
+JH30_3,JH30,RNA Synthesis,0.0225
+JH30_3,JH30,RNA Synthesis,0.015
+JH30_3,JH30,RNA Synthesis,0.0175
+JH30_3,JH30,RNA Synthesis,0.015
+JH30_3,JH30,RNA Synthesis,0.02
+JH30_3,JH30,RNA Synthesis,0.0175
+JH30_3,JH30,lipopolysaccharide synthesis,0.0725
+JH30_3,JH30,lipopolysaccharide synthesis,0.0675
+JH30_3,JH30,lipopolysaccharide synthesis,0.065
+JH30_3,JH30,lipopolysaccharide synthesis,0.06
+JH30_3,JH30,lipopolysaccharide synthesis,0.075
+JH30_3,JH30,lipopolysaccharide synthesis,0.07
+JH30_3,JH30,lipopolysaccharide synthesis,0.065
+JH30_3,JH30,lipopolysaccharide synthesis,0.07
+JH30_3,JH30,lipopolysaccharide synthesis,0.0575
+JH30_3,JH30,lipopolysaccharide synthesis,0.035
+JH30_4,JH30,Cell wall biosynthesis,0.2175
+JH30_4,JH30,Cell wall biosynthesis,0.2025
+JH30_4,JH30,Cell wall biosynthesis,0.19
+JH30_4,JH30,Cell wall biosynthesis,0.19
+JH30_4,JH30,Cell wall biosynthesis,0.2125
+JH30_4,JH30,Cell wall biosynthesis,0.21
+JH30_4,JH30,Cell wall biosynthesis,0.2075
+JH30_4,JH30,Cell wall biosynthesis,0.21
+JH30_4,JH30,Cell wall biosynthesis,0.215
+JH30_4,JH30,Cell wall biosynthesis,0.22
+JH30_4,JH30,DNA replication,0.36
+JH30_4,JH30,DNA replication,0.35
+JH30_4,JH30,DNA replication,0.34
+JH30_4,JH30,DNA replication,0.34
+JH30_4,JH30,DNA replication,0.3425
+JH30_4,JH30,DNA replication,0.35
+JH30_4,JH30,DNA replication,0.3275
+JH30_4,JH30,DNA replication,0.34
+JH30_4,JH30,DNA replication,0.34
+JH30_4,JH30,DNA replication,0.3275
+JH30_4,JH30,Fatty acid synthesis,0.115
+JH30_4,JH30,Fatty acid synthesis,0.125
+JH30_4,JH30,Fatty acid synthesis,0.1375
+JH30_4,JH30,Fatty acid synthesis,0.12
+JH30_4,JH30,Fatty acid synthesis,0.125
+JH30_4,JH30,Fatty acid synthesis,0.125
+JH30_4,JH30,Fatty acid synthesis,0.1225
+JH30_4,JH30,Fatty acid synthesis,0.1225
+JH30_4,JH30,Fatty acid synthesis,0.095
+JH30_4,JH30,Fatty acid synthesis,0.1075
+JH30_4,JH30,Folic acid metabolism,0.0725
+JH30_4,JH30,Folic acid metabolism,0.055
+JH30_4,JH30,Folic acid metabolism,0.0675
+JH30_4,JH30,Folic acid metabolism,0.045
+JH30_4,JH30,Folic acid metabolism,0.045
+JH30_4,JH30,Folic acid metabolism,0.045
+JH30_4,JH30,Folic acid metabolism,0.0675
+JH30_4,JH30,Folic acid metabolism,0.07
+JH30_4,JH30,Folic acid metabolism,0.0725
+JH30_4,JH30,Folic acid metabolism,0.0575
+JH30_4,JH30,Membrane disruption,0.0175
+JH30_4,JH30,Membrane disruption,0.01
+JH30_4,JH30,Membrane disruption,0.02
+JH30_4,JH30,Membrane disruption,0.0125
+JH30_4,JH30,Membrane disruption,0.015
+JH30_4,JH30,Membrane disruption,0.015
+JH30_4,JH30,Membrane disruption,0.0225
+JH30_4,JH30,Membrane disruption,0.0225
+JH30_4,JH30,Membrane disruption,0.02
+JH30_4,JH30,Membrane disruption,0.015
+JH30_4,JH30,Nitrofurans,0.0075
+JH30_4,JH30,Nitrofurans,0.0025
+JH30_4,JH30,Nitrofurans,0.0075
+JH30_4,JH30,Nitrofurans,0.0125
+JH30_4,JH30,Nitrofurans,0.0075
+JH30_4,JH30,Nitrofurans,0.0125
+JH30_4,JH30,Nitrofurans,0.01
+JH30_4,JH30,Nitrofurans,0.0075
+JH30_4,JH30,Nitrofurans,0.015
+JH30_4,JH30,Nitrofurans,0.01
+JH30_4,JH30,Protein synthesis,0.095
+JH30_4,JH30,Protein synthesis,0.0775
+JH30_4,JH30,Protein synthesis,0.08
+JH30_4,JH30,Protein synthesis,0.08
+JH30_4,JH30,Protein synthesis,0.085
+JH30_4,JH30,Protein synthesis,0.08
+JH30_4,JH30,Protein synthesis,0.0825
+JH30_4,JH30,Protein synthesis,0.0775
+JH30_4,JH30,Protein synthesis,0.1025
+JH30_4,JH30,Protein synthesis,0.075
+JH30_4,JH30,RNA Synthesis,0.0375
+JH30_4,JH30,RNA Synthesis,0.0475
+JH30_4,JH30,RNA Synthesis,0.0525
+JH30_4,JH30,RNA Synthesis,0.06
+JH30_4,JH30,RNA Synthesis,0.0625
+JH30_4,JH30,RNA Synthesis,0.03
+JH30_4,JH30,RNA Synthesis,0.035
+JH30_4,JH30,RNA Synthesis,0.045
+JH30_4,JH30,RNA Synthesis,0.06
+JH30_4,JH30,RNA Synthesis,0.045
+JH30_4,JH30,lipopolysaccharide synthesis,0.0575
+JH30_4,JH30,lipopolysaccharide synthesis,0.06
+JH30_4,JH30,lipopolysaccharide synthesis,0.085
+JH30_4,JH30,lipopolysaccharide synthesis,0.0625
+JH30_4,JH30,lipopolysaccharide synthesis,0.0575
+JH30_4,JH30,lipopolysaccharide synthesis,0.0675
+JH30_4,JH30,lipopolysaccharide synthesis,0.045
+JH30_4,JH30,lipopolysaccharide synthesis,0.07
+JH30_4,JH30,lipopolysaccharide synthesis,0.0775
+JH30_4,JH30,lipopolysaccharide synthesis,0.075
+JH35_1,JH35,Cell wall biosynthesis,0.11
+JH35_1,JH35,Cell wall biosynthesis,0.11
+JH35_1,JH35,Cell wall biosynthesis,0.1
+JH35_1,JH35,Cell wall biosynthesis,0.09
+JH35_1,JH35,Cell wall biosynthesis,0.1125
+JH35_1,JH35,Cell wall biosynthesis,0.1075
+JH35_1,JH35,Cell wall biosynthesis,0.1075
+JH35_1,JH35,Cell wall biosynthesis,0.095
+JH35_1,JH35,Cell wall biosynthesis,0.125
+JH35_1,JH35,Cell wall biosynthesis,0.1225
+JH35_1,JH35,DNA replication,0.6925
+JH35_1,JH35,DNA replication,0.7
+JH35_1,JH35,DNA replication,0.6925
+JH35_1,JH35,DNA replication,0.705
+JH35_1,JH35,DNA replication,0.69
+JH35_1,JH35,DNA replication,0.71
+JH35_1,JH35,DNA replication,0.695
+JH35_1,JH35,DNA replication,0.6775
+JH35_1,JH35,DNA replication,0.6925
+JH35_1,JH35,DNA replication,0.6875
+JH35_1,JH35,Fatty acid synthesis,0.035
+JH35_1,JH35,Fatty acid synthesis,0.0325
+JH35_1,JH35,Fatty acid synthesis,0.0225
+JH35_1,JH35,Fatty acid synthesis,0.0375
+JH35_1,JH35,Fatty acid synthesis,0.045
+JH35_1,JH35,Fatty acid synthesis,0.0225
+JH35_1,JH35,Fatty acid synthesis,0.0275
+JH35_1,JH35,Fatty acid synthesis,0.03
+JH35_1,JH35,Fatty acid synthesis,0.03
+JH35_1,JH35,Fatty acid synthesis,0.03
+JH35_1,JH35,Folic acid metabolism,0.02
+JH35_1,JH35,Folic acid metabolism,0.0325
+JH35_1,JH35,Folic acid metabolism,0.03
+JH35_1,JH35,Folic acid metabolism,0.0275
+JH35_1,JH35,Folic acid metabolism,0.03
+JH35_1,JH35,Folic acid metabolism,0.0325
+JH35_1,JH35,Folic acid metabolism,0.025
+JH35_1,JH35,Folic acid metabolism,0.03
+JH35_1,JH35,Folic acid metabolism,0.0275
+JH35_1,JH35,Folic acid metabolism,0.0275
+JH35_1,JH35,Membrane disruption,0.0075
+JH35_1,JH35,Membrane disruption,0.015
+JH35_1,JH35,Membrane disruption,0.0075
+JH35_1,JH35,Membrane disruption,0.0175
+JH35_1,JH35,Membrane disruption,0.0125
+JH35_1,JH35,Membrane disruption,0.0125
+JH35_1,JH35,Membrane disruption,0.0125
+JH35_1,JH35,Membrane disruption,0.0075
+JH35_1,JH35,Membrane disruption,0.0075
+JH35_1,JH35,Membrane disruption,0.0075
+JH35_1,JH35,Nitrofurans,0.015
+JH35_1,JH35,Nitrofurans,0.01
+JH35_1,JH35,Nitrofurans,0.01
+JH35_1,JH35,Nitrofurans,0.01
+JH35_1,JH35,Nitrofurans,0.02
+JH35_1,JH35,Nitrofurans,0.005
+JH35_1,JH35,Nitrofurans,0.0075
+JH35_1,JH35,Nitrofurans,0.005
+JH35_1,JH35,Nitrofurans,0.01
+JH35_1,JH35,Nitrofurans,0.01
+JH35_1,JH35,Protein synthesis,0.0875
+JH35_1,JH35,Protein synthesis,0.0925
+JH35_1,JH35,Protein synthesis,0.0875
+JH35_1,JH35,Protein synthesis,0.075
+JH35_1,JH35,Protein synthesis,0.0675
+JH35_1,JH35,Protein synthesis,0.0925
+JH35_1,JH35,Protein synthesis,0.085
+JH35_1,JH35,Protein synthesis,0.0825
+JH35_1,JH35,Protein synthesis,0.1025
+JH35_1,JH35,Protein synthesis,0.07
+JH35_1,JH35,RNA Synthesis,0.005
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,RNA Synthesis,0.005
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,RNA Synthesis,0.0
+JH35_1,JH35,RNA Synthesis,0.005
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,RNA Synthesis,0.0025
+JH35_1,JH35,lipopolysaccharide synthesis,0.0225
+JH35_1,JH35,lipopolysaccharide synthesis,0.0275
+JH35_1,JH35,lipopolysaccharide synthesis,0.0275
+JH35_1,JH35,lipopolysaccharide synthesis,0.025
+JH35_1,JH35,lipopolysaccharide synthesis,0.0425
+JH35_1,JH35,lipopolysaccharide synthesis,0.02
+JH35_1,JH35,lipopolysaccharide synthesis,0.0225
+JH35_1,JH35,lipopolysaccharide synthesis,0.03
+JH35_1,JH35,lipopolysaccharide synthesis,0.02
+JH35_1,JH35,lipopolysaccharide synthesis,0.015
+JH35_2,JH35,Cell wall biosynthesis,0.1325
+JH35_2,JH35,Cell wall biosynthesis,0.145
+JH35_2,JH35,Cell wall biosynthesis,0.14
+JH35_2,JH35,Cell wall biosynthesis,0.115
+JH35_2,JH35,Cell wall biosynthesis,0.1475
+JH35_2,JH35,Cell wall biosynthesis,0.14
+JH35_2,JH35,Cell wall biosynthesis,0.1325
+JH35_2,JH35,Cell wall biosynthesis,0.1375
+JH35_2,JH35,Cell wall biosynthesis,0.15
+JH35_2,JH35,Cell wall biosynthesis,0.1475
+JH35_2,JH35,DNA replication,0.6475
+JH35_2,JH35,DNA replication,0.6475
+JH35_2,JH35,DNA replication,0.66
+JH35_2,JH35,DNA replication,0.6475
+JH35_2,JH35,DNA replication,0.655
+JH35_2,JH35,DNA replication,0.6425
+JH35_2,JH35,DNA replication,0.6475
+JH35_2,JH35,DNA replication,0.64
+JH35_2,JH35,DNA replication,0.6525
+JH35_2,JH35,DNA replication,0.6375
+JH35_2,JH35,Fatty acid synthesis,0.03
+JH35_2,JH35,Fatty acid synthesis,0.0375
+JH35_2,JH35,Fatty acid synthesis,0.0275
+JH35_2,JH35,Fatty acid synthesis,0.0375
+JH35_2,JH35,Fatty acid synthesis,0.0375
+JH35_2,JH35,Fatty acid synthesis,0.025
+JH35_2,JH35,Fatty acid synthesis,0.035
+JH35_2,JH35,Fatty acid synthesis,0.04
+JH35_2,JH35,Fatty acid synthesis,0.035
+JH35_2,JH35,Fatty acid synthesis,0.03
+JH35_2,JH35,Folic acid metabolism,0.0175
+JH35_2,JH35,Folic acid metabolism,0.02
+JH35_2,JH35,Folic acid metabolism,0.025
+JH35_2,JH35,Folic acid metabolism,0.0325
+JH35_2,JH35,Folic acid metabolism,0.03
+JH35_2,JH35,Folic acid metabolism,0.0225
+JH35_2,JH35,Folic acid metabolism,0.0225
+JH35_2,JH35,Folic acid metabolism,0.0275
+JH35_2,JH35,Folic acid metabolism,0.0275
+JH35_2,JH35,Folic acid metabolism,0.035
+JH35_2,JH35,Membrane disruption,0.01
+JH35_2,JH35,Membrane disruption,0.015
+JH35_2,JH35,Membrane disruption,0.015
+JH35_2,JH35,Membrane disruption,0.0175
+JH35_2,JH35,Membrane disruption,0.0225
+JH35_2,JH35,Membrane disruption,0.015
+JH35_2,JH35,Membrane disruption,0.0175
+JH35_2,JH35,Membrane disruption,0.005
+JH35_2,JH35,Membrane disruption,0.005
+JH35_2,JH35,Membrane disruption,0.0075
+JH35_2,JH35,Nitrofurans,0.0125
+JH35_2,JH35,Nitrofurans,0.01
+JH35_2,JH35,Nitrofurans,0.01
+JH35_2,JH35,Nitrofurans,0.0125
+JH35_2,JH35,Nitrofurans,0.015
+JH35_2,JH35,Nitrofurans,0.01
+JH35_2,JH35,Nitrofurans,0.0075
+JH35_2,JH35,Nitrofurans,0.01
+JH35_2,JH35,Nitrofurans,0.0125
+JH35_2,JH35,Nitrofurans,0.01
+JH35_2,JH35,Protein synthesis,0.095
+JH35_2,JH35,Protein synthesis,0.0925
+JH35_2,JH35,Protein synthesis,0.0975
+JH35_2,JH35,Protein synthesis,0.085
+JH35_2,JH35,Protein synthesis,0.0875
+JH35_2,JH35,Protein synthesis,0.105
+JH35_2,JH35,Protein synthesis,0.095
+JH35_2,JH35,Protein synthesis,0.095
+JH35_2,JH35,Protein synthesis,0.105
+JH35_2,JH35,Protein synthesis,0.09
+JH35_2,JH35,RNA Synthesis,0.0075
+JH35_2,JH35,RNA Synthesis,0.01
+JH35_2,JH35,RNA Synthesis,0.01
+JH35_2,JH35,RNA Synthesis,0.005
+JH35_2,JH35,RNA Synthesis,0.0175
+JH35_2,JH35,RNA Synthesis,0.01
+JH35_2,JH35,RNA Synthesis,0.0075
+JH35_2,JH35,RNA Synthesis,0.0125
+JH35_2,JH35,RNA Synthesis,0.0075
+JH35_2,JH35,RNA Synthesis,0.0125
+JH35_2,JH35,lipopolysaccharide synthesis,0.0275
+JH35_2,JH35,lipopolysaccharide synthesis,0.0375
+JH35_2,JH35,lipopolysaccharide synthesis,0.0325
+JH35_2,JH35,lipopolysaccharide synthesis,0.045
+JH35_2,JH35,lipopolysaccharide synthesis,0.04
+JH35_2,JH35,lipopolysaccharide synthesis,0.0525
+JH35_2,JH35,lipopolysaccharide synthesis,0.04
+JH35_2,JH35,lipopolysaccharide synthesis,0.04
+JH35_2,JH35,lipopolysaccharide synthesis,0.0375
+JH35_2,JH35,lipopolysaccharide synthesis,0.025
+JH35_3,JH35,Cell wall biosynthesis,0.0925
+JH35_3,JH35,Cell wall biosynthesis,0.11
+JH35_3,JH35,Cell wall biosynthesis,0.095
+JH35_3,JH35,Cell wall biosynthesis,0.0825
+JH35_3,JH35,Cell wall biosynthesis,0.0975
+JH35_3,JH35,Cell wall biosynthesis,0.1
+JH35_3,JH35,Cell wall biosynthesis,0.0975
+JH35_3,JH35,Cell wall biosynthesis,0.09
+JH35_3,JH35,Cell wall biosynthesis,0.105
+JH35_3,JH35,Cell wall biosynthesis,0.1075
+JH35_3,JH35,DNA replication,0.69
+JH35_3,JH35,DNA replication,0.7
+JH35_3,JH35,DNA replication,0.685
+JH35_3,JH35,DNA replication,0.6925
+JH35_3,JH35,DNA replication,0.705
+JH35_3,JH35,DNA replication,0.7
+JH35_3,JH35,DNA replication,0.69
+JH35_3,JH35,DNA replication,0.67
+JH35_3,JH35,DNA replication,0.7
+JH35_3,JH35,DNA replication,0.6925
+JH35_3,JH35,Fatty acid synthesis,0.035
+JH35_3,JH35,Fatty acid synthesis,0.035
+JH35_3,JH35,Fatty acid synthesis,0.035
+JH35_3,JH35,Fatty acid synthesis,0.0375
+JH35_3,JH35,Fatty acid synthesis,0.035
+JH35_3,JH35,Fatty acid synthesis,0.0325
+JH35_3,JH35,Fatty acid synthesis,0.0325
+JH35_3,JH35,Fatty acid synthesis,0.04
+JH35_3,JH35,Fatty acid synthesis,0.035
+JH35_3,JH35,Fatty acid synthesis,0.0375
+JH35_3,JH35,Folic acid metabolism,0.0275
+JH35_3,JH35,Folic acid metabolism,0.025
+JH35_3,JH35,Folic acid metabolism,0.0225
+JH35_3,JH35,Folic acid metabolism,0.0275
+JH35_3,JH35,Folic acid metabolism,0.025
+JH35_3,JH35,Folic acid metabolism,0.0275
+JH35_3,JH35,Folic acid metabolism,0.025
+JH35_3,JH35,Folic acid metabolism,0.0225
+JH35_3,JH35,Folic acid metabolism,0.03
+JH35_3,JH35,Folic acid metabolism,0.025
+JH35_3,JH35,Membrane disruption,0.0025
+JH35_3,JH35,Membrane disruption,0.0075
+JH35_3,JH35,Membrane disruption,0.0125
+JH35_3,JH35,Membrane disruption,0.01
+JH35_3,JH35,Membrane disruption,0.0125
+JH35_3,JH35,Membrane disruption,0.005
+JH35_3,JH35,Membrane disruption,0.01
+JH35_3,JH35,Membrane disruption,0.005
+JH35_3,JH35,Membrane disruption,0.005
+JH35_3,JH35,Membrane disruption,0.0075
+JH35_3,JH35,Nitrofurans,0.015
+JH35_3,JH35,Nitrofurans,0.01
+JH35_3,JH35,Nitrofurans,0.0125
+JH35_3,JH35,Nitrofurans,0.01
+JH35_3,JH35,Nitrofurans,0.0125
+JH35_3,JH35,Nitrofurans,0.0075
+JH35_3,JH35,Nitrofurans,0.005
+JH35_3,JH35,Nitrofurans,0.005
+JH35_3,JH35,Nitrofurans,0.01
+JH35_3,JH35,Nitrofurans,0.01
+JH35_3,JH35,Protein synthesis,0.105
+JH35_3,JH35,Protein synthesis,0.0975
+JH35_3,JH35,Protein synthesis,0.1
+JH35_3,JH35,Protein synthesis,0.095
+JH35_3,JH35,Protein synthesis,0.0725
+JH35_3,JH35,Protein synthesis,0.1
+JH35_3,JH35,Protein synthesis,0.095
+JH35_3,JH35,Protein synthesis,0.095
+JH35_3,JH35,Protein synthesis,0.0925
+JH35_3,JH35,Protein synthesis,0.095
+JH35_3,JH35,RNA Synthesis,0.0025
+JH35_3,JH35,RNA Synthesis,0.0075
+JH35_3,JH35,RNA Synthesis,0.01
+JH35_3,JH35,RNA Synthesis,0.005
+JH35_3,JH35,RNA Synthesis,0.005
+JH35_3,JH35,RNA Synthesis,0.005
+JH35_3,JH35,RNA Synthesis,0.005
+JH35_3,JH35,RNA Synthesis,0.0075
+JH35_3,JH35,RNA Synthesis,0.005
+JH35_3,JH35,RNA Synthesis,0.0075
+JH35_3,JH35,lipopolysaccharide synthesis,0.0175
+JH35_3,JH35,lipopolysaccharide synthesis,0.03
+JH35_3,JH35,lipopolysaccharide synthesis,0.02
+JH35_3,JH35,lipopolysaccharide synthesis,0.03
+JH35_3,JH35,lipopolysaccharide synthesis,0.03
+JH35_3,JH35,lipopolysaccharide synthesis,0.02
+JH35_3,JH35,lipopolysaccharide synthesis,0.015
+JH35_3,JH35,lipopolysaccharide synthesis,0.015
+JH35_3,JH35,lipopolysaccharide synthesis,0.015
+JH35_3,JH35,lipopolysaccharide synthesis,0.025
+JH35_4,JH35,Cell wall biosynthesis,0.1025
+JH35_4,JH35,Cell wall biosynthesis,0.1075
+JH35_4,JH35,Cell wall biosynthesis,0.1
+JH35_4,JH35,Cell wall biosynthesis,0.095
+JH35_4,JH35,Cell wall biosynthesis,0.1125
+JH35_4,JH35,Cell wall biosynthesis,0.105
+JH35_4,JH35,Cell wall biosynthesis,0.095
+JH35_4,JH35,Cell wall biosynthesis,0.0925
+JH35_4,JH35,Cell wall biosynthesis,0.11
+JH35_4,JH35,Cell wall biosynthesis,0.1125
+JH35_4,JH35,DNA replication,0.72
+JH35_4,JH35,DNA replication,0.7
+JH35_4,JH35,DNA replication,0.7
+JH35_4,JH35,DNA replication,0.7125
+JH35_4,JH35,DNA replication,0.72
+JH35_4,JH35,DNA replication,0.7125
+JH35_4,JH35,DNA replication,0.72
+JH35_4,JH35,DNA replication,0.69
+JH35_4,JH35,DNA replication,0.715
+JH35_4,JH35,DNA replication,0.7125
+JH35_4,JH35,Fatty acid synthesis,0.0275
+JH35_4,JH35,Fatty acid synthesis,0.035
+JH35_4,JH35,Fatty acid synthesis,0.0275
+JH35_4,JH35,Fatty acid synthesis,0.0325
+JH35_4,JH35,Fatty acid synthesis,0.0325
+JH35_4,JH35,Fatty acid synthesis,0.0325
+JH35_4,JH35,Fatty acid synthesis,0.0225
+JH35_4,JH35,Fatty acid synthesis,0.0475
+JH35_4,JH35,Fatty acid synthesis,0.0325
+JH35_4,JH35,Fatty acid synthesis,0.0375
+JH35_4,JH35,Folic acid metabolism,0.0125
+JH35_4,JH35,Folic acid metabolism,0.02
+JH35_4,JH35,Folic acid metabolism,0.02
+JH35_4,JH35,Folic acid metabolism,0.01
+JH35_4,JH35,Folic acid metabolism,0.02
+JH35_4,JH35,Folic acid metabolism,0.0175
+JH35_4,JH35,Folic acid metabolism,0.0125
+JH35_4,JH35,Folic acid metabolism,0.015
+JH35_4,JH35,Folic acid metabolism,0.0175
+JH35_4,JH35,Folic acid metabolism,0.0175
+JH35_4,JH35,Membrane disruption,0.01
+JH35_4,JH35,Membrane disruption,0.01
+JH35_4,JH35,Membrane disruption,0.005
+JH35_4,JH35,Membrane disruption,0.0125
+JH35_4,JH35,Membrane disruption,0.015
+JH35_4,JH35,Membrane disruption,0.0125
+JH35_4,JH35,Membrane disruption,0.0075
+JH35_4,JH35,Membrane disruption,0.0025
+JH35_4,JH35,Membrane disruption,0.0075
+JH35_4,JH35,Membrane disruption,0.0025
+JH35_4,JH35,Nitrofurans,0.0125
+JH35_4,JH35,Nitrofurans,0.01
+JH35_4,JH35,Nitrofurans,0.01
+JH35_4,JH35,Nitrofurans,0.01
+JH35_4,JH35,Nitrofurans,0.0125
+JH35_4,JH35,Nitrofurans,0.01
+JH35_4,JH35,Nitrofurans,0.0075
+JH35_4,JH35,Nitrofurans,0.0075
+JH35_4,JH35,Nitrofurans,0.0125
+JH35_4,JH35,Nitrofurans,0.01
+JH35_4,JH35,Protein synthesis,0.0925
+JH35_4,JH35,Protein synthesis,0.09
+JH35_4,JH35,Protein synthesis,0.0775
+JH35_4,JH35,Protein synthesis,0.08
+JH35_4,JH35,Protein synthesis,0.075
+JH35_4,JH35,Protein synthesis,0.0725
+JH35_4,JH35,Protein synthesis,0.08
+JH35_4,JH35,Protein synthesis,0.085
+JH35_4,JH35,Protein synthesis,0.085
+JH35_4,JH35,Protein synthesis,0.0725
+JH35_4,JH35,RNA Synthesis,0.0025
+JH35_4,JH35,RNA Synthesis,0.0075
+JH35_4,JH35,RNA Synthesis,0.0075
+JH35_4,JH35,RNA Synthesis,0.01
+JH35_4,JH35,RNA Synthesis,0.0075
+JH35_4,JH35,RNA Synthesis,0.005
+JH35_4,JH35,RNA Synthesis,0.005
+JH35_4,JH35,RNA Synthesis,0.005
+JH35_4,JH35,RNA Synthesis,0.0075
+JH35_4,JH35,RNA Synthesis,0.01
+JH35_4,JH35,lipopolysaccharide synthesis,0.03
+JH35_4,JH35,lipopolysaccharide synthesis,0.0225
+JH35_4,JH35,lipopolysaccharide synthesis,0.025
+JH35_4,JH35,lipopolysaccharide synthesis,0.03
+JH35_4,JH35,lipopolysaccharide synthesis,0.03
+JH35_4,JH35,lipopolysaccharide synthesis,0.0275
+JH35_4,JH35,lipopolysaccharide synthesis,0.0175
+JH35_4,JH35,lipopolysaccharide synthesis,0.02
+JH35_4,JH35,lipopolysaccharide synthesis,0.0275
+JH35_4,JH35,lipopolysaccharide synthesis,0.0225
+JH38_1,JH38,Cell wall biosynthesis,0.0625
+JH38_1,JH38,Cell wall biosynthesis,0.0675
+JH38_1,JH38,Cell wall biosynthesis,0.0725
+JH38_1,JH38,Cell wall biosynthesis,0.0625
+JH38_1,JH38,Cell wall biosynthesis,0.0625
+JH38_1,JH38,Cell wall biosynthesis,0.07
+JH38_1,JH38,Cell wall biosynthesis,0.06
+JH38_1,JH38,Cell wall biosynthesis,0.08
+JH38_1,JH38,Cell wall biosynthesis,0.075
+JH38_1,JH38,Cell wall biosynthesis,0.0625
+JH38_1,JH38,DNA replication,0.04
+JH38_1,JH38,DNA replication,0.04
+JH38_1,JH38,DNA replication,0.025
+JH38_1,JH38,DNA replication,0.025
+JH38_1,JH38,DNA replication,0.0275
+JH38_1,JH38,DNA replication,0.0375
+JH38_1,JH38,DNA replication,0.0375
+JH38_1,JH38,DNA replication,0.045
+JH38_1,JH38,DNA replication,0.035
+JH38_1,JH38,DNA replication,0.03
+JH38_1,JH38,Fatty acid synthesis,0.09
+JH38_1,JH38,Fatty acid synthesis,0.0875
+JH38_1,JH38,Fatty acid synthesis,0.085
+JH38_1,JH38,Fatty acid synthesis,0.0875
+JH38_1,JH38,Fatty acid synthesis,0.0875
+JH38_1,JH38,Fatty acid synthesis,0.0875
+JH38_1,JH38,Fatty acid synthesis,0.0875
+JH38_1,JH38,Fatty acid synthesis,0.105
+JH38_1,JH38,Fatty acid synthesis,0.1075
+JH38_1,JH38,Fatty acid synthesis,0.095
+JH38_1,JH38,Folic acid metabolism,0.04
+JH38_1,JH38,Folic acid metabolism,0.0425
+JH38_1,JH38,Folic acid metabolism,0.0575
+JH38_1,JH38,Folic acid metabolism,0.06
+JH38_1,JH38,Folic acid metabolism,0.055
+JH38_1,JH38,Folic acid metabolism,0.06
+JH38_1,JH38,Folic acid metabolism,0.0575
+JH38_1,JH38,Folic acid metabolism,0.0825
+JH38_1,JH38,Folic acid metabolism,0.055
+JH38_1,JH38,Folic acid metabolism,0.06
+JH38_1,JH38,Membrane disruption,0.045
+JH38_1,JH38,Membrane disruption,0.025
+JH38_1,JH38,Membrane disruption,0.0325
+JH38_1,JH38,Membrane disruption,0.03
+JH38_1,JH38,Membrane disruption,0.0225
+JH38_1,JH38,Membrane disruption,0.0325
+JH38_1,JH38,Membrane disruption,0.0275
+JH38_1,JH38,Membrane disruption,0.0375
+JH38_1,JH38,Membrane disruption,0.0325
+JH38_1,JH38,Membrane disruption,0.0275
+JH38_1,JH38,Nitrofurans,0.02
+JH38_1,JH38,Nitrofurans,0.025
+JH38_1,JH38,Nitrofurans,0.0225
+JH38_1,JH38,Nitrofurans,0.02
+JH38_1,JH38,Nitrofurans,0.025
+JH38_1,JH38,Nitrofurans,0.02
+JH38_1,JH38,Nitrofurans,0.0275
+JH38_1,JH38,Nitrofurans,0.015
+JH38_1,JH38,Nitrofurans,0.0225
+JH38_1,JH38,Nitrofurans,0.03
+JH38_1,JH38,Protein synthesis,0.125
+JH38_1,JH38,Protein synthesis,0.1075
+JH38_1,JH38,Protein synthesis,0.12
+JH38_1,JH38,Protein synthesis,0.125
+JH38_1,JH38,Protein synthesis,0.11
+JH38_1,JH38,Protein synthesis,0.145
+JH38_1,JH38,Protein synthesis,0.135
+JH38_1,JH38,Protein synthesis,0.1275
+JH38_1,JH38,Protein synthesis,0.135
+JH38_1,JH38,Protein synthesis,0.1225
+JH38_1,JH38,RNA Synthesis,0.3625
+JH38_1,JH38,RNA Synthesis,0.3725
+JH38_1,JH38,RNA Synthesis,0.3525
+JH38_1,JH38,RNA Synthesis,0.365
+JH38_1,JH38,RNA Synthesis,0.3625
+JH38_1,JH38,RNA Synthesis,0.37
+JH38_1,JH38,RNA Synthesis,0.3475
+JH38_1,JH38,RNA Synthesis,0.33
+JH38_1,JH38,RNA Synthesis,0.3675
+JH38_1,JH38,RNA Synthesis,0.38
+JH38_1,JH38,lipopolysaccharide synthesis,0.075
+JH38_1,JH38,lipopolysaccharide synthesis,0.06
+JH38_1,JH38,lipopolysaccharide synthesis,0.06
+JH38_1,JH38,lipopolysaccharide synthesis,0.0625
+JH38_1,JH38,lipopolysaccharide synthesis,0.0575
+JH38_1,JH38,lipopolysaccharide synthesis,0.0675
+JH38_1,JH38,lipopolysaccharide synthesis,0.0625
+JH38_1,JH38,lipopolysaccharide synthesis,0.055
+JH38_1,JH38,lipopolysaccharide synthesis,0.075
+JH38_1,JH38,lipopolysaccharide synthesis,0.0475
+JH38_2,JH38,Cell wall biosynthesis,0.0725
+JH38_2,JH38,Cell wall biosynthesis,0.0825
+JH38_2,JH38,Cell wall biosynthesis,0.0675
+JH38_2,JH38,Cell wall biosynthesis,0.075
+JH38_2,JH38,Cell wall biosynthesis,0.0725
+JH38_2,JH38,Cell wall biosynthesis,0.0725
+JH38_2,JH38,Cell wall biosynthesis,0.0625
+JH38_2,JH38,Cell wall biosynthesis,0.065
+JH38_2,JH38,Cell wall biosynthesis,0.0725
+JH38_2,JH38,Cell wall biosynthesis,0.0675
+JH38_2,JH38,DNA replication,0.0525
+JH38_2,JH38,DNA replication,0.05
+JH38_2,JH38,DNA replication,0.0325
+JH38_2,JH38,DNA replication,0.045
+JH38_2,JH38,DNA replication,0.035
+JH38_2,JH38,DNA replication,0.0425
+JH38_2,JH38,DNA replication,0.0425
+JH38_2,JH38,DNA replication,0.0475
+JH38_2,JH38,DNA replication,0.0475
+JH38_2,JH38,DNA replication,0.0425
+JH38_2,JH38,Fatty acid synthesis,0.06
+JH38_2,JH38,Fatty acid synthesis,0.075
+JH38_2,JH38,Fatty acid synthesis,0.075
+JH38_2,JH38,Fatty acid synthesis,0.065
+JH38_2,JH38,Fatty acid synthesis,0.075
+JH38_2,JH38,Fatty acid synthesis,0.09
+JH38_2,JH38,Fatty acid synthesis,0.065
+JH38_2,JH38,Fatty acid synthesis,0.075
+JH38_2,JH38,Fatty acid synthesis,0.0625
+JH38_2,JH38,Fatty acid synthesis,0.075
+JH38_2,JH38,Folic acid metabolism,0.045
+JH38_2,JH38,Folic acid metabolism,0.0475
+JH38_2,JH38,Folic acid metabolism,0.0575
+JH38_2,JH38,Folic acid metabolism,0.055
+JH38_2,JH38,Folic acid metabolism,0.0575
+JH38_2,JH38,Folic acid metabolism,0.0625
+JH38_2,JH38,Folic acid metabolism,0.075
+JH38_2,JH38,Folic acid metabolism,0.0725
+JH38_2,JH38,Folic acid metabolism,0.055
+JH38_2,JH38,Folic acid metabolism,0.0675
+JH38_2,JH38,Membrane disruption,0.0425
+JH38_2,JH38,Membrane disruption,0.0525
+JH38_2,JH38,Membrane disruption,0.045
+JH38_2,JH38,Membrane disruption,0.035
+JH38_2,JH38,Membrane disruption,0.04
+JH38_2,JH38,Membrane disruption,0.045
+JH38_2,JH38,Membrane disruption,0.035
+JH38_2,JH38,Membrane disruption,0.04
+JH38_2,JH38,Membrane disruption,0.03
+JH38_2,JH38,Membrane disruption,0.0325
+JH38_2,JH38,Nitrofurans,0.0175
+JH38_2,JH38,Nitrofurans,0.02
+JH38_2,JH38,Nitrofurans,0.0175
+JH38_2,JH38,Nitrofurans,0.0225
+JH38_2,JH38,Nitrofurans,0.035
+JH38_2,JH38,Nitrofurans,0.0225
+JH38_2,JH38,Nitrofurans,0.035
+JH38_2,JH38,Nitrofurans,0.015
+JH38_2,JH38,Nitrofurans,0.0275
+JH38_2,JH38,Nitrofurans,0.0375
+JH38_2,JH38,Protein synthesis,0.2025
+JH38_2,JH38,Protein synthesis,0.1875
+JH38_2,JH38,Protein synthesis,0.2025
+JH38_2,JH38,Protein synthesis,0.1875
+JH38_2,JH38,Protein synthesis,0.1875
+JH38_2,JH38,Protein synthesis,0.205
+JH38_2,JH38,Protein synthesis,0.2025
+JH38_2,JH38,Protein synthesis,0.19
+JH38_2,JH38,Protein synthesis,0.2125
+JH38_2,JH38,Protein synthesis,0.215
+JH38_2,JH38,RNA Synthesis,0.36
+JH38_2,JH38,RNA Synthesis,0.35
+JH38_2,JH38,RNA Synthesis,0.3525
+JH38_2,JH38,RNA Synthesis,0.335
+JH38_2,JH38,RNA Synthesis,0.3525
+JH38_2,JH38,RNA Synthesis,0.3675
+JH38_2,JH38,RNA Synthesis,0.3625
+JH38_2,JH38,RNA Synthesis,0.3375
+JH38_2,JH38,RNA Synthesis,0.3375
+JH38_2,JH38,RNA Synthesis,0.375
+JH38_2,JH38,lipopolysaccharide synthesis,0.055
+JH38_2,JH38,lipopolysaccharide synthesis,0.045
+JH38_2,JH38,lipopolysaccharide synthesis,0.0525
+JH38_2,JH38,lipopolysaccharide synthesis,0.055
+JH38_2,JH38,lipopolysaccharide synthesis,0.0375
+JH38_2,JH38,lipopolysaccharide synthesis,0.0525
+JH38_2,JH38,lipopolysaccharide synthesis,0.0525
+JH38_2,JH38,lipopolysaccharide synthesis,0.04
+JH38_2,JH38,lipopolysaccharide synthesis,0.04
+JH38_2,JH38,lipopolysaccharide synthesis,0.035
+JH38_3,JH38,Cell wall biosynthesis,0.0675
+JH38_3,JH38,Cell wall biosynthesis,0.09
+JH38_3,JH38,Cell wall biosynthesis,0.1
+JH38_3,JH38,Cell wall biosynthesis,0.075
+JH38_3,JH38,Cell wall biosynthesis,0.07
+JH38_3,JH38,Cell wall biosynthesis,0.06
+JH38_3,JH38,Cell wall biosynthesis,0.075
+JH38_3,JH38,Cell wall biosynthesis,0.0875
+JH38_3,JH38,Cell wall biosynthesis,0.085
+JH38_3,JH38,Cell wall biosynthesis,0.0575
+JH38_3,JH38,DNA replication,0.03
+JH38_3,JH38,DNA replication,0.0325
+JH38_3,JH38,DNA replication,0.02
+JH38_3,JH38,DNA replication,0.02
+JH38_3,JH38,DNA replication,0.0325
+JH38_3,JH38,DNA replication,0.02
+JH38_3,JH38,DNA replication,0.025
+JH38_3,JH38,DNA replication,0.03
+JH38_3,JH38,DNA replication,0.0225
+JH38_3,JH38,DNA replication,0.035
+JH38_3,JH38,Fatty acid synthesis,0.0675
+JH38_3,JH38,Fatty acid synthesis,0.0725
+JH38_3,JH38,Fatty acid synthesis,0.05
+JH38_3,JH38,Fatty acid synthesis,0.0625
+JH38_3,JH38,Fatty acid synthesis,0.0775
+JH38_3,JH38,Fatty acid synthesis,0.075
+JH38_3,JH38,Fatty acid synthesis,0.0625
+JH38_3,JH38,Fatty acid synthesis,0.07
+JH38_3,JH38,Fatty acid synthesis,0.0775
+JH38_3,JH38,Fatty acid synthesis,0.0675
+JH38_3,JH38,Folic acid metabolism,0.0575
+JH38_3,JH38,Folic acid metabolism,0.0525
+JH38_3,JH38,Folic acid metabolism,0.065
+JH38_3,JH38,Folic acid metabolism,0.055
+JH38_3,JH38,Folic acid metabolism,0.06
+JH38_3,JH38,Folic acid metabolism,0.05
+JH38_3,JH38,Folic acid metabolism,0.0725
+JH38_3,JH38,Folic acid metabolism,0.0675
+JH38_3,JH38,Folic acid metabolism,0.065
+JH38_3,JH38,Folic acid metabolism,0.05
+JH38_3,JH38,Membrane disruption,0.04
+JH38_3,JH38,Membrane disruption,0.035
+JH38_3,JH38,Membrane disruption,0.0325
+JH38_3,JH38,Membrane disruption,0.03
+JH38_3,JH38,Membrane disruption,0.02
+JH38_3,JH38,Membrane disruption,0.0325
+JH38_3,JH38,Membrane disruption,0.0375
+JH38_3,JH38,Membrane disruption,0.0325
+JH38_3,JH38,Membrane disruption,0.03
+JH38_3,JH38,Membrane disruption,0.02
+JH38_3,JH38,Nitrofurans,0.02
+JH38_3,JH38,Nitrofurans,0.0275
+JH38_3,JH38,Nitrofurans,0.0225
+JH38_3,JH38,Nitrofurans,0.015
+JH38_3,JH38,Nitrofurans,0.0175
+JH38_3,JH38,Nitrofurans,0.0175
+JH38_3,JH38,Nitrofurans,0.03
+JH38_3,JH38,Nitrofurans,0.0125
+JH38_3,JH38,Nitrofurans,0.0125
+JH38_3,JH38,Nitrofurans,0.025
+JH38_3,JH38,Protein synthesis,0.1375
+JH38_3,JH38,Protein synthesis,0.1425
+JH38_3,JH38,Protein synthesis,0.14
+JH38_3,JH38,Protein synthesis,0.135
+JH38_3,JH38,Protein synthesis,0.125
+JH38_3,JH38,Protein synthesis,0.155
+JH38_3,JH38,Protein synthesis,0.15
+JH38_3,JH38,Protein synthesis,0.1375
+JH38_3,JH38,Protein synthesis,0.1475
+JH38_3,JH38,Protein synthesis,0.15
+JH38_3,JH38,RNA Synthesis,0.39
+JH38_3,JH38,RNA Synthesis,0.3875
+JH38_3,JH38,RNA Synthesis,0.3525
+JH38_3,JH38,RNA Synthesis,0.37
+JH38_3,JH38,RNA Synthesis,0.37
+JH38_3,JH38,RNA Synthesis,0.36
+JH38_3,JH38,RNA Synthesis,0.35
+JH38_3,JH38,RNA Synthesis,0.3325
+JH38_3,JH38,RNA Synthesis,0.385
+JH38_3,JH38,RNA Synthesis,0.3875
+JH38_3,JH38,lipopolysaccharide synthesis,0.05
+JH38_3,JH38,lipopolysaccharide synthesis,0.05
+JH38_3,JH38,lipopolysaccharide synthesis,0.0625
+JH38_3,JH38,lipopolysaccharide synthesis,0.0575
+JH38_3,JH38,lipopolysaccharide synthesis,0.055
+JH38_3,JH38,lipopolysaccharide synthesis,0.0575
+JH38_3,JH38,lipopolysaccharide synthesis,0.0425
+JH38_3,JH38,lipopolysaccharide synthesis,0.0425
+JH38_3,JH38,lipopolysaccharide synthesis,0.065
+JH38_3,JH38,lipopolysaccharide synthesis,0.0325
+JH38_4,JH38,Cell wall biosynthesis,0.0675
+JH38_4,JH38,Cell wall biosynthesis,0.075
+JH38_4,JH38,Cell wall biosynthesis,0.0775
+JH38_4,JH38,Cell wall biosynthesis,0.0775
+JH38_4,JH38,Cell wall biosynthesis,0.0675
+JH38_4,JH38,Cell wall biosynthesis,0.0675
+JH38_4,JH38,Cell wall biosynthesis,0.08
+JH38_4,JH38,Cell wall biosynthesis,0.0725
+JH38_4,JH38,Cell wall biosynthesis,0.07
+JH38_4,JH38,Cell wall biosynthesis,0.0575
+JH38_4,JH38,DNA replication,0.04
+JH38_4,JH38,DNA replication,0.0475
+JH38_4,JH38,DNA replication,0.03
+JH38_4,JH38,DNA replication,0.0375
+JH38_4,JH38,DNA replication,0.0325
+JH38_4,JH38,DNA replication,0.0425
+JH38_4,JH38,DNA replication,0.0325
+JH38_4,JH38,DNA replication,0.045
+JH38_4,JH38,DNA replication,0.0425
+JH38_4,JH38,DNA replication,0.035
+JH38_4,JH38,Fatty acid synthesis,0.09
+JH38_4,JH38,Fatty acid synthesis,0.1025
+JH38_4,JH38,Fatty acid synthesis,0.095
+JH38_4,JH38,Fatty acid synthesis,0.0925
+JH38_4,JH38,Fatty acid synthesis,0.1075
+JH38_4,JH38,Fatty acid synthesis,0.1
+JH38_4,JH38,Fatty acid synthesis,0.0825
+JH38_4,JH38,Fatty acid synthesis,0.105
+JH38_4,JH38,Fatty acid synthesis,0.1025
+JH38_4,JH38,Fatty acid synthesis,0.0925
+JH38_4,JH38,Folic acid metabolism,0.05
+JH38_4,JH38,Folic acid metabolism,0.05
+JH38_4,JH38,Folic acid metabolism,0.06
+JH38_4,JH38,Folic acid metabolism,0.065
+JH38_4,JH38,Folic acid metabolism,0.06
+JH38_4,JH38,Folic acid metabolism,0.0525
+JH38_4,JH38,Folic acid metabolism,0.0725
+JH38_4,JH38,Folic acid metabolism,0.075
+JH38_4,JH38,Folic acid metabolism,0.0575
+JH38_4,JH38,Folic acid metabolism,0.0575
+JH38_4,JH38,Membrane disruption,0.04
+JH38_4,JH38,Membrane disruption,0.03
+JH38_4,JH38,Membrane disruption,0.0375
+JH38_4,JH38,Membrane disruption,0.0275
+JH38_4,JH38,Membrane disruption,0.0275
+JH38_4,JH38,Membrane disruption,0.0375
+JH38_4,JH38,Membrane disruption,0.035
+JH38_4,JH38,Membrane disruption,0.0375
+JH38_4,JH38,Membrane disruption,0.03
+JH38_4,JH38,Membrane disruption,0.025
+JH38_4,JH38,Nitrofurans,0.0125
+JH38_4,JH38,Nitrofurans,0.0125
+JH38_4,JH38,Nitrofurans,0.02
+JH38_4,JH38,Nitrofurans,0.0125
+JH38_4,JH38,Nitrofurans,0.02
+JH38_4,JH38,Nitrofurans,0.0175
+JH38_4,JH38,Nitrofurans,0.03
+JH38_4,JH38,Nitrofurans,0.01
+JH38_4,JH38,Nitrofurans,0.02
+JH38_4,JH38,Nitrofurans,0.03
+JH38_4,JH38,Protein synthesis,0.15
+JH38_4,JH38,Protein synthesis,0.135
+JH38_4,JH38,Protein synthesis,0.1325
+JH38_4,JH38,Protein synthesis,0.1425
+JH38_4,JH38,Protein synthesis,0.135
+JH38_4,JH38,Protein synthesis,0.1475
+JH38_4,JH38,Protein synthesis,0.1325
+JH38_4,JH38,Protein synthesis,0.1325
+JH38_4,JH38,Protein synthesis,0.1725
+JH38_4,JH38,Protein synthesis,0.145
+JH38_4,JH38,RNA Synthesis,0.405
+JH38_4,JH38,RNA Synthesis,0.395
+JH38_4,JH38,RNA Synthesis,0.365
+JH38_4,JH38,RNA Synthesis,0.355
+JH38_4,JH38,RNA Synthesis,0.37
+JH38_4,JH38,RNA Synthesis,0.365
+JH38_4,JH38,RNA Synthesis,0.3675
+JH38_4,JH38,RNA Synthesis,0.335
+JH38_4,JH38,RNA Synthesis,0.3725
+JH38_4,JH38,RNA Synthesis,0.385
+JH38_4,JH38,lipopolysaccharide synthesis,0.075
+JH38_4,JH38,lipopolysaccharide synthesis,0.065
+JH38_4,JH38,lipopolysaccharide synthesis,0.075
+JH38_4,JH38,lipopolysaccharide synthesis,0.0725
+JH38_4,JH38,lipopolysaccharide synthesis,0.0775
+JH38_4,JH38,lipopolysaccharide synthesis,0.07
+JH38_4,JH38,lipopolysaccharide synthesis,0.0625
+JH38_4,JH38,lipopolysaccharide synthesis,0.065
+JH38_4,JH38,lipopolysaccharide synthesis,0.0625
+JH38_4,JH38,lipopolysaccharide synthesis,0.055
+JH40_1,JH40,Cell wall biosynthesis,0.085
+JH40_1,JH40,Cell wall biosynthesis,0.1025
+JH40_1,JH40,Cell wall biosynthesis,0.115
+JH40_1,JH40,Cell wall biosynthesis,0.08
+JH40_1,JH40,Cell wall biosynthesis,0.0775
+JH40_1,JH40,Cell wall biosynthesis,0.085
+JH40_1,JH40,Cell wall biosynthesis,0.08
+JH40_1,JH40,Cell wall biosynthesis,0.1
+JH40_1,JH40,Cell wall biosynthesis,0.0825
+JH40_1,JH40,Cell wall biosynthesis,0.08
+JH40_1,JH40,DNA replication,0.0825
+JH40_1,JH40,DNA replication,0.09
+JH40_1,JH40,DNA replication,0.0825
+JH40_1,JH40,DNA replication,0.095
+JH40_1,JH40,DNA replication,0.0925
+JH40_1,JH40,DNA replication,0.1
+JH40_1,JH40,DNA replication,0.085
+JH40_1,JH40,DNA replication,0.1
+JH40_1,JH40,DNA replication,0.0825
+JH40_1,JH40,DNA replication,0.09
+JH40_1,JH40,Fatty acid synthesis,0.1425
+JH40_1,JH40,Fatty acid synthesis,0.155
+JH40_1,JH40,Fatty acid synthesis,0.1475
+JH40_1,JH40,Fatty acid synthesis,0.1425
+JH40_1,JH40,Fatty acid synthesis,0.155
+JH40_1,JH40,Fatty acid synthesis,0.1325
+JH40_1,JH40,Fatty acid synthesis,0.145
+JH40_1,JH40,Fatty acid synthesis,0.1575
+JH40_1,JH40,Fatty acid synthesis,0.1475
+JH40_1,JH40,Fatty acid synthesis,0.1475
+JH40_1,JH40,Folic acid metabolism,0.0875
+JH40_1,JH40,Folic acid metabolism,0.0625
+JH40_1,JH40,Folic acid metabolism,0.0725
+JH40_1,JH40,Folic acid metabolism,0.0725
+JH40_1,JH40,Folic acid metabolism,0.06
+JH40_1,JH40,Folic acid metabolism,0.06
+JH40_1,JH40,Folic acid metabolism,0.065
+JH40_1,JH40,Folic acid metabolism,0.0625
+JH40_1,JH40,Folic acid metabolism,0.05
+JH40_1,JH40,Folic acid metabolism,0.06
+JH40_1,JH40,Membrane disruption,0.02
+JH40_1,JH40,Membrane disruption,0.025
+JH40_1,JH40,Membrane disruption,0.0325
+JH40_1,JH40,Membrane disruption,0.015
+JH40_1,JH40,Membrane disruption,0.03
+JH40_1,JH40,Membrane disruption,0.03
+JH40_1,JH40,Membrane disruption,0.02
+JH40_1,JH40,Membrane disruption,0.035
+JH40_1,JH40,Membrane disruption,0.02
+JH40_1,JH40,Membrane disruption,0.025
+JH40_1,JH40,Nitrofurans,0.0175
+JH40_1,JH40,Nitrofurans,0.0225
+JH40_1,JH40,Nitrofurans,0.015
+JH40_1,JH40,Nitrofurans,0.0225
+JH40_1,JH40,Nitrofurans,0.02
+JH40_1,JH40,Nitrofurans,0.015
+JH40_1,JH40,Nitrofurans,0.0225
+JH40_1,JH40,Nitrofurans,0.0225
+JH40_1,JH40,Nitrofurans,0.015
+JH40_1,JH40,Nitrofurans,0.0225
+JH40_1,JH40,Protein synthesis,0.075
+JH40_1,JH40,Protein synthesis,0.0675
+JH40_1,JH40,Protein synthesis,0.07
+JH40_1,JH40,Protein synthesis,0.065
+JH40_1,JH40,Protein synthesis,0.06
+JH40_1,JH40,Protein synthesis,0.065
+JH40_1,JH40,Protein synthesis,0.0575
+JH40_1,JH40,Protein synthesis,0.0625
+JH40_1,JH40,Protein synthesis,0.075
+JH40_1,JH40,Protein synthesis,0.085
+JH40_1,JH40,RNA Synthesis,0.015
+JH40_1,JH40,RNA Synthesis,0.035
+JH40_1,JH40,RNA Synthesis,0.035
+JH40_1,JH40,RNA Synthesis,0.04
+JH40_1,JH40,RNA Synthesis,0.0325
+JH40_1,JH40,RNA Synthesis,0.0225
+JH40_1,JH40,RNA Synthesis,0.02
+JH40_1,JH40,RNA Synthesis,0.0375
+JH40_1,JH40,RNA Synthesis,0.0425
+JH40_1,JH40,RNA Synthesis,0.025
+JH40_1,JH40,lipopolysaccharide synthesis,0.3075
+JH40_1,JH40,lipopolysaccharide synthesis,0.3025
+JH40_1,JH40,lipopolysaccharide synthesis,0.295
+JH40_1,JH40,lipopolysaccharide synthesis,0.3225
+JH40_1,JH40,lipopolysaccharide synthesis,0.295
+JH40_1,JH40,lipopolysaccharide synthesis,0.3175
+JH40_1,JH40,lipopolysaccharide synthesis,0.2675
+JH40_1,JH40,lipopolysaccharide synthesis,0.3175
+JH40_1,JH40,lipopolysaccharide synthesis,0.285
+JH40_1,JH40,lipopolysaccharide synthesis,0.2825
+JH40_2,JH40,Cell wall biosynthesis,0.08
+JH40_2,JH40,Cell wall biosynthesis,0.0875
+JH40_2,JH40,Cell wall biosynthesis,0.1
+JH40_2,JH40,Cell wall biosynthesis,0.085
+JH40_2,JH40,Cell wall biosynthesis,0.0775
+JH40_2,JH40,Cell wall biosynthesis,0.09
+JH40_2,JH40,Cell wall biosynthesis,0.075
+JH40_2,JH40,Cell wall biosynthesis,0.0975
+JH40_2,JH40,Cell wall biosynthesis,0.0725
+JH40_2,JH40,Cell wall biosynthesis,0.085
+JH40_2,JH40,DNA replication,0.095
+JH40_2,JH40,DNA replication,0.1
+JH40_2,JH40,DNA replication,0.085
+JH40_2,JH40,DNA replication,0.0975
+JH40_2,JH40,DNA replication,0.1
+JH40_2,JH40,DNA replication,0.105
+JH40_2,JH40,DNA replication,0.0975
+JH40_2,JH40,DNA replication,0.095
+JH40_2,JH40,DNA replication,0.0925
+JH40_2,JH40,DNA replication,0.105
+JH40_2,JH40,Fatty acid synthesis,0.135
+JH40_2,JH40,Fatty acid synthesis,0.1375
+JH40_2,JH40,Fatty acid synthesis,0.135
+JH40_2,JH40,Fatty acid synthesis,0.13
+JH40_2,JH40,Fatty acid synthesis,0.1375
+JH40_2,JH40,Fatty acid synthesis,0.12
+JH40_2,JH40,Fatty acid synthesis,0.1375
+JH40_2,JH40,Fatty acid synthesis,0.1475
+JH40_2,JH40,Fatty acid synthesis,0.1425
+JH40_2,JH40,Fatty acid synthesis,0.1275
+JH40_2,JH40,Folic acid metabolism,0.09
+JH40_2,JH40,Folic acid metabolism,0.0675
+JH40_2,JH40,Folic acid metabolism,0.08
+JH40_2,JH40,Folic acid metabolism,0.09
+JH40_2,JH40,Folic acid metabolism,0.0725
+JH40_2,JH40,Folic acid metabolism,0.075
+JH40_2,JH40,Folic acid metabolism,0.085
+JH40_2,JH40,Folic acid metabolism,0.07
+JH40_2,JH40,Folic acid metabolism,0.075
+JH40_2,JH40,Folic acid metabolism,0.0775
+JH40_2,JH40,Membrane disruption,0.0275
+JH40_2,JH40,Membrane disruption,0.0325
+JH40_2,JH40,Membrane disruption,0.03
+JH40_2,JH40,Membrane disruption,0.0275
+JH40_2,JH40,Membrane disruption,0.035
+JH40_2,JH40,Membrane disruption,0.0375
+JH40_2,JH40,Membrane disruption,0.0175
+JH40_2,JH40,Membrane disruption,0.03
+JH40_2,JH40,Membrane disruption,0.0325
+JH40_2,JH40,Membrane disruption,0.0375
+JH40_2,JH40,Nitrofurans,0.02
+JH40_2,JH40,Nitrofurans,0.015
+JH40_2,JH40,Nitrofurans,0.015
+JH40_2,JH40,Nitrofurans,0.02
+JH40_2,JH40,Nitrofurans,0.025
+JH40_2,JH40,Nitrofurans,0.015
+JH40_2,JH40,Nitrofurans,0.0125
+JH40_2,JH40,Nitrofurans,0.0125
+JH40_2,JH40,Nitrofurans,0.0125
+JH40_2,JH40,Nitrofurans,0.0175
+JH40_2,JH40,Protein synthesis,0.0925
+JH40_2,JH40,Protein synthesis,0.1125
+JH40_2,JH40,Protein synthesis,0.1075
+JH40_2,JH40,Protein synthesis,0.0775
+JH40_2,JH40,Protein synthesis,0.08
+JH40_2,JH40,Protein synthesis,0.0975
+JH40_2,JH40,Protein synthesis,0.0775
+JH40_2,JH40,Protein synthesis,0.1
+JH40_2,JH40,Protein synthesis,0.1075
+JH40_2,JH40,Protein synthesis,0.1025
+JH40_2,JH40,RNA Synthesis,0.015
+JH40_2,JH40,RNA Synthesis,0.03
+JH40_2,JH40,RNA Synthesis,0.03
+JH40_2,JH40,RNA Synthesis,0.0275
+JH40_2,JH40,RNA Synthesis,0.0325
+JH40_2,JH40,RNA Synthesis,0.02
+JH40_2,JH40,RNA Synthesis,0.0225
+JH40_2,JH40,RNA Synthesis,0.025
+JH40_2,JH40,RNA Synthesis,0.0425
+JH40_2,JH40,RNA Synthesis,0.015
+JH40_2,JH40,lipopolysaccharide synthesis,0.245
+JH40_2,JH40,lipopolysaccharide synthesis,0.2675
+JH40_2,JH40,lipopolysaccharide synthesis,0.26
+JH40_2,JH40,lipopolysaccharide synthesis,0.2575
+JH40_2,JH40,lipopolysaccharide synthesis,0.245
+JH40_2,JH40,lipopolysaccharide synthesis,0.2575
+JH40_2,JH40,lipopolysaccharide synthesis,0.255
+JH40_2,JH40,lipopolysaccharide synthesis,0.26
+JH40_2,JH40,lipopolysaccharide synthesis,0.2325
+JH40_2,JH40,lipopolysaccharide synthesis,0.2475
+JH40_3,JH40,Cell wall biosynthesis,0.0675
+JH40_3,JH40,Cell wall biosynthesis,0.0975
+JH40_3,JH40,Cell wall biosynthesis,0.105
+JH40_3,JH40,Cell wall biosynthesis,0.0725
+JH40_3,JH40,Cell wall biosynthesis,0.0825
+JH40_3,JH40,Cell wall biosynthesis,0.0825
+JH40_3,JH40,Cell wall biosynthesis,0.0875
+JH40_3,JH40,Cell wall biosynthesis,0.0925
+JH40_3,JH40,Cell wall biosynthesis,0.0825
+JH40_3,JH40,Cell wall biosynthesis,0.08
+JH40_3,JH40,DNA replication,0.0775
+JH40_3,JH40,DNA replication,0.085
+JH40_3,JH40,DNA replication,0.06
+JH40_3,JH40,DNA replication,0.0775
+JH40_3,JH40,DNA replication,0.075
+JH40_3,JH40,DNA replication,0.0875
+JH40_3,JH40,DNA replication,0.07
+JH40_3,JH40,DNA replication,0.0875
+JH40_3,JH40,DNA replication,0.0825
+JH40_3,JH40,DNA replication,0.105
+JH40_3,JH40,Fatty acid synthesis,0.1525
+JH40_3,JH40,Fatty acid synthesis,0.1425
+JH40_3,JH40,Fatty acid synthesis,0.1575
+JH40_3,JH40,Fatty acid synthesis,0.135
+JH40_3,JH40,Fatty acid synthesis,0.1575
+JH40_3,JH40,Fatty acid synthesis,0.1225
+JH40_3,JH40,Fatty acid synthesis,0.1275
+JH40_3,JH40,Fatty acid synthesis,0.1725
+JH40_3,JH40,Fatty acid synthesis,0.1525
+JH40_3,JH40,Fatty acid synthesis,0.1325
+JH40_3,JH40,Folic acid metabolism,0.1025
+JH40_3,JH40,Folic acid metabolism,0.0775
+JH40_3,JH40,Folic acid metabolism,0.0875
+JH40_3,JH40,Folic acid metabolism,0.0775
+JH40_3,JH40,Folic acid metabolism,0.075
+JH40_3,JH40,Folic acid metabolism,0.0825
+JH40_3,JH40,Folic acid metabolism,0.075
+JH40_3,JH40,Folic acid metabolism,0.08
+JH40_3,JH40,Folic acid metabolism,0.0825
+JH40_3,JH40,Folic acid metabolism,0.085
+JH40_3,JH40,Membrane disruption,0.0325
+JH40_3,JH40,Membrane disruption,0.02
+JH40_3,JH40,Membrane disruption,0.03
+JH40_3,JH40,Membrane disruption,0.0175
+JH40_3,JH40,Membrane disruption,0.0375
+JH40_3,JH40,Membrane disruption,0.03
+JH40_3,JH40,Membrane disruption,0.025
+JH40_3,JH40,Membrane disruption,0.035
+JH40_3,JH40,Membrane disruption,0.03
+JH40_3,JH40,Membrane disruption,0.03
+JH40_3,JH40,Nitrofurans,0.01
+JH40_3,JH40,Nitrofurans,0.0125
+JH40_3,JH40,Nitrofurans,0.01
+JH40_3,JH40,Nitrofurans,0.02
+JH40_3,JH40,Nitrofurans,0.0175
+JH40_3,JH40,Nitrofurans,0.01
+JH40_3,JH40,Nitrofurans,0.02
+JH40_3,JH40,Nitrofurans,0.0225
+JH40_3,JH40,Nitrofurans,0.01
+JH40_3,JH40,Nitrofurans,0.015
+JH40_3,JH40,Protein synthesis,0.06
+JH40_3,JH40,Protein synthesis,0.0825
+JH40_3,JH40,Protein synthesis,0.07
+JH40_3,JH40,Protein synthesis,0.07
+JH40_3,JH40,Protein synthesis,0.0675
+JH40_3,JH40,Protein synthesis,0.0725
+JH40_3,JH40,Protein synthesis,0.0725
+JH40_3,JH40,Protein synthesis,0.0675
+JH40_3,JH40,Protein synthesis,0.0675
+JH40_3,JH40,Protein synthesis,0.0725
+JH40_3,JH40,RNA Synthesis,0.025
+JH40_3,JH40,RNA Synthesis,0.0375
+JH40_3,JH40,RNA Synthesis,0.03
+JH40_3,JH40,RNA Synthesis,0.035
+JH40_3,JH40,RNA Synthesis,0.035
+JH40_3,JH40,RNA Synthesis,0.02
+JH40_3,JH40,RNA Synthesis,0.0275
+JH40_3,JH40,RNA Synthesis,0.0375
+JH40_3,JH40,RNA Synthesis,0.0425
+JH40_3,JH40,RNA Synthesis,0.025
+JH40_3,JH40,lipopolysaccharide synthesis,0.28
+JH40_3,JH40,lipopolysaccharide synthesis,0.3075
+JH40_3,JH40,lipopolysaccharide synthesis,0.2825
+JH40_3,JH40,lipopolysaccharide synthesis,0.2825
+JH40_3,JH40,lipopolysaccharide synthesis,0.2975
+JH40_3,JH40,lipopolysaccharide synthesis,0.3025
+JH40_3,JH40,lipopolysaccharide synthesis,0.28
+JH40_3,JH40,lipopolysaccharide synthesis,0.275
+JH40_3,JH40,lipopolysaccharide synthesis,0.2975
+JH40_3,JH40,lipopolysaccharide synthesis,0.2575
+JH40_4,JH40,Cell wall biosynthesis,0.1175
+JH40_4,JH40,Cell wall biosynthesis,0.125
+JH40_4,JH40,Cell wall biosynthesis,0.125
+JH40_4,JH40,Cell wall biosynthesis,0.085
+JH40_4,JH40,Cell wall biosynthesis,0.115
+JH40_4,JH40,Cell wall biosynthesis,0.1025
+JH40_4,JH40,Cell wall biosynthesis,0.11
+JH40_4,JH40,Cell wall biosynthesis,0.105
+JH40_4,JH40,Cell wall biosynthesis,0.11
+JH40_4,JH40,Cell wall biosynthesis,0.1125
+JH40_4,JH40,DNA replication,0.075
+JH40_4,JH40,DNA replication,0.0925
+JH40_4,JH40,DNA replication,0.06
+JH40_4,JH40,DNA replication,0.07
+JH40_4,JH40,DNA replication,0.0775
+JH40_4,JH40,DNA replication,0.0825
+JH40_4,JH40,DNA replication,0.075
+JH40_4,JH40,DNA replication,0.0775
+JH40_4,JH40,DNA replication,0.075
+JH40_4,JH40,DNA replication,0.0775
+JH40_4,JH40,Fatty acid synthesis,0.145
+JH40_4,JH40,Fatty acid synthesis,0.165
+JH40_4,JH40,Fatty acid synthesis,0.165
+JH40_4,JH40,Fatty acid synthesis,0.1475
+JH40_4,JH40,Fatty acid synthesis,0.1775
+JH40_4,JH40,Fatty acid synthesis,0.15
+JH40_4,JH40,Fatty acid synthesis,0.15
+JH40_4,JH40,Fatty acid synthesis,0.1425
+JH40_4,JH40,Fatty acid synthesis,0.1675
+JH40_4,JH40,Fatty acid synthesis,0.1575
+JH40_4,JH40,Folic acid metabolism,0.0925
+JH40_4,JH40,Folic acid metabolism,0.0925
+JH40_4,JH40,Folic acid metabolism,0.105
+JH40_4,JH40,Folic acid metabolism,0.085
+JH40_4,JH40,Folic acid metabolism,0.075
+JH40_4,JH40,Folic acid metabolism,0.0725
+JH40_4,JH40,Folic acid metabolism,0.0875
+JH40_4,JH40,Folic acid metabolism,0.1
+JH40_4,JH40,Folic acid metabolism,0.1025
+JH40_4,JH40,Folic acid metabolism,0.09
+JH40_4,JH40,Membrane disruption,0.0275
+JH40_4,JH40,Membrane disruption,0.03
+JH40_4,JH40,Membrane disruption,0.035
+JH40_4,JH40,Membrane disruption,0.025
+JH40_4,JH40,Membrane disruption,0.025
+JH40_4,JH40,Membrane disruption,0.0275
+JH40_4,JH40,Membrane disruption,0.025
+JH40_4,JH40,Membrane disruption,0.0425
+JH40_4,JH40,Membrane disruption,0.0375
+JH40_4,JH40,Membrane disruption,0.025
+JH40_4,JH40,Nitrofurans,0.025
+JH40_4,JH40,Nitrofurans,0.0275
+JH40_4,JH40,Nitrofurans,0.0225
+JH40_4,JH40,Nitrofurans,0.0275
+JH40_4,JH40,Nitrofurans,0.0175
+JH40_4,JH40,Nitrofurans,0.02
+JH40_4,JH40,Nitrofurans,0.015
+JH40_4,JH40,Nitrofurans,0.0225
+JH40_4,JH40,Nitrofurans,0.02
+JH40_4,JH40,Nitrofurans,0.0175
+JH40_4,JH40,Protein synthesis,0.065
+JH40_4,JH40,Protein synthesis,0.0725
+JH40_4,JH40,Protein synthesis,0.0725
+JH40_4,JH40,Protein synthesis,0.06
+JH40_4,JH40,Protein synthesis,0.0625
+JH40_4,JH40,Protein synthesis,0.085
+JH40_4,JH40,Protein synthesis,0.065
+JH40_4,JH40,Protein synthesis,0.0725
+JH40_4,JH40,Protein synthesis,0.09
+JH40_4,JH40,Protein synthesis,0.1
+JH40_4,JH40,RNA Synthesis,0.0375
+JH40_4,JH40,RNA Synthesis,0.045
+JH40_4,JH40,RNA Synthesis,0.035
+JH40_4,JH40,RNA Synthesis,0.04
+JH40_4,JH40,RNA Synthesis,0.0475
+JH40_4,JH40,RNA Synthesis,0.0375
+JH40_4,JH40,RNA Synthesis,0.0375
+JH40_4,JH40,RNA Synthesis,0.0475
+JH40_4,JH40,RNA Synthesis,0.0475
+JH40_4,JH40,RNA Synthesis,0.0325
+JH40_4,JH40,lipopolysaccharide synthesis,0.2275
+JH40_4,JH40,lipopolysaccharide synthesis,0.235
+JH40_4,JH40,lipopolysaccharide synthesis,0.23
+JH40_4,JH40,lipopolysaccharide synthesis,0.215
+JH40_4,JH40,lipopolysaccharide synthesis,0.24
+JH40_4,JH40,lipopolysaccharide synthesis,0.235
+JH40_4,JH40,lipopolysaccharide synthesis,0.2025
+JH40_4,JH40,lipopolysaccharide synthesis,0.2375
+JH40_4,JH40,lipopolysaccharide synthesis,0.26
+JH40_4,JH40,lipopolysaccharide synthesis,0.2
+JH43_1,JH43,Cell wall biosynthesis,0.065
+JH43_1,JH43,Cell wall biosynthesis,0.07
+JH43_1,JH43,Cell wall biosynthesis,0.0625
+JH43_1,JH43,Cell wall biosynthesis,0.075
+JH43_1,JH43,Cell wall biosynthesis,0.0725
+JH43_1,JH43,Cell wall biosynthesis,0.0675
+JH43_1,JH43,Cell wall biosynthesis,0.0625
+JH43_1,JH43,Cell wall biosynthesis,0.0775
+JH43_1,JH43,Cell wall biosynthesis,0.0725
+JH43_1,JH43,Cell wall biosynthesis,0.065
+JH43_1,JH43,DNA replication,0.0325
+JH43_1,JH43,DNA replication,0.045
+JH43_1,JH43,DNA replication,0.03
+JH43_1,JH43,DNA replication,0.0275
+JH43_1,JH43,DNA replication,0.0325
+JH43_1,JH43,DNA replication,0.035
+JH43_1,JH43,DNA replication,0.0275
+JH43_1,JH43,DNA replication,0.0375
+JH43_1,JH43,DNA replication,0.02
+JH43_1,JH43,DNA replication,0.025
+JH43_1,JH43,Fatty acid synthesis,0.0225
+JH43_1,JH43,Fatty acid synthesis,0.0275
+JH43_1,JH43,Fatty acid synthesis,0.0275
+JH43_1,JH43,Fatty acid synthesis,0.0175
+JH43_1,JH43,Fatty acid synthesis,0.0275
+JH43_1,JH43,Fatty acid synthesis,0.0225
+JH43_1,JH43,Fatty acid synthesis,0.02
+JH43_1,JH43,Fatty acid synthesis,0.0225
+JH43_1,JH43,Fatty acid synthesis,0.015
+JH43_1,JH43,Fatty acid synthesis,0.0275
+JH43_1,JH43,Folic acid metabolism,0.035
+JH43_1,JH43,Folic acid metabolism,0.025
+JH43_1,JH43,Folic acid metabolism,0.0275
+JH43_1,JH43,Folic acid metabolism,0.0275
+JH43_1,JH43,Folic acid metabolism,0.025
+JH43_1,JH43,Folic acid metabolism,0.035
+JH43_1,JH43,Folic acid metabolism,0.0375
+JH43_1,JH43,Folic acid metabolism,0.04
+JH43_1,JH43,Folic acid metabolism,0.025
+JH43_1,JH43,Folic acid metabolism,0.035
+JH43_1,JH43,Membrane disruption,0.4375
+JH43_1,JH43,Membrane disruption,0.4525
+JH43_1,JH43,Membrane disruption,0.425
+JH43_1,JH43,Membrane disruption,0.45
+JH43_1,JH43,Membrane disruption,0.445
+JH43_1,JH43,Membrane disruption,0.44
+JH43_1,JH43,Membrane disruption,0.4375
+JH43_1,JH43,Membrane disruption,0.4525
+JH43_1,JH43,Membrane disruption,0.45
+JH43_1,JH43,Membrane disruption,0.44
+JH43_1,JH43,Nitrofurans,0.0625
+JH43_1,JH43,Nitrofurans,0.0775
+JH43_1,JH43,Nitrofurans,0.0825
+JH43_1,JH43,Nitrofurans,0.0675
+JH43_1,JH43,Nitrofurans,0.07
+JH43_1,JH43,Nitrofurans,0.07
+JH43_1,JH43,Nitrofurans,0.075
+JH43_1,JH43,Nitrofurans,0.0825
+JH43_1,JH43,Nitrofurans,0.0675
+JH43_1,JH43,Nitrofurans,0.085
+JH43_1,JH43,Protein synthesis,0.09
+JH43_1,JH43,Protein synthesis,0.0925
+JH43_1,JH43,Protein synthesis,0.1
+JH43_1,JH43,Protein synthesis,0.0925
+JH43_1,JH43,Protein synthesis,0.0925
+JH43_1,JH43,Protein synthesis,0.1
+JH43_1,JH43,Protein synthesis,0.0925
+JH43_1,JH43,Protein synthesis,0.0975
+JH43_1,JH43,Protein synthesis,0.1
+JH43_1,JH43,Protein synthesis,0.095
+JH43_1,JH43,RNA Synthesis,0.0625
+JH43_1,JH43,RNA Synthesis,0.0475
+JH43_1,JH43,RNA Synthesis,0.045
+JH43_1,JH43,RNA Synthesis,0.0525
+JH43_1,JH43,RNA Synthesis,0.045
+JH43_1,JH43,RNA Synthesis,0.0375
+JH43_1,JH43,RNA Synthesis,0.04
+JH43_1,JH43,RNA Synthesis,0.065
+JH43_1,JH43,RNA Synthesis,0.045
+JH43_1,JH43,RNA Synthesis,0.05
+JH43_1,JH43,lipopolysaccharide synthesis,0.045
+JH43_1,JH43,lipopolysaccharide synthesis,0.03
+JH43_1,JH43,lipopolysaccharide synthesis,0.05
+JH43_1,JH43,lipopolysaccharide synthesis,0.0425
+JH43_1,JH43,lipopolysaccharide synthesis,0.0375
+JH43_1,JH43,lipopolysaccharide synthesis,0.04
+JH43_1,JH43,lipopolysaccharide synthesis,0.035
+JH43_1,JH43,lipopolysaccharide synthesis,0.04
+JH43_1,JH43,lipopolysaccharide synthesis,0.045
+JH43_1,JH43,lipopolysaccharide synthesis,0.0525
+JH43_2,JH43,Cell wall biosynthesis,0.085
+JH43_2,JH43,Cell wall biosynthesis,0.0875
+JH43_2,JH43,Cell wall biosynthesis,0.0775
+JH43_2,JH43,Cell wall biosynthesis,0.0875
+JH43_2,JH43,Cell wall biosynthesis,0.085
+JH43_2,JH43,Cell wall biosynthesis,0.0725
+JH43_2,JH43,Cell wall biosynthesis,0.0725
+JH43_2,JH43,Cell wall biosynthesis,0.0775
+JH43_2,JH43,Cell wall biosynthesis,0.0725
+JH43_2,JH43,Cell wall biosynthesis,0.0725
+JH43_2,JH43,DNA replication,0.04
+JH43_2,JH43,DNA replication,0.0475
+JH43_2,JH43,DNA replication,0.0325
+JH43_2,JH43,DNA replication,0.0325
+JH43_2,JH43,DNA replication,0.035
+JH43_2,JH43,DNA replication,0.0325
+JH43_2,JH43,DNA replication,0.0275
+JH43_2,JH43,DNA replication,0.0425
+JH43_2,JH43,DNA replication,0.025
+JH43_2,JH43,DNA replication,0.03
+JH43_2,JH43,Fatty acid synthesis,0.0275
+JH43_2,JH43,Fatty acid synthesis,0.04
+JH43_2,JH43,Fatty acid synthesis,0.035
+JH43_2,JH43,Fatty acid synthesis,0.025
+JH43_2,JH43,Fatty acid synthesis,0.025
+JH43_2,JH43,Fatty acid synthesis,0.0175
+JH43_2,JH43,Fatty acid synthesis,0.03
+JH43_2,JH43,Fatty acid synthesis,0.0225
+JH43_2,JH43,Fatty acid synthesis,0.0275
+JH43_2,JH43,Fatty acid synthesis,0.0275
+JH43_2,JH43,Folic acid metabolism,0.035
+JH43_2,JH43,Folic acid metabolism,0.0225
+JH43_2,JH43,Folic acid metabolism,0.0325
+JH43_2,JH43,Folic acid metabolism,0.03
+JH43_2,JH43,Folic acid metabolism,0.0325
+JH43_2,JH43,Folic acid metabolism,0.0425
+JH43_2,JH43,Folic acid metabolism,0.035
+JH43_2,JH43,Folic acid metabolism,0.04
+JH43_2,JH43,Folic acid metabolism,0.03
+JH43_2,JH43,Folic acid metabolism,0.045
+JH43_2,JH43,Membrane disruption,0.465
+JH43_2,JH43,Membrane disruption,0.5025
+JH43_2,JH43,Membrane disruption,0.4675
+JH43_2,JH43,Membrane disruption,0.5125
+JH43_2,JH43,Membrane disruption,0.485
+JH43_2,JH43,Membrane disruption,0.5025
+JH43_2,JH43,Membrane disruption,0.4675
+JH43_2,JH43,Membrane disruption,0.495
+JH43_2,JH43,Membrane disruption,0.4825
+JH43_2,JH43,Membrane disruption,0.51
+JH43_2,JH43,Nitrofurans,0.0675
+JH43_2,JH43,Nitrofurans,0.0625
+JH43_2,JH43,Nitrofurans,0.0675
+JH43_2,JH43,Nitrofurans,0.06
+JH43_2,JH43,Nitrofurans,0.0725
+JH43_2,JH43,Nitrofurans,0.0625
+JH43_2,JH43,Nitrofurans,0.06
+JH43_2,JH43,Nitrofurans,0.0525
+JH43_2,JH43,Nitrofurans,0.0575
+JH43_2,JH43,Nitrofurans,0.0625
+JH43_2,JH43,Protein synthesis,0.0925
+JH43_2,JH43,Protein synthesis,0.0825
+JH43_2,JH43,Protein synthesis,0.0825
+JH43_2,JH43,Protein synthesis,0.105
+JH43_2,JH43,Protein synthesis,0.085
+JH43_2,JH43,Protein synthesis,0.09
+JH43_2,JH43,Protein synthesis,0.0775
+JH43_2,JH43,Protein synthesis,0.08
+JH43_2,JH43,Protein synthesis,0.085
+JH43_2,JH43,Protein synthesis,0.0725
+JH43_2,JH43,RNA Synthesis,0.05
+JH43_2,JH43,RNA Synthesis,0.0375
+JH43_2,JH43,RNA Synthesis,0.0275
+JH43_2,JH43,RNA Synthesis,0.0325
+JH43_2,JH43,RNA Synthesis,0.0425
+JH43_2,JH43,RNA Synthesis,0.0325
+JH43_2,JH43,RNA Synthesis,0.035
+JH43_2,JH43,RNA Synthesis,0.05
+JH43_2,JH43,RNA Synthesis,0.0475
+JH43_2,JH43,RNA Synthesis,0.045
+JH43_2,JH43,lipopolysaccharide synthesis,0.0525
+JH43_2,JH43,lipopolysaccharide synthesis,0.03
+JH43_2,JH43,lipopolysaccharide synthesis,0.04
+JH43_2,JH43,lipopolysaccharide synthesis,0.035
+JH43_2,JH43,lipopolysaccharide synthesis,0.0425
+JH43_2,JH43,lipopolysaccharide synthesis,0.0375
+JH43_2,JH43,lipopolysaccharide synthesis,0.0425
+JH43_2,JH43,lipopolysaccharide synthesis,0.045
+JH43_2,JH43,lipopolysaccharide synthesis,0.05
+JH43_2,JH43,lipopolysaccharide synthesis,0.045
+JH43_3,JH43,Cell wall biosynthesis,0.07
+JH43_3,JH43,Cell wall biosynthesis,0.0775
+JH43_3,JH43,Cell wall biosynthesis,0.0775
+JH43_3,JH43,Cell wall biosynthesis,0.08
+JH43_3,JH43,Cell wall biosynthesis,0.08
+JH43_3,JH43,Cell wall biosynthesis,0.065
+JH43_3,JH43,Cell wall biosynthesis,0.0525
+JH43_3,JH43,Cell wall biosynthesis,0.0675
+JH43_3,JH43,Cell wall biosynthesis,0.0625
+JH43_3,JH43,Cell wall biosynthesis,0.0525
+JH43_3,JH43,DNA replication,0.0325
+JH43_3,JH43,DNA replication,0.055
+JH43_3,JH43,DNA replication,0.0325
+JH43_3,JH43,DNA replication,0.03
+JH43_3,JH43,DNA replication,0.03
+JH43_3,JH43,DNA replication,0.04
+JH43_3,JH43,DNA replication,0.02
+JH43_3,JH43,DNA replication,0.045
+JH43_3,JH43,DNA replication,0.0225
+JH43_3,JH43,DNA replication,0.0325
+JH43_3,JH43,Fatty acid synthesis,0.025
+JH43_3,JH43,Fatty acid synthesis,0.0375
+JH43_3,JH43,Fatty acid synthesis,0.0325
+JH43_3,JH43,Fatty acid synthesis,0.015
+JH43_3,JH43,Fatty acid synthesis,0.035
+JH43_3,JH43,Fatty acid synthesis,0.02
+JH43_3,JH43,Fatty acid synthesis,0.02
+JH43_3,JH43,Fatty acid synthesis,0.02
+JH43_3,JH43,Fatty acid synthesis,0.015
+JH43_3,JH43,Fatty acid synthesis,0.0275
+JH43_3,JH43,Folic acid metabolism,0.035
+JH43_3,JH43,Folic acid metabolism,0.0225
+JH43_3,JH43,Folic acid metabolism,0.035
+JH43_3,JH43,Folic acid metabolism,0.0275
+JH43_3,JH43,Folic acid metabolism,0.03
+JH43_3,JH43,Folic acid metabolism,0.04
+JH43_3,JH43,Folic acid metabolism,0.0375
+JH43_3,JH43,Folic acid metabolism,0.0325
+JH43_3,JH43,Folic acid metabolism,0.03
+JH43_3,JH43,Folic acid metabolism,0.0375
+JH43_3,JH43,Membrane disruption,0.4725
+JH43_3,JH43,Membrane disruption,0.4925
+JH43_3,JH43,Membrane disruption,0.4925
+JH43_3,JH43,Membrane disruption,0.5075
+JH43_3,JH43,Membrane disruption,0.5025
+JH43_3,JH43,Membrane disruption,0.5125
+JH43_3,JH43,Membrane disruption,0.49
+JH43_3,JH43,Membrane disruption,0.5225
+JH43_3,JH43,Membrane disruption,0.5075
+JH43_3,JH43,Membrane disruption,0.525
+JH43_3,JH43,Nitrofurans,0.065
+JH43_3,JH43,Nitrofurans,0.0675
+JH43_3,JH43,Nitrofurans,0.0575
+JH43_3,JH43,Nitrofurans,0.0525
+JH43_3,JH43,Nitrofurans,0.07
+JH43_3,JH43,Nitrofurans,0.065
+JH43_3,JH43,Nitrofurans,0.0625
+JH43_3,JH43,Nitrofurans,0.055
+JH43_3,JH43,Nitrofurans,0.0525
+JH43_3,JH43,Nitrofurans,0.0575
+JH43_3,JH43,Protein synthesis,0.085
+JH43_3,JH43,Protein synthesis,0.0775
+JH43_3,JH43,Protein synthesis,0.075
+JH43_3,JH43,Protein synthesis,0.1075
+JH43_3,JH43,Protein synthesis,0.0825
+JH43_3,JH43,Protein synthesis,0.085
+JH43_3,JH43,Protein synthesis,0.0675
+JH43_3,JH43,Protein synthesis,0.08
+JH43_3,JH43,Protein synthesis,0.0725
+JH43_3,JH43,Protein synthesis,0.0825
+JH43_3,JH43,RNA Synthesis,0.0575
+JH43_3,JH43,RNA Synthesis,0.04
+JH43_3,JH43,RNA Synthesis,0.035
+JH43_3,JH43,RNA Synthesis,0.04
+JH43_3,JH43,RNA Synthesis,0.045
+JH43_3,JH43,RNA Synthesis,0.0375
+JH43_3,JH43,RNA Synthesis,0.04
+JH43_3,JH43,RNA Synthesis,0.0575
+JH43_3,JH43,RNA Synthesis,0.045
+JH43_3,JH43,RNA Synthesis,0.0525
+JH43_3,JH43,lipopolysaccharide synthesis,0.0325
+JH43_3,JH43,lipopolysaccharide synthesis,0.0275
+JH43_3,JH43,lipopolysaccharide synthesis,0.035
+JH43_3,JH43,lipopolysaccharide synthesis,0.0325
+JH43_3,JH43,lipopolysaccharide synthesis,0.035
+JH43_3,JH43,lipopolysaccharide synthesis,0.0375
+JH43_3,JH43,lipopolysaccharide synthesis,0.0425
+JH43_3,JH43,lipopolysaccharide synthesis,0.045
+JH43_3,JH43,lipopolysaccharide synthesis,0.0425
+JH43_3,JH43,lipopolysaccharide synthesis,0.05
+JH43_4,JH43,Cell wall biosynthesis,0.065
+JH43_4,JH43,Cell wall biosynthesis,0.085
+JH43_4,JH43,Cell wall biosynthesis,0.07
+JH43_4,JH43,Cell wall biosynthesis,0.0675
+JH43_4,JH43,Cell wall biosynthesis,0.065
+JH43_4,JH43,Cell wall biosynthesis,0.06
+JH43_4,JH43,Cell wall biosynthesis,0.0575
+JH43_4,JH43,Cell wall biosynthesis,0.05
+JH43_4,JH43,Cell wall biosynthesis,0.0625
+JH43_4,JH43,Cell wall biosynthesis,0.0475
+JH43_4,JH43,DNA replication,0.0375
+JH43_4,JH43,DNA replication,0.0475
+JH43_4,JH43,DNA replication,0.0325
+JH43_4,JH43,DNA replication,0.0275
+JH43_4,JH43,DNA replication,0.03
+JH43_4,JH43,DNA replication,0.035
+JH43_4,JH43,DNA replication,0.0375
+JH43_4,JH43,DNA replication,0.0325
+JH43_4,JH43,DNA replication,0.0225
+JH43_4,JH43,DNA replication,0.0325
+JH43_4,JH43,Fatty acid synthesis,0.0375
+JH43_4,JH43,Fatty acid synthesis,0.0325
+JH43_4,JH43,Fatty acid synthesis,0.035
+JH43_4,JH43,Fatty acid synthesis,0.025
+JH43_4,JH43,Fatty acid synthesis,0.0325
+JH43_4,JH43,Fatty acid synthesis,0.025
+JH43_4,JH43,Fatty acid synthesis,0.025
+JH43_4,JH43,Fatty acid synthesis,0.0275
+JH43_4,JH43,Fatty acid synthesis,0.0175
+JH43_4,JH43,Fatty acid synthesis,0.025
+JH43_4,JH43,Folic acid metabolism,0.0375
+JH43_4,JH43,Folic acid metabolism,0.0325
+JH43_4,JH43,Folic acid metabolism,0.0375
+JH43_4,JH43,Folic acid metabolism,0.035
+JH43_4,JH43,Folic acid metabolism,0.0425
+JH43_4,JH43,Folic acid metabolism,0.0425
+JH43_4,JH43,Folic acid metabolism,0.045
+JH43_4,JH43,Folic acid metabolism,0.0425
+JH43_4,JH43,Folic acid metabolism,0.03
+JH43_4,JH43,Folic acid metabolism,0.0425
+JH43_4,JH43,Membrane disruption,0.435
+JH43_4,JH43,Membrane disruption,0.4525
+JH43_4,JH43,Membrane disruption,0.42
+JH43_4,JH43,Membrane disruption,0.445
+JH43_4,JH43,Membrane disruption,0.4425
+JH43_4,JH43,Membrane disruption,0.44
+JH43_4,JH43,Membrane disruption,0.435
+JH43_4,JH43,Membrane disruption,0.4775
+JH43_4,JH43,Membrane disruption,0.4325
+JH43_4,JH43,Membrane disruption,0.475
+JH43_4,JH43,Nitrofurans,0.0675
+JH43_4,JH43,Nitrofurans,0.0725
+JH43_4,JH43,Nitrofurans,0.0775
+JH43_4,JH43,Nitrofurans,0.07
+JH43_4,JH43,Nitrofurans,0.0775
+JH43_4,JH43,Nitrofurans,0.075
+JH43_4,JH43,Nitrofurans,0.0875
+JH43_4,JH43,Nitrofurans,0.0675
+JH43_4,JH43,Nitrofurans,0.085
+JH43_4,JH43,Nitrofurans,0.0825
+JH43_4,JH43,Protein synthesis,0.1225
+JH43_4,JH43,Protein synthesis,0.0875
+JH43_4,JH43,Protein synthesis,0.09
+JH43_4,JH43,Protein synthesis,0.1075
+JH43_4,JH43,Protein synthesis,0.0825
+JH43_4,JH43,Protein synthesis,0.0825
+JH43_4,JH43,Protein synthesis,0.0875
+JH43_4,JH43,Protein synthesis,0.08
+JH43_4,JH43,Protein synthesis,0.105
+JH43_4,JH43,Protein synthesis,0.105
+JH43_4,JH43,RNA Synthesis,0.06
+JH43_4,JH43,RNA Synthesis,0.04
+JH43_4,JH43,RNA Synthesis,0.035
+JH43_4,JH43,RNA Synthesis,0.0375
+JH43_4,JH43,RNA Synthesis,0.0475
+JH43_4,JH43,RNA Synthesis,0.0325
+JH43_4,JH43,RNA Synthesis,0.0325
+JH43_4,JH43,RNA Synthesis,0.065
+JH43_4,JH43,RNA Synthesis,0.04
+JH43_4,JH43,RNA Synthesis,0.055
+JH43_4,JH43,lipopolysaccharide synthesis,0.0675
+JH43_4,JH43,lipopolysaccharide synthesis,0.0475
+JH43_4,JH43,lipopolysaccharide synthesis,0.045
+JH43_4,JH43,lipopolysaccharide synthesis,0.045
+JH43_4,JH43,lipopolysaccharide synthesis,0.05
+JH43_4,JH43,lipopolysaccharide synthesis,0.0475
+JH43_4,JH43,lipopolysaccharide synthesis,0.0425
+JH43_4,JH43,lipopolysaccharide synthesis,0.0575
+JH43_4,JH43,lipopolysaccharide synthesis,0.0525
+JH43_4,JH43,lipopolysaccharide synthesis,0.055
+JH48_1,JH48,Cell wall biosynthesis,0.1325
+JH48_1,JH48,Cell wall biosynthesis,0.145
+JH48_1,JH48,Cell wall biosynthesis,0.1175
+JH48_1,JH48,Cell wall biosynthesis,0.165
+JH48_1,JH48,Cell wall biosynthesis,0.1375
+JH48_1,JH48,Cell wall biosynthesis,0.16
+JH48_1,JH48,Cell wall biosynthesis,0.1175
+JH48_1,JH48,Cell wall biosynthesis,0.1225
+JH48_1,JH48,Cell wall biosynthesis,0.1225
+JH48_1,JH48,Cell wall biosynthesis,0.1275
+JH48_1,JH48,DNA replication,0.1525
+JH48_1,JH48,DNA replication,0.1425
+JH48_1,JH48,DNA replication,0.1475
+JH48_1,JH48,DNA replication,0.1525
+JH48_1,JH48,DNA replication,0.1725
+JH48_1,JH48,DNA replication,0.1725
+JH48_1,JH48,DNA replication,0.16
+JH48_1,JH48,DNA replication,0.18
+JH48_1,JH48,DNA replication,0.1775
+JH48_1,JH48,DNA replication,0.1425
+JH48_1,JH48,Fatty acid synthesis,0.1025
+JH48_1,JH48,Fatty acid synthesis,0.1125
+JH48_1,JH48,Fatty acid synthesis,0.1025
+JH48_1,JH48,Fatty acid synthesis,0.1225
+JH48_1,JH48,Fatty acid synthesis,0.135
+JH48_1,JH48,Fatty acid synthesis,0.1175
+JH48_1,JH48,Fatty acid synthesis,0.1225
+JH48_1,JH48,Fatty acid synthesis,0.1375
+JH48_1,JH48,Fatty acid synthesis,0.115
+JH48_1,JH48,Fatty acid synthesis,0.1025
+JH48_1,JH48,Folic acid metabolism,0.0525
+JH48_1,JH48,Folic acid metabolism,0.04
+JH48_1,JH48,Folic acid metabolism,0.04
+JH48_1,JH48,Folic acid metabolism,0.0475
+JH48_1,JH48,Folic acid metabolism,0.0475
+JH48_1,JH48,Folic acid metabolism,0.04
+JH48_1,JH48,Folic acid metabolism,0.04
+JH48_1,JH48,Folic acid metabolism,0.055
+JH48_1,JH48,Folic acid metabolism,0.04
+JH48_1,JH48,Folic acid metabolism,0.0375
+JH48_1,JH48,Membrane disruption,0.0225
+JH48_1,JH48,Membrane disruption,0.0225
+JH48_1,JH48,Membrane disruption,0.02
+JH48_1,JH48,Membrane disruption,0.03
+JH48_1,JH48,Membrane disruption,0.0175
+JH48_1,JH48,Membrane disruption,0.0125
+JH48_1,JH48,Membrane disruption,0.0175
+JH48_1,JH48,Membrane disruption,0.0175
+JH48_1,JH48,Membrane disruption,0.025
+JH48_1,JH48,Membrane disruption,0.015
+JH48_1,JH48,Nitrofurans,0.015
+JH48_1,JH48,Nitrofurans,0.0125
+JH48_1,JH48,Nitrofurans,0.015
+JH48_1,JH48,Nitrofurans,0.01
+JH48_1,JH48,Nitrofurans,0.015
+JH48_1,JH48,Nitrofurans,0.0125
+JH48_1,JH48,Nitrofurans,0.015
+JH48_1,JH48,Nitrofurans,0.005
+JH48_1,JH48,Nitrofurans,0.0125
+JH48_1,JH48,Nitrofurans,0.0175
+JH48_1,JH48,Protein synthesis,0.065
+JH48_1,JH48,Protein synthesis,0.0525
+JH48_1,JH48,Protein synthesis,0.065
+JH48_1,JH48,Protein synthesis,0.055
+JH48_1,JH48,Protein synthesis,0.0775
+JH48_1,JH48,Protein synthesis,0.06
+JH48_1,JH48,Protein synthesis,0.065
+JH48_1,JH48,Protein synthesis,0.0675
+JH48_1,JH48,Protein synthesis,0.0775
+JH48_1,JH48,Protein synthesis,0.0625
+JH48_1,JH48,RNA Synthesis,0.01
+JH48_1,JH48,RNA Synthesis,0.015
+JH48_1,JH48,RNA Synthesis,0.02
+JH48_1,JH48,RNA Synthesis,0.0275
+JH48_1,JH48,RNA Synthesis,0.035
+JH48_1,JH48,RNA Synthesis,0.0125
+JH48_1,JH48,RNA Synthesis,0.0125
+JH48_1,JH48,RNA Synthesis,0.0175
+JH48_1,JH48,RNA Synthesis,0.0175
+JH48_1,JH48,RNA Synthesis,0.02
+JH48_1,JH48,lipopolysaccharide synthesis,0.355
+JH48_1,JH48,lipopolysaccharide synthesis,0.33
+JH48_1,JH48,lipopolysaccharide synthesis,0.36
+JH48_1,JH48,lipopolysaccharide synthesis,0.33
+JH48_1,JH48,lipopolysaccharide synthesis,0.355
+JH48_1,JH48,lipopolysaccharide synthesis,0.3525
+JH48_1,JH48,lipopolysaccharide synthesis,0.3375
+JH48_1,JH48,lipopolysaccharide synthesis,0.34
+JH48_1,JH48,lipopolysaccharide synthesis,0.3525
+JH48_1,JH48,lipopolysaccharide synthesis,0.3375
+JH48_2,JH48,Cell wall biosynthesis,0.125
+JH48_2,JH48,Cell wall biosynthesis,0.13
+JH48_2,JH48,Cell wall biosynthesis,0.1325
+JH48_2,JH48,Cell wall biosynthesis,0.135
+JH48_2,JH48,Cell wall biosynthesis,0.115
+JH48_2,JH48,Cell wall biosynthesis,0.1375
+JH48_2,JH48,Cell wall biosynthesis,0.13
+JH48_2,JH48,Cell wall biosynthesis,0.1275
+JH48_2,JH48,Cell wall biosynthesis,0.1175
+JH48_2,JH48,Cell wall biosynthesis,0.1125
+JH48_2,JH48,DNA replication,0.155
+JH48_2,JH48,DNA replication,0.175
+JH48_2,JH48,DNA replication,0.1475
+JH48_2,JH48,DNA replication,0.16
+JH48_2,JH48,DNA replication,0.18
+JH48_2,JH48,DNA replication,0.175
+JH48_2,JH48,DNA replication,0.1775
+JH48_2,JH48,DNA replication,0.1675
+JH48_2,JH48,DNA replication,0.16
+JH48_2,JH48,DNA replication,0.1675
+JH48_2,JH48,Fatty acid synthesis,0.09
+JH48_2,JH48,Fatty acid synthesis,0.1
+JH48_2,JH48,Fatty acid synthesis,0.09
+JH48_2,JH48,Fatty acid synthesis,0.0975
+JH48_2,JH48,Fatty acid synthesis,0.0875
+JH48_2,JH48,Fatty acid synthesis,0.1
+JH48_2,JH48,Fatty acid synthesis,0.1
+JH48_2,JH48,Fatty acid synthesis,0.0975
+JH48_2,JH48,Fatty acid synthesis,0.1
+JH48_2,JH48,Fatty acid synthesis,0.1025
+JH48_2,JH48,Folic acid metabolism,0.04
+JH48_2,JH48,Folic acid metabolism,0.03
+JH48_2,JH48,Folic acid metabolism,0.04
+JH48_2,JH48,Folic acid metabolism,0.0425
+JH48_2,JH48,Folic acid metabolism,0.04
+JH48_2,JH48,Folic acid metabolism,0.04
+JH48_2,JH48,Folic acid metabolism,0.0375
+JH48_2,JH48,Folic acid metabolism,0.045
+JH48_2,JH48,Folic acid metabolism,0.0375
+JH48_2,JH48,Folic acid metabolism,0.0375
+JH48_2,JH48,Membrane disruption,0.0325
+JH48_2,JH48,Membrane disruption,0.02
+JH48_2,JH48,Membrane disruption,0.015
+JH48_2,JH48,Membrane disruption,0.02
+JH48_2,JH48,Membrane disruption,0.0175
+JH48_2,JH48,Membrane disruption,0.0175
+JH48_2,JH48,Membrane disruption,0.02
+JH48_2,JH48,Membrane disruption,0.0225
+JH48_2,JH48,Membrane disruption,0.0225
+JH48_2,JH48,Membrane disruption,0.0125
+JH48_2,JH48,Nitrofurans,0.0125
+JH48_2,JH48,Nitrofurans,0.0125
+JH48_2,JH48,Nitrofurans,0.0175
+JH48_2,JH48,Nitrofurans,0.0125
+JH48_2,JH48,Nitrofurans,0.0225
+JH48_2,JH48,Nitrofurans,0.01
+JH48_2,JH48,Nitrofurans,0.0225
+JH48_2,JH48,Nitrofurans,0.0125
+JH48_2,JH48,Nitrofurans,0.015
+JH48_2,JH48,Nitrofurans,0.015
+JH48_2,JH48,Protein synthesis,0.0775
+JH48_2,JH48,Protein synthesis,0.0675
+JH48_2,JH48,Protein synthesis,0.065
+JH48_2,JH48,Protein synthesis,0.055
+JH48_2,JH48,Protein synthesis,0.085
+JH48_2,JH48,Protein synthesis,0.07
+JH48_2,JH48,Protein synthesis,0.065
+JH48_2,JH48,Protein synthesis,0.07
+JH48_2,JH48,Protein synthesis,0.065
+JH48_2,JH48,Protein synthesis,0.075
+JH48_2,JH48,RNA Synthesis,0.0175
+JH48_2,JH48,RNA Synthesis,0.025
+JH48_2,JH48,RNA Synthesis,0.015
+JH48_2,JH48,RNA Synthesis,0.0275
+JH48_2,JH48,RNA Synthesis,0.015
+JH48_2,JH48,RNA Synthesis,0.0125
+JH48_2,JH48,RNA Synthesis,0.02
+JH48_2,JH48,RNA Synthesis,0.0225
+JH48_2,JH48,RNA Synthesis,0.015
+JH48_2,JH48,RNA Synthesis,0.0175
+JH48_2,JH48,lipopolysaccharide synthesis,0.3125
+JH48_2,JH48,lipopolysaccharide synthesis,0.3325
+JH48_2,JH48,lipopolysaccharide synthesis,0.32
+JH48_2,JH48,lipopolysaccharide synthesis,0.315
+JH48_2,JH48,lipopolysaccharide synthesis,0.3175
+JH48_2,JH48,lipopolysaccharide synthesis,0.3325
+JH48_2,JH48,lipopolysaccharide synthesis,0.31
+JH48_2,JH48,lipopolysaccharide synthesis,0.3275
+JH48_2,JH48,lipopolysaccharide synthesis,0.3225
+JH48_2,JH48,lipopolysaccharide synthesis,0.33
+JH48_3,JH48,Cell wall biosynthesis,0.1375
+JH48_3,JH48,Cell wall biosynthesis,0.135
+JH48_3,JH48,Cell wall biosynthesis,0.15
+JH48_3,JH48,Cell wall biosynthesis,0.1525
+JH48_3,JH48,Cell wall biosynthesis,0.1225
+JH48_3,JH48,Cell wall biosynthesis,0.1475
+JH48_3,JH48,Cell wall biosynthesis,0.145
+JH48_3,JH48,Cell wall biosynthesis,0.125
+JH48_3,JH48,Cell wall biosynthesis,0.1375
+JH48_3,JH48,Cell wall biosynthesis,0.1225
+JH48_3,JH48,DNA replication,0.155
+JH48_3,JH48,DNA replication,0.1625
+JH48_3,JH48,DNA replication,0.14
+JH48_3,JH48,DNA replication,0.15
+JH48_3,JH48,DNA replication,0.165
+JH48_3,JH48,DNA replication,0.1725
+JH48_3,JH48,DNA replication,0.17
+JH48_3,JH48,DNA replication,0.1675
+JH48_3,JH48,DNA replication,0.145
+JH48_3,JH48,DNA replication,0.1525
+JH48_3,JH48,Fatty acid synthesis,0.0825
+JH48_3,JH48,Fatty acid synthesis,0.1125
+JH48_3,JH48,Fatty acid synthesis,0.0925
+JH48_3,JH48,Fatty acid synthesis,0.11
+JH48_3,JH48,Fatty acid synthesis,0.1075
+JH48_3,JH48,Fatty acid synthesis,0.1025
+JH48_3,JH48,Fatty acid synthesis,0.095
+JH48_3,JH48,Fatty acid synthesis,0.1075
+JH48_3,JH48,Fatty acid synthesis,0.1125
+JH48_3,JH48,Fatty acid synthesis,0.1
+JH48_3,JH48,Folic acid metabolism,0.04
+JH48_3,JH48,Folic acid metabolism,0.035
+JH48_3,JH48,Folic acid metabolism,0.0375
+JH48_3,JH48,Folic acid metabolism,0.06
+JH48_3,JH48,Folic acid metabolism,0.05
+JH48_3,JH48,Folic acid metabolism,0.045
+JH48_3,JH48,Folic acid metabolism,0.0525
+JH48_3,JH48,Folic acid metabolism,0.0525
+JH48_3,JH48,Folic acid metabolism,0.055
+JH48_3,JH48,Folic acid metabolism,0.06
+JH48_3,JH48,Membrane disruption,0.0325
+JH48_3,JH48,Membrane disruption,0.02
+JH48_3,JH48,Membrane disruption,0.0175
+JH48_3,JH48,Membrane disruption,0.025
+JH48_3,JH48,Membrane disruption,0.0125
+JH48_3,JH48,Membrane disruption,0.0225
+JH48_3,JH48,Membrane disruption,0.0075
+JH48_3,JH48,Membrane disruption,0.0175
+JH48_3,JH48,Membrane disruption,0.0175
+JH48_3,JH48,Membrane disruption,0.0175
+JH48_3,JH48,Nitrofurans,0.02
+JH48_3,JH48,Nitrofurans,0.01
+JH48_3,JH48,Nitrofurans,0.0175
+JH48_3,JH48,Nitrofurans,0.015
+JH48_3,JH48,Nitrofurans,0.0175
+JH48_3,JH48,Nitrofurans,0.02
+JH48_3,JH48,Nitrofurans,0.025
+JH48_3,JH48,Nitrofurans,0.0125
+JH48_3,JH48,Nitrofurans,0.0125
+JH48_3,JH48,Nitrofurans,0.01
+JH48_3,JH48,Protein synthesis,0.065
+JH48_3,JH48,Protein synthesis,0.0775
+JH48_3,JH48,Protein synthesis,0.07
+JH48_3,JH48,Protein synthesis,0.0425
+JH48_3,JH48,Protein synthesis,0.0725
+JH48_3,JH48,Protein synthesis,0.075
+JH48_3,JH48,Protein synthesis,0.0625
+JH48_3,JH48,Protein synthesis,0.065
+JH48_3,JH48,Protein synthesis,0.0725
+JH48_3,JH48,Protein synthesis,0.0625
+JH48_3,JH48,RNA Synthesis,0.015
+JH48_3,JH48,RNA Synthesis,0.03
+JH48_3,JH48,RNA Synthesis,0.0125
+JH48_3,JH48,RNA Synthesis,0.025
+JH48_3,JH48,RNA Synthesis,0.02
+JH48_3,JH48,RNA Synthesis,0.02
+JH48_3,JH48,RNA Synthesis,0.0175
+JH48_3,JH48,RNA Synthesis,0.02
+JH48_3,JH48,RNA Synthesis,0.0175
+JH48_3,JH48,RNA Synthesis,0.02
+JH48_3,JH48,lipopolysaccharide synthesis,0.355
+JH48_3,JH48,lipopolysaccharide synthesis,0.3375
+JH48_3,JH48,lipopolysaccharide synthesis,0.315
+JH48_3,JH48,lipopolysaccharide synthesis,0.3375
+JH48_3,JH48,lipopolysaccharide synthesis,0.325
+JH48_3,JH48,lipopolysaccharide synthesis,0.345
+JH48_3,JH48,lipopolysaccharide synthesis,0.3275
+JH48_3,JH48,lipopolysaccharide synthesis,0.3475
+JH48_3,JH48,lipopolysaccharide synthesis,0.335
+JH48_3,JH48,lipopolysaccharide synthesis,0.31
+JH48_4,JH48,Cell wall biosynthesis,0.195
+JH48_4,JH48,Cell wall biosynthesis,0.195
+JH48_4,JH48,Cell wall biosynthesis,0.2075
+JH48_4,JH48,Cell wall biosynthesis,0.2175
+JH48_4,JH48,Cell wall biosynthesis,0.1975
+JH48_4,JH48,Cell wall biosynthesis,0.2025
+JH48_4,JH48,Cell wall biosynthesis,0.1875
+JH48_4,JH48,Cell wall biosynthesis,0.22
+JH48_4,JH48,Cell wall biosynthesis,0.205
+JH48_4,JH48,Cell wall biosynthesis,0.2025
+JH48_4,JH48,DNA replication,0.13
+JH48_4,JH48,DNA replication,0.1375
+JH48_4,JH48,DNA replication,0.14
+JH48_4,JH48,DNA replication,0.14
+JH48_4,JH48,DNA replication,0.1275
+JH48_4,JH48,DNA replication,0.15
+JH48_4,JH48,DNA replication,0.135
+JH48_4,JH48,DNA replication,0.1325
+JH48_4,JH48,DNA replication,0.145
+JH48_4,JH48,DNA replication,0.115
+JH48_4,JH48,Fatty acid synthesis,0.1675
+JH48_4,JH48,Fatty acid synthesis,0.1625
+JH48_4,JH48,Fatty acid synthesis,0.2025
+JH48_4,JH48,Fatty acid synthesis,0.175
+JH48_4,JH48,Fatty acid synthesis,0.185
+JH48_4,JH48,Fatty acid synthesis,0.1625
+JH48_4,JH48,Fatty acid synthesis,0.175
+JH48_4,JH48,Fatty acid synthesis,0.1775
+JH48_4,JH48,Fatty acid synthesis,0.17
+JH48_4,JH48,Fatty acid synthesis,0.1725
+JH48_4,JH48,Folic acid metabolism,0.06
+JH48_4,JH48,Folic acid metabolism,0.0475
+JH48_4,JH48,Folic acid metabolism,0.0525
+JH48_4,JH48,Folic acid metabolism,0.0575
+JH48_4,JH48,Folic acid metabolism,0.0475
+JH48_4,JH48,Folic acid metabolism,0.055
+JH48_4,JH48,Folic acid metabolism,0.0525
+JH48_4,JH48,Folic acid metabolism,0.0575
+JH48_4,JH48,Folic acid metabolism,0.0625
+JH48_4,JH48,Folic acid metabolism,0.0575
+JH48_4,JH48,Membrane disruption,0.02
+JH48_4,JH48,Membrane disruption,0.025
+JH48_4,JH48,Membrane disruption,0.0275
+JH48_4,JH48,Membrane disruption,0.02
+JH48_4,JH48,Membrane disruption,0.0225
+JH48_4,JH48,Membrane disruption,0.0275
+JH48_4,JH48,Membrane disruption,0.02
+JH48_4,JH48,Membrane disruption,0.0225
+JH48_4,JH48,Membrane disruption,0.0225
+JH48_4,JH48,Membrane disruption,0.015
+JH48_4,JH48,Nitrofurans,0.0275
+JH48_4,JH48,Nitrofurans,0.0175
+JH48_4,JH48,Nitrofurans,0.02
+JH48_4,JH48,Nitrofurans,0.0225
+JH48_4,JH48,Nitrofurans,0.0225
+JH48_4,JH48,Nitrofurans,0.02
+JH48_4,JH48,Nitrofurans,0.0225
+JH48_4,JH48,Nitrofurans,0.015
+JH48_4,JH48,Nitrofurans,0.015
+JH48_4,JH48,Nitrofurans,0.0175
+JH48_4,JH48,Protein synthesis,0.0875
+JH48_4,JH48,Protein synthesis,0.075
+JH48_4,JH48,Protein synthesis,0.0975
+JH48_4,JH48,Protein synthesis,0.08
+JH48_4,JH48,Protein synthesis,0.08
+JH48_4,JH48,Protein synthesis,0.0775
+JH48_4,JH48,Protein synthesis,0.08
+JH48_4,JH48,Protein synthesis,0.1
+JH48_4,JH48,Protein synthesis,0.0875
+JH48_4,JH48,Protein synthesis,0.0875
+JH48_4,JH48,RNA Synthesis,0.02
+JH48_4,JH48,RNA Synthesis,0.025
+JH48_4,JH48,RNA Synthesis,0.0275
+JH48_4,JH48,RNA Synthesis,0.015
+JH48_4,JH48,RNA Synthesis,0.03
+JH48_4,JH48,RNA Synthesis,0.02
+JH48_4,JH48,RNA Synthesis,0.0175
+JH48_4,JH48,RNA Synthesis,0.0325
+JH48_4,JH48,RNA Synthesis,0.0225
+JH48_4,JH48,RNA Synthesis,0.03
+JH48_4,JH48,lipopolysaccharide synthesis,0.19
+JH48_4,JH48,lipopolysaccharide synthesis,0.1625
+JH48_4,JH48,lipopolysaccharide synthesis,0.2
+JH48_4,JH48,lipopolysaccharide synthesis,0.1875
+JH48_4,JH48,lipopolysaccharide synthesis,0.1825
+JH48_4,JH48,lipopolysaccharide synthesis,0.205
+JH48_4,JH48,lipopolysaccharide synthesis,0.1975
+JH48_4,JH48,lipopolysaccharide synthesis,0.185
+JH48_4,JH48,lipopolysaccharide synthesis,0.21
+JH48_4,JH48,lipopolysaccharide synthesis,0.17

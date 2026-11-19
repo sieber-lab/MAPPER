@@ -1,0 +1,25 @@
+target_class,arm,accuracy_percent
+Cell wall biosynthesis,DS_only,0.0
+Cell wall biosynthesis,LE_only,50.0
+Cell wall biosynthesis,DS_plus_LE,50.0
+DNA replication,DS_only,0.0
+DNA replication,LE_only,80.0
+DNA replication,DS_plus_LE,100.0
+Fatty acid synthesis,DS_only,0.0
+Fatty acid synthesis,LE_only,66.66666666666666
+Fatty acid synthesis,DS_plus_LE,66.66666666666666
+Folic acid metabolism,DS_only,0.0
+Folic acid metabolism,LE_only,0.0
+Folic acid metabolism,DS_plus_LE,50.0
+Protein synthesis,DS_only,20.0
+Protein synthesis,LE_only,43.33333333333333
+Protein synthesis,DS_plus_LE,50.0
+RNA Synthesis,DS_only,0.0
+RNA Synthesis,LE_only,50.0
+RNA Synthesis,DS_plus_LE,100.0
+lipopolysaccharide synthesis,DS_only,0.0
+lipopolysaccharide synthesis,LE_only,100.0
+lipopolysaccharide synthesis,DS_plus_LE,100.0
+Overall,DS_only,4.545454545454546
+Overall,LE_only,59.84848484848485
+Overall,DS_plus_LE,75.0

@@ -1,0 +1,22 @@
+arm,dataset,candidate,rank,score,predicted,max_score,score_cutoff,uncertain,biological_profiles,seeds
+proteomics,hsi6_HSI6-120min-kinetics,Cell wall biosynthesis,1,0.12431245534370343,Cell wall biosynthesis,0.12431245534370343,0.1446307109016925,True,3,5
+proteomics,hsi6_HSI6-15min-kinetics,Cell wall biosynthesis,1,0.3522856626907984,Cell wall biosynthesis,0.3522856626907984,0.1446307109016925,False,3,5
+proteomics,hsi6_HSI6-30min-kinetics,Fatty acid synthesis,1,0.11154689783851306,Fatty acid synthesis,0.11154689783851306,0.1446307109016925,True,3,5
+proteomics,hsi6_HSI6-30min-vsInactive,Folic acid metabolism,1,0.01371322228765348,Folic acid metabolism,0.01371322228765348,0.1446307109016925,True,5,5
+proteomics,hsi6_HSI6-60min-kinetics,Fatty acid synthesis,1,0.23377391236523787,Fatty acid synthesis,0.23377391236523787,0.1446307109016925,False,3,5
+proteomics,hsi6_nominal,Folic acid metabolism,1,0.02239351043436909,Folic acid metabolism,0.02239351043436909,0.1446307109016925,True,5,5
+proteomics,tatrasgap,Protein synthesis,1,0.13630449960008265,Protein synthesis,0.13630449960008265,0.1446307109016925,True,2,5
+ecfp_only,hsi6_HSI6-120min-kinetics,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,3,5
+ecfp_only,hsi6_HSI6-15min-kinetics,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,3,5
+ecfp_only,hsi6_HSI6-30min-kinetics,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,3,5
+ecfp_only,hsi6_HSI6-30min-vsInactive,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,5,5
+ecfp_only,hsi6_HSI6-60min-kinetics,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,3,5
+ecfp_only,hsi6_nominal,Fatty acid synthesis,1,0.1134949915856123,Fatty acid synthesis,0.1134949915856123,0.18888734802603718,True,5,5
+ecfp_only,tatrasgap,Membrane disruption,1,0.5281806915998459,Membrane disruption,0.5281806915998459,0.18888734802603718,False,2,5
+ecfp_proteomics,hsi6_HSI6-120min-kinetics,Fatty acid synthesis,1,0.08347068342069784,Fatty acid synthesis,0.08347068342069784,0.30324745433405037,True,3,5
+ecfp_proteomics,hsi6_HSI6-15min-kinetics,Fatty acid synthesis,1,0.10330910579611857,Fatty acid synthesis,0.10330910579611857,0.30324745433405037,True,3,5
+ecfp_proteomics,hsi6_HSI6-30min-kinetics,Fatty acid synthesis,1,0.19432409450411797,Fatty acid synthesis,0.19432409450411797,0.30324745433405037,True,3,5
+ecfp_proteomics,hsi6_HSI6-30min-vsInactive,Fatty acid synthesis,1,0.1227972186729312,Fatty acid synthesis,0.1227972186729312,0.30324745433405037,True,5,5
+ecfp_proteomics,hsi6_HSI6-60min-kinetics,Fatty acid synthesis,1,0.22605547269185383,Fatty acid synthesis,0.22605547269185383,0.30324745433405037,True,3,5
+ecfp_proteomics,hsi6_nominal,Fatty acid synthesis,1,0.10946827556192874,Fatty acid synthesis,0.10946827556192874,0.30324745433405037,True,5,5
+ecfp_proteomics,tatrasgap,Membrane disruption,1,0.18159987553954124,Membrane disruption,0.18159987553954124,0.30324745433405037,True,2,5

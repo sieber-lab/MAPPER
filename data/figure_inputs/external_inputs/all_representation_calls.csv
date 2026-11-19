@@ -1,0 +1,167 @@
+model,dataset,case,expected,predicted,candidate_class,score,rank,biological_profiles,seeds,panel_genes,scope,correct,case_key,score_cutoff,uncertain,context,flag_source
+original_intensity,cefiderocol,Cefiderocol,Cell wall biosynthesis,Folic acid metabolism,Folic acid metabolism,0.0441856239030797,1,3,5,4401,main,False,cefiderocol,,,,
+original_intensity,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.0279131038723911,1,3,5,4401,main,False,ceftriaxone,,,,
+original_intensity,colistin_csa13,Colistin,Membrane disruption,Nitrofurans,Nitrofurans,2.2192748857015064e-05,1,3,5,4401,main,False,colistin,,,,
+original_intensity,colistin_csa13,CSA13,Membrane disruption,Nitrofurans,Nitrofurans,4.535354583280304e-06,1,3,5,4401,main,False,csa13,,,,
+original_intensity,eclipse,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.0083421254818199,1,4,5,4401,main,True,ciprofloxacin,,,,
+original_intensity,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,0.0040525363384935,1,4,5,4401,main,True,kanamycin,,,,
+original_intensity,eclipse,Imipenem,Cell wall biosynthesis,Folic acid metabolism,Folic acid metabolism,0.0078748566626813,1,4,5,4401,main,False,imipenem,,,,
+original_intensity,gentamicin,Gentamicin,Protein synthesis,Nitrofurans,Nitrofurans,1.6384552789083971e-06,1,4,5,4401,main,False,gentamicin,,,,
+original_intensity,inhouse_corramycin,inhouse_corramycin,DNA replication,Folic acid metabolism,Folic acid metabolism,0.0382151131471619,1,4,5,4401,main,False,inhouse_corramycin,,,,
+original_intensity,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0681341505870223,1,5,5,4401,main,True,meropenem_128ug_ml,,,,
+original_intensity,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0793565298020839,1,5,5,4401,main,True,meropenem_192ug_ml,,,,
+original_intensity,smx,12h,Folic acid metabolism,Nitrofurans,Nitrofurans,0.0065593432436531,1,3,5,4401,main,False,12h,,,,
+original_intensity,smx,24h,Folic acid metabolism,Nitrofurans,Nitrofurans,0.0048995444100039,1,3,5,4401,main,False,24h,,,,
+original_intensity,smx,36h,Folic acid metabolism,Nitrofurans,Nitrofurans,0.0008041537792081,1,3,5,4401,main,False,36h,,,,
+original_intensity,pxd027164,ampicillin,Cell wall biosynthesis,DNA replication,DNA replication,1.5019043904292113e-05,1,3,5,4401,main,False,ampicillin,,,,
+original_intensity,pxd027164,cefotaxime,Cell wall biosynthesis,RNA Synthesis,RNA Synthesis,3.5024314119630246e-06,1,3,5,4401,main,False,cefotaxime,,,,
+original_intensity,pxd027164,imipenem,Cell wall biosynthesis,RNA Synthesis,RNA Synthesis,2.3267605819228165e-06,1,3,5,4401,main,False,imipenem,,,,
+original_intensity,pxd027164,ciprofloxacin,DNA replication,RNA Synthesis,RNA Synthesis,0.0001582962022434,1,3,5,4401,main,False,ciprofloxacin,,,,
+original_intensity,subanovic,Cefotaxime,Cell wall biosynthesis,Nitrofurans,Nitrofurans,0.027946759655703,1,3,5,4401,main,False,cefotaxime,,,,
+original_intensity,subanovic,Ciprofloxacin,DNA replication,Nitrofurans,Nitrofurans,0.0184280847559481,1,3,5,4401,main,False,ciprofloxacin,,,,
+original_intensity,subanovic,Imipenem,Cell wall biosynthesis,Nitrofurans,Nitrofurans,0.0291948300458413,1,3,5,4401,main,False,imipenem,,,,
+original_intensity,subanovic,Kanamycin,Protein synthesis,Nitrofurans,Nitrofurans,0.0112332879100783,1,3,5,4401,main,False,kanamycin,,,,
+original_intensity,yu,YuRifampicin,RNA Synthesis,DNA replication,DNA replication,0.0118560718301955,1,3,5,4401,main,False,yurifampicin,,,,
+original_intensity,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,DNA replication,0.0107892765569946,1,3,5,4401,main,False,yuteixobactin,,,,
+original_intensity,yu,YuDoxycycline,Protein synthesis,DNA replication,DNA replication,4.381085715759146e-05,1,2,5,4401,main,False,yudoxycycline,,,,
+original_intensity,yu,YuVancomycin,Cell wall biosynthesis,Nitrofurans,Nitrofurans,8.267710464481938e-05,1,3,5,4401,main,False,yuvancomycin,,,,
+original_intensity,yu,YuCefotaxime,Cell wall biosynthesis,DNA replication,DNA replication,0.0008865137179343,1,3,5,4401,main,False,yucefotaxime,,,,
+original_intensity,yu,YuTetracycline,Protein synthesis,DNA replication,DNA replication,0.0024188124582935,1,3,5,4401,main,False,yutetracycline,,,,
+original_intensity,yu,YuTeicoplanin,Cell wall biosynthesis,DNA replication,DNA replication,0.0004427394220806,1,3,5,4401,main,False,yuteicoplanin,,,,
+original_intensity,yu,YuPenicillin,Cell wall biosynthesis,DNA replication,DNA replication,0.0029120128461099,1,3,5,4401,main,False,yupenicillin,,,,
+original_intensity,yu,YuIsoniazid,Fatty acid synthesis,Nitrofurans,Nitrofurans,1.5017053219409011e-05,1,3,5,4401,main,False,yuisoniazid,,,,
+original_intensity,yu,YuCerulenin,Fatty acid synthesis,Nitrofurans,Nitrofurans,0.0008702522877341,1,3,5,4401,main,False,yucerulenin,,,,
+original_intensity,yu,YuTriclosan,Fatty acid synthesis,DNA replication,DNA replication,0.0009127729746736,1,3,5,4401,main,False,yutriclosan,,,,
+original_intensity,yu,YuCeftriaxone,Cell wall biosynthesis,DNA replication,DNA replication,0.0042552224743889,1,2,5,4401,main,False,yuceftriaxone,,,,
+original_intensity,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,DNA replication,0.0042808963968551,1,3,5,4401,main,False,yumeropenem,,,,
+original_intensity,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,DNA replication,0.0063938564939113,1,3,5,4401,main,False,yuflavomycin,,,,
+original_intensity,yu,YuMonactin,Membrane disruption,DNA replication,DNA replication,0.0006824052122464,1,3,5,4401,main,False,yumonactin,,,,
+original_intensity,yu,YuRetapamulin,Protein synthesis,DNA replication,DNA replication,0.0011557087907398,1,3,5,4401,main,False,yuretapamulin,,,,
+original_intensity,yu,YuThiostrepton,Protein synthesis,DNA replication,DNA replication,0.0001665491177161,1,3,5,4401,main,False,yuthiostrepton,,,,
+original_intensity,yu,YuErythromycin,Protein synthesis,DNA replication,DNA replication,0.0005088374600138,1,3,5,4401,main,False,yuerythromycin,,,,
+original_intensity,yu,YuPolymyxin,Membrane disruption,DNA replication,DNA replication,0.0026169088539965,1,3,5,4401,main,False,yupolymyxin,,,,
+original_significant_intensity,cefiderocol,Cefiderocol,Cell wall biosynthesis,DNA replication,DNA replication,0.034030905428032,1,3,5,4401,main,False,cefiderocol,,,,
+original_significant_intensity,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0437298156383136,1,3,5,4401,main,True,ceftriaxone,,,,
+original_significant_intensity,colistin_csa13,Colistin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.0047303595108678,1,3,5,4401,main,False,colistin,,,,
+original_significant_intensity,colistin_csa13,CSA13,Membrane disruption,Nitrofurans,Nitrofurans,0.0242381757257195,1,3,5,4401,main,False,csa13,,,,
+original_significant_intensity,eclipse,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.1348205637373029,1,4,5,4401,main,True,ciprofloxacin,,,,
+original_significant_intensity,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,0.1284316876530647,1,4,5,4401,main,True,kanamycin,,,,
+original_significant_intensity,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2444756921380758,1,4,5,4401,main,True,imipenem,,,,
+original_significant_intensity,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Protein synthesis,0.0272909936431096,1,4,5,4401,main,True,gentamicin,,,,
+original_significant_intensity,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,DNA replication,0.4800889487564563,1,4,5,4401,main,True,inhouse_corramycin,,,,
+original_significant_intensity,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3781844698190689,1,5,5,4401,main,True,meropenem_128ug_ml,,,,
+original_significant_intensity,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3037911971211433,1,5,5,4401,main,True,meropenem_192ug_ml,,,,
+original_significant_intensity,smx,12h,Folic acid metabolism,Nitrofurans,Nitrofurans,0.0371353003103286,1,3,5,4401,main,False,12h,,,,
+original_significant_intensity,smx,24h,Folic acid metabolism,Membrane disruption,Membrane disruption,0.0658923070163776,1,3,5,4401,main,False,24h,,,,
+original_significant_intensity,smx,36h,Folic acid metabolism,Membrane disruption,Membrane disruption,0.048072812303435,1,3,5,4401,main,False,36h,,,,
+original_significant_intensity,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2008697525163491,1,3,5,4401,main,True,ampicillin,,,,
+original_significant_intensity,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1748620503644148,1,3,5,4401,main,True,cefotaxime,,,,
+original_significant_intensity,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.4261924620469411,1,3,5,4401,main,True,imipenem,,,,
+original_significant_intensity,pxd027164,ciprofloxacin,DNA replication,Fatty acid synthesis,Fatty acid synthesis,0.0709175714477896,1,3,5,4401,main,False,ciprofloxacin,,,,
+original_significant_intensity,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3352985935409863,1,3,5,4401,main,True,cefotaxime,,,,
+original_significant_intensity,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,0.228576910495758,1,3,5,4401,main,False,ciprofloxacin,,,,
+original_significant_intensity,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1761796561380227,1,3,5,4401,main,True,imipenem,,,,
+original_significant_intensity,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3426110776265462,1,3,5,4401,main,False,kanamycin,,,,
+original_significant_intensity,yu,YuRifampicin,RNA Synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3357818027834098,1,3,5,4401,main,False,yurifampicin,,,,
+original_significant_intensity,yu,YuTeixobactin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2171012271940708,1,3,5,4401,main,True,yuteixobactin,,,,
+original_significant_intensity,yu,YuDoxycycline,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2296514989435672,1,2,5,4401,main,False,yudoxycycline,,,,
+original_significant_intensity,yu,YuVancomycin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2165002619723478,1,3,5,4401,main,True,yuvancomycin,,,,
+original_significant_intensity,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0298130632843822,1,3,5,4401,main,True,yucefotaxime,,,,
+original_significant_intensity,yu,YuTetracycline,Protein synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0125732399647434,1,3,5,4401,main,False,yutetracycline,,,,
+original_significant_intensity,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0832106278960903,1,3,5,4401,main,True,yuteicoplanin,,,,
+original_significant_intensity,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.172028696189324,1,3,5,4401,main,True,yupenicillin,,,,
+original_significant_intensity,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0390706162899732,1,3,5,4401,main,True,yuisoniazid,,,,
+original_significant_intensity,yu,YuCerulenin,Fatty acid synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0694041382397214,1,3,5,4401,main,False,yucerulenin,,,,
+original_significant_intensity,yu,YuTriclosan,Fatty acid synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0723814690858125,1,3,5,4401,main,False,yutriclosan,,,,
+original_significant_intensity,yu,YuCeftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0419127573864534,1,2,5,4401,main,True,yuceftriaxone,,,,
+original_significant_intensity,yu,YuMeropenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1645854801063736,1,3,5,4401,main,True,yumeropenem,,,,
+original_significant_intensity,yu,YuFlavomycin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1627826634546121,1,3,5,4401,main,True,yuflavomycin,,,,
+original_significant_intensity,yu,YuMonactin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.1409679733713468,1,3,5,4401,main,False,yumonactin,,,,
+original_significant_intensity,yu,YuRetapamulin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0609628965581456,1,3,5,4401,main,False,yuretapamulin,,,,
+original_significant_intensity,yu,YuThiostrepton,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0294979148109753,1,3,5,4401,main,False,yuthiostrepton,,,,
+original_significant_intensity,yu,YuErythromycin,Protein synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0106285537511575,1,3,5,4401,main,False,yuerythromycin,,,,
+original_significant_intensity,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.0750619607294599,1,3,5,4401,main,False,yupolymyxin,,,,
+panel_fc_filtered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1868834410607814,1,3,5,873,main,True,cefiderocol,,,,
+panel_fc_filtered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.0102868083131791,1,3,5,873,main,False,ceftriaxone,,,,
+panel_fc_filtered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Protein synthesis,0.019436882144073,1,3,5,873,main,False,colistin,,,,
+panel_fc_filtered,colistin_csa13,CSA13,Membrane disruption,Nitrofurans,Nitrofurans,0.1700328008085489,1,3,5,873,main,False,csa13,,,,
+panel_fc_filtered,eclipse,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.9795625954866408,1,4,5,873,main,True,ciprofloxacin,,,,
+panel_fc_filtered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,0.6894011408090592,1,4,5,873,main,True,kanamycin,,,,
+panel_fc_filtered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.9669555324316024,1,4,5,873,main,True,imipenem,,,,
+panel_fc_filtered,gentamicin,Gentamicin,Protein synthesis,Nitrofurans,Nitrofurans,0.0430398404258176,1,4,5,873,main,False,gentamicin,,,,
+panel_fc_filtered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,DNA replication,0.5044296786189079,1,4,5,873,main,True,inhouse_corramycin,,,,
+panel_fc_filtered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.252699537485838,1,5,5,873,main,False,meropenem_128ug_ml,,,,
+panel_fc_filtered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.599104028582573,1,5,5,873,main,True,meropenem_192ug_ml,,,,
+panel_fc_filtered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Fatty acid synthesis,0.0154786809540625,1,3,5,873,main,False,12h,,,,
+panel_fc_filtered,smx,24h,Folic acid metabolism,Folic acid metabolism,Folic acid metabolism,0.0025363143320354,1,3,5,873,main,True,24h,,,,
+panel_fc_filtered,smx,36h,Folic acid metabolism,Folic acid metabolism,Folic acid metabolism,0.0079878897615549,1,3,5,873,main,True,36h,,,,
+panel_fc_filtered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3530218243598938,1,3,5,873,main,True,ampicillin,,,,
+panel_fc_filtered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1698592363546291,1,3,5,873,main,True,cefotaxime,,,,
+panel_fc_filtered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3213205898801486,1,3,5,873,main,True,imipenem,,,,
+panel_fc_filtered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Protein synthesis,0.058046236767744,1,3,5,873,main,False,ciprofloxacin,,,,
+panel_fc_filtered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.6202480969826382,1,3,5,873,main,True,cefotaxime,,,,
+panel_fc_filtered,subanovic,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.2019337437053521,1,3,5,873,main,True,ciprofloxacin,,,,
+panel_fc_filtered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2325670487185319,1,3,5,873,main,True,imipenem,,,,
+panel_fc_filtered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2486469459533691,1,3,5,873,main,False,kanamycin,,,,
+panel_fc_filtered,yu,YuRifampicin,RNA Synthesis,DNA replication,DNA replication,0.2748357249299685,1,3,5,873,main,False,yurifampicin,,,,
+panel_fc_filtered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,DNA replication,0.1682703182970484,1,3,5,873,main,False,yuteixobactin,,,,
+panel_fc_filtered,yu,YuDoxycycline,Protein synthesis,DNA replication,DNA replication,0.1180250849202275,1,2,5,873,main,False,yudoxycycline,,,,
+panel_fc_filtered,yu,YuVancomycin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.6241817504167558,1,3,5,873,main,True,yuvancomycin,,,,
+panel_fc_filtered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2735472398499647,1,3,5,873,main,True,yucefotaxime,,,,
+panel_fc_filtered,yu,YuTetracycline,Protein synthesis,Nitrofurans,Nitrofurans,0.0317985549126994,1,3,5,873,main,False,yutetracycline,,,,
+panel_fc_filtered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1563718996196985,1,3,5,873,main,True,yuteicoplanin,,,,
+panel_fc_filtered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0335219199823526,1,3,5,873,main,True,yupenicillin,,,,
+panel_fc_filtered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0030174782216363,1,3,5,873,main,True,yuisoniazid,,,,
+panel_fc_filtered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.1144942796851197,1,3,5,873,main,True,yucerulenin,,,,
+panel_fc_filtered,yu,YuTriclosan,Fatty acid synthesis,lipopolysaccharide synthesis,lipopolysaccharide synthesis,0.0275886762829031,1,3,5,873,main,False,yutriclosan,,,,
+panel_fc_filtered,yu,YuCeftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.2899277234077453,1,2,5,873,main,True,yuceftriaxone,,,,
+panel_fc_filtered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,DNA replication,0.1007349692036708,1,3,5,873,main,False,yumeropenem,,,,
+panel_fc_filtered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,DNA replication,0.0223121507011819,1,3,5,873,main,False,yuflavomycin,,,,
+panel_fc_filtered,yu,YuMonactin,Membrane disruption,DNA replication,DNA replication,0.029090902134,1,3,5,873,main,False,yumonactin,,,,
+panel_fc_filtered,yu,YuRetapamulin,Protein synthesis,Folic acid metabolism,Folic acid metabolism,0.1307938338443637,1,3,5,873,main,False,yuretapamulin,,,,
+panel_fc_filtered,yu,YuThiostrepton,Protein synthesis,Folic acid metabolism,Folic acid metabolism,0.0586651367709661,1,3,5,873,main,False,yuthiostrepton,,,,
+panel_fc_filtered,yu,YuErythromycin,Protein synthesis,Nitrofurans,Nitrofurans,0.043076120732779,1,3,5,873,main,False,yuerythromycin,,,,
+panel_fc_filtered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.0945691053320964,1,3,5,873,main,False,yupolymyxin,,,,
+panel_fc_unfiltered,cefiderocol,Cefiderocol,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.4039801335210601,1,3,5,873,main,True,cefiderocol,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,ceftriaxone,Ceftriaxone,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.0336257536569125,1,3,5,873,main,False,ceftriaxone,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,colistin_csa13,Colistin,Membrane disruption,Protein synthesis,Protein synthesis,0.1283914986563225,1,3,5,873,main,False,colistin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,colistin_csa13,CSA13,Membrane disruption,Protein synthesis,Protein synthesis,0.1641931189798439,1,3,5,873,main,False,csa13,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,eclipse,Ciprofloxacin,DNA replication,DNA replication,DNA replication,0.9999774914979934,1,4,5,873,main,True,ciprofloxacin,0.1398001175001263,False,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,eclipse,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,0.974566204547882,1,4,5,873,main,True,kanamycin,0.1398001175001263,False,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,eclipse,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.9987823632359506,1,4,5,873,main,True,imipenem,0.1398001175001263,False,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,gentamicin,Gentamicin,Protein synthesis,Protein synthesis,Protein synthesis,0.2145966152334585,1,4,5,873,main,True,gentamicin,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,inhouse_corramycin,inhouse_corramycin,DNA replication,DNA replication,DNA replication,0.329610405229032,1,4,5,873,main,True,inhouse_corramycin,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,meropenem,Meropenem_128ug_ml,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.242418451204896,1,5,5,873,main,True,meropenem_128ug_ml,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,meropenem,Meropenem_192ug_ml,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.5218109195977451,1,5,5,873,main,False,meropenem_192ug_ml,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd063721,ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,0.1270901635289192,1,1,5,873,main,False,ciprofloxacin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd063721,cefotaxime,Cell wall biosynthesis,Membrane disruption,Membrane disruption,0.3351781225204467,1,1,5,873,main,False,cefotaxime,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,smx,12h,Folic acid metabolism,Fatty acid synthesis,Fatty acid synthesis,0.0787080027395859,1,3,5,873,main,False,12h,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,smx,24h,Folic acid metabolism,DNA replication,DNA replication,0.0519906023466804,1,3,5,873,main,False,24h,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,smx,36h,Folic acid metabolism,DNA replication,DNA replication,0.0589854587086786,1,3,5,873,main,False,36h,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd027164,ampicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1166540170864512,1,3,5,873,main,True,ampicillin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd027164,cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1292807541415095,1,3,5,873,main,True,cefotaxime,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd027164,imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.4579497748613358,1,3,5,873,main,True,imipenem,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,pxd027164,ciprofloxacin,DNA replication,Protein synthesis,Protein synthesis,0.2157071795981998,1,3,5,873,main,False,ciprofloxacin,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,subanovic,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.3150193258126577,1,3,5,873,main,True,cefotaxime,0.1398001175001263,False,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,subanovic,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,0.0956418878480326,1,3,5,873,main,False,ciprofloxacin,0.1398001175001263,True,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,subanovic,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0572300416231155,1,3,5,873,main,True,imipenem,0.1398001175001263,True,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,subanovic,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0872642631332079,1,3,5,873,main,False,kanamycin,0.1398001175001263,True,matched48,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuRifampicin,RNA Synthesis,DNA replication,DNA replication,0.0468555850595293,1,3,5,873,main,False,yurifampicin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuTeixobactin,Cell wall biosynthesis,DNA replication,DNA replication,0.0758324001574268,1,3,5,873,main,False,yuteixobactin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuDoxycycline,Protein synthesis,DNA replication,DNA replication,0.0415146319154882,1,2,5,873,main,False,yudoxycycline,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuVancomycin,Cell wall biosynthesis,Protein synthesis,Protein synthesis,0.0648460768948765,1,3,5,873,main,False,yuvancomycin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuCefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.074039793331176,1,3,5,873,main,True,yucefotaxime,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuTetracycline,Protein synthesis,Protein synthesis,Protein synthesis,0.1417795784523089,1,3,5,873,main,True,yutetracycline,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuTeicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.1051722289078558,1,3,5,873,main,True,yuteicoplanin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuPenicillin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,0.0746395544117937,1,3,5,873,main,True,yupenicillin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuIsoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.0289768987331384,1,3,5,873,main,True,yuisoniazid,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuCerulenin,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.3166775790850321,1,3,5,873,main,True,yucerulenin,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuTriclosan,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,0.1943060179147869,1,3,5,873,main,True,yutriclosan,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuCeftriaxone,Cell wall biosynthesis,Protein synthesis,Protein synthesis,0.121682800007984,1,2,5,873,main,False,yuceftriaxone,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuMeropenem,Cell wall biosynthesis,DNA replication,DNA replication,0.209805035131673,1,3,5,873,main,False,yumeropenem,0.1446307125431485,False,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuFlavomycin,Cell wall biosynthesis,DNA replication,DNA replication,0.1107740389206446,1,3,5,873,main,False,yuflavomycin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuMonactin,Membrane disruption,DNA replication,DNA replication,0.0547846339034731,1,3,5,873,main,False,yumonactin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuRetapamulin,Protein synthesis,Protein synthesis,Protein synthesis,0.0802942642447305,1,3,5,873,main,True,yuretapamulin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuThiostrepton,Protein synthesis,Protein synthesis,Protein synthesis,0.0718914426139235,1,3,5,873,main,True,yuthiostrepton,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuErythromycin,Protein synthesis,Protein synthesis,Protein synthesis,0.0703293639084828,1,3,5,873,main,True,yuerythromycin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration
+panel_fc_unfiltered,yu,YuPolymyxin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,0.0725459879662473,1,3,5,873,main,False,yupolymyxin,0.1446307125431485,True,full51,Fixed low-score rule; internal three-fold calibration

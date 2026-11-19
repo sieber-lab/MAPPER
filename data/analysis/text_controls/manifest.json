@@ -1,0 +1,107 @@
+{
+  "sources": [
+    {
+      "path": "code_repository/revisions/text_controls/audit/manifest.json",
+      "sha256": "2eb0424946ca79d0e2a4d160d295ba2c022743c276ccdc4e12c4c8fa07874bfa"
+    },
+    {
+      "path": "code_repository/revisions/text_controls/prepare_controls.py",
+      "sha256": "c036a0af6ac1803d46216c3424ef7f9c9408d89d872ee25485e33dbba45a55b0"
+    },
+    {
+      "path": "code_repository/revisions/text_controls/analysis_protocol.md",
+      "sha256": "a2502ac9e764cf4273216ae70ced0777974c1603d6f82b6cd1e88c4d99b5b39d"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "description_derangement.csv",
+      "sha256": "6055939d87cb830473fcf860da1a44f134cd82948e6d4552b62500a1e6f68fbd"
+    },
+    {
+      "name": "folds.json",
+      "sha256": "283cf0d6bf2047311f261e92522eeaea6f5486f3b521282587f57d9103ce8be1"
+    },
+    {
+      "name": "matrices.npz",
+      "sha256": "6af3626e84351b1f8f2689c7378805b44af947e0379bf1eaf3ef7a4e063fe5e9"
+    },
+    {
+      "name": "nonsense_descriptions.csv",
+      "sha256": "483b67a1ed707d9f3c74077e79f0d6e408c09c085a41852ebfce1792bf450d44"
+    },
+    {
+      "name": "random_bank_scales.npz",
+      "sha256": "d7b3aba73af1e235a95a3b383d1786cc6d1051dadd6b641e4089fcf7e05a5763"
+    },
+    {
+      "name": "text_banks.npz",
+      "sha256": "fb450d3c63b65fe005ac5eac88b270146c2cc83ad7aa87a0199b91fa21774d26"
+    },
+    {
+      "name": "training_label_permutations.csv",
+      "sha256": "4df419300e1629e47acc9d75a5beec169d9453bb5166ad4edeb7fda0b68a6e1f"
+    }
+  ],
+  "arms": [
+    "semantic_aug",
+    "unaugmented",
+    "onehot",
+    "random_fixed_0",
+    "random_fixed_1",
+    "random_fixed_2",
+    "random_augmented",
+    "nonsense",
+    "description_permuted",
+    "label_permuted_0",
+    "label_permuted_1",
+    "label_permuted_2",
+    "heldout_descriptions",
+    "feature_only_native",
+    "feature_only_matched"
+  ],
+  "model_seed": 42,
+  "random_bank_seeds": [
+    202609250,
+    202609251,
+    202609252
+  ],
+  "expected_fits": 375,
+  "pilot": {
+    "iteration": 0,
+    "fold": 0,
+    "fits": 15
+  },
+  "heldout_training_description_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    1,
+    2
+  ],
+  "heldout_test_description_ids": [
+    9,
+    10
+  ],
+  "matched_seen_test_description_ids": [
+    3,
+    4
+  ],
+  "class_order": [
+    "Cell wall biosynthesis",
+    "DNA replication",
+    "Fatty acid synthesis",
+    "Folic acid metabolism",
+    "Membrane disruption",
+    "Nitrofurans",
+    "Protein synthesis",
+    "RNA Synthesis",
+    "lipopolysaccharide synthesis"
+  ],
+  "encoder_commit": "551ca18efd7f052c8dfa0b01c94c2a8e68bc5488"
+}

@@ -1,0 +1,25 @@
+context,CompoundID,role,TrueMoA,PredictedMoA,correct,method,risk,threshold,flag,raw_risk,raw_threshold
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,fixed_original_meta,0.6868261567859493,0.8116873546343458,False,3.4853746759616957,6.994798739374908
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,fixed_original_meta,0.5964906258356508,0.6145998007476943,False,-0.0007700089605386928,3.922253835128459
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,fixed_original_meta,0.6900000761342598,0.7597293641860531,False,5.548444649382611,9.297952646471998
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,low_max_score,-0.10407826845534142,-0.25835762575268734,True,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,high_predictive_entropy,0.3156988024711609,0.6087172031402589,False,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,high_expected_entropy,0.2194679230451584,0.4284923374652863,False,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,z_gate_global,0.34348324559226673,2.299275576435799,False,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,z_gate_class,0.5323025704469947,2.213497637660497,False,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,selected_nested_meta,0.9946422829107759,0.7591968097385311,True,,
+id_00,JH10,id,Cell wall biosynthesis,Folic acid metabolism,0,low_margin,-0.09805678095202894,-0.15510039064101874,True,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,low_max_score,-0.32002157792449,-0.3619890019297599,True,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,high_predictive_entropy,0.601029634475708,0.6438639760017396,False,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,high_expected_entropy,0.4488909840583801,0.4597413539886475,False,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,z_gate_global,1.2394562858516962,1.827614357534746,False,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,z_gate_class,1.076423035056336,1.74125743674729,False,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,selected_nested_meta,0.9268151182730178,0.6217725642187207,True,,
+id_02,JH62,id,lipopolysaccharide synthesis,Fatty acid synthesis,0,low_margin,-0.3113716249226127,-0.33579444634546235,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,low_max_score,-0.4492723662406206,-0.21100555455312126,False,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,high_predictive_entropy,0.6401951313018799,0.566514015197754,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,high_expected_entropy,0.43563246726989746,0.40351918339729315,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,z_gate_global,2.187651715607582,1.737868309654933,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,z_gate_class,2.213261915302625,1.6675436946993567,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,selected_nested_meta,0.8278328537211751,0.8159509737243258,True,,
+id_03,JH47,id,Membrane disruption,Cell wall biosynthesis,0,low_margin,-0.27960181232541803,-0.1743894563912181,False,,

@@ -1,0 +1,19 @@
+arm,CompoundID,compound_name,TrueMoA,true_rank,true_score,prediction_1,score_1,prediction_2,score_2,prediction_3,score_3
+proteomics_only,JH6,Imipenem,Cell wall biosynthesis,1,0.9969565930962563,Cell wall biosynthesis,0.9969565930962563,Membrane disruption,0.004091981348283298,lipopolysaccharide synthesis,6.375763343044127e-05
+proteomics_only,JH13,Chloramphenicol,Protein synthesis,1,0.9759081786870956,Protein synthesis,0.9759081786870956,RNA Synthesis,0.00405688752007336,DNA replication,0.0005556914452978389
+proteomics_only,JH24,Tetroxoprim,Folic acid metabolism,5,0.01559150824255994,Protein synthesis,0.18401184998016104,DNA replication,0.11495358351618053,RNA Synthesis,0.052372972744342404
+proteomics_only,JH27,Temafloxacin,DNA replication,1,0.9814092686772347,DNA replication,0.9814092686772347,Protein synthesis,0.008025599729385675,Folic acid metabolism,0.0007299099250568019
+proteomics_only,JH31,Nitrofurantoin,Nitrofurans,1,0.908296091556549,Nitrofurans,0.908296091556549,Protein synthesis,0.010741058548883301,RNA Synthesis,0.0016517038739897315
+proteomics_only,JH38,Rifampicin,RNA Synthesis,1,0.5996528306603433,RNA Synthesis,0.5996528306603433,Folic acid metabolism,0.043171119604303386,Fatty acid synthesis,0.021200193676049823
+proteomics_only,JH42,MUT056399,Fatty acid synthesis,1,0.2883146921545267,Fatty acid synthesis,0.2883146921545267,Folic acid metabolism,0.06124217444490114,lipopolysaccharide synthesis,0.01665140680757759
+proteomics_only,JH44,Polymyxin B,Membrane disruption,1,0.9105314218997955,Membrane disruption,0.9105314218997955,Nitrofurans,0.003079967893281719,Protein synthesis,2.9347935509980163e-05
+proteomics_only,JH48,PF-5081090,lipopolysaccharide synthesis,1,0.7239901164174081,lipopolysaccharide synthesis,0.7239901164174081,Fatty acid synthesis,0.036053174625267276,Cell wall biosynthesis,0.015049861805096043
+all_modalities,JH6,Imipenem,Cell wall biosynthesis,1,0.9946742871403694,Cell wall biosynthesis,0.9946742871403694,Membrane disruption,0.0020879226973283945,lipopolysaccharide synthesis,0.0002900858005909868
+all_modalities,JH13,Chloramphenicol,Protein synthesis,1,0.7081586040556431,Protein synthesis,0.7081586040556431,Nitrofurans,0.005813865821110085,RNA Synthesis,0.0030328919077692263
+all_modalities,JH24,Tetroxoprim,Folic acid metabolism,1,0.4521839773282409,Folic acid metabolism,0.4521839773282409,DNA replication,0.015224714356008917,Nitrofurans,0.008241447146428982
+all_modalities,JH27,Temafloxacin,DNA replication,1,0.9982585859298705,DNA replication,0.9982585859298705,Protein synthesis,0.0004615754603182154,Nitrofurans,0.00011192140136031979
+all_modalities,JH31,Nitrofurantoin,Nitrofurans,1,0.9137900054454804,Nitrofurans,0.9137900054454804,Protein synthesis,0.01775107411580393,DNA replication,0.015905668479972518
+all_modalities,JH38,Rifampicin,RNA Synthesis,1,0.9241902771592141,RNA Synthesis,0.9241902771592141,Protein synthesis,0.006477610911533702,Fatty acid synthesis,0.0021141317749970765
+all_modalities,JH42,MUT056399,Fatty acid synthesis,1,0.46408953312784434,Fatty acid synthesis,0.46408953312784434,Folic acid metabolism,0.016680932902381755,lipopolysaccharide synthesis,0.003667767992483277
+all_modalities,JH44,Polymyxin B,Membrane disruption,1,0.9128935861587525,Membrane disruption,0.9128935861587525,Cell wall biosynthesis,0.001148910259056688,Nitrofurans,0.0005448737177675867
+all_modalities,JH48,PF-5081090,lipopolysaccharide synthesis,2,0.10819315075408667,Fatty acid synthesis,0.13278729327023028,lipopolysaccharide synthesis,0.10819315075408667,Cell wall biosynthesis,0.00931666859658435

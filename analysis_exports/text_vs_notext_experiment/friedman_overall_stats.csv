@@ -1,4 +1,0 @@
-metric_key,p_friedman_raw,n_cycles_balanced,alpha_bonferroni,friedman_sig_after_alpha_bonf
-macro_f1,1.036760195096003e-06,25,0.016666666666666666,True
-macro_ap_ovr,1.3147281881138022e-10,25,0.016666666666666666,True
-macro_roc_ovr,5.0086446714497897e-11,25,0.016666666666666666,True

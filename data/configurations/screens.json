@@ -1,0 +1,5000 @@
+[
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6bab2e7ab91bbedfe9fd7e12f3f95ccc14966ba0baeb4c54e1b6a511709ae2fe"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+CellPaint",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f929d9f35f0489e79932055e02670889a99c44d14f0ebf951f9ba356ed14c2c4"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+CellPaint+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "0ff123b3bc087801476971a77f19abc21ab4b781ffb9a6c0b4fb92443f8a1f4c"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+CellPaint+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4b90b98c24c34931fc578feef289289e0a11e72918265ff3932706b15f286dd9"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+CellPaint+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c177cf3a600388e4154a0830e49ca21ec9f404b96bbfee61d1de1c430045438d"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "629ad57ee34d836bcbc773224e7887e3a4ef5117aa7f726172c8c8a275c3149b"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+CellPaint",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "27e534319a60496a200d106f0c42a1cba60bfe1635b449d94b04b9b6a147e4fc"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4cadb21226fd369770e9fc29774ede1bfc9523586d1f33976dedcc3d8edfe897"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "11afd4323b15ef2725332c52e8a4d2626da018987f6b8e5d85eb7f1454a0ce47"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8e35b7fab09b750a13fa5e8c6ce35bdfafc28447ec0e73d41d62a95986c9151a"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ee892c384416dd7e2b454c68ab343f7a7f108d7e9548cd03c24df5e65b52fdf3"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c6962e6327ea28b8c03926e5f124ac1d468b2f0af016bc7ea0b069dab9cb26eb"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+ECFP+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "10e6c2110c4493eb6ba1320341850b9df64ea94d8fc36f397eea8c012f249893"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "0f2b9dbdfebde7fccea85bb5d5c5fbf7e42e6b38561b0c43c7026f6c5f7d52cc"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6c063154eb89c937b7424e80ea161a13cc97d7566debc7d3f107ac598e097720"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d3695a4d668d0edd71dea91f9daa008bf75f1d7f3741865597858f3e413e4517"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "fdf6af0e72da1dc33c08cd961ca52b4bcf466f0a9e1726b776e982a9ddfc6412"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+CellPaint",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "cbfcd23e079624bccec3340cabb775ce86cdeac369571f769e38dccdaccc9c10"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d68685987752d8fa6322cc4ed3c5577bf50d3aa25e321c17e33e75cd87c4f2ac"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5490bb92480f7541ead23e50c83d3b6fd07d7d9e0f18bd335b1303b72b2efa3e"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7a7e7f9b2908a6fd4c9f0e076cc81c8712457a2642b363e367fd82450d371860"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "bc37b352f18c81e1c616eb86c382f255eb1cee6f8adbdfd7581258698ca0d8bb"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2efdea7747fd23b9c4d043a42edbac7aa5f6b5ef6a1db0f0a97a39084f47425a"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "73476f1a342e25b373e37cf55fd28a48cce1eb3b11e9f3527aea6bc40a143d55"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c606910257c526565f7ab3dc59ce9e40bda15d650810c7a41413ca3113ea019e"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f425ca55f97e94113b98f5f767ca7163bbd38df0efadbc5929aa66e654a19d60"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1b1538293390a59549abb1badd17efba5a3527bfc9d00dcca9fecfb3d4a73709"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d6d2f1fc0e4701b64094b5564d8f8ac50adf5a6f7c8fe90866ecc39914fa532a"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "af08d887a47a62cc6d3d224e46fb35b7af21e142060b49c1a8900ac362e7f69a"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "bf7b8a6742a861e9f55415e027566b4cad19fb4b9bed6e7f8c54b092f9b82157"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+MIC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9ab764666f51b2211e26f041762d1749c93e1960f040d42b4ddc4169f03820f1"
+  },
+  {
+    "id": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+MIC+GC",
+    "model": "lightgbm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "68c1b2105243e69c80507948e32a7e489627ff34db202ca06985b07eee75cb78"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "dd1f250e6bcf51ba14e8bf85253e5325520855be0568b4804d39a368f56754e6"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+CellPaint",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d94178a8a485bb7e937797858dc605150bc7a3ac9eb686c6d8f01a86a7902d60"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+CellPaint+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "dcecd34dad5d3d51eaffdab196a75b7b8547c6b7baa3159b69b6a9417d90b6f1"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+CellPaint+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2bca61b366e2f1313e3762b515721bfd988f7839d6679ad51b34a3f170d2ba2f"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+CellPaint+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1ad3e90ea31523df44d183e779fe19f4f71c73977f04a60fa380017e13ce127e"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6ef196f54b4aa5fdd69eaa829b5ef9c8075b0aeaf9af341e23ed22fd5adc5afd"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "82a033349a9c205eb6208618f7343ca7f5352c67e6c5de420f5bb339bcebaa42"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "515cd7eb592b5a5685ae648f959cf9327a46b38de501f22488f2f230f4f3e7bf"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "77d34e5c118c0b303ee2f7a2f1d1b7de9c283916a49b68fc883512b592107a5a"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f2c341eb9a42b075a41ab577f134577b73953468b6757c249aafd65a1995bdff"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a1b992ddc5caed4740bbfbb465ea9f3b8dd37dc0a298655d24b544422defc595"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "25c627501929d586b5742c1243e9ccefefc854284e6c35036916cd36c9a1a4ca"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+ECFP+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "aa53155def71e366d45624f7eb51ccf2b08f4d61c304ab2d735cb6e953219279"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8468d421e8f66e30b2a72961f49fb83cbbc12d6d5d3287298102b15ba2298018"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b12ab45cce21359b989bc335f763656af144f64b3ffb2fb4628f5efe33c3f588"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "e07d715305a7efe12fb90e33680367c6277da37ee327bba3203c9e6a6dc4c422"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9ec1035f045d270e5154a59c8e7bebb46e71c270d9f34fd09660e5cd00b421f3"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+CellPaint",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8468a0f62351ff1c33c6ab5c96c5b73995950b2e37a4a0c551838f9b823cc283"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "062570ff7deeb1dd0430bc28959c803b02e9c7842386b1467b13e8fa012e1a24"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "fb99ad3bdf9c672f7843da46fe721ab3d65ebb02ae47cf8e6cb0f7e45e996ca4"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1cfb89f7ecd7fdca6c5eafe7daadfcb65e3b4b89732043bbe8a255c75b9d18ce"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "faeadcf64d94d8957c215d7fe5bce28fa42683045631f884ac5ef1eed0a48c59"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c8c01f6f69d0e45085a4b5d685d06d600ab2314272c7b7687fef38f1539b3510"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "dc57ad323175c8235d65263568c5596b27dfaa507fbe77461d8c8679e5ed7e26"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d663e05e5a1e2b26d62833d0732274429ecc26ae8bd0ad332c062a8f368dae19"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "af1bd6c038d101381ec630cd3bf7f4a5125da10a66ed6b6c47be0ba3c1ad4b45"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4dcb76e3d59dba33ca8935bce28d76f0de4fd24d9ee361cf1a0039558d528645"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8199e199b1c7db66b433b9d27d26467f004da3404b616dcb12808d52b73b2251"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ade67e9ee389032c57ef30c4e536d33c400fb64de435c22ff258024713a169f3"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7d5f9452044eb53a1abcf61d31611d507761bd80d52ce24a7e2200521661176b"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+MIC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "e138d60a7dc8a1fbe9e5df581482a1068d9e2fb96f786415389424c64241a7e5"
+  },
+  {
+    "id": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_mlp_Text_Embedding+Proteomics+MIC+GC",
+    "model": "mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1ff8bf5f22b15905581634afd127da7d9ba38d5c17a541f51d9a5df7c00cef34"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "fe53308cba4b8430821662c12ed1838c12d13fe7ffa009d7fca26b5e052eb464"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+CellPaint",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "304224bc74e0970e771cd6f903f107a44171418db632bf331439ffbae023ec04"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+CellPaint+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8b231a335569430fee15f026809405401ebce313827bc68a776bd8345c3583bb"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+CellPaint+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9e9e7180888b9ae4c5b661d4229b976ec6ebcb98b9fb1eae713946abd85138b5"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+CellPaint+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4a42adddafd6ec4c4d7743eb180c3b351be04170a1bcfb5584a2b709a59926ee"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f898f691f73ea6d3bfa98db8b7425311ce4af604c0e0ab0a51876ac1e54a1600"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+CellPaint",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "43db0dd6f618a781939e4d28993d55e10aa89b2d18cfd26926c772714ea9173f"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "974dff4b97c7d6b9f6c236317fe420f47339332c93d59bba28f6448549f9a7e4"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b456551121422f3b0546e8e422c414fd99173afe1ae082e72deb66bf9551a817"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "71fb3623478664b947e6ca4954480e98b2656a0b3236a8f29f689723dcfe0693"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6dc0f829bd2664dda661db2625ba58fe6e501395d1e391ebf2ae77eb12e42d9b"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d9fd9771577728a23b08fd611bac5879377ad45b891543b54627a477b331c7ac"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+ECFP+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "e93f5eb64cb195fbd804737943d251c69558a7e100771aaeb63fb02d903c3ce6"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "af36d27ae3f4aba6a2d0fc8522d3d0a4f688acf17094e97df254e586f5511fdd"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "fe9ba8e04bf7b647dd0267694e7d716c3434789cbed98b45989c47aeb3dafe94"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c56f92011ed03f45f74e31a55d2f1762281357253af0957832c1951b10b47938"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "45df0dc3959b33eb268b3537d84553edc2b16219a0767e68f4b31d8581706a2e"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+CellPaint",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b11ceefda182c4902498a0a7fd4d84f2f8a67a8137581b0fdfe48030a003eacb"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6639a25d6e84944bdc648df28b30684b9c154a834e766ed55c98b0d598692850"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "72bb484a154fef4a07e4f9fb5ab25eb6841ccc798486f09458c95da7bf63377d"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "742503b30088a83d38d9c8770a02f4ccd5363f1b75889a32b4d9f84ac1e8afd9"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b7fd1caadc35d96c3e6e7293667d04f3cbc8b02ecd00da32c8a5dadc4ac8075c"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f37361f6a9ac9e95290f37b00c409e0e2b2322ab9cf8a7179829e762691c5b62"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "222d5b2551713a2654dce3e92d7dd2167bc507eb0ed19d44c671a3384cd2cb9a"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "efcaa39c8cc86682322de63181edbd9085994828759dba8c00a6b2e80b736f6a"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a8003ca6250b7affa53ce76ef943e4ee9425af0261a18745d98b09fd27d10c84"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "85e0c648a7e0ddd06385bb8c5205192ead221f3831bc87c2598e88bbbc5c27d3"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "58026d5df30a8db162541ab7d37e310834d486664598aebbf6e1baf7e3c0230e"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5b51eb2a63a75366f80a8f1ee90fdb9f530219e68f8d9280936d9d399663c61c"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d03b56621d510940527452d4abcff3d25ac276ddd902b208edb69c7352abf995"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+MIC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5353fcad73ff549e239977d38588300401356a046115bf1873e908b7e469304a"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+MIC+GC",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "231b6011d2105099fe316edf4a83f9a68b6e1214ac981a79143d58a23a555da7"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7596f94d68f9ccb8212121662504c6044ece158562ce5428a8c7d61df1e0243a"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+CellPaint",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "89e8a8fb3a6adf4f08d687bb3a4cce19bce900416b22b5fec34557dea65b68ac"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+CellPaint+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a749587ae0fa7735577ff82bde431762c016b88d7c870f94f8de2773a8520ab5"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+CellPaint+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b6a1cb047ba4301bdf24519c291bcbdf5e60635b34db8f8cc68296f53611b807"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+CellPaint+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f64f8678ec82dd8fd855f0aa27f3a813908e6c345801ae761dacdc70e8d3b068"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "0e38c199ebfa8bfd6452cfe7b93ea04a3d99972052df9990bdcdeba39cb55a07"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+CellPaint",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9598dad59480dca0b7bffbb248e8deb139d9d30748ea4369d9d2ee3f0af3fde8"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a441d05a9960e0894c397d3e32f66d8b7d5c7df0df497794fca6295fbdd3853e"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a13953b850d10ec6c2217662601978578f56068e6f3a309c9c68e1f357739718"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2988a85dd24176cb04e95a8223965a004bfdf0a9ca839e3794209f9327fb6289"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2e37217ce011ed11158bc8567927767d10833adcac3801b7fecc90caa29c1317"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5e194c2d991c1333ff998ec645a707dfdb03ab3d75a8d5b23cc18ebac0768fc9"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+ECFP+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1721ae37765a2effe16ca1ccf9b769aef78d169481872cfeb389f01270c5ee5b"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "43c630dac15f06fcb9ec59cceefd03815f2266e2276644f6890a8d527fe510e7"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "3fcbe2800515c1a8bb3515fe79343fa9533a580976aac1ed9da942a38d721416"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "90d93eeaefdd70c2161780b4ffc749011793f2c4c2ff189995ada531486f5c0c"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "6d48572dd07f32fe1166a81425538de17b032f561600d35240c1d55466da6a07"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+CellPaint",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b0f06e10b198efc6e4472a4e879a6c0ae9751458b470d9e2ddeeef57ebcc41a2"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d0861318387c4ec2c1a4f72313887a9264aad690f21a42b3a09aedff30bead92"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9a0ca99df01b6e12badcb9cb5e8ea5e925b24613e72539fd29595978225c28ec"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "fdd7cf500c9197ac0dcee141e3c7b5b717e90fdb626d00cfb96a05716bec55e6"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4935bd98e898faf866ed2f17fc07d8d72381df4cf3a541401144dfbef056a848"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "39bc07e677592ca66236b26b973325ee4fa30d49a15c09ebb6016cd23e527cc1"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b57f813075271007e071cf9a3bd1026e0009ec3f7c04a9b86c63182aa2dfed74"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a270f48f638dab15cc5f2981494ace118c1af48b105c56f92552e3a54d8130bd"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5f45f878b79ac49b05365ba1c90f6374ffe6f73a74858d12540c9077657a7052"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2ffc86ddc9b7e7e2fa19edaa128c7bf01347e8152c99e714e2414dff056acf98"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "50b1479d20bff6557301b00097668ac32227558a36d1feae4ccbfccde8e34259"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5d04d2e8028ecda00aa5327a6031297c76c7550c1dd959d31fe416da153fdf83"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "119bf34657eabc62787d5ee9e1997ab9e9df0589e86fd3ec6cd3b1f774ef5ae3"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+MIC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c5b85508a390f3aa1743e6ee554ecf3eddeccef3a02c0e11f55d46e6f2a756fe"
+  },
+  {
+    "id": "semantic_BioBERT_rf_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_rf_Text_Embedding+Proteomics+MIC+GC",
+    "model": "rf",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "e0cad7cf83077a46f97694ce5e7d473cef76f2e9a116a2e09d7d8a336ab0b2bd"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "46700db961bac347c19d93c0df8eccefc4393d903cc9145af9d99f67fe84091b"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+CellPaint",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "dd387212ca0f88925caf9063a53b6c6b9f1e8a1fbf4a99979c4052d512ca813e"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+CellPaint+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2900d0b10d91d81d5071b2745602cbe6036069ff02afe2058053d277f3768766"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+CellPaint+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b0ce1e20e1db87c72a357a0e0de90cfb488de08e6f19e89d1a16320d125889f1"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+CellPaint+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f54c72fa90347820e6d2778490f3cc185292634062d10be7df53a9070e7705cf"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f678016151b95ec0888d4c1d69778ba1e7331bf361306bd29ff6cdca8e3350c5"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+CellPaint",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "e5d86e73cf96537598f668859d43f71d8930c5b133ec62da48c798a5233fc5e5"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "95ab7464537d72324be05a9d7594a43bc72b05bb786362c726c287ad1d2da8f4"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9825ee972bc5d21e04c36d8327a31e3aeef1701c97264832788d374f7911fa6a"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f3ca47c4dcedf310c34d9a673610694b81e4ce1d9a0c3090471d1ebd79b22059"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "803af109c55ab34e2221e0c368f6d953a980b858e63eeec24ac22a4f43e0a8a9"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "0d0e64839487787de8712fb69e2eb79c0c825442e2bfe6b9a3b5031a733b6836"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+ECFP+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "547e57c18a53a3d6b4ead499551eefb9598b7ab9cee633a74602c9000a231c0e"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "86e8a3f9fa8a3b2748abe41717b376e2fe4fc78cd8b968e651d66d5bf5bb5aee"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ed5ca96ace8c0f5e4d2b6ebbee297694f2f34d3297bae2d6f0c9970494198778"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "3d9359f6221db0b1525e48b2df9132a34b9dcf205364542f2255e3d7146e11ba"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ffa9cfc239247d6ab182fdb77c9658a0a31598a23785632c5825e7b1e5fd7d5b"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+CellPaint",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "1abbba03b58c5b54e15f79e54b60b973ed96da47597d0faf01c2525d6b3bfccf"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ad618de6864626acca22120cef3c828911344184ffcea084de15c0e28999aa02"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8d3cdd4512fceabf834a201e7b19a22bc59dd7052cafb9a4154c8c57756103ee"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "de7cc4eec505d618b48cb15a4c390ecd7047d9fd5cebc6e88de95b1d959ed9ab"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d536e79c288ef81172a3c8ff7b6ef8cda1627acec894f71d98897b96339636c9"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2050fb1271d204195ea62c4db549138d35dfc2db44fc53e42cbe311526171715"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b7233869fd06f1ddd419f906a07f35eebb5dfdf89b0107a781f9226e6f61f087"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2f50d3783a4a8361461dd5bfc1055e7bf10f6e0a634fb8073914a18ad928dc75"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "d5af18a3baafec19ab6818711bc891bbe708c0d0ac6e544eba7dec147b2a0538"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b745821c9588f01505d17f220d12bbe83ba39b3f4d67b6cc5554dc1053b4e9e0"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "95e7412630e587118fa51774b27f4eb1b274d34f1d124e5d3260b5d5b377b0b9"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b60fa4046fd1d02ad56faa97c382e517ea0975241e122eb92960f68ff071cdec"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7eeacaef9238f0d5b8bd60782bdb4d4a6f86ffee97de2eb691170c23eb57b52a"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+MIC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "73348308628c1cf5af3d479fad503ef0f6abdf91a544f9b9e7cead860a9e6a90"
+  },
+  {
+    "id": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_tabm_Text_Embedding+Proteomics+MIC+GC",
+    "model": "tabm",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "224b36eec452682a75f14e7f20f16b33097a2332893f7a854b037655606f928f"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding"
+    ],
+    "feature_order": [
+      "Text_Embedding"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "ff7edc672039a726860088c78bd504c547d359ae6e95e573fd44d57a1acf19bb"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+CellPaint",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4635c7a112dfbfc49cfe9152132abf9f7b7f794f66f6290a1bcc29d4209f7365"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+CellPaint+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5a85617acf87b65e7b310bdfcbb1f3144b7fa0f5452a6356e15d42fb4b5272e5"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+CellPaint+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "86b0aaddc2ff367bcf93cd6b8cd5b3434a49c30489d343f98a4e80ba645db4ea"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+CellPaint+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2d814317d27db9062099030d3c40c3aa280c5ff136a17f910934a94b529fd7a4"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "58982049738c12bc7bce28dc25abdd1bc8fb07726c9717307db298ead2d9d658"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+CellPaint",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "03847d96523b31a03149ae37fc62e92a7af33c62f9bec406ab2c31e352c47e69"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+CellPaint+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "a279361a8bf9554042298ce8d4d7fab192c8b9e72bed3b254cd9753eaab314b6"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+CellPaint+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "2d453d0949a4033756dfb32cd7a336ce6839015ce6a1ee9f6775237b9bd0b77b"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+CellPaint+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "cd9980cd93daf7c892394e2db1c2b9822deacac83f6a5243104bdc91cc73d800"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "3bd69f65beedbfcf9f01e396573b5990ab7c16b06f9a9dad1d31f4864aec5155"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "51c88618d3c7960db070312a9a926aedb7ea5afad3265c9c65f1a86d72bb34b9"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+ECFP+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c53fd111c8c1ef5c201e6e2bdcd9cf0ccae8a94c4a1ae205c63fadd78ffcd546"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8d0208ccc009415c4fcf96b39dab1c11ac6c1988acc965f2b7cf03b8c4341cef"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8e91da76182b2367731e5cd6349456fc1ad3601642f5ab6c4a3c3e947304414b"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "9c02b47860e680a3137583c768a8f4795f54186f24a7932009a5ec1c5a63c9a0"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7b22f6d529cf9d7e015ad85d8705ac20cd68815e359390311a87a115d8eab38c"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+CellPaint",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "b67c76c389d19d6ba99a3e724ddc82598b2469db7494740603f17a04cfb5469d"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+CellPaint+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "4f58284fcad310344507437b36154f856d852352fed7e8019bf789f5efcaf245"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+CellPaint+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "eebc1cf42453543df96d21f575f1a0e2b24040e455873f825ac90f0a433ec4ef"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+CellPaint+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "c818f07966848bdfc47453295c21bf3da5350aa957d987f75b4dcb74d2983c32"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "758a639b50a9f849bcb756b9377b6a28b53fe0cc1a11ebe01630475cb9c2adbe"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+InfoAlign",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "83230ae10cc5786195eb370ce42bfdbbd7926a664f1d1bf3463f0cc50f439d51"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+InfoAlign+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "7e159b8c76598691571402d5378ec40050ebdaf1d9b65b69c0512357d4d5b663"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "568fbc663d13473ffc537dd8b946571fcf80674ac0f7bb5452801d443a61f5b0"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+InfoAlign+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "CellPaint",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "InfoAlign",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "19fae07eaf7402d977a8e3e3b9a2144a75318a539a7ff7fbdecafd2e84377174"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8e12304de252d16f43b2590b9838e5421ab0bf38abc21611e7df80252b13eecb"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "11782049d3bf491e35c41baee3ee3b2ede4a12396c68b9aca286e193f3a764d6"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "ECFP",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "60537f9e16690fb30a96533355f3ed746a560ed8e24e5d75a0b85217b03fbff7"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "f493fb3a32c02d0ea61105bd3a9cc351df48d088d6d969895feff482f541b219"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+MIC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+MIC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "8b79030b3c7916ce5aef633ab3957b618b2c55d8a9be04b88883e1d578b723b7"
+  },
+  {
+    "id": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+MIC+GC",
+    "study": "features",
+    "original_configuration": "semantic_BioBERT_xgboost_Text_Embedding+Proteomics+MIC+GC",
+    "model": "xgboost",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics",
+      "MIC",
+      "GC"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure4a_compound_folds.json",
+    "original_metadata_sha256": "5ed4c81ef4fe785a289021162c1b488374d787923f7e59ffee0882d0cfc68da1"
+  },
+  {
+    "id": "semantic_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "semantic_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "1077f0e366360c1dd64ecde6f48fa2380c0e2ec8118f0a0836aca31add5088d6"
+  },
+  {
+    "id": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "fdb07a08fce8d115482515ba8ac28d59d6dd9dbd783058f58afc63a1976f612f"
+  },
+  {
+    "id": "semantic_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "semantic_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "semantic",
+    "encoder": "PubChemDeBERTa",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "2f67804e27c89e14314f2c3cee5c04a8fdfc1c8382c94d7f88296d017d3aff88"
+  },
+  {
+    "id": "sentence_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "sentence_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "sentence",
+    "encoder": "BERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "2277c1b5975c2165b0a1be335bb8e3f16d446d275cbb0df82a3207e52b87930c"
+  },
+  {
+    "id": "sentence_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "sentence_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "sentence",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "96f681fabfb01d75608ddde66b6c0d4706435f0a674af2188659bf47fa9fe309"
+  },
+  {
+    "id": "sentence_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "sentence_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "sentence",
+    "encoder": "PubChemDeBERTa",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "0f6b1ae9dacc67b3e6121c0e46bc0c636859d1ee8b85ca8620ea08a76b1cf597"
+  },
+  {
+    "id": "word_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "word_BERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "word",
+    "encoder": "BERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "030b56b0db3713198782ab05b2857715265e696b5d46abc9996c9a4f4a49718d"
+  },
+  {
+    "id": "word_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "word_BioBERT_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "word",
+    "encoder": "BioBERT",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "05f4be0cdad3c6ea29d54a0a17ab3c9edc61d26f4f0c3cb2bd12e0ba0a70dda0"
+  },
+  {
+    "id": "word_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "study": "encoders",
+    "original_configuration": "word_PubChemDeBERTa_pytorch_mlp_Text_Embedding+Proteomics",
+    "model": "pytorch_mlp",
+    "augmentation": "word",
+    "encoder": "PubChemDeBERTa",
+    "stored_feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "feature_order": [
+      "Text_Embedding",
+      "Proteomics"
+    ],
+    "cv_splits": 5,
+    "seed_splits": 1,
+    "base_seed": 42,
+    "cv_iterations": 5,
+    "fold_manifest": "fold_manifests/figure3c_compound_folds.json",
+    "original_metadata_sha256": "49bfb86d53f1e594e20d23f66e5fe349c82f2f39910054cea18fa223dbff90b0"
+  }
+]

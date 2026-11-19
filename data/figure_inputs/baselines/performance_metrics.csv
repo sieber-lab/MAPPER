@@ -1,0 +1,37 @@
+arm,label,configuration,features,metric,estimate,ci_low,ci_high
+deployed_mapper,MAPPER (deployed TabM),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top1_accuracy,0.9294117647058824,0.8745098039215685,0.976470588235294
+deployed_mapper,MAPPER (deployed TabM),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top2_accuracy,0.9647058823529411,0.9176470588235294,1.0
+deployed_mapper,MAPPER (deployed TabM),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,macro_f1,0.9195247377703518,0.8415358218779272,0.9732248687796934
+selected_tabm,TabM (CV winner),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top1_accuracy,0.9294117647058824,0.8705882352941176,0.9764705882352942
+selected_tabm,TabM (CV winner),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top2_accuracy,0.972549019607843,0.9294117647058823,1.0
+selected_tabm,TabM (CV winner),semantic_BioBERT_tabm_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,macro_f1,0.917931211470943,0.8384441680801329,0.9759094905018536
+selected_lightgbm,LightGBM (CV winner),semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top1_accuracy,0.9098039215686274,0.8588235294117647,0.9529411764705882
+selected_lightgbm,LightGBM (CV winner),semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top2_accuracy,0.9607843137254901,0.9254901960784313,0.9921568627450981
+selected_lightgbm,LightGBM (CV winner),semantic_BioBERT_lightgbm_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,macro_f1,0.8913633757596605,0.8234558631178858,0.9385882434845282
+selected_pytorch_mlp,PyTorch MLP (CV winner),semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top1_accuracy,0.9137254901960784,0.8431372549019608,0.972549019607843
+selected_pytorch_mlp,PyTorch MLP (CV winner),semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top2_accuracy,0.9568627450980391,0.9058823529411765,0.996078431372549
+selected_pytorch_mlp,PyTorch MLP (CV winner),semantic_BioBERT_pytorch_mlp_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,macro_f1,0.9017933723196881,0.810308844501827,0.973985607711098
+selected_xgboost,XGBoost (CV winner),semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top1_accuracy,0.9137254901960784,0.8745098039215687,0.9490196078431372
+selected_xgboost,XGBoost (CV winner),semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,top2_accuracy,0.9647058823529411,0.9411764705882352,0.9843137254901961
+selected_xgboost,XGBoost (CV winner),semantic_BioBERT_xgboost_Text_Embedding+Proteomics+ECFP+CellPaint,Proteomics + ECFP + InfoAlign,macro_f1,0.8915388143561518,0.8279708427585106,0.9325507286735357
+selected_rf,Random forest (CV winner),semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top1_accuracy,0.8901960784313726,0.8274509803921569,0.9450980392156862
+selected_rf,Random forest (CV winner),semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,top2_accuracy,0.9529411764705882,0.9098039215686274,0.9882352941176471
+selected_rf,Random forest (CV winner),semantic_BioBERT_rf_Text_Embedding+Proteomics+ECFP+CellPaint+MIC+GC,All five modalities,macro_f1,0.8640117177475279,0.7767355732741439,0.9375787296400043
+selected_mlp,sklearn MLP (CV winner),semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+GC,ECFP + InfoAlign + growth curves,top1_accuracy,0.8509803921568627,0.7607843137254902,0.9294117647058823
+selected_mlp,sklearn MLP (CV winner),semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+GC,ECFP + InfoAlign + growth curves,top2_accuracy,0.8666666666666668,0.776470588235294,0.9450980392156862
+selected_mlp,sklearn MLP (CV winner),semantic_BioBERT_mlp_Text_Embedding+ECFP+CellPaint+GC,ECFP + InfoAlign + growth curves,macro_f1,0.8347707504054253,0.7159944935405069,0.9234693425482898
+proteomic_matching,Proteomic profile matching,fixed baseline settings,Proteomics,top1_accuracy,0.6470588235294117,0.5294117647058825,0.7607843137254902
+proteomic_matching,Proteomic profile matching,fixed baseline settings,Proteomics,top2_accuracy,0.7411764705882353,0.6274509803921569,0.8431372549019608
+proteomic_matching,Proteomic profile matching,fixed baseline settings,Proteomics,macro_f1,0.6230949079968687,0.482422535902541,0.7424130443955002
+chemical_similarity,Chemical-similarity assignment,fixed baseline settings,ECFP,top1_accuracy,0.8588235294117647,0.7647058823529411,0.9411764705882352
+chemical_similarity,Chemical-similarity assignment,fixed baseline settings,ECFP,top2_accuracy,0.9098039215686274,0.8313725490196079,0.980392156862745
+chemical_similarity,Chemical-similarity assignment,fixed baseline settings,ECFP,macro_f1,0.836514052014568,0.7200333725728462,0.9318721094675686
+proteomics_rf,Proteomics random forest,fixed baseline settings,Proteomics,top1_accuracy,0.7568627450980392,0.6588235294117647,0.8509803921568626
+proteomics_rf,Proteomics random forest,fixed baseline settings,Proteomics,top2_accuracy,0.9019607843137256,0.8313725490196078,0.9647058823529412
+proteomics_rf,Proteomics random forest,fixed baseline settings,Proteomics,macro_f1,0.7353317637528163,0.606504273969949,0.8287335643277335
+proteomics_logistic,Proteomics logistic regression,fixed baseline settings,Proteomics,top1_accuracy,0.803921568627451,0.7098039215686274,0.8901960784313726
+proteomics_logistic,Proteomics logistic regression,fixed baseline settings,Proteomics,top2_accuracy,0.9411764705882352,0.8823529411764707,0.9882352941176472
+proteomics_logistic,Proteomics logistic regression,fixed baseline settings,Proteomics,macro_f1,0.8045909634454527,0.6952119780135776,0.8885742223271892
+class_prior,Class-prior baseline,fixed baseline settings,Training class frequencies,top1_accuracy,0.1372549019607843,0.1058823529411764,0.1686274509803921
+class_prior,Class-prior baseline,fixed baseline settings,Training class frequencies,top2_accuracy,0.3333333333333333,0.3137254901960784,0.3529411764705882
+class_prior,Class-prior baseline,fixed baseline settings,Training class frequencies,macro_f1,0.0511695906432748,0.0373911238970982,0.0637470314809801

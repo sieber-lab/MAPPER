@@ -1,0 +1,2828 @@
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   01-APR-2015, entry version 39.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE {ECO:0000313|EMBL:ACB01663.1};
+DE   SubName: Full=IS3 element protein InsE {ECO:0000313|EMBL:ACB03257.1};
+GN   Name=insE-5 {ECO:0000313|EMBL:ACB03257.1};
+GN   Synonyms=insE-1 {ECO:0000313|EMBL:ACB01465.1}, insE-2
+GN   {ECO:0000313|EMBL:ACB01503.1}, insE-3 {ECO:0000313|EMBL:ACB01663.1},
+GN   insE-4 {ECO:0000313|EMBL:ACB02225.1};
+GN   OrderedLocusNames=ECDH10B_0287 {ECO:0000313|EMBL:ACB01465.1},
+GN   ECDH10B_0330 {ECO:0000313|EMBL:ACB01503.1}, ECDH10B_0496
+GN   {ECO:0000313|EMBL:ACB01663.1}, ECDH10B_1101
+GN   {ECO:0000313|EMBL:ACB02225.1}, ECDH10B_2242
+GN   {ECO:0000313|EMBL:ACB03257.1};
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385 {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689};
+RN   [1] {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12 {ECO:0000313|EMBL:ACB03257.1}, and K12 / DH10B
+RC   {ECO:0000313|Proteomes:UP000001689};
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   PRIDE; B1X7I1; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; HESQIYG; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   Proteomes; UP000001689; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001689}.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   07-JAN-2015, entry version 38.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE {ECO:0000313|EMBL:ACB01663.1};
+DE   SubName: Full=IS3 element protein InsE {ECO:0000313|EMBL:ACB03257.1};
+GN   Name=insE-5 {ECO:0000313|EMBL:ACB03257.1};
+GN   Synonyms=insE-1 {ECO:0000313|EMBL:ACB01465.1}, insE-2
+GN   {ECO:0000313|EMBL:ACB01503.1}, insE-3 {ECO:0000313|EMBL:ACB01663.1},
+GN   insE-4 {ECO:0000313|EMBL:ACB02225.1};
+GN   OrderedLocusNames=ECDH10B_0287 {ECO:0000313|EMBL:ACB01465.1},
+GN   ECDH10B_0330 {ECO:0000313|EMBL:ACB01503.1}, ECDH10B_0496
+GN   {ECO:0000313|EMBL:ACB01663.1}, ECDH10B_1101
+GN   {ECO:0000313|EMBL:ACB02225.1}, ECDH10B_2242
+GN   {ECO:0000313|EMBL:ACB03257.1};
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385 {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689};
+RN   [1] {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12 {ECO:0000313|EMBL:ACB03257.1}, and K12 / DH10B
+RC   {ECO:0000313|Proteomes:UP000001689};
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; HESQIYG; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   Proteomes; UP000001689; Chromosome.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001689}.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   29-OCT-2014, entry version 37.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE {ECO:0000313|EMBL:ACB01663.1};
+DE   SubName: Full=IS3 element protein InsE {ECO:0000313|EMBL:ACB03257.1};
+GN   Name=insE-5 {ECO:0000313|EMBL:ACB03257.1};
+GN   Synonyms=insE-1 {ECO:0000313|EMBL:ACB01465.1}, insE-2
+GN   {ECO:0000313|EMBL:ACB01503.1}, insE-3 {ECO:0000313|EMBL:ACB01663.1},
+GN   insE-4 {ECO:0000313|EMBL:ACB02225.1};
+GN   OrderedLocusNames=ECDH10B_0287 {ECO:0000313|EMBL:ACB01465.1},
+GN   ECDH10B_0330 {ECO:0000313|EMBL:ACB01503.1}, ECDH10B_0496
+GN   {ECO:0000313|EMBL:ACB01663.1}, ECDH10B_1101
+GN   {ECO:0000313|EMBL:ACB02225.1}, ECDH10B_2242
+GN   {ECO:0000313|EMBL:ACB03257.1};
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385 {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689};
+RN   [1] {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12 {ECO:0000313|EMBL:ACB03257.1}, and K12 / DH10B
+RC   {ECO:0000313|Proteomes:UP000001689};
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001689}.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   01-OCT-2014, entry version 36.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE {ECO:0000313|EMBL:ACB01663.1};
+DE   SubName: Full=IS3 element protein InsE {ECO:0000313|EMBL:ACB03257.1};
+GN   Name=insE-5 {ECO:0000313|EMBL:ACB03257.1};
+GN   Synonyms=insE-1 {ECO:0000313|EMBL:ACB01465.1}, insE-2
+GN   {ECO:0000313|EMBL:ACB01503.1}, insE-3 {ECO:0000313|EMBL:ACB01663.1},
+GN   insE-4 {ECO:0000313|EMBL:ACB02225.1};
+GN   OrderedLocusNames=ECDH10B_0287 {ECO:0000313|EMBL:ACB01465.1},
+GN   ECDH10B_0330 {ECO:0000313|EMBL:ACB01503.1}, ECDH10B_0496
+GN   {ECO:0000313|EMBL:ACB01663.1}, ECDH10B_1101
+GN   {ECO:0000313|EMBL:ACB02225.1}, ECDH10B_2242
+GN   {ECO:0000313|EMBL:ACB03257.1};
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385 {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689};
+RN   [1] {ECO:0000313|EMBL:ACB03257.1, ECO:0000313|Proteomes:UP000001689}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12 {ECO:0000313|EMBL:ACB03257.1}, and K12 / DH10B
+RC   {ECO:0000313|Proteomes:UP000001689};
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001689}.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   09-JUL-2014, entry version 35.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12, and K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G.III., Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   11-JUN-2014, entry version 34.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12, and K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G.III., Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   14-MAY-2014, entry version 33.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12, and K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G.III., Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   16-APR-2014, entry version 32.
+DE   SubName: Full=DLP12 prophage IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K-12, and K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G.III., Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   13-NOV-2013, entry version 31.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   PRIDE; B1X7I1; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   OrthoDB; EOG6SZ1M5; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   16-OCT-2013, entry version 30.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   PRIDE; B1X7I1; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+DR   SUPFAM; SSF46689; SSF46689; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   24-JUL-2013, entry version 29.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   PRIDE; B1X7I1; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   01-MAY-2013, entry version 28.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   03-APR-2013, entry version 27.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; 316385.ECDH10B_2242; -.
+DR   EnsemblBacteria; ACB01465; ACB01465; ECDH10B_0287.
+DR   EnsemblBacteria; ACB01503; ACB01503; ECDH10B_0330.
+DR   EnsemblBacteria; ACB01663; ACB01663; ECDH10B_0496.
+DR   EnsemblBacteria; ACB02225; ACB02225; ECDH10B_1101.
+DR   EnsemblBacteria; ACB03257; ACB03257; ECDH10B_2242.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   06-MAR-2013, entry version 26.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   Gene3D; 1.10.10.60; -; 1.
+DR   InterPro; IPR009057; Homeodomain-like.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   28-NOV-2012, entry version 25.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:GJ8B-1081-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-2161-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-283-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-321-MONOMER; -.
+DR   BioCyc; ECOL316385:GJ8B-486-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   05-SEP-2012, entry version 24.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   11-JUL-2012, entry version 23.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KKAATYF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   16-MAY-2012, entry version 22.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HOG000266649; -.
+DR   KO; K07483; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   18-APR-2012, entry version 21.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / DH10B;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HBG756815; -.
+DR   KO; K07483; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   22-FEB-2012, entry version 20.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   eggNOG; COG2963; -.
+DR   HOGENOM; HBG756815; -.
+DR   KO; K07483; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   16-NOV-2011, entry version 19.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   GeneTree; EBGT00050000008545; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   KO; K07483; -.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   27-JUL-2011, entry version 18.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   STRING; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   GeneTree; EBGT00050000008545; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; HTH_Tnp_1; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   08-FEB-2011, entry version 17.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   GeneTree; EBGT00050000008545; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:ECDH10B_0287-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0330-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0496-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_1101-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_2242-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   30-NOV-2010, entry version 16.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; NC_010473.1.
+DR   RefSeq; YP_001729281.1; NC_010473.1.
+DR   RefSeq; YP_001729441.1; NC_010473.1.
+DR   RefSeq; YP_001730003.1; NC_010473.1.
+DR   RefSeq; YP_001731035.1; NC_010473.1.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:ECDH10B_0287-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0330-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0496-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_1101-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_2242-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   05-OCT-2010, entry version 15.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:ECDH10B_0287-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0330-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0496-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_1101-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_2242-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   10-AUG-2010, entry version 14.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   ProteinModelPortal; B1X7I1; -.
+DR   SMR; B1X7I1; 15-99.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   BioCyc; ECOL316385:ECDH10B_0287-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0330-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_0496-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_1101-MONOMER; -.
+DR   BioCyc; ECOL316385:ECDH10B_2242-MONOMER; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   15-JUN-2010, entry version 13.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   SMR; B1X7I1; 15-99.
+DR   EnsemblBacteria; EBESCT00000010430; EBESCP00000009958; EBESCG00000009492.
+DR   EnsemblBacteria; EBESCT00000010631; EBESCP00000010159; EBESCG00000009693.
+DR   EnsemblBacteria; EBESCT00000011889; EBESCP00000011417; EBESCG00000010951.
+DR   EnsemblBacteria; EBESCT00000012263; EBESCP00000011791; EBESCG00000011325.
+DR   EnsemblBacteria; EBESCT00000013786; EBESCP00000013314; EBESCG00000012848.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   02-MAR-2010, entry version 12.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   SMR; B1X7I1; 15-99.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   ProtClustDB; CLSK861846; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   19-JAN-2010, entry version 11.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   SMR; B1X7I1; 15-99.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   HOGENOM; HBG756815; -.
+DR   OMA; KTHTAEF; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   15-DEC-2009, entry version 10.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain K12 / DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   OMA; KTHTAEF; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   03-NOV-2009, entry version 9.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   OMA; KTHTAEF; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   16-JUN-2009, entry version 8.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   OMA; B1X7I1; KTHTAEF.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   05-MAY-2009, entry version 7.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   OMA; B1X7I1; ATYFAKN.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   03-MAR-2009, entry version 6.
+DE   SubName: Full=DLP12 prophage; IS3 element protein InsE;
+DE   SubName: Full=IS3 element protein InsE;
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   14-OCT-2008, entry version 5.
+DE   SubName: Full=IS3 element protein InsE (DLP12 prophage; IS3 element protein InsE);
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0287.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0330.
+DR   GenomeReviews; CP000948_GR; ECDH10B_0496.
+DR   GenomeReviews; CP000948_GR; ECDH10B_1101.
+DR   GenomeReviews; CP000948_GR; ECDH10B_2242.
+DR   KEGG; ecd:ECDH10B_0287; -.
+DR   KEGG; ecd:ECDH10B_0330; -.
+DR   KEGG; ecd:ECDH10B_0496; -.
+DR   KEGG; ecd:ECDH10B_1101; -.
+DR   KEGG; ecd:ECDH10B_2242; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   02-SEP-2008, entry version 4.
+DE   SubName: Full=IS3 element protein InsE (DLP12 prophage; IS3 element protein InsE);
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0004803; F:transposase activity; IEA:InterPro.
+DR   GO; GO:0006313; P:transposition, DNA-mediated; IEA:InterPro.
+DR   InterPro; IPR002514; Transposase_8.
+DR   Pfam; PF01527; Transposase_8; 1.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   22-JUL-2008, entry version 3.
+DE   SubName: Full=IS3 element protein InsE (DLP12 prophage; IS3 element protein InsE);
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   01-JUL-2008, entry version 2.
+DE   IS3 element protein InsE (DLP12 prophage; IS3 element protein InsE).
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   OrderedLocusNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496,
+GN   ECDH10B_1101, ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G. III, Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+DR   RefSeq; YP_001729243.1; -.
+DR   RefSeq; YP_001729281.1; -.
+DR   RefSeq; YP_001729441.1; -.
+DR   RefSeq; YP_001730003.1; -.
+DR   RefSeq; YP_001731035.1; -.
+DR   GeneID; 6058968; -.
+DR   GeneID; 6059106; -.
+DR   GeneID; 6059361; -.
+DR   GeneID; 6059377; -.
+DR   GeneID; 6059781; -.
+PE   4: Predicted;
+KW   Complete proteome.
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//
+ID   B1X7I1_ECODH            Unreviewed;       102 AA.
+AC   B1X7I1;
+DT   20-MAY-2008, integrated into UniProtKB/TrEMBL.
+DT   20-MAY-2008, sequence version 1.
+DT   20-MAY-2008, entry version 1.
+DE   IS3 element protein InsE (DLP12 prophage; IS3 element protein InsE).
+GN   Name=insE-5; Synonyms=insE-1, insE-2, insE-3, insE-4;
+GN   ORFNames=ECDH10B_0287, ECDH10B_0330, ECDH10B_0496, ECDH10B_1101,
+GN   ECDH10B_2242;
+OS   Escherichia coli (strain DH10B).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=316385;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=K-12;
+RX   PubMed=18245285; DOI=10.1128/JB.01695-07;
+RA   Durfee T., Nelson R., Baldwin S., Plunkett G.III., Burland V., Mau B.,
+RA   Petrosino J.F., Qin X., Muzny D.M., Ayele M., Gibbs R.A., Csorgo B.,
+RA   Posfai G., Weinstock G.M., Blattner F.R.;
+RT   "The complete genome sequence of Escherichia coli DH10B: insights into
+RT   the biology of a laboratory workhorse.";
+RL   J. Bacteriol. 190:2597-2606(2008).
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; CP000948; ACB01465.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01503.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB01663.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB02225.1; -; Genomic_DNA.
+DR   EMBL; CP000948; ACB03257.1; -; Genomic_DNA.
+PE   4: Predicted;
+SQ   SEQUENCE   102 AA;  11913 MW;  2E14FABD5472ED89 CRC64;
+     MTHMTKTVST SKKPRKQHSP EFRSEALKLA ERIGVTAAAR ELSLYESQLY NWRSKQQNQQ
+     TSSERELEMS TEIARLKRQL AERDEELAIL QKAATYFAKR LK
+//

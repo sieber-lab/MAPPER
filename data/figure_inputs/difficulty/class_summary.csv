@@ -1,0 +1,55 @@
+TrueMoA,n,flagged,class_size,mean_training_similarity,mean_reference_similarity,flag_fraction,method,scope
+Cell wall biosynthesis,9,7,9,0.15252072228531546,0.39272855083783526,0.7777777777777778,low_max_score,ood
+DNA replication,9,7,9,0.16803960667232026,0.4831328429745395,0.7777777777777778,low_max_score,ood
+Fatty acid synthesis,4,3,4,0.14064801907368163,0.195995502025947,0.75,low_max_score,ood
+Folic acid metabolism,4,4,4,0.16177127100840336,0.5943255350920856,1.0,low_max_score,ood
+Membrane disruption,5,2,5,0.15137734213989124,0.4533658180697363,0.4,low_max_score,ood
+Nitrofurans,4,2,4,0.1798177834159843,0.475,0.5,low_max_score,ood
+Protein synthesis,9,8,9,0.14206020449171278,0.4953642421846557,0.8888888888888888,low_max_score,ood
+RNA Synthesis,3,0,3,0.15021766907917056,0.626884226884227,0.0,low_max_score,ood
+lipopolysaccharide synthesis,4,2,4,0.18192005449394613,0.26426250812215724,0.5,low_max_score,ood
+Cell wall biosynthesis,9,7,9,0.15252072228531546,0.39272855083783526,0.7777777777777778,fixed_original_meta,ood
+DNA replication,9,0,9,0.16803960667232026,0.4831328429745395,0.0,fixed_original_meta,ood
+Fatty acid synthesis,4,3,4,0.14064801907368163,0.195995502025947,0.75,fixed_original_meta,ood
+Folic acid metabolism,4,3,4,0.16177127100840336,0.5943255350920856,0.75,fixed_original_meta,ood
+Membrane disruption,5,4,5,0.15137734213989124,0.4533658180697363,0.8,fixed_original_meta,ood
+Nitrofurans,4,0,4,0.1798177834159843,0.475,0.0,fixed_original_meta,ood
+Protein synthesis,9,4,9,0.14206020449171278,0.4953642421846557,0.4444444444444444,fixed_original_meta,ood
+RNA Synthesis,3,1,3,0.15021766907917056,0.626884226884227,0.3333333333333333,fixed_original_meta,ood
+lipopolysaccharide synthesis,4,0,4,0.18192005449394613,0.26426250812215724,0.0,fixed_original_meta,ood
+Cell wall biosynthesis,9,2,9,0.3995148402328203,0.39272855083783526,0.2222222222222222,low_max_score,id
+DNA replication,9,0,9,0.4035518819849806,0.4831328429745395,0.0,low_max_score,id
+Fatty acid synthesis,4,1,4,0.20909117463779406,0.195995502025947,0.25,low_max_score,id
+Folic acid metabolism,4,0,4,0.5943255350920856,0.5943255350920856,0.0,low_max_score,id
+Membrane disruption,5,0,5,0.46389548085252824,0.4533658180697363,0.0,low_max_score,id
+Nitrofurans,4,0,4,0.475,0.475,0.0,low_max_score,id
+Protein synthesis,9,0,9,0.5092024211343965,0.4953642421846557,0.0,low_max_score,id
+RNA Synthesis,3,0,3,0.626884226884227,0.626884226884227,0.0,low_max_score,id
+lipopolysaccharide synthesis,4,1,4,0.2720730397422127,0.26426250812215724,0.25,low_max_score,id
+Cell wall biosynthesis,9,1,9,0.3995148402328203,0.39272855083783526,0.1111111111111111,fixed_original_meta,id
+DNA replication,9,0,9,0.4035518819849806,0.4831328429745395,0.0,fixed_original_meta,id
+Fatty acid synthesis,4,1,4,0.20909117463779406,0.195995502025947,0.25,fixed_original_meta,id
+Folic acid metabolism,4,0,4,0.5943255350920856,0.5943255350920856,0.0,fixed_original_meta,id
+Membrane disruption,5,0,5,0.46389548085252824,0.4533658180697363,0.0,fixed_original_meta,id
+Nitrofurans,4,0,4,0.475,0.475,0.0,fixed_original_meta,id
+Protein synthesis,9,1,9,0.5092024211343965,0.4953642421846557,0.1111111111111111,fixed_original_meta,id
+RNA Synthesis,3,1,3,0.626884226884227,0.626884226884227,0.3333333333333333,fixed_original_meta,id
+lipopolysaccharide synthesis,4,0,4,0.2720730397422127,0.26426250812215724,0.0,fixed_original_meta,id
+Cell wall biosynthesis,8,1,9,0.43457324288097043,0.43457324288097043,0.125,low_max_score,correct_id
+DNA replication,9,0,9,0.4035518819849806,0.4831328429745395,0.0,low_max_score,correct_id
+Fatty acid synthesis,4,1,4,0.20909117463779406,0.195995502025947,0.25,low_max_score,correct_id
+Folic acid metabolism,4,0,4,0.5943255350920856,0.5943255350920856,0.0,low_max_score,correct_id
+Membrane disruption,4,0,5,0.5450592244833818,0.5404975951678155,0.0,low_max_score,correct_id
+Nitrofurans,4,0,4,0.475,0.475,0.0,low_max_score,correct_id
+Protein synthesis,9,0,9,0.5092024211343965,0.4953642421846557,0.0,low_max_score,correct_id
+RNA Synthesis,3,0,3,0.626884226884227,0.626884226884227,0.0,low_max_score,correct_id
+lipopolysaccharide synthesis,3,0,4,0.29609738632295024,0.28568334416287633,0.0,low_max_score,correct_id
+Cell wall biosynthesis,8,1,9,0.43457324288097043,0.43457324288097043,0.125,fixed_original_meta,correct_id
+DNA replication,9,0,9,0.4035518819849806,0.4831328429745395,0.0,fixed_original_meta,correct_id
+Fatty acid synthesis,4,1,4,0.20909117463779406,0.195995502025947,0.25,fixed_original_meta,correct_id
+Folic acid metabolism,4,0,4,0.5943255350920856,0.5943255350920856,0.0,fixed_original_meta,correct_id
+Membrane disruption,4,0,5,0.5450592244833818,0.5404975951678155,0.0,fixed_original_meta,correct_id
+Nitrofurans,4,0,4,0.475,0.475,0.0,fixed_original_meta,correct_id
+Protein synthesis,9,1,9,0.5092024211343965,0.4953642421846557,0.1111111111111111,fixed_original_meta,correct_id
+RNA Synthesis,3,1,3,0.626884226884227,0.626884226884227,0.3333333333333333,fixed_original_meta,correct_id
+lipopolysaccharide synthesis,3,0,4,0.29609738632295024,0.28568334416287633,0.0,fixed_original_meta,correct_id

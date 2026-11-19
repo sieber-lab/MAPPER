@@ -1,0 +1,46 @@
+group,class,n_compounds
+low,Cell wall biosynthesis,2
+low,DNA replication,1
+low,Fatty acid synthesis,4
+low,Folic acid metabolism,0
+low,Membrane disruption,2
+low,Nitrofurans,0
+low,Protein synthesis,2
+low,RNA Synthesis,0
+low,lipopolysaccharide synthesis,2
+middle,Cell wall biosynthesis,7
+middle,DNA replication,6
+middle,Fatty acid synthesis,0
+middle,Folic acid metabolism,2
+middle,Membrane disruption,1
+middle,Nitrofurans,4
+middle,Protein synthesis,2
+middle,RNA Synthesis,1
+middle,lipopolysaccharide synthesis,2
+high,Cell wall biosynthesis,0
+high,DNA replication,2
+high,Fatty acid synthesis,0
+high,Folic acid metabolism,2
+high,Membrane disruption,2
+high,Nitrofurans,0
+high,Protein synthesis,5
+high,RNA Synthesis,2
+high,lipopolysaccharide synthesis,0
+six_examples,Cell wall biosynthesis,1
+six_examples,DNA replication,1
+six_examples,Fatty acid synthesis,1
+six_examples,Folic acid metabolism,0
+six_examples,Membrane disruption,2
+six_examples,Nitrofurans,0
+six_examples,Protein synthesis,1
+six_examples,RNA Synthesis,0
+six_examples,lipopolysaccharide synthesis,0
+all_51,Cell wall biosynthesis,9
+all_51,DNA replication,9
+all_51,Fatty acid synthesis,4
+all_51,Folic acid metabolism,4
+all_51,Membrane disruption,5
+all_51,Nitrofurans,4
+all_51,Protein synthesis,9
+all_51,RNA Synthesis,3
+all_51,lipopolysaccharide synthesis,4

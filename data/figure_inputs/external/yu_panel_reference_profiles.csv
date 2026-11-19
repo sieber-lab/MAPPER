@@ -1,0 +1,15 @@
+dataset,label,sample_id,case,profile_type,detected_reference_genes,usable_panel_genes
+yu,Yu et al.,YuRifampicin_1,YuRifampicin,biological profile,466.0,433
+yu,Yu et al.,YuRifampicin_2,YuRifampicin,biological profile,858.0,667
+yu,Yu et al.,YuRifampicin_3,YuRifampicin,biological profile,1022.0,690
+yu,Yu et al.,YuDoxycycline_1,YuDoxycycline,biological profile,920.0,702
+yu,Yu et al.,YuDoxycycline_2,YuDoxycycline,biological profile,909.0,703
+yu,Yu et al.,YuCefotaxime_1,YuCefotaxime,biological profile,885.0,805
+yu,Yu et al.,YuCefotaxime_2,YuCefotaxime,biological profile,888.0,812
+yu,Yu et al.,YuCefotaxime_3,YuCefotaxime,biological profile,900.0,817
+yu,Yu et al.,YuCerulenin_1,YuCerulenin,biological profile,901.0,789
+yu,Yu et al.,YuCerulenin_2,YuCerulenin,biological profile,922.0,820
+yu,Yu et al.,YuCerulenin_3,YuCerulenin,biological profile,913.0,802
+yu,Yu et al.,YuMonactin_1,YuMonactin,biological profile,849.0,769
+yu,Yu et al.,YuMonactin_2,YuMonactin,biological profile,830.0,774
+yu,Yu et al.,YuMonactin_3,YuMonactin,biological profile,856.0,780

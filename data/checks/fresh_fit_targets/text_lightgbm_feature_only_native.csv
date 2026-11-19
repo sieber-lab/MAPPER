@@ -1,0 +1,100 @@
+CompoundID,True_MoA,CandidateMoA,Score
+JH10,Cell wall biosynthesis,Cell wall biosynthesis,0.11308768537199175
+JH10,Cell wall biosynthesis,DNA replication,0.09723729657117787
+JH10,Cell wall biosynthesis,Fatty acid synthesis,0.06562534653122816
+JH10,Cell wall biosynthesis,Folic acid metabolism,0.08200739192599937
+JH10,Cell wall biosynthesis,Membrane disruption,0.07382491814553731
+JH10,Cell wall biosynthesis,Nitrofurans,0.28244816700262326
+JH10,Cell wall biosynthesis,Protein synthesis,0.13730065903600627
+JH10,Cell wall biosynthesis,RNA Synthesis,0.06645211969552477
+JH10,Cell wall biosynthesis,lipopolysaccharide synthesis,0.08201641571991132
+JH12,Protein synthesis,Cell wall biosynthesis,1.5216172280041078e-05
+JH12,Protein synthesis,DNA replication,1.3055356962982591e-05
+JH12,Protein synthesis,Fatty acid synthesis,1.7711743939016324e-05
+JH12,Protein synthesis,Folic acid metabolism,1.3461727168585802e-05
+JH12,Protein synthesis,Membrane disruption,1.8992204556515322e-05
+JH12,Protein synthesis,Nitrofurans,1.128241867781935e-05
+JH12,Protein synthesis,Protein synthesis,0.9998857225811032
+JH12,Protein synthesis,RNA Synthesis,1.3510982569831662e-05
+JH12,Protein synthesis,lipopolysaccharide synthesis,1.1046812741976288e-05
+JH13,Protein synthesis,Cell wall biosynthesis,0.3007490893767512
+JH13,Protein synthesis,DNA replication,0.08080063696478748
+JH13,Protein synthesis,Fatty acid synthesis,0.06016889130807785
+JH13,Protein synthesis,Folic acid metabolism,0.22093374660108311
+JH13,Protein synthesis,Membrane disruption,0.062116225736549915
+JH13,Protein synthesis,Nitrofurans,0.07054677022478015
+JH13,Protein synthesis,Protein synthesis,0.07967640536468973
+JH13,Protein synthesis,RNA Synthesis,0.05594108981116366
+JH13,Protein synthesis,lipopolysaccharide synthesis,0.06906714461211687
+JH24,Folic acid metabolism,Cell wall biosynthesis,0.00021908917269523957
+JH24,Folic acid metabolism,DNA replication,0.001202871521266514
+JH24,Folic acid metabolism,Fatty acid synthesis,0.029810459881830613
+JH24,Folic acid metabolism,Folic acid metabolism,0.9679760851670492
+JH24,Folic acid metabolism,Membrane disruption,0.00014352414799775236
+JH24,Folic acid metabolism,Nitrofurans,0.000162998249499976
+JH24,Folic acid metabolism,Protein synthesis,0.0001964691140082614
+JH24,Folic acid metabolism,RNA Synthesis,0.0001291268884256829
+JH24,Folic acid metabolism,lipopolysaccharide synthesis,0.0001593758572267919
+JH3,Cell wall biosynthesis,Cell wall biosynthesis,0.9999733082141306
+JH3,Cell wall biosynthesis,DNA replication,4.088614228329471e-06
+JH3,Cell wall biosynthesis,Fatty acid synthesis,2.7600047028539957e-06
+JH3,Cell wall biosynthesis,Folic acid metabolism,3.450634123083231e-06
+JH3,Cell wall biosynthesis,Membrane disruption,3.1056268249290184e-06
+JH3,Cell wall biosynthesis,Nitrofurans,3.5255322574943856e-06
+JH3,Cell wall biosynthesis,Protein synthesis,3.5174177083017147e-06
+JH3,Cell wall biosynthesis,RNA Synthesis,2.794979704281423e-06
+JH3,Cell wall biosynthesis,lipopolysaccharide synthesis,3.448976320157802e-06
+JH30,DNA replication,Cell wall biosynthesis,0.005483352513499097
+JH30,DNA replication,DNA replication,0.9605045220970294
+JH30,DNA replication,Fatty acid synthesis,0.0042591064057031
+JH30,DNA replication,Folic acid metabolism,0.0036481231558120127
+JH30,DNA replication,Membrane disruption,0.003588724637374125
+JH30,DNA replication,Nitrofurans,0.004072173201256338
+JH30,DNA replication,Protein synthesis,0.010658338717208256
+JH30,DNA replication,RNA Synthesis,0.003794647892811215
+JH30,DNA replication,lipopolysaccharide synthesis,0.003991011379306408
+JH35,DNA replication,Cell wall biosynthesis,0.00010087766733754304
+JH35,DNA replication,DNA replication,0.9994154266583007
+JH35,DNA replication,Fatty acid synthesis,6.846537086040307e-05
+JH35,DNA replication,Folic acid metabolism,6.70173688983919e-05
+JH35,DNA replication,Membrane disruption,6.593401835699927e-05
+JH35,DNA replication,Nitrofurans,7.483819542636993e-05
+JH35,DNA replication,Protein synthesis,7.479639062421911e-05
+JH35,DNA replication,RNA Synthesis,5.939041568120538e-05
+JH35,DNA replication,lipopolysaccharide synthesis,7.325391451413673e-05
+JH38,RNA Synthesis,Cell wall biosynthesis,2.1725134512921925e-05
+JH38,RNA Synthesis,DNA replication,1.868785280460473e-05
+JH38,RNA Synthesis,Fatty acid synthesis,4.167345604239802e-05
+JH38,RNA Synthesis,Folic acid metabolism,5.237357890469602e-05
+JH38,RNA Synthesis,Membrane disruption,0.010017328610846303
+JH38,RNA Synthesis,Nitrofurans,1.605506996565131e-05
+JH38,RNA Synthesis,Protein synthesis,5.959272123068313e-05
+JH38,RNA Synthesis,RNA Synthesis,0.9897568557786909
+JH38,RNA Synthesis,lipopolysaccharide synthesis,1.5707797001910158e-05
+JH40,Fatty acid synthesis,Cell wall biosynthesis,0.019057046658798853
+JH40,Fatty acid synthesis,DNA replication,0.016343808352582596
+JH40,Fatty acid synthesis,Fatty acid synthesis,0.24276913624345003
+JH40,Fatty acid synthesis,Folic acid metabolism,0.050839149789561194
+JH40,Fatty acid synthesis,Membrane disruption,0.24171291171170728
+JH40,Fatty acid synthesis,Nitrofurans,0.014116727595160968
+JH40,Fatty acid synthesis,Protein synthesis,0.38317085297546977
+JH40,Fatty acid synthesis,RNA Synthesis,0.011181732563225827
+JH40,Fatty acid synthesis,lipopolysaccharide synthesis,0.02080863411004351
+JH43,Membrane disruption,Cell wall biosynthesis,0.0001918702751748514
+JH43,Membrane disruption,DNA replication,0.00017066570474049775
+JH43,Membrane disruption,Fatty acid synthesis,0.00011213365839771386
+JH43,Membrane disruption,Folic acid metabolism,0.00014015099841664566
+JH43,Membrane disruption,Membrane disruption,0.17865894987297512
+JH43,Membrane disruption,Nitrofurans,0.00014317967302848167
+JH43,Membrane disruption,Protein synthesis,0.8203292432611846
+JH43,Membrane disruption,RNA Synthesis,0.00011364040335767647
+JH43,Membrane disruption,lipopolysaccharide synthesis,0.000140166152724349
+JH48,lipopolysaccharide synthesis,Cell wall biosynthesis,1.2583575220315829e-05
+JH48,lipopolysaccharide synthesis,DNA replication,1.0803215041261126e-05
+JH48,lipopolysaccharide synthesis,Fatty acid synthesis,0.011876029782257491
+JH48,lipopolysaccharide synthesis,Folic acid metabolism,1.0619470185619978e-05
+JH48,lipopolysaccharide synthesis,Membrane disruption,0.00019776084753423862
+JH48,lipopolysaccharide synthesis,Nitrofurans,9.31841725558129e-06
+JH48,lipopolysaccharide synthesis,Protein synthesis,1.3263069211210681e-05
+JH48,lipopolysaccharide synthesis,RNA Synthesis,7.383841586004375e-06
+JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis,0.9878622377817083

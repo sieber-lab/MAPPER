@@ -1,0 +1,79 @@
+representation,dataset,case,case_key,compound_name,expected,predicted,candidate,rank,score,context,train_compounds,seeds,biological_profiles,compound_excluded,reference_rank,correct
+fold_change,eclipse,Ciprofloxacin,eclipse::ciprofloxacin,Ciprofloxacin,DNA replication,DNA replication,DNA replication,1,0.9999841222167016,omit_JH29,50,5,4,True,1,True
+fold_change,eclipse,Imipenem,eclipse::imipenem,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.998640092909336,omit_JH6,50,5,4,True,1,True
+fold_change,eclipse,Kanamycin,eclipse::kanamycin,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,1,0.9769410812854764,omit_JH55,50,5,4,True,1,True
+fold_change,subanovic,Cefotaxime,subanovic::cefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.3787196489175161,full51,51,5,3,True,1,True
+fold_change,subanovic,Ciprofloxacin,subanovic::ciprofloxacin,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1021642691455781,omit_JH29,50,5,3,True,2,False
+fold_change,subanovic,Imipenem,subanovic::imipenem,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.0536183617295076,omit_JH6,50,5,3,True,1,True
+fold_change,subanovic,Kanamycin,subanovic::kanamycin,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.0985686434805393,omit_JH55,50,5,3,True,4,False
+fold_change,yu,YuCefotaxime,yu::yucefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.074039793331176,full51,51,5,3,True,1,True
+fold_change,yu,YuCeftriaxone,yu::yuceftriaxone,Ceftriaxone,Cell wall biosynthesis,Protein synthesis,Protein synthesis,1,0.121682800007984,full51,51,5,2,True,2,False
+fold_change,yu,YuCerulenin,yu::yucerulenin,Cerulenin,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.2418113047629594,omit_JH41,50,5,3,True,1,True
+fold_change,yu,YuDoxycycline,yu::yudoxycycline,Doxycycline,Protein synthesis,DNA replication,DNA replication,1,0.0415146319154882,full51,51,5,2,True,2,False
+fold_change,yu,YuErythromycin,yu::yuerythromycin,Erythromycin,Protein synthesis,Protein synthesis,Protein synthesis,1,0.0703293639084828,full51,51,5,3,True,1,True
+fold_change,yu,YuFlavomycin,yu::yuflavomycin,Flavomycin,Cell wall biosynthesis,DNA replication,DNA replication,1,0.1107740389206446,full51,51,5,3,True,4,False
+fold_change,yu,YuIsoniazid,yu::yuisoniazid,Isoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.0289768987331384,full51,51,5,3,True,1,True
+fold_change,yu,YuMeropenem,yu::yumeropenem,Meropenem,Cell wall biosynthesis,DNA replication,DNA replication,1,0.209805035131673,full51,51,5,3,True,6,False
+fold_change,yu,YuMonactin,yu::yumonactin,Monactin,Membrane disruption,DNA replication,DNA replication,1,0.0547846339034731,full51,51,5,3,True,9,False
+fold_change,yu,YuPenicillin,yu::yupenicillin,Penicillin G,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.0746395544117937,full51,51,5,3,True,1,True
+fold_change,yu,YuPolymyxin,yu::yupolymyxin,Polymyxin B,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,1,0.0720380634818381,omit_JH44,50,5,3,True,5,False
+fold_change,yu,YuRetapamulin,yu::yuretapamulin,Retapamulin,Protein synthesis,Protein synthesis,Protein synthesis,1,0.0802942642447305,full51,51,5,3,True,1,True
+fold_change,yu,YuRifampicin,yu::yurifampicin,Rifampicin,RNA Synthesis,DNA replication,DNA replication,1,0.0568940593667988,omit_JH38,50,5,3,True,6,False
+fold_change,yu,YuTeicoplanin,yu::yuteicoplanin,Teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1051722289078558,full51,51,5,3,True,1,True
+fold_change,yu,YuTeixobactin,yu::yuteixobactin,Teixobactin,Cell wall biosynthesis,DNA replication,DNA replication,1,0.0758324001574268,full51,51,5,3,True,3,False
+fold_change,yu,YuTetracycline,yu::yutetracycline,Tetracycline,Protein synthesis,Protein synthesis,Protein synthesis,1,0.1174736386234871,omit_JH15,50,5,3,True,1,True
+fold_change,yu,YuThiostrepton,yu::yuthiostrepton,Thiostrepton,Protein synthesis,Protein synthesis,Protein synthesis,1,0.0718914426139235,full51,51,5,3,True,1,True
+fold_change,yu,YuTriclosan,yu::yutriclosan,Triclosan,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.1170400014411037,omit_JH40,50,5,3,True,1,True
+fold_change,yu,YuVancomycin,yu::yuvancomycin,Vancomycin,Cell wall biosynthesis,Protein synthesis,Protein synthesis,1,0.0648460768948765,full51,51,5,3,True,2,False
+intensity,eclipse,Ciprofloxacin,eclipse::ciprofloxacin,Ciprofloxacin,DNA replication,Protein synthesis,Protein synthesis,1,0.0020982902905058863,omit_JH29,50,5,4,True,2,False
+intensity,eclipse,Imipenem,eclipse::imipenem,Imipenem,Cell wall biosynthesis,DNA replication,DNA replication,1,0.013019776932363525,omit_JH6,50,5,4,True,5,False
+intensity,eclipse,Kanamycin,eclipse::kanamycin,Kanamycin,Protein synthesis,DNA replication,DNA replication,1,0.00502407228129428,omit_JH55,50,5,4,True,3,False
+intensity,subanovic,Cefotaxime,subanovic::cefotaxime,Cefotaxime,Cell wall biosynthesis,Nitrofurans,Nitrofurans,1,0.017525918958466113,full51,51,5,3,True,9,False
+intensity,subanovic,Ciprofloxacin,subanovic::ciprofloxacin,Ciprofloxacin,DNA replication,Nitrofurans,Nitrofurans,1,0.01045832405015896,omit_JH29,50,5,3,True,2,False
+intensity,subanovic,Imipenem,subanovic::imipenem,Imipenem,Cell wall biosynthesis,Nitrofurans,Nitrofurans,1,0.023655346047865657,omit_JH6,50,5,3,True,8,False
+intensity,subanovic,Kanamycin,subanovic::kanamycin,Kanamycin,Protein synthesis,Nitrofurans,Nitrofurans,1,0.004604714366711656,omit_JH55,50,5,3,True,3,False
+intensity,yu,YuCefotaxime,yu::yucefotaxime,Cefotaxime,Cell wall biosynthesis,DNA replication,DNA replication,1,0.0008865137179343682,full51,51,5,3,True,8,False
+intensity,yu,YuCeftriaxone,yu::yuceftriaxone,Ceftriaxone,Cell wall biosynthesis,DNA replication,DNA replication,1,0.004255222474388916,full51,51,5,2,True,8,False
+intensity,yu,YuCerulenin,yu::yucerulenin,Cerulenin,Fatty acid synthesis,DNA replication,DNA replication,1,0.014280800254526296,omit_JH41,50,5,3,True,4,False
+intensity,yu,YuDoxycycline,yu::yudoxycycline,Doxycycline,Protein synthesis,DNA replication,DNA replication,1,4.381085715759146e-05,full51,51,5,2,True,4,False
+intensity,yu,YuErythromycin,yu::yuerythromycin,Erythromycin,Protein synthesis,DNA replication,DNA replication,1,0.0005088374600138045,full51,51,5,3,True,4,False
+intensity,yu,YuFlavomycin,yu::yuflavomycin,Flavomycin,Cell wall biosynthesis,DNA replication,DNA replication,1,0.006393856493911395,full51,51,5,3,True,8,False
+intensity,yu,YuIsoniazid,yu::yuisoniazid,Isoniazid,Fatty acid synthesis,Nitrofurans,Nitrofurans,1,1.5017053219409011e-05,full51,51,5,3,True,4,False
+intensity,yu,YuMeropenem,yu::yumeropenem,Meropenem,Cell wall biosynthesis,DNA replication,DNA replication,1,0.004280896396855193,full51,51,5,3,True,7,False
+intensity,yu,YuMonactin,yu::yumonactin,Monactin,Membrane disruption,DNA replication,DNA replication,1,0.0006824052122464271,full51,51,5,3,True,7,False
+intensity,yu,YuPenicillin,yu::yupenicillin,Penicillin G,Cell wall biosynthesis,DNA replication,DNA replication,1,0.0029120128461099164,full51,51,5,3,True,8,False
+intensity,yu,YuPolymyxin,yu::yupolymyxin,Polymyxin B,Membrane disruption,DNA replication,DNA replication,1,0.0096836614079488,omit_JH44,50,5,3,True,7,False
+intensity,yu,YuRetapamulin,yu::yuretapamulin,Retapamulin,Protein synthesis,DNA replication,DNA replication,1,0.0011557087907398905,full51,51,5,3,True,4,False
+intensity,yu,YuRifampicin,yu::yurifampicin,Rifampicin,RNA Synthesis,DNA replication,DNA replication,1,0.014941329337545939,omit_JH38,50,5,3,True,3,False
+intensity,yu,YuTeicoplanin,yu::yuteicoplanin,Teicoplanin,Cell wall biosynthesis,DNA replication,DNA replication,1,0.0004427394220806491,full51,51,5,3,True,8,False
+intensity,yu,YuTeixobactin,yu::yuteixobactin,Teixobactin,Cell wall biosynthesis,DNA replication,DNA replication,1,0.010789276556994689,full51,51,5,3,True,6,False
+intensity,yu,YuTetracycline,yu::yutetracycline,Tetracycline,Protein synthesis,DNA replication,DNA replication,1,0.004759614059701278,omit_JH15,50,5,3,True,5,False
+intensity,yu,YuThiostrepton,yu::yuthiostrepton,Thiostrepton,Protein synthesis,DNA replication,DNA replication,1,0.0001665491177161312,full51,51,5,3,True,4,False
+intensity,yu,YuTriclosan,yu::yutriclosan,Triclosan,Fatty acid synthesis,DNA replication,DNA replication,1,0.011067261862238715,omit_JH40,50,5,3,True,4,False
+intensity,yu,YuVancomycin,yu::yuvancomycin,Vancomycin,Cell wall biosynthesis,Nitrofurans,Nitrofurans,1,8.267710464481938e-05,full51,51,5,3,True,8,False
+significant_intensity,eclipse,Ciprofloxacin,eclipse::ciprofloxacin,Ciprofloxacin,DNA replication,DNA replication,DNA replication,1,0.10372745383530853,omit_JH29,50,5,4,True,1,True
+significant_intensity,eclipse,Imipenem,eclipse::imipenem,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.2251507540047168,omit_JH6,50,5,4,True,1,True
+significant_intensity,eclipse,Kanamycin,eclipse::kanamycin,Kanamycin,Protein synthesis,Protein synthesis,Protein synthesis,1,0.10215894392691552,omit_JH55,50,5,4,True,1,True
+significant_intensity,subanovic,Cefotaxime,subanovic::cefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.33810132344563804,full51,51,5,3,True,1,True
+significant_intensity,subanovic,Ciprofloxacin,subanovic::ciprofloxacin,Ciprofloxacin,DNA replication,Cell wall biosynthesis,Cell wall biosynthesis,1,0.28874982744455335,omit_JH29,50,5,3,True,2,False
+significant_intensity,subanovic,Imipenem,subanovic::imipenem,Imipenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1960437191526095,omit_JH6,50,5,3,True,1,True
+significant_intensity,subanovic,Kanamycin,subanovic::kanamycin,Kanamycin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.35207422345876693,omit_JH55,50,5,3,True,5,False
+significant_intensity,yu,YuCefotaxime,yu::yucefotaxime,Cefotaxime,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.029813063284382223,full51,51,5,3,True,1,True
+significant_intensity,yu,YuCeftriaxone,yu::yuceftriaxone,Ceftriaxone,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.04191275738645346,full51,51,5,2,True,1,True
+significant_intensity,yu,YuCerulenin,yu::yucerulenin,Cerulenin,Fatty acid synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.11332712503770988,omit_JH41,50,5,3,True,4,False
+significant_intensity,yu,YuDoxycycline,yu::yudoxycycline,Doxycycline,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.22965149894356726,full51,51,5,2,True,6,False
+significant_intensity,yu,YuErythromycin,yu::yuerythromycin,Erythromycin,Protein synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.010628553751157597,full51,51,5,3,True,2,False
+significant_intensity,yu,YuFlavomycin,yu::yuflavomycin,Flavomycin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1627826634546121,full51,51,5,3,True,1,True
+significant_intensity,yu,YuIsoniazid,yu::yuisoniazid,Isoniazid,Fatty acid synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.039070616289973256,full51,51,5,3,True,1,True
+significant_intensity,yu,YuMeropenem,yu::yumeropenem,Meropenem,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1645854801063736,full51,51,5,3,True,1,True
+significant_intensity,yu,YuMonactin,yu::yumonactin,Monactin,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,1,0.1409679733713468,full51,51,5,3,True,7,False
+significant_intensity,yu,YuPenicillin,yu::yupenicillin,Penicillin G,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.17202869618932407,full51,51,5,3,True,1,True
+significant_intensity,yu,YuPolymyxin,yu::yupolymyxin,Polymyxin B,Membrane disruption,Cell wall biosynthesis,Cell wall biosynthesis,1,0.07186206135898827,omit_JH44,50,5,3,True,7,False
+significant_intensity,yu,YuRetapamulin,yu::yuretapamulin,Retapamulin,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.06096289655814568,full51,51,5,3,True,5,False
+significant_intensity,yu,YuRifampicin,yu::yurifampicin,Rifampicin,RNA Synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.3523190949857235,omit_JH38,50,5,3,True,5,False
+significant_intensity,yu,YuTeicoplanin,yu::yuteicoplanin,Teicoplanin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.08321062789609034,full51,51,5,3,True,1,True
+significant_intensity,yu,YuTeixobactin,yu::yuteixobactin,Teixobactin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.2171012271940708,full51,51,5,3,True,1,True
+significant_intensity,yu,YuTetracycline,yu::yutetracycline,Tetracycline,Protein synthesis,Fatty acid synthesis,Fatty acid synthesis,1,0.013063113566798465,omit_JH15,50,5,3,True,3,False
+significant_intensity,yu,YuThiostrepton,yu::yuthiostrepton,Thiostrepton,Protein synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.029497914810975395,full51,51,5,3,True,5,False
+significant_intensity,yu,YuTriclosan,yu::yutriclosan,Triclosan,Fatty acid synthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.09148290095229944,omit_JH40,50,5,3,True,2,False
+significant_intensity,yu,YuVancomycin,yu::yuvancomycin,Vancomycin,Cell wall biosynthesis,Cell wall biosynthesis,Cell wall biosynthesis,1,0.21650026197234787,full51,51,5,3,True,1,True

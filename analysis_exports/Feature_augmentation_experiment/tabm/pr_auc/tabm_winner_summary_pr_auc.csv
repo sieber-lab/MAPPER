@@ -1,2 +1,0 @@
-best,mean,std,n_cycles,friedman_p_raw,alpha_bonferroni,friedman_sig_after_alpha_bonf,posthoc
-CellPaint+ECFP+Proteomics,0.9574734195413284,0.05215810361098427,25,1.8422074687164797e-73,0.016666666666666666,True,Conover–Friedman (BH)

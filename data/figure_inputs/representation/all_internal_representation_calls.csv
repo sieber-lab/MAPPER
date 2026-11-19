@@ -1,0 +1,154 @@
+arm,fold,compound,expected,predicted,reference_rank
+4401_intensity,0,JH10,Cell wall biosynthesis,Folic acid metabolism,2
+4401_intensity,0,JH12,Protein synthesis,Protein synthesis,1
+4401_intensity,0,JH13,Protein synthesis,Protein synthesis,1
+4401_intensity,0,JH24,Folic acid metabolism,Protein synthesis,3
+4401_intensity,0,JH3,Cell wall biosynthesis,Folic acid metabolism,2
+4401_intensity,0,JH30,DNA replication,DNA replication,1
+4401_intensity,0,JH35,DNA replication,DNA replication,1
+4401_intensity,0,JH38,RNA Synthesis,RNA Synthesis,1
+4401_intensity,0,JH40,Fatty acid synthesis,lipopolysaccharide synthesis,2
+4401_intensity,0,JH43,Membrane disruption,Membrane disruption,1
+4401_intensity,0,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+857_log2FC,0,JH10,Cell wall biosynthesis,Folic acid metabolism,2
+857_log2FC,0,JH12,Protein synthesis,Protein synthesis,1
+857_log2FC,0,JH13,Protein synthesis,Protein synthesis,1
+857_log2FC,0,JH24,Folic acid metabolism,Folic acid metabolism,1
+857_log2FC,0,JH3,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,0,JH30,DNA replication,DNA replication,1
+857_log2FC,0,JH35,DNA replication,DNA replication,1
+857_log2FC,0,JH38,RNA Synthesis,Protein synthesis,2
+857_log2FC,0,JH40,Fatty acid synthesis,lipopolysaccharide synthesis,2
+857_log2FC,0,JH43,Membrane disruption,Membrane disruption,1
+857_log2FC,0,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_intensity,1,JH15,Protein synthesis,Protein synthesis,1
+4401_intensity,1,JH23,Folic acid metabolism,Folic acid metabolism,1
+4401_intensity,1,JH27,DNA replication,DNA replication,1
+4401_intensity,1,JH37,RNA Synthesis,RNA Synthesis,1
+4401_intensity,1,JH42,Fatty acid synthesis,Fatty acid synthesis,1
+4401_intensity,1,JH44,Membrane disruption,Membrane disruption,1
+4401_intensity,1,JH56,Protein synthesis,Cell wall biosynthesis,2
+4401_intensity,1,JH6,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,1,JH65,Nitrofurans,Nitrofurans,1
+4401_intensity,1,JH8,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,1,JH15,Protein synthesis,Protein synthesis,1
+857_log2FC,1,JH23,Folic acid metabolism,Folic acid metabolism,1
+857_log2FC,1,JH27,DNA replication,DNA replication,1
+857_log2FC,1,JH37,RNA Synthesis,RNA Synthesis,1
+857_log2FC,1,JH42,Fatty acid synthesis,lipopolysaccharide synthesis,2
+857_log2FC,1,JH44,Membrane disruption,Membrane disruption,1
+857_log2FC,1,JH56,Protein synthesis,Protein synthesis,1
+857_log2FC,1,JH6,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,1,JH65,Nitrofurans,Nitrofurans,1
+857_log2FC,1,JH8,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,2,JH14,Protein synthesis,Protein synthesis,1
+4401_intensity,2,JH16,Protein synthesis,Cell wall biosynthesis,2
+4401_intensity,2,JH2,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,2,JH31,Nitrofurans,Nitrofurans,1
+4401_intensity,2,JH32,DNA replication,DNA replication,1
+4401_intensity,2,JH33,DNA replication,DNA replication,1
+4401_intensity,2,JH39,RNA Synthesis,RNA Synthesis,1
+4401_intensity,2,JH45,Membrane disruption,Membrane disruption,1
+4401_intensity,2,JH62,lipopolysaccharide synthesis,Fatty acid synthesis,3
+4401_intensity,2,JH7,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,2,JH14,Protein synthesis,Protein synthesis,1
+857_log2FC,2,JH16,Protein synthesis,Cell wall biosynthesis,2
+857_log2FC,2,JH2,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,2,JH31,Nitrofurans,Nitrofurans,1
+857_log2FC,2,JH32,DNA replication,DNA replication,1
+857_log2FC,2,JH33,DNA replication,DNA replication,1
+857_log2FC,2,JH39,RNA Synthesis,Protein synthesis,2
+857_log2FC,2,JH45,Membrane disruption,Membrane disruption,1
+857_log2FC,2,JH62,lipopolysaccharide synthesis,Fatty acid synthesis,4
+857_log2FC,2,JH7,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,3,JH0,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,3,JH21,Folic acid metabolism,Folic acid metabolism,1
+4401_intensity,3,JH29,DNA replication,DNA replication,1
+4401_intensity,3,JH36,DNA replication,DNA replication,1
+4401_intensity,3,JH47,Membrane disruption,Membrane disruption,1
+4401_intensity,3,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_intensity,3,JH55,Protein synthesis,Protein synthesis,1
+4401_intensity,3,JH58,Nitrofurans,Nitrofurans,1
+4401_intensity,3,JH61,Fatty acid synthesis,Fatty acid synthesis,1
+4401_intensity,3,JH9,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,3,JH0,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,3,JH21,Folic acid metabolism,Folic acid metabolism,1
+857_log2FC,3,JH29,DNA replication,DNA replication,1
+857_log2FC,3,JH36,DNA replication,DNA replication,1
+857_log2FC,3,JH47,Membrane disruption,Cell wall biosynthesis,2
+857_log2FC,3,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+857_log2FC,3,JH55,Protein synthesis,Protein synthesis,1
+857_log2FC,3,JH58,Nitrofurans,Nitrofurans,1
+857_log2FC,3,JH61,Fatty acid synthesis,Fatty acid synthesis,1
+857_log2FC,3,JH9,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_intensity,4,JH17,Protein synthesis,Protein synthesis,1
+4401_intensity,4,JH18,Protein synthesis,Protein synthesis,1
+4401_intensity,4,JH20,Folic acid metabolism,Folic acid metabolism,1
+4401_intensity,4,JH26,DNA replication,DNA replication,1
+4401_intensity,4,JH28,DNA replication,DNA replication,1
+4401_intensity,4,JH41,Fatty acid synthesis,Fatty acid synthesis,1
+4401_intensity,4,JH46,Membrane disruption,Membrane disruption,1
+4401_intensity,4,JH49,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_intensity,4,JH5,Cell wall biosynthesis,Protein synthesis,2
+4401_intensity,4,JH64,Nitrofurans,Nitrofurans,1
+857_log2FC,4,JH17,Protein synthesis,Cell wall biosynthesis,3
+857_log2FC,4,JH18,Protein synthesis,Protein synthesis,1
+857_log2FC,4,JH20,Folic acid metabolism,Cell wall biosynthesis,2
+857_log2FC,4,JH26,DNA replication,DNA replication,1
+857_log2FC,4,JH28,DNA replication,DNA replication,1
+857_log2FC,4,JH41,Fatty acid synthesis,Fatty acid synthesis,1
+857_log2FC,4,JH46,Membrane disruption,Cell wall biosynthesis,3
+857_log2FC,4,JH49,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+857_log2FC,4,JH5,Cell wall biosynthesis,Cell wall biosynthesis,1
+857_log2FC,4,JH64,Nitrofurans,Nitrofurans,1
+4401_significant_intensity,0,JH10,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_significant_intensity,0,JH12,Protein synthesis,Nitrofurans,2
+4401_significant_intensity,0,JH13,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,0,JH24,Folic acid metabolism,Protein synthesis,4
+4401_significant_intensity,0,JH3,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_significant_intensity,0,JH30,DNA replication,DNA replication,1
+4401_significant_intensity,0,JH35,DNA replication,DNA replication,1
+4401_significant_intensity,0,JH38,RNA Synthesis,Protein synthesis,3
+4401_significant_intensity,0,JH40,Fatty acid synthesis,Cell wall biosynthesis,4
+4401_significant_intensity,0,JH43,Membrane disruption,Membrane disruption,1
+4401_significant_intensity,0,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_significant_intensity,1,JH15,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,1,JH23,Folic acid metabolism,Cell wall biosynthesis,3
+4401_significant_intensity,1,JH27,DNA replication,DNA replication,1
+4401_significant_intensity,1,JH37,RNA Synthesis,RNA Synthesis,1
+4401_significant_intensity,1,JH42,Fatty acid synthesis,Cell wall biosynthesis,2
+4401_significant_intensity,1,JH44,Membrane disruption,Membrane disruption,1
+4401_significant_intensity,1,JH56,Protein synthesis,Fatty acid synthesis,3
+4401_significant_intensity,1,JH6,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_significant_intensity,1,JH65,Nitrofurans,Nitrofurans,1
+4401_significant_intensity,1,JH8,Cell wall biosynthesis,Membrane disruption,2
+4401_significant_intensity,2,JH14,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,2,JH16,Protein synthesis,Cell wall biosynthesis,3
+4401_significant_intensity,2,JH2,Cell wall biosynthesis,DNA replication,3
+4401_significant_intensity,2,JH31,Nitrofurans,Nitrofurans,1
+4401_significant_intensity,2,JH32,DNA replication,DNA replication,1
+4401_significant_intensity,2,JH33,DNA replication,DNA replication,1
+4401_significant_intensity,2,JH39,RNA Synthesis,Protein synthesis,2
+4401_significant_intensity,2,JH45,Membrane disruption,Membrane disruption,1
+4401_significant_intensity,2,JH62,lipopolysaccharide synthesis,Fatty acid synthesis,5
+4401_significant_intensity,2,JH7,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_significant_intensity,3,JH0,Cell wall biosynthesis,Membrane disruption,2
+4401_significant_intensity,3,JH21,Folic acid metabolism,Cell wall biosynthesis,4
+4401_significant_intensity,3,JH29,DNA replication,DNA replication,1
+4401_significant_intensity,3,JH36,DNA replication,DNA replication,1
+4401_significant_intensity,3,JH47,Membrane disruption,Membrane disruption,1
+4401_significant_intensity,3,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_significant_intensity,3,JH55,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,3,JH58,Nitrofurans,Nitrofurans,1
+4401_significant_intensity,3,JH61,Fatty acid synthesis,Fatty acid synthesis,1
+4401_significant_intensity,3,JH9,Cell wall biosynthesis,Cell wall biosynthesis,1
+4401_significant_intensity,4,JH17,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,4,JH18,Protein synthesis,Protein synthesis,1
+4401_significant_intensity,4,JH20,Folic acid metabolism,Fatty acid synthesis,5
+4401_significant_intensity,4,JH26,DNA replication,DNA replication,1
+4401_significant_intensity,4,JH28,DNA replication,DNA replication,1
+4401_significant_intensity,4,JH41,Fatty acid synthesis,Cell wall biosynthesis,4
+4401_significant_intensity,4,JH46,Membrane disruption,Cell wall biosynthesis,3
+4401_significant_intensity,4,JH49,lipopolysaccharide synthesis,lipopolysaccharide synthesis,1
+4401_significant_intensity,4,JH5,Cell wall biosynthesis,Protein synthesis,2
+4401_significant_intensity,4,JH64,Nitrofurans,Nitrofurans,1

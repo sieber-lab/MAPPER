@@ -1,0 +1,10 @@
+candidate_class,description_source_class
+Cell wall biosynthesis,DNA replication
+DNA replication,RNA Synthesis
+Fatty acid synthesis,Membrane disruption
+Folic acid metabolism,Fatty acid synthesis
+Membrane disruption,Cell wall biosynthesis
+Nitrofurans,Folic acid metabolism
+Protein synthesis,lipopolysaccharide synthesis
+RNA Synthesis,Protein synthesis
+lipopolysaccharide synthesis,Nitrofurans

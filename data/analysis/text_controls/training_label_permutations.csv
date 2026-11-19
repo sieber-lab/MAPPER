@@ -1,0 +1,3061 @@
+iteration,fold,realization,seed,compound,true_label,training_label
+0,0,0,202709250,JH0,Cell wall biosynthesis,DNA replication
+0,0,0,202709250,JH14,Protein synthesis,Cell wall biosynthesis
+0,0,0,202709250,JH15,Protein synthesis,DNA replication
+0,0,0,202709250,JH16,Protein synthesis,Protein synthesis
+0,0,0,202709250,JH17,Protein synthesis,DNA replication
+0,0,0,202709250,JH18,Protein synthesis,Nitrofurans
+0,0,0,202709250,JH2,Cell wall biosynthesis,Membrane disruption
+0,0,0,202709250,JH20,Folic acid metabolism,Protein synthesis
+0,0,0,202709250,JH21,Folic acid metabolism,Protein synthesis
+0,0,0,202709250,JH23,Folic acid metabolism,Nitrofurans
+0,0,0,202709250,JH26,DNA replication,RNA Synthesis
+0,0,0,202709250,JH27,DNA replication,Cell wall biosynthesis
+0,0,0,202709250,JH28,DNA replication,DNA replication
+0,0,0,202709250,JH29,DNA replication,Protein synthesis
+0,0,0,202709250,JH31,Nitrofurans,Folic acid metabolism
+0,0,0,202709250,JH32,DNA replication,DNA replication
+0,0,0,202709250,JH33,DNA replication,Cell wall biosynthesis
+0,0,0,202709250,JH36,DNA replication,Fatty acid synthesis
+0,0,0,202709250,JH37,RNA Synthesis,RNA Synthesis
+0,0,0,202709250,JH39,RNA Synthesis,Cell wall biosynthesis
+0,0,0,202709250,JH41,Fatty acid synthesis,Cell wall biosynthesis
+0,0,0,202709250,JH42,Fatty acid synthesis,Membrane disruption
+0,0,0,202709250,JH44,Membrane disruption,lipopolysaccharide synthesis
+0,0,0,202709250,JH45,Membrane disruption,DNA replication
+0,0,0,202709250,JH46,Membrane disruption,lipopolysaccharide synthesis
+0,0,0,202709250,JH47,Membrane disruption,Fatty acid synthesis
+0,0,0,202709250,JH49,lipopolysaccharide synthesis,Protein synthesis
+0,0,0,202709250,JH5,Cell wall biosynthesis,Fatty acid synthesis
+0,0,0,202709250,JH50,lipopolysaccharide synthesis,Membrane disruption
+0,0,0,202709250,JH55,Protein synthesis,Cell wall biosynthesis
+0,0,0,202709250,JH56,Protein synthesis,lipopolysaccharide synthesis
+0,0,0,202709250,JH58,Nitrofurans,Membrane disruption
+0,0,0,202709250,JH6,Cell wall biosynthesis,Protein synthesis
+0,0,0,202709250,JH61,Fatty acid synthesis,Folic acid metabolism
+0,0,0,202709250,JH62,lipopolysaccharide synthesis,Protein synthesis
+0,0,0,202709250,JH64,Nitrofurans,Nitrofurans
+0,0,0,202709250,JH65,Nitrofurans,Nitrofurans
+0,0,0,202709250,JH7,Cell wall biosynthesis,DNA replication
+0,0,0,202709250,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+0,0,0,202709250,JH9,Cell wall biosynthesis,Folic acid metabolism
+0,0,1,202719250,JH0,Cell wall biosynthesis,RNA Synthesis
+0,0,1,202719250,JH14,Protein synthesis,Cell wall biosynthesis
+0,0,1,202719250,JH15,Protein synthesis,Membrane disruption
+0,0,1,202719250,JH16,Protein synthesis,lipopolysaccharide synthesis
+0,0,1,202719250,JH17,Protein synthesis,DNA replication
+0,0,1,202719250,JH18,Protein synthesis,DNA replication
+0,0,1,202719250,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+0,0,1,202719250,JH20,Folic acid metabolism,Protein synthesis
+0,0,1,202719250,JH21,Folic acid metabolism,DNA replication
+0,0,1,202719250,JH23,Folic acid metabolism,Nitrofurans
+0,0,1,202719250,JH26,DNA replication,Fatty acid synthesis
+0,0,1,202719250,JH27,DNA replication,Nitrofurans
+0,0,1,202719250,JH28,DNA replication,Membrane disruption
+0,0,1,202719250,JH29,DNA replication,lipopolysaccharide synthesis
+0,0,1,202719250,JH31,Nitrofurans,Cell wall biosynthesis
+0,0,1,202719250,JH32,DNA replication,Nitrofurans
+0,0,1,202719250,JH33,DNA replication,DNA replication
+0,0,1,202719250,JH36,DNA replication,Nitrofurans
+0,0,1,202719250,JH37,RNA Synthesis,Protein synthesis
+0,0,1,202719250,JH39,RNA Synthesis,Protein synthesis
+0,0,1,202719250,JH41,Fatty acid synthesis,Protein synthesis
+0,0,1,202719250,JH42,Fatty acid synthesis,Cell wall biosynthesis
+0,0,1,202719250,JH44,Membrane disruption,Fatty acid synthesis
+0,0,1,202719250,JH45,Membrane disruption,Cell wall biosynthesis
+0,0,1,202719250,JH46,Membrane disruption,Membrane disruption
+0,0,1,202719250,JH47,Membrane disruption,DNA replication
+0,0,1,202719250,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,0,1,202719250,JH5,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,0,1,202719250,JH50,lipopolysaccharide synthesis,Protein synthesis
+0,0,1,202719250,JH55,Protein synthesis,DNA replication
+0,0,1,202719250,JH56,Protein synthesis,Fatty acid synthesis
+0,0,1,202719250,JH58,Nitrofurans,Protein synthesis
+0,0,1,202719250,JH6,Cell wall biosynthesis,RNA Synthesis
+0,0,1,202719250,JH61,Fatty acid synthesis,Folic acid metabolism
+0,0,1,202719250,JH62,lipopolysaccharide synthesis,Protein synthesis
+0,0,1,202719250,JH64,Nitrofurans,Folic acid metabolism
+0,0,1,202719250,JH65,Nitrofurans,Membrane disruption
+0,0,1,202719250,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+0,0,1,202719250,JH8,Cell wall biosynthesis,DNA replication
+0,0,1,202719250,JH9,Cell wall biosynthesis,Folic acid metabolism
+0,0,2,202729250,JH0,Cell wall biosynthesis,RNA Synthesis
+0,0,2,202729250,JH14,Protein synthesis,lipopolysaccharide synthesis
+0,0,2,202729250,JH15,Protein synthesis,Protein synthesis
+0,0,2,202729250,JH16,Protein synthesis,Protein synthesis
+0,0,2,202729250,JH17,Protein synthesis,Nitrofurans
+0,0,2,202729250,JH18,Protein synthesis,Protein synthesis
+0,0,2,202729250,JH2,Cell wall biosynthesis,Membrane disruption
+0,0,2,202729250,JH20,Folic acid metabolism,DNA replication
+0,0,2,202729250,JH21,Folic acid metabolism,Nitrofurans
+0,0,2,202729250,JH23,Folic acid metabolism,Fatty acid synthesis
+0,0,2,202729250,JH26,DNA replication,Membrane disruption
+0,0,2,202729250,JH27,DNA replication,Fatty acid synthesis
+0,0,2,202729250,JH28,DNA replication,DNA replication
+0,0,2,202729250,JH29,DNA replication,Cell wall biosynthesis
+0,0,2,202729250,JH31,Nitrofurans,RNA Synthesis
+0,0,2,202729250,JH32,DNA replication,Protein synthesis
+0,0,2,202729250,JH33,DNA replication,Protein synthesis
+0,0,2,202729250,JH36,DNA replication,Cell wall biosynthesis
+0,0,2,202729250,JH37,RNA Synthesis,Cell wall biosynthesis
+0,0,2,202729250,JH39,RNA Synthesis,Folic acid metabolism
+0,0,2,202729250,JH41,Fatty acid synthesis,Folic acid metabolism
+0,0,2,202729250,JH42,Fatty acid synthesis,DNA replication
+0,0,2,202729250,JH44,Membrane disruption,DNA replication
+0,0,2,202729250,JH45,Membrane disruption,Nitrofurans
+0,0,2,202729250,JH46,Membrane disruption,Protein synthesis
+0,0,2,202729250,JH47,Membrane disruption,Membrane disruption
+0,0,2,202729250,JH49,lipopolysaccharide synthesis,DNA replication
+0,0,2,202729250,JH5,Cell wall biosynthesis,Protein synthesis
+0,0,2,202729250,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+0,0,2,202729250,JH55,Protein synthesis,Fatty acid synthesis
+0,0,2,202729250,JH56,Protein synthesis,Cell wall biosynthesis
+0,0,2,202729250,JH58,Nitrofurans,DNA replication
+0,0,2,202729250,JH6,Cell wall biosynthesis,Nitrofurans
+0,0,2,202729250,JH61,Fatty acid synthesis,Folic acid metabolism
+0,0,2,202729250,JH62,lipopolysaccharide synthesis,Membrane disruption
+0,0,2,202729250,JH64,Nitrofurans,Cell wall biosynthesis
+0,0,2,202729250,JH65,Nitrofurans,Cell wall biosynthesis
+0,0,2,202729250,JH7,Cell wall biosynthesis,DNA replication
+0,0,2,202729250,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+0,0,2,202729250,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,1,0,202709251,JH0,Cell wall biosynthesis,Folic acid metabolism
+0,1,0,202709251,JH10,Cell wall biosynthesis,Protein synthesis
+0,1,0,202709251,JH12,Protein synthesis,Cell wall biosynthesis
+0,1,0,202709251,JH13,Protein synthesis,Folic acid metabolism
+0,1,0,202709251,JH14,Protein synthesis,Cell wall biosynthesis
+0,1,0,202709251,JH16,Protein synthesis,Membrane disruption
+0,1,0,202709251,JH17,Protein synthesis,Protein synthesis
+0,1,0,202709251,JH18,Protein synthesis,lipopolysaccharide synthesis
+0,1,0,202709251,JH2,Cell wall biosynthesis,DNA replication
+0,1,0,202709251,JH20,Folic acid metabolism,Protein synthesis
+0,1,0,202709251,JH21,Folic acid metabolism,Cell wall biosynthesis
+0,1,0,202709251,JH24,Folic acid metabolism,DNA replication
+0,1,0,202709251,JH26,DNA replication,Cell wall biosynthesis
+0,1,0,202709251,JH28,DNA replication,Protein synthesis
+0,1,0,202709251,JH29,DNA replication,Protein synthesis
+0,1,0,202709251,JH3,Cell wall biosynthesis,Nitrofurans
+0,1,0,202709251,JH30,DNA replication,Membrane disruption
+0,1,0,202709251,JH31,Nitrofurans,Cell wall biosynthesis
+0,1,0,202709251,JH32,DNA replication,Nitrofurans
+0,1,0,202709251,JH33,DNA replication,DNA replication
+0,1,0,202709251,JH35,DNA replication,Protein synthesis
+0,1,0,202709251,JH36,DNA replication,DNA replication
+0,1,0,202709251,JH38,RNA Synthesis,Cell wall biosynthesis
+0,1,0,202709251,JH39,RNA Synthesis,DNA replication
+0,1,0,202709251,JH40,Fatty acid synthesis,Fatty acid synthesis
+0,1,0,202709251,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+0,1,0,202709251,JH43,Membrane disruption,Folic acid metabolism
+0,1,0,202709251,JH45,Membrane disruption,Membrane disruption
+0,1,0,202709251,JH46,Membrane disruption,lipopolysaccharide synthesis
+0,1,0,202709251,JH47,Membrane disruption,lipopolysaccharide synthesis
+0,1,0,202709251,JH48,lipopolysaccharide synthesis,RNA Synthesis
+0,1,0,202709251,JH49,lipopolysaccharide synthesis,RNA Synthesis
+0,1,0,202709251,JH5,Cell wall biosynthesis,Membrane disruption
+0,1,0,202709251,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+0,1,0,202709251,JH55,Protein synthesis,Cell wall biosynthesis
+0,1,0,202709251,JH58,Nitrofurans,DNA replication
+0,1,0,202709251,JH61,Fatty acid synthesis,DNA replication
+0,1,0,202709251,JH62,lipopolysaccharide synthesis,DNA replication
+0,1,0,202709251,JH64,Nitrofurans,Fatty acid synthesis
+0,1,0,202709251,JH7,Cell wall biosynthesis,Protein synthesis
+0,1,0,202709251,JH9,Cell wall biosynthesis,Nitrofurans
+0,1,1,202719251,JH0,Cell wall biosynthesis,Nitrofurans
+0,1,1,202719251,JH10,Cell wall biosynthesis,Folic acid metabolism
+0,1,1,202719251,JH12,Protein synthesis,lipopolysaccharide synthesis
+0,1,1,202719251,JH13,Protein synthesis,Protein synthesis
+0,1,1,202719251,JH14,Protein synthesis,Cell wall biosynthesis
+0,1,1,202719251,JH16,Protein synthesis,lipopolysaccharide synthesis
+0,1,1,202719251,JH17,Protein synthesis,DNA replication
+0,1,1,202719251,JH18,Protein synthesis,Protein synthesis
+0,1,1,202719251,JH2,Cell wall biosynthesis,Fatty acid synthesis
+0,1,1,202719251,JH20,Folic acid metabolism,Folic acid metabolism
+0,1,1,202719251,JH21,Folic acid metabolism,DNA replication
+0,1,1,202719251,JH24,Folic acid metabolism,lipopolysaccharide synthesis
+0,1,1,202719251,JH26,DNA replication,Nitrofurans
+0,1,1,202719251,JH28,DNA replication,Cell wall biosynthesis
+0,1,1,202719251,JH29,DNA replication,DNA replication
+0,1,1,202719251,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,1,1,202719251,JH30,DNA replication,Membrane disruption
+0,1,1,202719251,JH31,Nitrofurans,DNA replication
+0,1,1,202719251,JH32,DNA replication,DNA replication
+0,1,1,202719251,JH33,DNA replication,Fatty acid synthesis
+0,1,1,202719251,JH35,DNA replication,Membrane disruption
+0,1,1,202719251,JH36,DNA replication,Nitrofurans
+0,1,1,202719251,JH38,RNA Synthesis,DNA replication
+0,1,1,202719251,JH39,RNA Synthesis,DNA replication
+0,1,1,202719251,JH40,Fatty acid synthesis,Cell wall biosynthesis
+0,1,1,202719251,JH41,Fatty acid synthesis,Cell wall biosynthesis
+0,1,1,202719251,JH43,Membrane disruption,Protein synthesis
+0,1,1,202719251,JH45,Membrane disruption,Protein synthesis
+0,1,1,202719251,JH46,Membrane disruption,Cell wall biosynthesis
+0,1,1,202719251,JH47,Membrane disruption,Protein synthesis
+0,1,1,202719251,JH48,lipopolysaccharide synthesis,DNA replication
+0,1,1,202719251,JH49,lipopolysaccharide synthesis,RNA Synthesis
+0,1,1,202719251,JH5,Cell wall biosynthesis,Membrane disruption
+0,1,1,202719251,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,1,1,202719251,JH55,Protein synthesis,RNA Synthesis
+0,1,1,202719251,JH58,Nitrofurans,Fatty acid synthesis
+0,1,1,202719251,JH61,Fatty acid synthesis,Protein synthesis
+0,1,1,202719251,JH62,lipopolysaccharide synthesis,Protein synthesis
+0,1,1,202719251,JH64,Nitrofurans,Folic acid metabolism
+0,1,1,202719251,JH7,Cell wall biosynthesis,Membrane disruption
+0,1,1,202719251,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+0,1,2,202729251,JH0,Cell wall biosynthesis,DNA replication
+0,1,2,202729251,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,1,2,202729251,JH12,Protein synthesis,Protein synthesis
+0,1,2,202729251,JH13,Protein synthesis,Folic acid metabolism
+0,1,2,202729251,JH14,Protein synthesis,Protein synthesis
+0,1,2,202729251,JH16,Protein synthesis,Cell wall biosynthesis
+0,1,2,202729251,JH17,Protein synthesis,Membrane disruption
+0,1,2,202729251,JH18,Protein synthesis,Fatty acid synthesis
+0,1,2,202729251,JH2,Cell wall biosynthesis,DNA replication
+0,1,2,202729251,JH20,Folic acid metabolism,DNA replication
+0,1,2,202729251,JH21,Folic acid metabolism,Fatty acid synthesis
+0,1,2,202729251,JH24,Folic acid metabolism,Cell wall biosynthesis
+0,1,2,202729251,JH26,DNA replication,Protein synthesis
+0,1,2,202729251,JH28,DNA replication,Nitrofurans
+0,1,2,202729251,JH29,DNA replication,Cell wall biosynthesis
+0,1,2,202729251,JH3,Cell wall biosynthesis,Fatty acid synthesis
+0,1,2,202729251,JH30,DNA replication,Cell wall biosynthesis
+0,1,2,202729251,JH31,Nitrofurans,Protein synthesis
+0,1,2,202729251,JH32,DNA replication,lipopolysaccharide synthesis
+0,1,2,202729251,JH33,DNA replication,DNA replication
+0,1,2,202729251,JH35,DNA replication,RNA Synthesis
+0,1,2,202729251,JH36,DNA replication,Nitrofurans
+0,1,2,202729251,JH38,RNA Synthesis,Membrane disruption
+0,1,2,202729251,JH39,RNA Synthesis,DNA replication
+0,1,2,202729251,JH40,Fatty acid synthesis,Membrane disruption
+0,1,2,202729251,JH41,Fatty acid synthesis,DNA replication
+0,1,2,202729251,JH43,Membrane disruption,Protein synthesis
+0,1,2,202729251,JH45,Membrane disruption,Nitrofurans
+0,1,2,202729251,JH46,Membrane disruption,Protein synthesis
+0,1,2,202729251,JH47,Membrane disruption,Protein synthesis
+0,1,2,202729251,JH48,lipopolysaccharide synthesis,DNA replication
+0,1,2,202729251,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+0,1,2,202729251,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+0,1,2,202729251,JH50,lipopolysaccharide synthesis,Membrane disruption
+0,1,2,202729251,JH55,Protein synthesis,lipopolysaccharide synthesis
+0,1,2,202729251,JH58,Nitrofurans,Cell wall biosynthesis
+0,1,2,202729251,JH61,Fatty acid synthesis,RNA Synthesis
+0,1,2,202729251,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,1,2,202729251,JH64,Nitrofurans,Folic acid metabolism
+0,1,2,202729251,JH7,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,1,2,202729251,JH9,Cell wall biosynthesis,DNA replication
+0,2,0,202709252,JH0,Cell wall biosynthesis,Fatty acid synthesis
+0,2,0,202709252,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,2,0,202709252,JH12,Protein synthesis,Membrane disruption
+0,2,0,202709252,JH13,Protein synthesis,Cell wall biosynthesis
+0,2,0,202709252,JH15,Protein synthesis,RNA Synthesis
+0,2,0,202709252,JH17,Protein synthesis,DNA replication
+0,2,0,202709252,JH18,Protein synthesis,lipopolysaccharide synthesis
+0,2,0,202709252,JH20,Folic acid metabolism,Cell wall biosynthesis
+0,2,0,202709252,JH21,Folic acid metabolism,DNA replication
+0,2,0,202709252,JH23,Folic acid metabolism,DNA replication
+0,2,0,202709252,JH24,Folic acid metabolism,DNA replication
+0,2,0,202709252,JH26,DNA replication,Cell wall biosynthesis
+0,2,0,202709252,JH27,DNA replication,Fatty acid synthesis
+0,2,0,202709252,JH28,DNA replication,Folic acid metabolism
+0,2,0,202709252,JH29,DNA replication,lipopolysaccharide synthesis
+0,2,0,202709252,JH3,Cell wall biosynthesis,Membrane disruption
+0,2,0,202709252,JH30,DNA replication,Cell wall biosynthesis
+0,2,0,202709252,JH35,DNA replication,Protein synthesis
+0,2,0,202709252,JH36,DNA replication,DNA replication
+0,2,0,202709252,JH37,RNA Synthesis,DNA replication
+0,2,0,202709252,JH38,RNA Synthesis,Nitrofurans
+0,2,0,202709252,JH40,Fatty acid synthesis,Protein synthesis
+0,2,0,202709252,JH41,Fatty acid synthesis,Protein synthesis
+0,2,0,202709252,JH42,Fatty acid synthesis,Protein synthesis
+0,2,0,202709252,JH43,Membrane disruption,Folic acid metabolism
+0,2,0,202709252,JH44,Membrane disruption,Nitrofurans
+0,2,0,202709252,JH46,Membrane disruption,Membrane disruption
+0,2,0,202709252,JH47,Membrane disruption,Protein synthesis
+0,2,0,202709252,JH48,lipopolysaccharide synthesis,Membrane disruption
+0,2,0,202709252,JH49,lipopolysaccharide synthesis,Fatty acid synthesis
+0,2,0,202709252,JH5,Cell wall biosynthesis,Folic acid metabolism
+0,2,0,202709252,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+0,2,0,202709252,JH55,Protein synthesis,Protein synthesis
+0,2,0,202709252,JH56,Protein synthesis,Cell wall biosynthesis
+0,2,0,202709252,JH58,Nitrofurans,Folic acid metabolism
+0,2,0,202709252,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+0,2,0,202709252,JH61,Fatty acid synthesis,Cell wall biosynthesis
+0,2,0,202709252,JH64,Nitrofurans,DNA replication
+0,2,0,202709252,JH65,Nitrofurans,Protein synthesis
+0,2,0,202709252,JH8,Cell wall biosynthesis,RNA Synthesis
+0,2,0,202709252,JH9,Cell wall biosynthesis,Nitrofurans
+0,2,1,202719252,JH0,Cell wall biosynthesis,Folic acid metabolism
+0,2,1,202719252,JH10,Cell wall biosynthesis,Membrane disruption
+0,2,1,202719252,JH12,Protein synthesis,Cell wall biosynthesis
+0,2,1,202719252,JH13,Protein synthesis,Fatty acid synthesis
+0,2,1,202719252,JH15,Protein synthesis,Membrane disruption
+0,2,1,202719252,JH17,Protein synthesis,Folic acid metabolism
+0,2,1,202719252,JH18,Protein synthesis,RNA Synthesis
+0,2,1,202719252,JH20,Folic acid metabolism,Fatty acid synthesis
+0,2,1,202719252,JH21,Folic acid metabolism,Folic acid metabolism
+0,2,1,202719252,JH23,Folic acid metabolism,Membrane disruption
+0,2,1,202719252,JH24,Folic acid metabolism,Protein synthesis
+0,2,1,202719252,JH26,DNA replication,DNA replication
+0,2,1,202719252,JH27,DNA replication,Nitrofurans
+0,2,1,202719252,JH28,DNA replication,lipopolysaccharide synthesis
+0,2,1,202719252,JH29,DNA replication,Nitrofurans
+0,2,1,202719252,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,2,1,202719252,JH30,DNA replication,Protein synthesis
+0,2,1,202719252,JH35,DNA replication,Cell wall biosynthesis
+0,2,1,202719252,JH36,DNA replication,Protein synthesis
+0,2,1,202719252,JH37,RNA Synthesis,DNA replication
+0,2,1,202719252,JH38,RNA Synthesis,DNA replication
+0,2,1,202719252,JH40,Fatty acid synthesis,Protein synthesis
+0,2,1,202719252,JH41,Fatty acid synthesis,Protein synthesis
+0,2,1,202719252,JH42,Fatty acid synthesis,Fatty acid synthesis
+0,2,1,202719252,JH43,Membrane disruption,Fatty acid synthesis
+0,2,1,202719252,JH44,Membrane disruption,Cell wall biosynthesis
+0,2,1,202719252,JH46,Membrane disruption,Folic acid metabolism
+0,2,1,202719252,JH47,Membrane disruption,DNA replication
+0,2,1,202719252,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,2,1,202719252,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,2,1,202719252,JH5,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,2,1,202719252,JH50,lipopolysaccharide synthesis,DNA replication
+0,2,1,202719252,JH55,Protein synthesis,DNA replication
+0,2,1,202719252,JH56,Protein synthesis,DNA replication
+0,2,1,202719252,JH58,Nitrofurans,Cell wall biosynthesis
+0,2,1,202719252,JH6,Cell wall biosynthesis,RNA Synthesis
+0,2,1,202719252,JH61,Fatty acid synthesis,Nitrofurans
+0,2,1,202719252,JH64,Nitrofurans,Protein synthesis
+0,2,1,202719252,JH65,Nitrofurans,Membrane disruption
+0,2,1,202719252,JH8,Cell wall biosynthesis,Protein synthesis
+0,2,1,202719252,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+0,2,2,202729252,JH0,Cell wall biosynthesis,Nitrofurans
+0,2,2,202729252,JH10,Cell wall biosynthesis,Folic acid metabolism
+0,2,2,202729252,JH12,Protein synthesis,DNA replication
+0,2,2,202729252,JH13,Protein synthesis,Folic acid metabolism
+0,2,2,202729252,JH15,Protein synthesis,Cell wall biosynthesis
+0,2,2,202729252,JH17,Protein synthesis,Fatty acid synthesis
+0,2,2,202729252,JH18,Protein synthesis,Membrane disruption
+0,2,2,202729252,JH20,Folic acid metabolism,Membrane disruption
+0,2,2,202729252,JH21,Folic acid metabolism,RNA Synthesis
+0,2,2,202729252,JH23,Folic acid metabolism,Cell wall biosynthesis
+0,2,2,202729252,JH24,Folic acid metabolism,DNA replication
+0,2,2,202729252,JH26,DNA replication,Fatty acid synthesis
+0,2,2,202729252,JH27,DNA replication,lipopolysaccharide synthesis
+0,2,2,202729252,JH28,DNA replication,Protein synthesis
+0,2,2,202729252,JH29,DNA replication,RNA Synthesis
+0,2,2,202729252,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+0,2,2,202729252,JH30,DNA replication,Folic acid metabolism
+0,2,2,202729252,JH35,DNA replication,Cell wall biosynthesis
+0,2,2,202729252,JH36,DNA replication,Folic acid metabolism
+0,2,2,202729252,JH37,RNA Synthesis,DNA replication
+0,2,2,202729252,JH38,RNA Synthesis,Fatty acid synthesis
+0,2,2,202729252,JH40,Fatty acid synthesis,Membrane disruption
+0,2,2,202729252,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+0,2,2,202729252,JH42,Fatty acid synthesis,Fatty acid synthesis
+0,2,2,202729252,JH43,Membrane disruption,Protein synthesis
+0,2,2,202729252,JH44,Membrane disruption,DNA replication
+0,2,2,202729252,JH46,Membrane disruption,Nitrofurans
+0,2,2,202729252,JH47,Membrane disruption,Protein synthesis
+0,2,2,202729252,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,2,2,202729252,JH49,lipopolysaccharide synthesis,DNA replication
+0,2,2,202729252,JH5,Cell wall biosynthesis,Nitrofurans
+0,2,2,202729252,JH50,lipopolysaccharide synthesis,DNA replication
+0,2,2,202729252,JH55,Protein synthesis,Protein synthesis
+0,2,2,202729252,JH56,Protein synthesis,Membrane disruption
+0,2,2,202729252,JH58,Nitrofurans,lipopolysaccharide synthesis
+0,2,2,202729252,JH6,Cell wall biosynthesis,Protein synthesis
+0,2,2,202729252,JH61,Fatty acid synthesis,Cell wall biosynthesis
+0,2,2,202729252,JH64,Nitrofurans,Protein synthesis
+0,2,2,202729252,JH65,Nitrofurans,Protein synthesis
+0,2,2,202729252,JH8,Cell wall biosynthesis,DNA replication
+0,2,2,202729252,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+0,3,0,202709253,JH10,Cell wall biosynthesis,Membrane disruption
+0,3,0,202709253,JH12,Protein synthesis,lipopolysaccharide synthesis
+0,3,0,202709253,JH13,Protein synthesis,RNA Synthesis
+0,3,0,202709253,JH14,Protein synthesis,RNA Synthesis
+0,3,0,202709253,JH15,Protein synthesis,Nitrofurans
+0,3,0,202709253,JH16,Protein synthesis,Protein synthesis
+0,3,0,202709253,JH17,Protein synthesis,Fatty acid synthesis
+0,3,0,202709253,JH18,Protein synthesis,Fatty acid synthesis
+0,3,0,202709253,JH2,Cell wall biosynthesis,Protein synthesis
+0,3,0,202709253,JH20,Folic acid metabolism,Folic acid metabolism
+0,3,0,202709253,JH23,Folic acid metabolism,DNA replication
+0,3,0,202709253,JH24,Folic acid metabolism,Protein synthesis
+0,3,0,202709253,JH26,DNA replication,DNA replication
+0,3,0,202709253,JH27,DNA replication,DNA replication
+0,3,0,202709253,JH28,DNA replication,Fatty acid synthesis
+0,3,0,202709253,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+0,3,0,202709253,JH30,DNA replication,Protein synthesis
+0,3,0,202709253,JH31,Nitrofurans,Membrane disruption
+0,3,0,202709253,JH32,DNA replication,Nitrofurans
+0,3,0,202709253,JH33,DNA replication,DNA replication
+0,3,0,202709253,JH35,DNA replication,Cell wall biosynthesis
+0,3,0,202709253,JH37,RNA Synthesis,Protein synthesis
+0,3,0,202709253,JH38,RNA Synthesis,Cell wall biosynthesis
+0,3,0,202709253,JH39,RNA Synthesis,Protein synthesis
+0,3,0,202709253,JH40,Fatty acid synthesis,Nitrofurans
+0,3,0,202709253,JH41,Fatty acid synthesis,Cell wall biosynthesis
+0,3,0,202709253,JH42,Fatty acid synthesis,Protein synthesis
+0,3,0,202709253,JH43,Membrane disruption,Folic acid metabolism
+0,3,0,202709253,JH44,Membrane disruption,lipopolysaccharide synthesis
+0,3,0,202709253,JH45,Membrane disruption,DNA replication
+0,3,0,202709253,JH46,Membrane disruption,Cell wall biosynthesis
+0,3,0,202709253,JH48,lipopolysaccharide synthesis,Protein synthesis
+0,3,0,202709253,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,3,0,202709253,JH5,Cell wall biosynthesis,Membrane disruption
+0,3,0,202709253,JH56,Protein synthesis,Folic acid metabolism
+0,3,0,202709253,JH6,Cell wall biosynthesis,DNA replication
+0,3,0,202709253,JH62,lipopolysaccharide synthesis,Membrane disruption
+0,3,0,202709253,JH64,Nitrofurans,lipopolysaccharide synthesis
+0,3,0,202709253,JH65,Nitrofurans,Cell wall biosynthesis
+0,3,0,202709253,JH7,Cell wall biosynthesis,DNA replication
+0,3,0,202709253,JH8,Cell wall biosynthesis,RNA Synthesis
+0,3,1,202719253,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+0,3,1,202719253,JH12,Protein synthesis,Membrane disruption
+0,3,1,202719253,JH13,Protein synthesis,Protein synthesis
+0,3,1,202719253,JH14,Protein synthesis,Protein synthesis
+0,3,1,202719253,JH15,Protein synthesis,Protein synthesis
+0,3,1,202719253,JH16,Protein synthesis,Folic acid metabolism
+0,3,1,202719253,JH17,Protein synthesis,Folic acid metabolism
+0,3,1,202719253,JH18,Protein synthesis,DNA replication
+0,3,1,202719253,JH2,Cell wall biosynthesis,Membrane disruption
+0,3,1,202719253,JH20,Folic acid metabolism,Protein synthesis
+0,3,1,202719253,JH23,Folic acid metabolism,lipopolysaccharide synthesis
+0,3,1,202719253,JH24,Folic acid metabolism,Folic acid metabolism
+0,3,1,202719253,JH26,DNA replication,Protein synthesis
+0,3,1,202719253,JH27,DNA replication,DNA replication
+0,3,1,202719253,JH28,DNA replication,DNA replication
+0,3,1,202719253,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+0,3,1,202719253,JH30,DNA replication,RNA Synthesis
+0,3,1,202719253,JH31,Nitrofurans,Cell wall biosynthesis
+0,3,1,202719253,JH32,DNA replication,RNA Synthesis
+0,3,1,202719253,JH33,DNA replication,Protein synthesis
+0,3,1,202719253,JH35,DNA replication,Membrane disruption
+0,3,1,202719253,JH37,RNA Synthesis,Cell wall biosynthesis
+0,3,1,202719253,JH38,RNA Synthesis,Cell wall biosynthesis
+0,3,1,202719253,JH39,RNA Synthesis,lipopolysaccharide synthesis
+0,3,1,202719253,JH40,Fatty acid synthesis,Cell wall biosynthesis
+0,3,1,202719253,JH41,Fatty acid synthesis,DNA replication
+0,3,1,202719253,JH42,Fatty acid synthesis,Protein synthesis
+0,3,1,202719253,JH43,Membrane disruption,Cell wall biosynthesis
+0,3,1,202719253,JH44,Membrane disruption,Nitrofurans
+0,3,1,202719253,JH45,Membrane disruption,Fatty acid synthesis
+0,3,1,202719253,JH46,Membrane disruption,Nitrofurans
+0,3,1,202719253,JH48,lipopolysaccharide synthesis,Fatty acid synthesis
+0,3,1,202719253,JH49,lipopolysaccharide synthesis,DNA replication
+0,3,1,202719253,JH5,Cell wall biosynthesis,Protein synthesis
+0,3,1,202719253,JH56,Protein synthesis,DNA replication
+0,3,1,202719253,JH6,Cell wall biosynthesis,DNA replication
+0,3,1,202719253,JH62,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+0,3,1,202719253,JH64,Nitrofurans,RNA Synthesis
+0,3,1,202719253,JH65,Nitrofurans,Fatty acid synthesis
+0,3,1,202719253,JH7,Cell wall biosynthesis,Membrane disruption
+0,3,1,202719253,JH8,Cell wall biosynthesis,Nitrofurans
+0,3,2,202729253,JH10,Cell wall biosynthesis,DNA replication
+0,3,2,202729253,JH12,Protein synthesis,Folic acid metabolism
+0,3,2,202729253,JH13,Protein synthesis,Folic acid metabolism
+0,3,2,202729253,JH14,Protein synthesis,RNA Synthesis
+0,3,2,202729253,JH15,Protein synthesis,Cell wall biosynthesis
+0,3,2,202729253,JH16,Protein synthesis,Cell wall biosynthesis
+0,3,2,202729253,JH17,Protein synthesis,RNA Synthesis
+0,3,2,202729253,JH18,Protein synthesis,Folic acid metabolism
+0,3,2,202729253,JH2,Cell wall biosynthesis,Protein synthesis
+0,3,2,202729253,JH20,Folic acid metabolism,Fatty acid synthesis
+0,3,2,202729253,JH23,Folic acid metabolism,Protein synthesis
+0,3,2,202729253,JH24,Folic acid metabolism,Nitrofurans
+0,3,2,202729253,JH26,DNA replication,Cell wall biosynthesis
+0,3,2,202729253,JH27,DNA replication,DNA replication
+0,3,2,202729253,JH28,DNA replication,Fatty acid synthesis
+0,3,2,202729253,JH3,Cell wall biosynthesis,Nitrofurans
+0,3,2,202729253,JH30,DNA replication,Cell wall biosynthesis
+0,3,2,202729253,JH31,Nitrofurans,DNA replication
+0,3,2,202729253,JH32,DNA replication,Protein synthesis
+0,3,2,202729253,JH33,DNA replication,Membrane disruption
+0,3,2,202729253,JH35,DNA replication,DNA replication
+0,3,2,202729253,JH37,RNA Synthesis,Membrane disruption
+0,3,2,202729253,JH38,RNA Synthesis,Protein synthesis
+0,3,2,202729253,JH39,RNA Synthesis,Cell wall biosynthesis
+0,3,2,202729253,JH40,Fatty acid synthesis,Cell wall biosynthesis
+0,3,2,202729253,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+0,3,2,202729253,JH42,Fatty acid synthesis,RNA Synthesis
+0,3,2,202729253,JH43,Membrane disruption,lipopolysaccharide synthesis
+0,3,2,202729253,JH44,Membrane disruption,Fatty acid synthesis
+0,3,2,202729253,JH45,Membrane disruption,Protein synthesis
+0,3,2,202729253,JH46,Membrane disruption,DNA replication
+0,3,2,202729253,JH48,lipopolysaccharide synthesis,Nitrofurans
+0,3,2,202729253,JH49,lipopolysaccharide synthesis,Protein synthesis
+0,3,2,202729253,JH5,Cell wall biosynthesis,Protein synthesis
+0,3,2,202729253,JH56,Protein synthesis,Cell wall biosynthesis
+0,3,2,202729253,JH6,Cell wall biosynthesis,Protein synthesis
+0,3,2,202729253,JH62,lipopolysaccharide synthesis,DNA replication
+0,3,2,202729253,JH64,Nitrofurans,lipopolysaccharide synthesis
+0,3,2,202729253,JH65,Nitrofurans,DNA replication
+0,3,2,202729253,JH7,Cell wall biosynthesis,Membrane disruption
+0,3,2,202729253,JH8,Cell wall biosynthesis,Membrane disruption
+0,4,0,202709254,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+0,4,0,202709254,JH10,Cell wall biosynthesis,DNA replication
+0,4,0,202709254,JH12,Protein synthesis,Cell wall biosynthesis
+0,4,0,202709254,JH13,Protein synthesis,Membrane disruption
+0,4,0,202709254,JH14,Protein synthesis,Cell wall biosynthesis
+0,4,0,202709254,JH15,Protein synthesis,DNA replication
+0,4,0,202709254,JH16,Protein synthesis,RNA Synthesis
+0,4,0,202709254,JH2,Cell wall biosynthesis,DNA replication
+0,4,0,202709254,JH21,Folic acid metabolism,Nitrofurans
+0,4,0,202709254,JH23,Folic acid metabolism,Membrane disruption
+0,4,0,202709254,JH24,Folic acid metabolism,Cell wall biosynthesis
+0,4,0,202709254,JH27,DNA replication,RNA Synthesis
+0,4,0,202709254,JH29,DNA replication,Fatty acid synthesis
+0,4,0,202709254,JH3,Cell wall biosynthesis,Folic acid metabolism
+0,4,0,202709254,JH30,DNA replication,Nitrofurans
+0,4,0,202709254,JH31,Nitrofurans,Fatty acid synthesis
+0,4,0,202709254,JH32,DNA replication,RNA Synthesis
+0,4,0,202709254,JH33,DNA replication,Membrane disruption
+0,4,0,202709254,JH35,DNA replication,Folic acid metabolism
+0,4,0,202709254,JH36,DNA replication,lipopolysaccharide synthesis
+0,4,0,202709254,JH37,RNA Synthesis,Cell wall biosynthesis
+0,4,0,202709254,JH38,RNA Synthesis,Nitrofurans
+0,4,0,202709254,JH39,RNA Synthesis,Fatty acid synthesis
+0,4,0,202709254,JH40,Fatty acid synthesis,DNA replication
+0,4,0,202709254,JH42,Fatty acid synthesis,Cell wall biosynthesis
+0,4,0,202709254,JH43,Membrane disruption,Cell wall biosynthesis
+0,4,0,202709254,JH44,Membrane disruption,Membrane disruption
+0,4,0,202709254,JH45,Membrane disruption,lipopolysaccharide synthesis
+0,4,0,202709254,JH47,Membrane disruption,Protein synthesis
+0,4,0,202709254,JH48,lipopolysaccharide synthesis,DNA replication
+0,4,0,202709254,JH50,lipopolysaccharide synthesis,Protein synthesis
+0,4,0,202709254,JH55,Protein synthesis,DNA replication
+0,4,0,202709254,JH56,Protein synthesis,Protein synthesis
+0,4,0,202709254,JH58,Nitrofurans,Protein synthesis
+0,4,0,202709254,JH6,Cell wall biosynthesis,DNA replication
+0,4,0,202709254,JH61,Fatty acid synthesis,Protein synthesis
+0,4,0,202709254,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+0,4,0,202709254,JH65,Nitrofurans,lipopolysaccharide synthesis
+0,4,0,202709254,JH7,Cell wall biosynthesis,Folic acid metabolism
+0,4,0,202709254,JH8,Cell wall biosynthesis,Protein synthesis
+0,4,0,202709254,JH9,Cell wall biosynthesis,Protein synthesis
+0,4,1,202719254,JH0,Cell wall biosynthesis,Folic acid metabolism
+0,4,1,202719254,JH10,Cell wall biosynthesis,RNA Synthesis
+0,4,1,202719254,JH12,Protein synthesis,Folic acid metabolism
+0,4,1,202719254,JH13,Protein synthesis,Cell wall biosynthesis
+0,4,1,202719254,JH14,Protein synthesis,Membrane disruption
+0,4,1,202719254,JH15,Protein synthesis,RNA Synthesis
+0,4,1,202719254,JH16,Protein synthesis,Fatty acid synthesis
+0,4,1,202719254,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+0,4,1,202719254,JH21,Folic acid metabolism,Membrane disruption
+0,4,1,202719254,JH23,Folic acid metabolism,Cell wall biosynthesis
+0,4,1,202719254,JH24,Folic acid metabolism,Nitrofurans
+0,4,1,202719254,JH27,DNA replication,Protein synthesis
+0,4,1,202719254,JH29,DNA replication,Protein synthesis
+0,4,1,202719254,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+0,4,1,202719254,JH30,DNA replication,lipopolysaccharide synthesis
+0,4,1,202719254,JH31,Nitrofurans,lipopolysaccharide synthesis
+0,4,1,202719254,JH32,DNA replication,Fatty acid synthesis
+0,4,1,202719254,JH33,DNA replication,DNA replication
+0,4,1,202719254,JH35,DNA replication,Cell wall biosynthesis
+0,4,1,202719254,JH36,DNA replication,Fatty acid synthesis
+0,4,1,202719254,JH37,RNA Synthesis,Nitrofurans
+0,4,1,202719254,JH38,RNA Synthesis,DNA replication
+0,4,1,202719254,JH39,RNA Synthesis,lipopolysaccharide synthesis
+0,4,1,202719254,JH40,Fatty acid synthesis,Cell wall biosynthesis
+0,4,1,202719254,JH42,Fatty acid synthesis,Cell wall biosynthesis
+0,4,1,202719254,JH43,Membrane disruption,Cell wall biosynthesis
+0,4,1,202719254,JH44,Membrane disruption,Protein synthesis
+0,4,1,202719254,JH45,Membrane disruption,RNA Synthesis
+0,4,1,202719254,JH47,Membrane disruption,Protein synthesis
+0,4,1,202719254,JH48,lipopolysaccharide synthesis,Protein synthesis
+0,4,1,202719254,JH50,lipopolysaccharide synthesis,Membrane disruption
+0,4,1,202719254,JH55,Protein synthesis,DNA replication
+0,4,1,202719254,JH56,Protein synthesis,Membrane disruption
+0,4,1,202719254,JH58,Nitrofurans,Protein synthesis
+0,4,1,202719254,JH6,Cell wall biosynthesis,DNA replication
+0,4,1,202719254,JH61,Fatty acid synthesis,DNA replication
+0,4,1,202719254,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+0,4,1,202719254,JH65,Nitrofurans,Protein synthesis
+0,4,1,202719254,JH7,Cell wall biosynthesis,DNA replication
+0,4,1,202719254,JH8,Cell wall biosynthesis,Nitrofurans
+0,4,1,202719254,JH9,Cell wall biosynthesis,DNA replication
+0,4,2,202729254,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+0,4,2,202729254,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+0,4,2,202729254,JH12,Protein synthesis,DNA replication
+0,4,2,202729254,JH13,Protein synthesis,Fatty acid synthesis
+0,4,2,202729254,JH14,Protein synthesis,DNA replication
+0,4,2,202729254,JH15,Protein synthesis,Cell wall biosynthesis
+0,4,2,202729254,JH16,Protein synthesis,Cell wall biosynthesis
+0,4,2,202729254,JH2,Cell wall biosynthesis,Nitrofurans
+0,4,2,202729254,JH21,Folic acid metabolism,Nitrofurans
+0,4,2,202729254,JH23,Folic acid metabolism,RNA Synthesis
+0,4,2,202729254,JH24,Folic acid metabolism,Cell wall biosynthesis
+0,4,2,202729254,JH27,DNA replication,RNA Synthesis
+0,4,2,202729254,JH29,DNA replication,Cell wall biosynthesis
+0,4,2,202729254,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+0,4,2,202729254,JH30,DNA replication,Cell wall biosynthesis
+0,4,2,202729254,JH31,Nitrofurans,Protein synthesis
+0,4,2,202729254,JH32,DNA replication,Protein synthesis
+0,4,2,202729254,JH33,DNA replication,Membrane disruption
+0,4,2,202729254,JH35,DNA replication,RNA Synthesis
+0,4,2,202729254,JH36,DNA replication,Membrane disruption
+0,4,2,202729254,JH37,RNA Synthesis,DNA replication
+0,4,2,202729254,JH38,RNA Synthesis,Protein synthesis
+0,4,2,202729254,JH39,RNA Synthesis,Protein synthesis
+0,4,2,202729254,JH40,Fatty acid synthesis,DNA replication
+0,4,2,202729254,JH42,Fatty acid synthesis,Folic acid metabolism
+0,4,2,202729254,JH43,Membrane disruption,lipopolysaccharide synthesis
+0,4,2,202729254,JH44,Membrane disruption,Folic acid metabolism
+0,4,2,202729254,JH45,Membrane disruption,Protein synthesis
+0,4,2,202729254,JH47,Membrane disruption,DNA replication
+0,4,2,202729254,JH48,lipopolysaccharide synthesis,Protein synthesis
+0,4,2,202729254,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+0,4,2,202729254,JH55,Protein synthesis,DNA replication
+0,4,2,202729254,JH56,Protein synthesis,Folic acid metabolism
+0,4,2,202729254,JH58,Nitrofurans,Cell wall biosynthesis
+0,4,2,202729254,JH6,Cell wall biosynthesis,Protein synthesis
+0,4,2,202729254,JH61,Fatty acid synthesis,Membrane disruption
+0,4,2,202729254,JH62,lipopolysaccharide synthesis,DNA replication
+0,4,2,202729254,JH65,Nitrofurans,lipopolysaccharide synthesis
+0,4,2,202729254,JH7,Cell wall biosynthesis,Fatty acid synthesis
+0,4,2,202729254,JH8,Cell wall biosynthesis,Membrane disruption
+0,4,2,202729254,JH9,Cell wall biosynthesis,Nitrofurans
+1,0,0,202709350,JH0,Cell wall biosynthesis,Protein synthesis
+1,0,0,202709350,JH10,Cell wall biosynthesis,RNA Synthesis
+1,0,0,202709350,JH12,Protein synthesis,Nitrofurans
+1,0,0,202709350,JH14,Protein synthesis,Folic acid metabolism
+1,0,0,202709350,JH15,Protein synthesis,Cell wall biosynthesis
+1,0,0,202709350,JH16,Protein synthesis,DNA replication
+1,0,0,202709350,JH17,Protein synthesis,DNA replication
+1,0,0,202709350,JH18,Protein synthesis,Membrane disruption
+1,0,0,202709350,JH2,Cell wall biosynthesis,Fatty acid synthesis
+1,0,0,202709350,JH20,Folic acid metabolism,Protein synthesis
+1,0,0,202709350,JH21,Folic acid metabolism,Fatty acid synthesis
+1,0,0,202709350,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,0,0,202709350,JH26,DNA replication,lipopolysaccharide synthesis
+1,0,0,202709350,JH28,DNA replication,Membrane disruption
+1,0,0,202709350,JH29,DNA replication,lipopolysaccharide synthesis
+1,0,0,202709350,JH3,Cell wall biosynthesis,Protein synthesis
+1,0,0,202709350,JH30,DNA replication,RNA Synthesis
+1,0,0,202709350,JH31,Nitrofurans,DNA replication
+1,0,0,202709350,JH32,DNA replication,Folic acid metabolism
+1,0,0,202709350,JH35,DNA replication,Cell wall biosynthesis
+1,0,0,202709350,JH36,DNA replication,DNA replication
+1,0,0,202709350,JH37,RNA Synthesis,Cell wall biosynthesis
+1,0,0,202709350,JH38,RNA Synthesis,Fatty acid synthesis
+1,0,0,202709350,JH40,Fatty acid synthesis,Nitrofurans
+1,0,0,202709350,JH41,Fatty acid synthesis,DNA replication
+1,0,0,202709350,JH44,Membrane disruption,Membrane disruption
+1,0,0,202709350,JH45,Membrane disruption,lipopolysaccharide synthesis
+1,0,0,202709350,JH46,Membrane disruption,Nitrofurans
+1,0,0,202709350,JH47,Membrane disruption,Cell wall biosynthesis
+1,0,0,202709350,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,0,0,202709350,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+1,0,0,202709350,JH56,Protein synthesis,DNA replication
+1,0,0,202709350,JH58,Nitrofurans,Nitrofurans
+1,0,0,202709350,JH61,Fatty acid synthesis,DNA replication
+1,0,0,202709350,JH62,lipopolysaccharide synthesis,Membrane disruption
+1,0,0,202709350,JH64,Nitrofurans,Protein synthesis
+1,0,0,202709350,JH65,Nitrofurans,Protein synthesis
+1,0,0,202709350,JH7,Cell wall biosynthesis,Protein synthesis
+1,0,0,202709350,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+1,0,0,202709350,JH9,Cell wall biosynthesis,Protein synthesis
+1,0,1,202719350,JH0,Cell wall biosynthesis,RNA Synthesis
+1,0,1,202719350,JH10,Cell wall biosynthesis,Folic acid metabolism
+1,0,1,202719350,JH12,Protein synthesis,DNA replication
+1,0,1,202719350,JH14,Protein synthesis,Membrane disruption
+1,0,1,202719350,JH15,Protein synthesis,Cell wall biosynthesis
+1,0,1,202719350,JH16,Protein synthesis,Cell wall biosynthesis
+1,0,1,202719350,JH17,Protein synthesis,Protein synthesis
+1,0,1,202719350,JH18,Protein synthesis,Cell wall biosynthesis
+1,0,1,202719350,JH2,Cell wall biosynthesis,Protein synthesis
+1,0,1,202719350,JH20,Folic acid metabolism,Folic acid metabolism
+1,0,1,202719350,JH21,Folic acid metabolism,Nitrofurans
+1,0,1,202719350,JH23,Folic acid metabolism,Protein synthesis
+1,0,1,202719350,JH26,DNA replication,DNA replication
+1,0,1,202719350,JH28,DNA replication,Nitrofurans
+1,0,1,202719350,JH29,DNA replication,Protein synthesis
+1,0,1,202719350,JH3,Cell wall biosynthesis,DNA replication
+1,0,1,202719350,JH30,DNA replication,DNA replication
+1,0,1,202719350,JH31,Nitrofurans,Protein synthesis
+1,0,1,202719350,JH32,DNA replication,Membrane disruption
+1,0,1,202719350,JH35,DNA replication,Cell wall biosynthesis
+1,0,1,202719350,JH36,DNA replication,DNA replication
+1,0,1,202719350,JH37,RNA Synthesis,Protein synthesis
+1,0,1,202719350,JH38,RNA Synthesis,Fatty acid synthesis
+1,0,1,202719350,JH40,Fatty acid synthesis,Cell wall biosynthesis
+1,0,1,202719350,JH41,Fatty acid synthesis,Cell wall biosynthesis
+1,0,1,202719350,JH44,Membrane disruption,Cell wall biosynthesis
+1,0,1,202719350,JH45,Membrane disruption,lipopolysaccharide synthesis
+1,0,1,202719350,JH46,Membrane disruption,Nitrofurans
+1,0,1,202719350,JH47,Membrane disruption,Membrane disruption
+1,0,1,202719350,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+1,0,1,202719350,JH49,lipopolysaccharide synthesis,Fatty acid synthesis
+1,0,1,202719350,JH56,Protein synthesis,Nitrofurans
+1,0,1,202719350,JH58,Nitrofurans,Fatty acid synthesis
+1,0,1,202719350,JH61,Fatty acid synthesis,RNA Synthesis
+1,0,1,202719350,JH62,lipopolysaccharide synthesis,DNA replication
+1,0,1,202719350,JH64,Nitrofurans,Folic acid metabolism
+1,0,1,202719350,JH65,Nitrofurans,Protein synthesis
+1,0,1,202719350,JH7,Cell wall biosynthesis,Membrane disruption
+1,0,1,202719350,JH8,Cell wall biosynthesis,DNA replication
+1,0,1,202719350,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,0,2,202729350,JH0,Cell wall biosynthesis,Protein synthesis
+1,0,2,202729350,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+1,0,2,202729350,JH12,Protein synthesis,Cell wall biosynthesis
+1,0,2,202729350,JH14,Protein synthesis,DNA replication
+1,0,2,202729350,JH15,Protein synthesis,Nitrofurans
+1,0,2,202729350,JH16,Protein synthesis,lipopolysaccharide synthesis
+1,0,2,202729350,JH17,Protein synthesis,Protein synthesis
+1,0,2,202729350,JH18,Protein synthesis,Membrane disruption
+1,0,2,202729350,JH2,Cell wall biosynthesis,Membrane disruption
+1,0,2,202729350,JH20,Folic acid metabolism,lipopolysaccharide synthesis
+1,0,2,202729350,JH21,Folic acid metabolism,Fatty acid synthesis
+1,0,2,202729350,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,0,2,202729350,JH26,DNA replication,DNA replication
+1,0,2,202729350,JH28,DNA replication,Folic acid metabolism
+1,0,2,202729350,JH29,DNA replication,Protein synthesis
+1,0,2,202729350,JH3,Cell wall biosynthesis,Fatty acid synthesis
+1,0,2,202729350,JH30,DNA replication,Protein synthesis
+1,0,2,202729350,JH31,Nitrofurans,Folic acid metabolism
+1,0,2,202729350,JH32,DNA replication,RNA Synthesis
+1,0,2,202729350,JH35,DNA replication,Protein synthesis
+1,0,2,202729350,JH36,DNA replication,Folic acid metabolism
+1,0,2,202729350,JH37,RNA Synthesis,Protein synthesis
+1,0,2,202729350,JH38,RNA Synthesis,DNA replication
+1,0,2,202729350,JH40,Fatty acid synthesis,RNA Synthesis
+1,0,2,202729350,JH41,Fatty acid synthesis,Membrane disruption
+1,0,2,202729350,JH44,Membrane disruption,Protein synthesis
+1,0,2,202729350,JH45,Membrane disruption,Cell wall biosynthesis
+1,0,2,202729350,JH46,Membrane disruption,Nitrofurans
+1,0,2,202729350,JH47,Membrane disruption,Cell wall biosynthesis
+1,0,2,202729350,JH48,lipopolysaccharide synthesis,DNA replication
+1,0,2,202729350,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,0,2,202729350,JH56,Protein synthesis,DNA replication
+1,0,2,202729350,JH58,Nitrofurans,Nitrofurans
+1,0,2,202729350,JH61,Fatty acid synthesis,Cell wall biosynthesis
+1,0,2,202729350,JH62,lipopolysaccharide synthesis,Membrane disruption
+1,0,2,202729350,JH64,Nitrofurans,DNA replication
+1,0,2,202729350,JH65,Nitrofurans,Nitrofurans
+1,0,2,202729350,JH7,Cell wall biosynthesis,DNA replication
+1,0,2,202729350,JH8,Cell wall biosynthesis,Fatty acid synthesis
+1,0,2,202729350,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,1,0,202709351,JH10,Cell wall biosynthesis,DNA replication
+1,1,0,202709351,JH12,Protein synthesis,Fatty acid synthesis
+1,1,0,202709351,JH13,Protein synthesis,Membrane disruption
+1,1,0,202709351,JH14,Protein synthesis,Protein synthesis
+1,1,0,202709351,JH15,Protein synthesis,lipopolysaccharide synthesis
+1,1,0,202709351,JH16,Protein synthesis,Folic acid metabolism
+1,1,0,202709351,JH17,Protein synthesis,Nitrofurans
+1,1,0,202709351,JH20,Folic acid metabolism,lipopolysaccharide synthesis
+1,1,0,202709351,JH21,Folic acid metabolism,Protein synthesis
+1,1,0,202709351,JH24,Folic acid metabolism,Membrane disruption
+1,1,0,202709351,JH26,DNA replication,Fatty acid synthesis
+1,1,0,202709351,JH27,DNA replication,Folic acid metabolism
+1,1,0,202709351,JH28,DNA replication,DNA replication
+1,1,0,202709351,JH29,DNA replication,Membrane disruption
+1,1,0,202709351,JH3,Cell wall biosynthesis,DNA replication
+1,1,0,202709351,JH31,Nitrofurans,Protein synthesis
+1,1,0,202709351,JH32,DNA replication,DNA replication
+1,1,0,202709351,JH33,DNA replication,RNA Synthesis
+1,1,0,202709351,JH35,DNA replication,DNA replication
+1,1,0,202709351,JH36,DNA replication,Nitrofurans
+1,1,0,202709351,JH37,RNA Synthesis,Folic acid metabolism
+1,1,0,202709351,JH39,RNA Synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH40,Fatty acid synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH41,Fatty acid synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH42,Fatty acid synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH43,Membrane disruption,Protein synthesis
+1,1,0,202709351,JH45,Membrane disruption,DNA replication
+1,1,0,202709351,JH46,Membrane disruption,Nitrofurans
+1,1,0,202709351,JH47,Membrane disruption,Fatty acid synthesis
+1,1,0,202709351,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH49,lipopolysaccharide synthesis,Protein synthesis
+1,1,0,202709351,JH5,Cell wall biosynthesis,RNA Synthesis
+1,1,0,202709351,JH50,lipopolysaccharide synthesis,Protein synthesis
+1,1,0,202709351,JH55,Protein synthesis,Protein synthesis
+1,1,0,202709351,JH58,Nitrofurans,Membrane disruption
+1,1,0,202709351,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+1,1,0,202709351,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,1,0,202709351,JH65,Nitrofurans,lipopolysaccharide synthesis
+1,1,0,202709351,JH7,Cell wall biosynthesis,DNA replication
+1,1,0,202709351,JH8,Cell wall biosynthesis,DNA replication
+1,1,0,202709351,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,1,1,202719351,JH10,Cell wall biosynthesis,Protein synthesis
+1,1,1,202719351,JH12,Protein synthesis,Nitrofurans
+1,1,1,202719351,JH13,Protein synthesis,Cell wall biosynthesis
+1,1,1,202719351,JH14,Protein synthesis,Folic acid metabolism
+1,1,1,202719351,JH15,Protein synthesis,DNA replication
+1,1,1,202719351,JH16,Protein synthesis,DNA replication
+1,1,1,202719351,JH17,Protein synthesis,lipopolysaccharide synthesis
+1,1,1,202719351,JH20,Folic acid metabolism,Membrane disruption
+1,1,1,202719351,JH21,Folic acid metabolism,DNA replication
+1,1,1,202719351,JH24,Folic acid metabolism,Protein synthesis
+1,1,1,202719351,JH26,DNA replication,DNA replication
+1,1,1,202719351,JH27,DNA replication,Protein synthesis
+1,1,1,202719351,JH28,DNA replication,Cell wall biosynthesis
+1,1,1,202719351,JH29,DNA replication,Fatty acid synthesis
+1,1,1,202719351,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+1,1,1,202719351,JH31,Nitrofurans,lipopolysaccharide synthesis
+1,1,1,202719351,JH32,DNA replication,Nitrofurans
+1,1,1,202719351,JH33,DNA replication,RNA Synthesis
+1,1,1,202719351,JH35,DNA replication,Nitrofurans
+1,1,1,202719351,JH36,DNA replication,Protein synthesis
+1,1,1,202719351,JH37,RNA Synthesis,DNA replication
+1,1,1,202719351,JH39,RNA Synthesis,Membrane disruption
+1,1,1,202719351,JH40,Fatty acid synthesis,Fatty acid synthesis
+1,1,1,202719351,JH41,Fatty acid synthesis,Protein synthesis
+1,1,1,202719351,JH42,Fatty acid synthesis,Cell wall biosynthesis
+1,1,1,202719351,JH43,Membrane disruption,Folic acid metabolism
+1,1,1,202719351,JH45,Membrane disruption,Protein synthesis
+1,1,1,202719351,JH46,Membrane disruption,Membrane disruption
+1,1,1,202719351,JH47,Membrane disruption,Cell wall biosynthesis
+1,1,1,202719351,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,1,1,202719351,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+1,1,1,202719351,JH5,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,1,1,202719351,JH50,lipopolysaccharide synthesis,DNA replication
+1,1,1,202719351,JH55,Protein synthesis,Membrane disruption
+1,1,1,202719351,JH58,Nitrofurans,Fatty acid synthesis
+1,1,1,202719351,JH6,Cell wall biosynthesis,DNA replication
+1,1,1,202719351,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,1,1,202719351,JH65,Nitrofurans,DNA replication
+1,1,1,202719351,JH7,Cell wall biosynthesis,RNA Synthesis
+1,1,1,202719351,JH8,Cell wall biosynthesis,Protein synthesis
+1,1,1,202719351,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,1,2,202729351,JH10,Cell wall biosynthesis,Nitrofurans
+1,1,2,202729351,JH12,Protein synthesis,Folic acid metabolism
+1,1,2,202729351,JH13,Protein synthesis,lipopolysaccharide synthesis
+1,1,2,202729351,JH14,Protein synthesis,Fatty acid synthesis
+1,1,2,202729351,JH15,Protein synthesis,Membrane disruption
+1,1,2,202729351,JH16,Protein synthesis,Protein synthesis
+1,1,2,202729351,JH17,Protein synthesis,lipopolysaccharide synthesis
+1,1,2,202729351,JH20,Folic acid metabolism,Membrane disruption
+1,1,2,202729351,JH21,Folic acid metabolism,Nitrofurans
+1,1,2,202729351,JH24,Folic acid metabolism,DNA replication
+1,1,2,202729351,JH26,DNA replication,DNA replication
+1,1,2,202729351,JH27,DNA replication,Protein synthesis
+1,1,2,202729351,JH28,DNA replication,Protein synthesis
+1,1,2,202729351,JH29,DNA replication,lipopolysaccharide synthesis
+1,1,2,202729351,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+1,1,2,202729351,JH31,Nitrofurans,RNA Synthesis
+1,1,2,202729351,JH32,DNA replication,Fatty acid synthesis
+1,1,2,202729351,JH33,DNA replication,Fatty acid synthesis
+1,1,2,202729351,JH35,DNA replication,Cell wall biosynthesis
+1,1,2,202729351,JH36,DNA replication,Protein synthesis
+1,1,2,202729351,JH37,RNA Synthesis,Protein synthesis
+1,1,2,202729351,JH39,RNA Synthesis,Cell wall biosynthesis
+1,1,2,202729351,JH40,Fatty acid synthesis,Nitrofurans
+1,1,2,202729351,JH41,Fatty acid synthesis,DNA replication
+1,1,2,202729351,JH42,Fatty acid synthesis,Membrane disruption
+1,1,2,202729351,JH43,Membrane disruption,Protein synthesis
+1,1,2,202729351,JH45,Membrane disruption,Folic acid metabolism
+1,1,2,202729351,JH46,Membrane disruption,Membrane disruption
+1,1,2,202729351,JH47,Membrane disruption,lipopolysaccharide synthesis
+1,1,2,202729351,JH48,lipopolysaccharide synthesis,RNA Synthesis
+1,1,2,202729351,JH49,lipopolysaccharide synthesis,DNA replication
+1,1,2,202729351,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+1,1,2,202729351,JH50,lipopolysaccharide synthesis,Folic acid metabolism
+1,1,2,202729351,JH55,Protein synthesis,DNA replication
+1,1,2,202729351,JH58,Nitrofurans,Cell wall biosynthesis
+1,1,2,202729351,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+1,1,2,202729351,JH62,lipopolysaccharide synthesis,DNA replication
+1,1,2,202729351,JH65,Nitrofurans,Cell wall biosynthesis
+1,1,2,202729351,JH7,Cell wall biosynthesis,DNA replication
+1,1,2,202729351,JH8,Cell wall biosynthesis,DNA replication
+1,1,2,202729351,JH9,Cell wall biosynthesis,Protein synthesis
+1,2,0,202709352,JH0,Cell wall biosynthesis,Membrane disruption
+1,2,0,202709352,JH10,Cell wall biosynthesis,DNA replication
+1,2,0,202709352,JH12,Protein synthesis,DNA replication
+1,2,0,202709352,JH13,Protein synthesis,lipopolysaccharide synthesis
+1,2,0,202709352,JH14,Protein synthesis,Cell wall biosynthesis
+1,2,0,202709352,JH15,Protein synthesis,Protein synthesis
+1,2,0,202709352,JH18,Protein synthesis,Membrane disruption
+1,2,0,202709352,JH2,Cell wall biosynthesis,Folic acid metabolism
+1,2,0,202709352,JH20,Folic acid metabolism,Folic acid metabolism
+1,2,0,202709352,JH21,Folic acid metabolism,Protein synthesis
+1,2,0,202709352,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,2,0,202709352,JH24,Folic acid metabolism,Cell wall biosynthesis
+1,2,0,202709352,JH26,DNA replication,DNA replication
+1,2,0,202709352,JH27,DNA replication,Fatty acid synthesis
+1,2,0,202709352,JH28,DNA replication,Folic acid metabolism
+1,2,0,202709352,JH29,DNA replication,DNA replication
+1,2,0,202709352,JH3,Cell wall biosynthesis,Folic acid metabolism
+1,2,0,202709352,JH30,DNA replication,Cell wall biosynthesis
+1,2,0,202709352,JH31,Nitrofurans,Protein synthesis
+1,2,0,202709352,JH32,DNA replication,Protein synthesis
+1,2,0,202709352,JH33,DNA replication,Nitrofurans
+1,2,0,202709352,JH38,RNA Synthesis,DNA replication
+1,2,0,202709352,JH39,RNA Synthesis,Fatty acid synthesis
+1,2,0,202709352,JH40,Fatty acid synthesis,Protein synthesis
+1,2,0,202709352,JH41,Fatty acid synthesis,Cell wall biosynthesis
+1,2,0,202709352,JH42,Fatty acid synthesis,Fatty acid synthesis
+1,2,0,202709352,JH43,Membrane disruption,RNA Synthesis
+1,2,0,202709352,JH44,Membrane disruption,DNA replication
+1,2,0,202709352,JH46,Membrane disruption,DNA replication
+1,2,0,202709352,JH47,Membrane disruption,Cell wall biosynthesis
+1,2,0,202709352,JH48,lipopolysaccharide synthesis,RNA Synthesis
+1,2,0,202709352,JH5,Cell wall biosynthesis,Nitrofurans
+1,2,0,202709352,JH50,lipopolysaccharide synthesis,Protein synthesis
+1,2,0,202709352,JH55,Protein synthesis,Cell wall biosynthesis
+1,2,0,202709352,JH56,Protein synthesis,Membrane disruption
+1,2,0,202709352,JH6,Cell wall biosynthesis,Membrane disruption
+1,2,0,202709352,JH61,Fatty acid synthesis,Fatty acid synthesis
+1,2,0,202709352,JH62,lipopolysaccharide synthesis,Protein synthesis
+1,2,0,202709352,JH64,Nitrofurans,lipopolysaccharide synthesis
+1,2,0,202709352,JH65,Nitrofurans,lipopolysaccharide synthesis
+1,2,0,202709352,JH9,Cell wall biosynthesis,Nitrofurans
+1,2,1,202719352,JH0,Cell wall biosynthesis,Membrane disruption
+1,2,1,202719352,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,2,1,202719352,JH12,Protein synthesis,DNA replication
+1,2,1,202719352,JH13,Protein synthesis,Protein synthesis
+1,2,1,202719352,JH14,Protein synthesis,Cell wall biosynthesis
+1,2,1,202719352,JH15,Protein synthesis,Protein synthesis
+1,2,1,202719352,JH18,Protein synthesis,RNA Synthesis
+1,2,1,202719352,JH2,Cell wall biosynthesis,Protein synthesis
+1,2,1,202719352,JH20,Folic acid metabolism,Folic acid metabolism
+1,2,1,202719352,JH21,Folic acid metabolism,Cell wall biosynthesis
+1,2,1,202719352,JH23,Folic acid metabolism,Membrane disruption
+1,2,1,202719352,JH24,Folic acid metabolism,Cell wall biosynthesis
+1,2,1,202719352,JH26,DNA replication,Fatty acid synthesis
+1,2,1,202719352,JH27,DNA replication,lipopolysaccharide synthesis
+1,2,1,202719352,JH28,DNA replication,DNA replication
+1,2,1,202719352,JH29,DNA replication,Fatty acid synthesis
+1,2,1,202719352,JH3,Cell wall biosynthesis,Fatty acid synthesis
+1,2,1,202719352,JH30,DNA replication,Cell wall biosynthesis
+1,2,1,202719352,JH31,Nitrofurans,Nitrofurans
+1,2,1,202719352,JH32,DNA replication,Cell wall biosynthesis
+1,2,1,202719352,JH33,DNA replication,Protein synthesis
+1,2,1,202719352,JH38,RNA Synthesis,Protein synthesis
+1,2,1,202719352,JH39,RNA Synthesis,Folic acid metabolism
+1,2,1,202719352,JH40,Fatty acid synthesis,Nitrofurans
+1,2,1,202719352,JH41,Fatty acid synthesis,DNA replication
+1,2,1,202719352,JH42,Fatty acid synthesis,DNA replication
+1,2,1,202719352,JH43,Membrane disruption,Nitrofurans
+1,2,1,202719352,JH44,Membrane disruption,Protein synthesis
+1,2,1,202719352,JH46,Membrane disruption,Cell wall biosynthesis
+1,2,1,202719352,JH47,Membrane disruption,Folic acid metabolism
+1,2,1,202719352,JH48,lipopolysaccharide synthesis,DNA replication
+1,2,1,202719352,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+1,2,1,202719352,JH50,lipopolysaccharide synthesis,Protein synthesis
+1,2,1,202719352,JH55,Protein synthesis,Membrane disruption
+1,2,1,202719352,JH56,Protein synthesis,Membrane disruption
+1,2,1,202719352,JH6,Cell wall biosynthesis,DNA replication
+1,2,1,202719352,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+1,2,1,202719352,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+1,2,1,202719352,JH64,Nitrofurans,DNA replication
+1,2,1,202719352,JH65,Nitrofurans,RNA Synthesis
+1,2,1,202719352,JH9,Cell wall biosynthesis,Fatty acid synthesis
+1,2,2,202729352,JH0,Cell wall biosynthesis,DNA replication
+1,2,2,202729352,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+1,2,2,202729352,JH12,Protein synthesis,Fatty acid synthesis
+1,2,2,202729352,JH13,Protein synthesis,Cell wall biosynthesis
+1,2,2,202729352,JH14,Protein synthesis,Protein synthesis
+1,2,2,202729352,JH15,Protein synthesis,Fatty acid synthesis
+1,2,2,202729352,JH18,Protein synthesis,Fatty acid synthesis
+1,2,2,202729352,JH2,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,2,2,202729352,JH20,Folic acid metabolism,Protein synthesis
+1,2,2,202729352,JH21,Folic acid metabolism,RNA Synthesis
+1,2,2,202729352,JH23,Folic acid metabolism,DNA replication
+1,2,2,202729352,JH24,Folic acid metabolism,lipopolysaccharide synthesis
+1,2,2,202729352,JH26,DNA replication,lipopolysaccharide synthesis
+1,2,2,202729352,JH27,DNA replication,Nitrofurans
+1,2,2,202729352,JH28,DNA replication,Protein synthesis
+1,2,2,202729352,JH29,DNA replication,DNA replication
+1,2,2,202729352,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+1,2,2,202729352,JH30,DNA replication,Folic acid metabolism
+1,2,2,202729352,JH31,Nitrofurans,Cell wall biosynthesis
+1,2,2,202729352,JH32,DNA replication,Cell wall biosynthesis
+1,2,2,202729352,JH33,DNA replication,Protein synthesis
+1,2,2,202729352,JH38,RNA Synthesis,Membrane disruption
+1,2,2,202729352,JH39,RNA Synthesis,DNA replication
+1,2,2,202729352,JH40,Fatty acid synthesis,Nitrofurans
+1,2,2,202729352,JH41,Fatty acid synthesis,Membrane disruption
+1,2,2,202729352,JH42,Fatty acid synthesis,Folic acid metabolism
+1,2,2,202729352,JH43,Membrane disruption,DNA replication
+1,2,2,202729352,JH44,Membrane disruption,DNA replication
+1,2,2,202729352,JH46,Membrane disruption,Cell wall biosynthesis
+1,2,2,202729352,JH47,Membrane disruption,RNA Synthesis
+1,2,2,202729352,JH48,lipopolysaccharide synthesis,Protein synthesis
+1,2,2,202729352,JH5,Cell wall biosynthesis,DNA replication
+1,2,2,202729352,JH50,lipopolysaccharide synthesis,Protein synthesis
+1,2,2,202729352,JH55,Protein synthesis,Cell wall biosynthesis
+1,2,2,202729352,JH56,Protein synthesis,Fatty acid synthesis
+1,2,2,202729352,JH6,Cell wall biosynthesis,Membrane disruption
+1,2,2,202729352,JH61,Fatty acid synthesis,Folic acid metabolism
+1,2,2,202729352,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+1,2,2,202729352,JH64,Nitrofurans,Protein synthesis
+1,2,2,202729352,JH65,Nitrofurans,Nitrofurans
+1,2,2,202729352,JH9,Cell wall biosynthesis,Membrane disruption
+1,3,0,202709353,JH0,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,3,0,202709353,JH13,Protein synthesis,DNA replication
+1,3,0,202709353,JH14,Protein synthesis,Protein synthesis
+1,3,0,202709353,JH15,Protein synthesis,Membrane disruption
+1,3,0,202709353,JH16,Protein synthesis,Cell wall biosynthesis
+1,3,0,202709353,JH17,Protein synthesis,Folic acid metabolism
+1,3,0,202709353,JH18,Protein synthesis,Cell wall biosynthesis
+1,3,0,202709353,JH2,Cell wall biosynthesis,Protein synthesis
+1,3,0,202709353,JH20,Folic acid metabolism,Cell wall biosynthesis
+1,3,0,202709353,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,3,0,202709353,JH24,Folic acid metabolism,Protein synthesis
+1,3,0,202709353,JH26,DNA replication,DNA replication
+1,3,0,202709353,JH27,DNA replication,Fatty acid synthesis
+1,3,0,202709353,JH28,DNA replication,Protein synthesis
+1,3,0,202709353,JH3,Cell wall biosynthesis,Membrane disruption
+1,3,0,202709353,JH30,DNA replication,Cell wall biosynthesis
+1,3,0,202709353,JH33,DNA replication,Membrane disruption
+1,3,0,202709353,JH35,DNA replication,RNA Synthesis
+1,3,0,202709353,JH36,DNA replication,Cell wall biosynthesis
+1,3,0,202709353,JH37,RNA Synthesis,DNA replication
+1,3,0,202709353,JH38,RNA Synthesis,DNA replication
+1,3,0,202709353,JH39,RNA Synthesis,Cell wall biosynthesis
+1,3,0,202709353,JH41,Fatty acid synthesis,Membrane disruption
+1,3,0,202709353,JH42,Fatty acid synthesis,Nitrofurans
+1,3,0,202709353,JH43,Membrane disruption,lipopolysaccharide synthesis
+1,3,0,202709353,JH44,Membrane disruption,DNA replication
+1,3,0,202709353,JH45,Membrane disruption,Nitrofurans
+1,3,0,202709353,JH46,Membrane disruption,RNA Synthesis
+1,3,0,202709353,JH49,lipopolysaccharide synthesis,Fatty acid synthesis
+1,3,0,202709353,JH5,Cell wall biosynthesis,Folic acid metabolism
+1,3,0,202709353,JH50,lipopolysaccharide synthesis,Nitrofurans
+1,3,0,202709353,JH55,Protein synthesis,Fatty acid synthesis
+1,3,0,202709353,JH56,Protein synthesis,Protein synthesis
+1,3,0,202709353,JH58,Nitrofurans,DNA replication
+1,3,0,202709353,JH6,Cell wall biosynthesis,RNA Synthesis
+1,3,0,202709353,JH61,Fatty acid synthesis,DNA replication
+1,3,0,202709353,JH62,lipopolysaccharide synthesis,Protein synthesis
+1,3,0,202709353,JH64,Nitrofurans,lipopolysaccharide synthesis
+1,3,0,202709353,JH65,Nitrofurans,Protein synthesis
+1,3,0,202709353,JH7,Cell wall biosynthesis,Folic acid metabolism
+1,3,0,202709353,JH8,Cell wall biosynthesis,Protein synthesis
+1,3,1,202719353,JH0,Cell wall biosynthesis,DNA replication
+1,3,1,202719353,JH13,Protein synthesis,DNA replication
+1,3,1,202719353,JH14,Protein synthesis,DNA replication
+1,3,1,202719353,JH15,Protein synthesis,Fatty acid synthesis
+1,3,1,202719353,JH16,Protein synthesis,Protein synthesis
+1,3,1,202719353,JH17,Protein synthesis,Cell wall biosynthesis
+1,3,1,202719353,JH18,Protein synthesis,Nitrofurans
+1,3,1,202719353,JH2,Cell wall biosynthesis,DNA replication
+1,3,1,202719353,JH20,Folic acid metabolism,DNA replication
+1,3,1,202719353,JH23,Folic acid metabolism,lipopolysaccharide synthesis
+1,3,1,202719353,JH24,Folic acid metabolism,Cell wall biosynthesis
+1,3,1,202719353,JH26,DNA replication,Fatty acid synthesis
+1,3,1,202719353,JH27,DNA replication,Protein synthesis
+1,3,1,202719353,JH28,DNA replication,Cell wall biosynthesis
+1,3,1,202719353,JH3,Cell wall biosynthesis,Protein synthesis
+1,3,1,202719353,JH30,DNA replication,Protein synthesis
+1,3,1,202719353,JH33,DNA replication,DNA replication
+1,3,1,202719353,JH35,DNA replication,Folic acid metabolism
+1,3,1,202719353,JH36,DNA replication,Nitrofurans
+1,3,1,202719353,JH37,RNA Synthesis,Membrane disruption
+1,3,1,202719353,JH38,RNA Synthesis,Folic acid metabolism
+1,3,1,202719353,JH39,RNA Synthesis,Membrane disruption
+1,3,1,202719353,JH41,Fatty acid synthesis,Fatty acid synthesis
+1,3,1,202719353,JH42,Fatty acid synthesis,Protein synthesis
+1,3,1,202719353,JH43,Membrane disruption,Nitrofurans
+1,3,1,202719353,JH44,Membrane disruption,Membrane disruption
+1,3,1,202719353,JH45,Membrane disruption,Protein synthesis
+1,3,1,202719353,JH46,Membrane disruption,Protein synthesis
+1,3,1,202719353,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+1,3,1,202719353,JH5,Cell wall biosynthesis,RNA Synthesis
+1,3,1,202719353,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+1,3,1,202719353,JH55,Protein synthesis,Protein synthesis
+1,3,1,202719353,JH56,Protein synthesis,Cell wall biosynthesis
+1,3,1,202719353,JH58,Nitrofurans,Cell wall biosynthesis
+1,3,1,202719353,JH6,Cell wall biosynthesis,Membrane disruption
+1,3,1,202719353,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+1,3,1,202719353,JH62,lipopolysaccharide synthesis,RNA Synthesis
+1,3,1,202719353,JH64,Nitrofurans,RNA Synthesis
+1,3,1,202719353,JH65,Nitrofurans,DNA replication
+1,3,1,202719353,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+1,3,1,202719353,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+1,3,2,202729353,JH0,Cell wall biosynthesis,Membrane disruption
+1,3,2,202729353,JH13,Protein synthesis,Protein synthesis
+1,3,2,202729353,JH14,Protein synthesis,DNA replication
+1,3,2,202729353,JH15,Protein synthesis,DNA replication
+1,3,2,202729353,JH16,Protein synthesis,DNA replication
+1,3,2,202729353,JH17,Protein synthesis,Cell wall biosynthesis
+1,3,2,202729353,JH18,Protein synthesis,Nitrofurans
+1,3,2,202729353,JH2,Cell wall biosynthesis,Protein synthesis
+1,3,2,202729353,JH20,Folic acid metabolism,lipopolysaccharide synthesis
+1,3,2,202729353,JH23,Folic acid metabolism,Fatty acid synthesis
+1,3,2,202729353,JH24,Folic acid metabolism,Fatty acid synthesis
+1,3,2,202729353,JH26,DNA replication,Protein synthesis
+1,3,2,202729353,JH27,DNA replication,Cell wall biosynthesis
+1,3,2,202729353,JH28,DNA replication,Cell wall biosynthesis
+1,3,2,202729353,JH3,Cell wall biosynthesis,RNA Synthesis
+1,3,2,202729353,JH30,DNA replication,lipopolysaccharide synthesis
+1,3,2,202729353,JH33,DNA replication,Cell wall biosynthesis
+1,3,2,202729353,JH35,DNA replication,lipopolysaccharide synthesis
+1,3,2,202729353,JH36,DNA replication,DNA replication
+1,3,2,202729353,JH37,RNA Synthesis,DNA replication
+1,3,2,202729353,JH38,RNA Synthesis,Nitrofurans
+1,3,2,202729353,JH39,RNA Synthesis,Folic acid metabolism
+1,3,2,202729353,JH41,Fatty acid synthesis,Protein synthesis
+1,3,2,202729353,JH42,Fatty acid synthesis,RNA Synthesis
+1,3,2,202729353,JH43,Membrane disruption,Cell wall biosynthesis
+1,3,2,202729353,JH44,Membrane disruption,RNA Synthesis
+1,3,2,202729353,JH45,Membrane disruption,Membrane disruption
+1,3,2,202729353,JH46,Membrane disruption,Protein synthesis
+1,3,2,202729353,JH49,lipopolysaccharide synthesis,Membrane disruption
+1,3,2,202729353,JH5,Cell wall biosynthesis,Protein synthesis
+1,3,2,202729353,JH50,lipopolysaccharide synthesis,DNA replication
+1,3,2,202729353,JH55,Protein synthesis,DNA replication
+1,3,2,202729353,JH56,Protein synthesis,Cell wall biosynthesis
+1,3,2,202729353,JH58,Nitrofurans,Folic acid metabolism
+1,3,2,202729353,JH6,Cell wall biosynthesis,Protein synthesis
+1,3,2,202729353,JH61,Fatty acid synthesis,Cell wall biosynthesis
+1,3,2,202729353,JH62,lipopolysaccharide synthesis,Membrane disruption
+1,3,2,202729353,JH64,Nitrofurans,Nitrofurans
+1,3,2,202729353,JH65,Nitrofurans,Fatty acid synthesis
+1,3,2,202729353,JH7,Cell wall biosynthesis,Protein synthesis
+1,3,2,202729353,JH8,Cell wall biosynthesis,Folic acid metabolism
+1,4,0,202709354,JH0,Cell wall biosynthesis,RNA Synthesis
+1,4,0,202709354,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,4,0,202709354,JH12,Protein synthesis,Cell wall biosynthesis
+1,4,0,202709354,JH13,Protein synthesis,DNA replication
+1,4,0,202709354,JH16,Protein synthesis,Cell wall biosynthesis
+1,4,0,202709354,JH17,Protein synthesis,DNA replication
+1,4,0,202709354,JH18,Protein synthesis,Protein synthesis
+1,4,0,202709354,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,0,202709354,JH21,Folic acid metabolism,Protein synthesis
+1,4,0,202709354,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,4,0,202709354,JH24,Folic acid metabolism,RNA Synthesis
+1,4,0,202709354,JH27,DNA replication,Protein synthesis
+1,4,0,202709354,JH29,DNA replication,Membrane disruption
+1,4,0,202709354,JH30,DNA replication,Protein synthesis
+1,4,0,202709354,JH31,Nitrofurans,Fatty acid synthesis
+1,4,0,202709354,JH32,DNA replication,Cell wall biosynthesis
+1,4,0,202709354,JH33,DNA replication,DNA replication
+1,4,0,202709354,JH35,DNA replication,Cell wall biosynthesis
+1,4,0,202709354,JH36,DNA replication,Membrane disruption
+1,4,0,202709354,JH37,RNA Synthesis,lipopolysaccharide synthesis
+1,4,0,202709354,JH38,RNA Synthesis,Fatty acid synthesis
+1,4,0,202709354,JH39,RNA Synthesis,Protein synthesis
+1,4,0,202709354,JH40,Fatty acid synthesis,Nitrofurans
+1,4,0,202709354,JH42,Fatty acid synthesis,Folic acid metabolism
+1,4,0,202709354,JH43,Membrane disruption,Protein synthesis
+1,4,0,202709354,JH44,Membrane disruption,Nitrofurans
+1,4,0,202709354,JH45,Membrane disruption,lipopolysaccharide synthesis
+1,4,0,202709354,JH47,Membrane disruption,Folic acid metabolism
+1,4,0,202709354,JH48,lipopolysaccharide synthesis,DNA replication
+1,4,0,202709354,JH49,lipopolysaccharide synthesis,Membrane disruption
+1,4,0,202709354,JH5,Cell wall biosynthesis,DNA replication
+1,4,0,202709354,JH50,lipopolysaccharide synthesis,DNA replication
+1,4,0,202709354,JH55,Protein synthesis,DNA replication
+1,4,0,202709354,JH56,Protein synthesis,Folic acid metabolism
+1,4,0,202709354,JH58,Nitrofurans,Nitrofurans
+1,4,0,202709354,JH6,Cell wall biosynthesis,Membrane disruption
+1,4,0,202709354,JH61,Fatty acid synthesis,Cell wall biosynthesis
+1,4,0,202709354,JH64,Nitrofurans,Fatty acid synthesis
+1,4,0,202709354,JH7,Cell wall biosynthesis,RNA Synthesis
+1,4,0,202709354,JH8,Cell wall biosynthesis,Protein synthesis
+1,4,0,202709354,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,1,202719354,JH0,Cell wall biosynthesis,RNA Synthesis
+1,4,1,202719354,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,1,202719354,JH12,Protein synthesis,Nitrofurans
+1,4,1,202719354,JH13,Protein synthesis,Fatty acid synthesis
+1,4,1,202719354,JH16,Protein synthesis,Cell wall biosynthesis
+1,4,1,202719354,JH17,Protein synthesis,Membrane disruption
+1,4,1,202719354,JH18,Protein synthesis,Fatty acid synthesis
+1,4,1,202719354,JH2,Cell wall biosynthesis,DNA replication
+1,4,1,202719354,JH21,Folic acid metabolism,Folic acid metabolism
+1,4,1,202719354,JH23,Folic acid metabolism,Protein synthesis
+1,4,1,202719354,JH24,Folic acid metabolism,Protein synthesis
+1,4,1,202719354,JH27,DNA replication,DNA replication
+1,4,1,202719354,JH29,DNA replication,Protein synthesis
+1,4,1,202719354,JH30,DNA replication,lipopolysaccharide synthesis
+1,4,1,202719354,JH31,Nitrofurans,DNA replication
+1,4,1,202719354,JH32,DNA replication,Fatty acid synthesis
+1,4,1,202719354,JH33,DNA replication,Protein synthesis
+1,4,1,202719354,JH35,DNA replication,Protein synthesis
+1,4,1,202719354,JH36,DNA replication,Membrane disruption
+1,4,1,202719354,JH37,RNA Synthesis,DNA replication
+1,4,1,202719354,JH38,RNA Synthesis,Nitrofurans
+1,4,1,202719354,JH39,RNA Synthesis,lipopolysaccharide synthesis
+1,4,1,202719354,JH40,Fatty acid synthesis,Protein synthesis
+1,4,1,202719354,JH42,Fatty acid synthesis,lipopolysaccharide synthesis
+1,4,1,202719354,JH43,Membrane disruption,DNA replication
+1,4,1,202719354,JH44,Membrane disruption,Membrane disruption
+1,4,1,202719354,JH45,Membrane disruption,DNA replication
+1,4,1,202719354,JH47,Membrane disruption,RNA Synthesis
+1,4,1,202719354,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,4,1,202719354,JH49,lipopolysaccharide synthesis,RNA Synthesis
+1,4,1,202719354,JH5,Cell wall biosynthesis,Protein synthesis
+1,4,1,202719354,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,4,1,202719354,JH55,Protein synthesis,Cell wall biosynthesis
+1,4,1,202719354,JH56,Protein synthesis,Cell wall biosynthesis
+1,4,1,202719354,JH58,Nitrofurans,Nitrofurans
+1,4,1,202719354,JH6,Cell wall biosynthesis,DNA replication
+1,4,1,202719354,JH61,Fatty acid synthesis,Folic acid metabolism
+1,4,1,202719354,JH64,Nitrofurans,Membrane disruption
+1,4,1,202719354,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,1,202719354,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,1,202719354,JH9,Cell wall biosynthesis,Folic acid metabolism
+1,4,2,202729354,JH0,Cell wall biosynthesis,lipopolysaccharide synthesis
+1,4,2,202729354,JH10,Cell wall biosynthesis,DNA replication
+1,4,2,202729354,JH12,Protein synthesis,Folic acid metabolism
+1,4,2,202729354,JH13,Protein synthesis,Cell wall biosynthesis
+1,4,2,202729354,JH16,Protein synthesis,Protein synthesis
+1,4,2,202729354,JH17,Protein synthesis,Fatty acid synthesis
+1,4,2,202729354,JH18,Protein synthesis,Protein synthesis
+1,4,2,202729354,JH2,Cell wall biosynthesis,DNA replication
+1,4,2,202729354,JH21,Folic acid metabolism,Protein synthesis
+1,4,2,202729354,JH23,Folic acid metabolism,Cell wall biosynthesis
+1,4,2,202729354,JH24,Folic acid metabolism,Nitrofurans
+1,4,2,202729354,JH27,DNA replication,DNA replication
+1,4,2,202729354,JH29,DNA replication,Fatty acid synthesis
+1,4,2,202729354,JH30,DNA replication,Cell wall biosynthesis
+1,4,2,202729354,JH31,Nitrofurans,Protein synthesis
+1,4,2,202729354,JH32,DNA replication,lipopolysaccharide synthesis
+1,4,2,202729354,JH33,DNA replication,RNA Synthesis
+1,4,2,202729354,JH35,DNA replication,DNA replication
+1,4,2,202729354,JH36,DNA replication,Nitrofurans
+1,4,2,202729354,JH37,RNA Synthesis,Nitrofurans
+1,4,2,202729354,JH38,RNA Synthesis,Membrane disruption
+1,4,2,202729354,JH39,RNA Synthesis,Protein synthesis
+1,4,2,202729354,JH40,Fatty acid synthesis,Membrane disruption
+1,4,2,202729354,JH42,Fatty acid synthesis,DNA replication
+1,4,2,202729354,JH43,Membrane disruption,Folic acid metabolism
+1,4,2,202729354,JH44,Membrane disruption,Membrane disruption
+1,4,2,202729354,JH45,Membrane disruption,Cell wall biosynthesis
+1,4,2,202729354,JH47,Membrane disruption,DNA replication
+1,4,2,202729354,JH48,lipopolysaccharide synthesis,Protein synthesis
+1,4,2,202729354,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+1,4,2,202729354,JH5,Cell wall biosynthesis,RNA Synthesis
+1,4,2,202729354,JH50,lipopolysaccharide synthesis,DNA replication
+1,4,2,202729354,JH55,Protein synthesis,lipopolysaccharide synthesis
+1,4,2,202729354,JH56,Protein synthesis,Cell wall biosynthesis
+1,4,2,202729354,JH58,Nitrofurans,Fatty acid synthesis
+1,4,2,202729354,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,2,202729354,JH61,Fatty acid synthesis,Protein synthesis
+1,4,2,202729354,JH64,Nitrofurans,Folic acid metabolism
+1,4,2,202729354,JH7,Cell wall biosynthesis,Membrane disruption
+1,4,2,202729354,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+1,4,2,202729354,JH9,Cell wall biosynthesis,RNA Synthesis
+2,0,0,202709450,JH0,Cell wall biosynthesis,RNA Synthesis
+2,0,0,202709450,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+2,0,0,202709450,JH13,Protein synthesis,Membrane disruption
+2,0,0,202709450,JH15,Protein synthesis,Protein synthesis
+2,0,0,202709450,JH16,Protein synthesis,Cell wall biosynthesis
+2,0,0,202709450,JH17,Protein synthesis,lipopolysaccharide synthesis
+2,0,0,202709450,JH18,Protein synthesis,Cell wall biosynthesis
+2,0,0,202709450,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+2,0,0,202709450,JH21,Folic acid metabolism,DNA replication
+2,0,0,202709450,JH23,Folic acid metabolism,Nitrofurans
+2,0,0,202709450,JH24,Folic acid metabolism,RNA Synthesis
+2,0,0,202709450,JH26,DNA replication,Cell wall biosynthesis
+2,0,0,202709450,JH28,DNA replication,Nitrofurans
+2,0,0,202709450,JH29,DNA replication,Fatty acid synthesis
+2,0,0,202709450,JH30,DNA replication,Membrane disruption
+2,0,0,202709450,JH31,Nitrofurans,DNA replication
+2,0,0,202709450,JH32,DNA replication,Membrane disruption
+2,0,0,202709450,JH33,DNA replication,DNA replication
+2,0,0,202709450,JH35,DNA replication,Cell wall biosynthesis
+2,0,0,202709450,JH37,RNA Synthesis,Folic acid metabolism
+2,0,0,202709450,JH38,RNA Synthesis,Protein synthesis
+2,0,0,202709450,JH40,Fatty acid synthesis,lipopolysaccharide synthesis
+2,0,0,202709450,JH42,Fatty acid synthesis,Fatty acid synthesis
+2,0,0,202709450,JH43,Membrane disruption,Protein synthesis
+2,0,0,202709450,JH44,Membrane disruption,Membrane disruption
+2,0,0,202709450,JH46,Membrane disruption,DNA replication
+2,0,0,202709450,JH47,Membrane disruption,DNA replication
+2,0,0,202709450,JH48,lipopolysaccharide synthesis,Nitrofurans
+2,0,0,202709450,JH49,lipopolysaccharide synthesis,Protein synthesis
+2,0,0,202709450,JH5,Cell wall biosynthesis,Protein synthesis
+2,0,0,202709450,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,0,0,202709450,JH55,Protein synthesis,lipopolysaccharide synthesis
+2,0,0,202709450,JH56,Protein synthesis,Folic acid metabolism
+2,0,0,202709450,JH58,Nitrofurans,Nitrofurans
+2,0,0,202709450,JH6,Cell wall biosynthesis,Fatty acid synthesis
+2,0,0,202709450,JH61,Fatty acid synthesis,DNA replication
+2,0,0,202709450,JH64,Nitrofurans,Folic acid metabolism
+2,0,0,202709450,JH65,Nitrofurans,Protein synthesis
+2,0,0,202709450,JH8,Cell wall biosynthesis,Protein synthesis
+2,0,0,202709450,JH9,Cell wall biosynthesis,DNA replication
+2,0,1,202719450,JH0,Cell wall biosynthesis,Folic acid metabolism
+2,0,1,202719450,JH10,Cell wall biosynthesis,Membrane disruption
+2,0,1,202719450,JH13,Protein synthesis,Protein synthesis
+2,0,1,202719450,JH15,Protein synthesis,Cell wall biosynthesis
+2,0,1,202719450,JH16,Protein synthesis,DNA replication
+2,0,1,202719450,JH17,Protein synthesis,Nitrofurans
+2,0,1,202719450,JH18,Protein synthesis,Cell wall biosynthesis
+2,0,1,202719450,JH2,Cell wall biosynthesis,Protein synthesis
+2,0,1,202719450,JH21,Folic acid metabolism,Fatty acid synthesis
+2,0,1,202719450,JH23,Folic acid metabolism,lipopolysaccharide synthesis
+2,0,1,202719450,JH24,Folic acid metabolism,Folic acid metabolism
+2,0,1,202719450,JH26,DNA replication,Nitrofurans
+2,0,1,202719450,JH28,DNA replication,Nitrofurans
+2,0,1,202719450,JH29,DNA replication,Folic acid metabolism
+2,0,1,202719450,JH30,DNA replication,DNA replication
+2,0,1,202719450,JH31,Nitrofurans,Membrane disruption
+2,0,1,202719450,JH32,DNA replication,DNA replication
+2,0,1,202719450,JH33,DNA replication,Protein synthesis
+2,0,1,202719450,JH35,DNA replication,Membrane disruption
+2,0,1,202719450,JH37,RNA Synthesis,RNA Synthesis
+2,0,1,202719450,JH38,RNA Synthesis,DNA replication
+2,0,1,202719450,JH40,Fatty acid synthesis,lipopolysaccharide synthesis
+2,0,1,202719450,JH42,Fatty acid synthesis,DNA replication
+2,0,1,202719450,JH43,Membrane disruption,DNA replication
+2,0,1,202719450,JH44,Membrane disruption,Protein synthesis
+2,0,1,202719450,JH46,Membrane disruption,Cell wall biosynthesis
+2,0,1,202719450,JH47,Membrane disruption,Cell wall biosynthesis
+2,0,1,202719450,JH48,lipopolysaccharide synthesis,Protein synthesis
+2,0,1,202719450,JH49,lipopolysaccharide synthesis,Nitrofurans
+2,0,1,202719450,JH5,Cell wall biosynthesis,RNA Synthesis
+2,0,1,202719450,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+2,0,1,202719450,JH55,Protein synthesis,Cell wall biosynthesis
+2,0,1,202719450,JH56,Protein synthesis,lipopolysaccharide synthesis
+2,0,1,202719450,JH58,Nitrofurans,Protein synthesis
+2,0,1,202719450,JH6,Cell wall biosynthesis,Membrane disruption
+2,0,1,202719450,JH61,Fatty acid synthesis,Protein synthesis
+2,0,1,202719450,JH64,Nitrofurans,Cell wall biosynthesis
+2,0,1,202719450,JH65,Nitrofurans,Fatty acid synthesis
+2,0,1,202719450,JH8,Cell wall biosynthesis,DNA replication
+2,0,1,202719450,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+2,0,2,202729450,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+2,0,2,202729450,JH10,Cell wall biosynthesis,RNA Synthesis
+2,0,2,202729450,JH13,Protein synthesis,DNA replication
+2,0,2,202729450,JH15,Protein synthesis,Protein synthesis
+2,0,2,202729450,JH16,Protein synthesis,Folic acid metabolism
+2,0,2,202729450,JH17,Protein synthesis,DNA replication
+2,0,2,202729450,JH18,Protein synthesis,Membrane disruption
+2,0,2,202729450,JH2,Cell wall biosynthesis,DNA replication
+2,0,2,202729450,JH21,Folic acid metabolism,Fatty acid synthesis
+2,0,2,202729450,JH23,Folic acid metabolism,Protein synthesis
+2,0,2,202729450,JH24,Folic acid metabolism,lipopolysaccharide synthesis
+2,0,2,202729450,JH26,DNA replication,RNA Synthesis
+2,0,2,202729450,JH28,DNA replication,Fatty acid synthesis
+2,0,2,202729450,JH29,DNA replication,DNA replication
+2,0,2,202729450,JH30,DNA replication,Fatty acid synthesis
+2,0,2,202729450,JH31,Nitrofurans,Membrane disruption
+2,0,2,202729450,JH32,DNA replication,Protein synthesis
+2,0,2,202729450,JH33,DNA replication,Cell wall biosynthesis
+2,0,2,202729450,JH35,DNA replication,DNA replication
+2,0,2,202729450,JH37,RNA Synthesis,lipopolysaccharide synthesis
+2,0,2,202729450,JH38,RNA Synthesis,Protein synthesis
+2,0,2,202729450,JH40,Fatty acid synthesis,DNA replication
+2,0,2,202729450,JH42,Fatty acid synthesis,Cell wall biosynthesis
+2,0,2,202729450,JH43,Membrane disruption,DNA replication
+2,0,2,202729450,JH44,Membrane disruption,Nitrofurans
+2,0,2,202729450,JH46,Membrane disruption,Folic acid metabolism
+2,0,2,202729450,JH47,Membrane disruption,Cell wall biosynthesis
+2,0,2,202729450,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+2,0,2,202729450,JH49,lipopolysaccharide synthesis,Protein synthesis
+2,0,2,202729450,JH5,Cell wall biosynthesis,Membrane disruption
+2,0,2,202729450,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,0,2,202729450,JH55,Protein synthesis,Nitrofurans
+2,0,2,202729450,JH56,Protein synthesis,Folic acid metabolism
+2,0,2,202729450,JH58,Nitrofurans,Cell wall biosynthesis
+2,0,2,202729450,JH6,Cell wall biosynthesis,Protein synthesis
+2,0,2,202729450,JH61,Fatty acid synthesis,Membrane disruption
+2,0,2,202729450,JH64,Nitrofurans,Nitrofurans
+2,0,2,202729450,JH65,Nitrofurans,Cell wall biosynthesis
+2,0,2,202729450,JH8,Cell wall biosynthesis,Protein synthesis
+2,0,2,202729450,JH9,Cell wall biosynthesis,Nitrofurans
+2,1,0,202709451,JH0,Cell wall biosynthesis,Folic acid metabolism
+2,1,0,202709451,JH12,Protein synthesis,Membrane disruption
+2,1,0,202709451,JH13,Protein synthesis,Cell wall biosynthesis
+2,1,0,202709451,JH14,Protein synthesis,RNA Synthesis
+2,1,0,202709451,JH15,Protein synthesis,RNA Synthesis
+2,1,0,202709451,JH16,Protein synthesis,Folic acid metabolism
+2,1,0,202709451,JH18,Protein synthesis,lipopolysaccharide synthesis
+2,1,0,202709451,JH2,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,1,0,202709451,JH20,Folic acid metabolism,Folic acid metabolism
+2,1,0,202709451,JH23,Folic acid metabolism,Protein synthesis
+2,1,0,202709451,JH24,Folic acid metabolism,Cell wall biosynthesis
+2,1,0,202709451,JH26,DNA replication,Membrane disruption
+2,1,0,202709451,JH27,DNA replication,DNA replication
+2,1,0,202709451,JH28,DNA replication,Protein synthesis
+2,1,0,202709451,JH3,Cell wall biosynthesis,DNA replication
+2,1,0,202709451,JH30,DNA replication,Fatty acid synthesis
+2,1,0,202709451,JH31,Nitrofurans,Fatty acid synthesis
+2,1,0,202709451,JH32,DNA replication,lipopolysaccharide synthesis
+2,1,0,202709451,JH33,DNA replication,lipopolysaccharide synthesis
+2,1,0,202709451,JH35,DNA replication,Fatty acid synthesis
+2,1,0,202709451,JH36,DNA replication,Nitrofurans
+2,1,0,202709451,JH37,RNA Synthesis,Nitrofurans
+2,1,0,202709451,JH39,RNA Synthesis,Cell wall biosynthesis
+2,1,0,202709451,JH41,Fatty acid synthesis,Cell wall biosynthesis
+2,1,0,202709451,JH42,Fatty acid synthesis,Cell wall biosynthesis
+2,1,0,202709451,JH43,Membrane disruption,DNA replication
+2,1,0,202709451,JH45,Membrane disruption,Protein synthesis
+2,1,0,202709451,JH46,Membrane disruption,DNA replication
+2,1,0,202709451,JH47,Membrane disruption,Protein synthesis
+2,1,0,202709451,JH48,lipopolysaccharide synthesis,Protein synthesis
+2,1,0,202709451,JH49,lipopolysaccharide synthesis,DNA replication
+2,1,0,202709451,JH5,Cell wall biosynthesis,Membrane disruption
+2,1,0,202709451,JH50,lipopolysaccharide synthesis,DNA replication
+2,1,0,202709451,JH56,Protein synthesis,DNA replication
+2,1,0,202709451,JH58,Nitrofurans,Membrane disruption
+2,1,0,202709451,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+2,1,0,202709451,JH61,Fatty acid synthesis,Protein synthesis
+2,1,0,202709451,JH62,lipopolysaccharide synthesis,Protein synthesis
+2,1,0,202709451,JH64,Nitrofurans,DNA replication
+2,1,0,202709451,JH7,Cell wall biosynthesis,Nitrofurans
+2,1,0,202709451,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+2,1,1,202719451,JH0,Cell wall biosynthesis,Nitrofurans
+2,1,1,202719451,JH12,Protein synthesis,Nitrofurans
+2,1,1,202719451,JH13,Protein synthesis,Fatty acid synthesis
+2,1,1,202719451,JH14,Protein synthesis,lipopolysaccharide synthesis
+2,1,1,202719451,JH15,Protein synthesis,Membrane disruption
+2,1,1,202719451,JH16,Protein synthesis,Membrane disruption
+2,1,1,202719451,JH18,Protein synthesis,DNA replication
+2,1,1,202719451,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+2,1,1,202719451,JH20,Folic acid metabolism,DNA replication
+2,1,1,202719451,JH23,Folic acid metabolism,Cell wall biosynthesis
+2,1,1,202719451,JH24,Folic acid metabolism,Protein synthesis
+2,1,1,202719451,JH26,DNA replication,lipopolysaccharide synthesis
+2,1,1,202719451,JH27,DNA replication,DNA replication
+2,1,1,202719451,JH28,DNA replication,RNA Synthesis
+2,1,1,202719451,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+2,1,1,202719451,JH30,DNA replication,RNA Synthesis
+2,1,1,202719451,JH31,Nitrofurans,Nitrofurans
+2,1,1,202719451,JH32,DNA replication,Fatty acid synthesis
+2,1,1,202719451,JH33,DNA replication,Protein synthesis
+2,1,1,202719451,JH35,DNA replication,Membrane disruption
+2,1,1,202719451,JH36,DNA replication,Protein synthesis
+2,1,1,202719451,JH37,RNA Synthesis,Cell wall biosynthesis
+2,1,1,202719451,JH39,RNA Synthesis,lipopolysaccharide synthesis
+2,1,1,202719451,JH41,Fatty acid synthesis,Protein synthesis
+2,1,1,202719451,JH42,Fatty acid synthesis,Cell wall biosynthesis
+2,1,1,202719451,JH43,Membrane disruption,Cell wall biosynthesis
+2,1,1,202719451,JH45,Membrane disruption,DNA replication
+2,1,1,202719451,JH46,Membrane disruption,DNA replication
+2,1,1,202719451,JH47,Membrane disruption,Fatty acid synthesis
+2,1,1,202719451,JH48,lipopolysaccharide synthesis,Protein synthesis
+2,1,1,202719451,JH49,lipopolysaccharide synthesis,Protein synthesis
+2,1,1,202719451,JH5,Cell wall biosynthesis,Protein synthesis
+2,1,1,202719451,JH50,lipopolysaccharide synthesis,Folic acid metabolism
+2,1,1,202719451,JH56,Protein synthesis,DNA replication
+2,1,1,202719451,JH58,Nitrofurans,DNA replication
+2,1,1,202719451,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+2,1,1,202719451,JH61,Fatty acid synthesis,Membrane disruption
+2,1,1,202719451,JH62,lipopolysaccharide synthesis,DNA replication
+2,1,1,202719451,JH64,Nitrofurans,Folic acid metabolism
+2,1,1,202719451,JH7,Cell wall biosynthesis,Folic acid metabolism
+2,1,1,202719451,JH8,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,1,2,202729451,JH0,Cell wall biosynthesis,Protein synthesis
+2,1,2,202729451,JH12,Protein synthesis,Membrane disruption
+2,1,2,202729451,JH13,Protein synthesis,DNA replication
+2,1,2,202729451,JH14,Protein synthesis,DNA replication
+2,1,2,202729451,JH15,Protein synthesis,Folic acid metabolism
+2,1,2,202729451,JH16,Protein synthesis,Protein synthesis
+2,1,2,202729451,JH18,Protein synthesis,Protein synthesis
+2,1,2,202729451,JH2,Cell wall biosynthesis,DNA replication
+2,1,2,202729451,JH20,Folic acid metabolism,Fatty acid synthesis
+2,1,2,202729451,JH23,Folic acid metabolism,DNA replication
+2,1,2,202729451,JH24,Folic acid metabolism,Nitrofurans
+2,1,2,202729451,JH26,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH27,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH28,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,1,2,202729451,JH30,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH31,Nitrofurans,Protein synthesis
+2,1,2,202729451,JH32,DNA replication,lipopolysaccharide synthesis
+2,1,2,202729451,JH33,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH35,DNA replication,Cell wall biosynthesis
+2,1,2,202729451,JH36,DNA replication,Membrane disruption
+2,1,2,202729451,JH37,RNA Synthesis,Cell wall biosynthesis
+2,1,2,202729451,JH39,RNA Synthesis,Membrane disruption
+2,1,2,202729451,JH41,Fatty acid synthesis,Membrane disruption
+2,1,2,202729451,JH42,Fatty acid synthesis,RNA Synthesis
+2,1,2,202729451,JH43,Membrane disruption,lipopolysaccharide synthesis
+2,1,2,202729451,JH45,Membrane disruption,DNA replication
+2,1,2,202729451,JH46,Membrane disruption,Protein synthesis
+2,1,2,202729451,JH47,Membrane disruption,Folic acid metabolism
+2,1,2,202729451,JH48,lipopolysaccharide synthesis,DNA replication
+2,1,2,202729451,JH49,lipopolysaccharide synthesis,Protein synthesis
+2,1,2,202729451,JH5,Cell wall biosynthesis,Folic acid metabolism
+2,1,2,202729451,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+2,1,2,202729451,JH56,Protein synthesis,DNA replication
+2,1,2,202729451,JH58,Nitrofurans,Nitrofurans
+2,1,2,202729451,JH6,Cell wall biosynthesis,Protein synthesis
+2,1,2,202729451,JH61,Fatty acid synthesis,DNA replication
+2,1,2,202729451,JH62,lipopolysaccharide synthesis,Nitrofurans
+2,1,2,202729451,JH64,Nitrofurans,lipopolysaccharide synthesis
+2,1,2,202729451,JH7,Cell wall biosynthesis,RNA Synthesis
+2,1,2,202729451,JH8,Cell wall biosynthesis,Fatty acid synthesis
+2,2,0,202709452,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,2,0,202709452,JH12,Protein synthesis,Protein synthesis
+2,2,0,202709452,JH13,Protein synthesis,DNA replication
+2,2,0,202709452,JH14,Protein synthesis,Cell wall biosynthesis
+2,2,0,202709452,JH15,Protein synthesis,Folic acid metabolism
+2,2,0,202709452,JH16,Protein synthesis,DNA replication
+2,2,0,202709452,JH17,Protein synthesis,Membrane disruption
+2,2,0,202709452,JH2,Cell wall biosynthesis,Membrane disruption
+2,2,0,202709452,JH20,Folic acid metabolism,lipopolysaccharide synthesis
+2,2,0,202709452,JH21,Folic acid metabolism,Folic acid metabolism
+2,2,0,202709452,JH23,Folic acid metabolism,Fatty acid synthesis
+2,2,0,202709452,JH24,Folic acid metabolism,Fatty acid synthesis
+2,2,0,202709452,JH26,DNA replication,Cell wall biosynthesis
+2,2,0,202709452,JH27,DNA replication,Protein synthesis
+2,2,0,202709452,JH28,DNA replication,lipopolysaccharide synthesis
+2,2,0,202709452,JH29,DNA replication,Cell wall biosynthesis
+2,2,0,202709452,JH3,Cell wall biosynthesis,Membrane disruption
+2,2,0,202709452,JH30,DNA replication,Protein synthesis
+2,2,0,202709452,JH31,Nitrofurans,Cell wall biosynthesis
+2,2,0,202709452,JH35,DNA replication,Protein synthesis
+2,2,0,202709452,JH36,DNA replication,Folic acid metabolism
+2,2,0,202709452,JH38,RNA Synthesis,DNA replication
+2,2,0,202709452,JH39,RNA Synthesis,Nitrofurans
+2,2,0,202709452,JH40,Fatty acid synthesis,DNA replication
+2,2,0,202709452,JH41,Fatty acid synthesis,RNA Synthesis
+2,2,0,202709452,JH42,Fatty acid synthesis,Membrane disruption
+2,2,0,202709452,JH43,Membrane disruption,Fatty acid synthesis
+2,2,0,202709452,JH44,Membrane disruption,Cell wall biosynthesis
+2,2,0,202709452,JH45,Membrane disruption,Nitrofurans
+2,2,0,202709452,JH47,Membrane disruption,Cell wall biosynthesis
+2,2,0,202709452,JH48,lipopolysaccharide synthesis,DNA replication
+2,2,0,202709452,JH49,lipopolysaccharide synthesis,Fatty acid synthesis
+2,2,0,202709452,JH5,Cell wall biosynthesis,Nitrofurans
+2,2,0,202709452,JH55,Protein synthesis,DNA replication
+2,2,0,202709452,JH6,Cell wall biosynthesis,Protein synthesis
+2,2,0,202709452,JH61,Fatty acid synthesis,Folic acid metabolism
+2,2,0,202709452,JH62,lipopolysaccharide synthesis,RNA Synthesis
+2,2,0,202709452,JH64,Nitrofurans,DNA replication
+2,2,0,202709452,JH65,Nitrofurans,Protein synthesis
+2,2,0,202709452,JH7,Cell wall biosynthesis,Protein synthesis
+2,2,0,202709452,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+2,2,1,202719452,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,2,1,202719452,JH12,Protein synthesis,Membrane disruption
+2,2,1,202719452,JH13,Protein synthesis,Nitrofurans
+2,2,1,202719452,JH14,Protein synthesis,DNA replication
+2,2,1,202719452,JH15,Protein synthesis,Cell wall biosynthesis
+2,2,1,202719452,JH16,Protein synthesis,Protein synthesis
+2,2,1,202719452,JH17,Protein synthesis,Cell wall biosynthesis
+2,2,1,202719452,JH2,Cell wall biosynthesis,Protein synthesis
+2,2,1,202719452,JH20,Folic acid metabolism,Protein synthesis
+2,2,1,202719452,JH21,Folic acid metabolism,Membrane disruption
+2,2,1,202719452,JH23,Folic acid metabolism,Folic acid metabolism
+2,2,1,202719452,JH24,Folic acid metabolism,Folic acid metabolism
+2,2,1,202719452,JH26,DNA replication,Folic acid metabolism
+2,2,1,202719452,JH27,DNA replication,lipopolysaccharide synthesis
+2,2,1,202719452,JH28,DNA replication,Cell wall biosynthesis
+2,2,1,202719452,JH29,DNA replication,Fatty acid synthesis
+2,2,1,202719452,JH3,Cell wall biosynthesis,DNA replication
+2,2,1,202719452,JH30,DNA replication,DNA replication
+2,2,1,202719452,JH31,Nitrofurans,Fatty acid synthesis
+2,2,1,202719452,JH35,DNA replication,Cell wall biosynthesis
+2,2,1,202719452,JH36,DNA replication,Nitrofurans
+2,2,1,202719452,JH38,RNA Synthesis,Fatty acid synthesis
+2,2,1,202719452,JH39,RNA Synthesis,Protein synthesis
+2,2,1,202719452,JH40,Fatty acid synthesis,Protein synthesis
+2,2,1,202719452,JH41,Fatty acid synthesis,Cell wall biosynthesis
+2,2,1,202719452,JH42,Fatty acid synthesis,Cell wall biosynthesis
+2,2,1,202719452,JH43,Membrane disruption,Protein synthesis
+2,2,1,202719452,JH44,Membrane disruption,lipopolysaccharide synthesis
+2,2,1,202719452,JH45,Membrane disruption,Folic acid metabolism
+2,2,1,202719452,JH47,Membrane disruption,Cell wall biosynthesis
+2,2,1,202719452,JH48,lipopolysaccharide synthesis,DNA replication
+2,2,1,202719452,JH49,lipopolysaccharide synthesis,DNA replication
+2,2,1,202719452,JH5,Cell wall biosynthesis,DNA replication
+2,2,1,202719452,JH55,Protein synthesis,Protein synthesis
+2,2,1,202719452,JH6,Cell wall biosynthesis,RNA Synthesis
+2,2,1,202719452,JH61,Fatty acid synthesis,Membrane disruption
+2,2,1,202719452,JH62,lipopolysaccharide synthesis,DNA replication
+2,2,1,202719452,JH64,Nitrofurans,Nitrofurans
+2,2,1,202719452,JH65,Nitrofurans,Membrane disruption
+2,2,1,202719452,JH7,Cell wall biosynthesis,Fatty acid synthesis
+2,2,1,202719452,JH9,Cell wall biosynthesis,RNA Synthesis
+2,2,2,202729452,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+2,2,2,202729452,JH12,Protein synthesis,Cell wall biosynthesis
+2,2,2,202729452,JH13,Protein synthesis,Fatty acid synthesis
+2,2,2,202729452,JH14,Protein synthesis,Cell wall biosynthesis
+2,2,2,202729452,JH15,Protein synthesis,Fatty acid synthesis
+2,2,2,202729452,JH16,Protein synthesis,Protein synthesis
+2,2,2,202729452,JH17,Protein synthesis,Nitrofurans
+2,2,2,202729452,JH2,Cell wall biosynthesis,DNA replication
+2,2,2,202729452,JH20,Folic acid metabolism,Nitrofurans
+2,2,2,202729452,JH21,Folic acid metabolism,Protein synthesis
+2,2,2,202729452,JH23,Folic acid metabolism,RNA Synthesis
+2,2,2,202729452,JH24,Folic acid metabolism,DNA replication
+2,2,2,202729452,JH26,DNA replication,Protein synthesis
+2,2,2,202729452,JH27,DNA replication,Cell wall biosynthesis
+2,2,2,202729452,JH28,DNA replication,Folic acid metabolism
+2,2,2,202729452,JH29,DNA replication,lipopolysaccharide synthesis
+2,2,2,202729452,JH3,Cell wall biosynthesis,Fatty acid synthesis
+2,2,2,202729452,JH30,DNA replication,Membrane disruption
+2,2,2,202729452,JH31,Nitrofurans,Protein synthesis
+2,2,2,202729452,JH35,DNA replication,Nitrofurans
+2,2,2,202729452,JH36,DNA replication,Folic acid metabolism
+2,2,2,202729452,JH38,RNA Synthesis,DNA replication
+2,2,2,202729452,JH39,RNA Synthesis,lipopolysaccharide synthesis
+2,2,2,202729452,JH40,Fatty acid synthesis,Protein synthesis
+2,2,2,202729452,JH41,Fatty acid synthesis,RNA Synthesis
+2,2,2,202729452,JH42,Fatty acid synthesis,Cell wall biosynthesis
+2,2,2,202729452,JH43,Membrane disruption,Fatty acid synthesis
+2,2,2,202729452,JH44,Membrane disruption,lipopolysaccharide synthesis
+2,2,2,202729452,JH45,Membrane disruption,Membrane disruption
+2,2,2,202729452,JH47,Membrane disruption,Cell wall biosynthesis
+2,2,2,202729452,JH48,lipopolysaccharide synthesis,Protein synthesis
+2,2,2,202729452,JH49,lipopolysaccharide synthesis,Membrane disruption
+2,2,2,202729452,JH5,Cell wall biosynthesis,DNA replication
+2,2,2,202729452,JH55,Protein synthesis,DNA replication
+2,2,2,202729452,JH6,Cell wall biosynthesis,Folic acid metabolism
+2,2,2,202729452,JH61,Fatty acid synthesis,DNA replication
+2,2,2,202729452,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+2,2,2,202729452,JH64,Nitrofurans,Cell wall biosynthesis
+2,2,2,202729452,JH65,Nitrofurans,Membrane disruption
+2,2,2,202729452,JH7,Cell wall biosynthesis,Protein synthesis
+2,2,2,202729452,JH9,Cell wall biosynthesis,DNA replication
+2,3,0,202709453,JH0,Cell wall biosynthesis,Membrane disruption
+2,3,0,202709453,JH10,Cell wall biosynthesis,Protein synthesis
+2,3,0,202709453,JH12,Protein synthesis,Cell wall biosynthesis
+2,3,0,202709453,JH13,Protein synthesis,Protein synthesis
+2,3,0,202709453,JH14,Protein synthesis,DNA replication
+2,3,0,202709453,JH16,Protein synthesis,DNA replication
+2,3,0,202709453,JH17,Protein synthesis,Membrane disruption
+2,3,0,202709453,JH18,Protein synthesis,RNA Synthesis
+2,3,0,202709453,JH20,Folic acid metabolism,Cell wall biosynthesis
+2,3,0,202709453,JH21,Folic acid metabolism,Folic acid metabolism
+2,3,0,202709453,JH23,Folic acid metabolism,Cell wall biosynthesis
+2,3,0,202709453,JH27,DNA replication,DNA replication
+2,3,0,202709453,JH28,DNA replication,Nitrofurans
+2,3,0,202709453,JH29,DNA replication,DNA replication
+2,3,0,202709453,JH3,Cell wall biosynthesis,Protein synthesis
+2,3,0,202709453,JH31,Nitrofurans,Cell wall biosynthesis
+2,3,0,202709453,JH32,DNA replication,lipopolysaccharide synthesis
+2,3,0,202709453,JH33,DNA replication,Nitrofurans
+2,3,0,202709453,JH35,DNA replication,Protein synthesis
+2,3,0,202709453,JH36,DNA replication,Cell wall biosynthesis
+2,3,0,202709453,JH37,RNA Synthesis,DNA replication
+2,3,0,202709453,JH38,RNA Synthesis,lipopolysaccharide synthesis
+2,3,0,202709453,JH39,RNA Synthesis,Cell wall biosynthesis
+2,3,0,202709453,JH40,Fatty acid synthesis,Folic acid metabolism
+2,3,0,202709453,JH41,Fatty acid synthesis,RNA Synthesis
+2,3,0,202709453,JH43,Membrane disruption,Cell wall biosynthesis
+2,3,0,202709453,JH44,Membrane disruption,Protein synthesis
+2,3,0,202709453,JH45,Membrane disruption,Protein synthesis
+2,3,0,202709453,JH46,Membrane disruption,Fatty acid synthesis
+2,3,0,202709453,JH49,lipopolysaccharide synthesis,Membrane disruption
+2,3,0,202709453,JH50,lipopolysaccharide synthesis,DNA replication
+2,3,0,202709453,JH55,Protein synthesis,DNA replication
+2,3,0,202709453,JH56,Protein synthesis,lipopolysaccharide synthesis
+2,3,0,202709453,JH58,Nitrofurans,Protein synthesis
+2,3,0,202709453,JH6,Cell wall biosynthesis,Nitrofurans
+2,3,0,202709453,JH61,Fatty acid synthesis,Membrane disruption
+2,3,0,202709453,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+2,3,0,202709453,JH65,Nitrofurans,Protein synthesis
+2,3,0,202709453,JH7,Cell wall biosynthesis,RNA Synthesis
+2,3,0,202709453,JH8,Cell wall biosynthesis,Fatty acid synthesis
+2,3,0,202709453,JH9,Cell wall biosynthesis,Fatty acid synthesis
+2,3,1,202719453,JH0,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,3,1,202719453,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+2,3,1,202719453,JH12,Protein synthesis,Protein synthesis
+2,3,1,202719453,JH13,Protein synthesis,RNA Synthesis
+2,3,1,202719453,JH14,Protein synthesis,lipopolysaccharide synthesis
+2,3,1,202719453,JH16,Protein synthesis,Folic acid metabolism
+2,3,1,202719453,JH17,Protein synthesis,Fatty acid synthesis
+2,3,1,202719453,JH18,Protein synthesis,Cell wall biosynthesis
+2,3,1,202719453,JH20,Folic acid metabolism,Membrane disruption
+2,3,1,202719453,JH21,Folic acid metabolism,Folic acid metabolism
+2,3,1,202719453,JH23,Folic acid metabolism,DNA replication
+2,3,1,202719453,JH27,DNA replication,DNA replication
+2,3,1,202719453,JH28,DNA replication,Cell wall biosynthesis
+2,3,1,202719453,JH29,DNA replication,Cell wall biosynthesis
+2,3,1,202719453,JH3,Cell wall biosynthesis,Protein synthesis
+2,3,1,202719453,JH31,Nitrofurans,DNA replication
+2,3,1,202719453,JH32,DNA replication,Protein synthesis
+2,3,1,202719453,JH33,DNA replication,Protein synthesis
+2,3,1,202719453,JH35,DNA replication,Nitrofurans
+2,3,1,202719453,JH36,DNA replication,DNA replication
+2,3,1,202719453,JH37,RNA Synthesis,RNA Synthesis
+2,3,1,202719453,JH38,RNA Synthesis,Protein synthesis
+2,3,1,202719453,JH39,RNA Synthesis,Membrane disruption
+2,3,1,202719453,JH40,Fatty acid synthesis,Cell wall biosynthesis
+2,3,1,202719453,JH41,Fatty acid synthesis,Protein synthesis
+2,3,1,202719453,JH43,Membrane disruption,Protein synthesis
+2,3,1,202719453,JH44,Membrane disruption,Cell wall biosynthesis
+2,3,1,202719453,JH45,Membrane disruption,Fatty acid synthesis
+2,3,1,202719453,JH46,Membrane disruption,DNA replication
+2,3,1,202719453,JH49,lipopolysaccharide synthesis,Nitrofurans
+2,3,1,202719453,JH50,lipopolysaccharide synthesis,Protein synthesis
+2,3,1,202719453,JH55,Protein synthesis,DNA replication
+2,3,1,202719453,JH56,Protein synthesis,Membrane disruption
+2,3,1,202719453,JH58,Nitrofurans,DNA replication
+2,3,1,202719453,JH6,Cell wall biosynthesis,Nitrofurans
+2,3,1,202719453,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+2,3,1,202719453,JH62,lipopolysaccharide synthesis,RNA Synthesis
+2,3,1,202719453,JH65,Nitrofurans,Cell wall biosynthesis
+2,3,1,202719453,JH7,Cell wall biosynthesis,Membrane disruption
+2,3,1,202719453,JH8,Cell wall biosynthesis,Fatty acid synthesis
+2,3,1,202719453,JH9,Cell wall biosynthesis,Folic acid metabolism
+2,3,2,202729453,JH0,Cell wall biosynthesis,DNA replication
+2,3,2,202729453,JH10,Cell wall biosynthesis,Folic acid metabolism
+2,3,2,202729453,JH12,Protein synthesis,Fatty acid synthesis
+2,3,2,202729453,JH13,Protein synthesis,Protein synthesis
+2,3,2,202729453,JH14,Protein synthesis,Cell wall biosynthesis
+2,3,2,202729453,JH16,Protein synthesis,Protein synthesis
+2,3,2,202729453,JH17,Protein synthesis,Protein synthesis
+2,3,2,202729453,JH18,Protein synthesis,Protein synthesis
+2,3,2,202729453,JH20,Folic acid metabolism,Cell wall biosynthesis
+2,3,2,202729453,JH21,Folic acid metabolism,DNA replication
+2,3,2,202729453,JH23,Folic acid metabolism,Nitrofurans
+2,3,2,202729453,JH27,DNA replication,RNA Synthesis
+2,3,2,202729453,JH28,DNA replication,Membrane disruption
+2,3,2,202729453,JH29,DNA replication,Cell wall biosynthesis
+2,3,2,202729453,JH3,Cell wall biosynthesis,Nitrofurans
+2,3,2,202729453,JH31,Nitrofurans,Fatty acid synthesis
+2,3,2,202729453,JH32,DNA replication,RNA Synthesis
+2,3,2,202729453,JH33,DNA replication,DNA replication
+2,3,2,202729453,JH35,DNA replication,Protein synthesis
+2,3,2,202729453,JH36,DNA replication,Protein synthesis
+2,3,2,202729453,JH37,RNA Synthesis,Membrane disruption
+2,3,2,202729453,JH38,RNA Synthesis,lipopolysaccharide synthesis
+2,3,2,202729453,JH39,RNA Synthesis,lipopolysaccharide synthesis
+2,3,2,202729453,JH40,Fatty acid synthesis,Cell wall biosynthesis
+2,3,2,202729453,JH41,Fatty acid synthesis,RNA Synthesis
+2,3,2,202729453,JH43,Membrane disruption,lipopolysaccharide synthesis
+2,3,2,202729453,JH44,Membrane disruption,DNA replication
+2,3,2,202729453,JH45,Membrane disruption,Cell wall biosynthesis
+2,3,2,202729453,JH46,Membrane disruption,Nitrofurans
+2,3,2,202729453,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+2,3,2,202729453,JH50,lipopolysaccharide synthesis,Protein synthesis
+2,3,2,202729453,JH55,Protein synthesis,Folic acid metabolism
+2,3,2,202729453,JH56,Protein synthesis,Fatty acid synthesis
+2,3,2,202729453,JH58,Nitrofurans,DNA replication
+2,3,2,202729453,JH6,Cell wall biosynthesis,DNA replication
+2,3,2,202729453,JH61,Fatty acid synthesis,Membrane disruption
+2,3,2,202729453,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,3,2,202729453,JH65,Nitrofurans,Protein synthesis
+2,3,2,202729453,JH7,Cell wall biosynthesis,DNA replication
+2,3,2,202729453,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+2,3,2,202729453,JH9,Cell wall biosynthesis,Membrane disruption
+2,4,0,202709454,JH0,Cell wall biosynthesis,Protein synthesis
+2,4,0,202709454,JH10,Cell wall biosynthesis,DNA replication
+2,4,0,202709454,JH12,Protein synthesis,DNA replication
+2,4,0,202709454,JH14,Protein synthesis,RNA Synthesis
+2,4,0,202709454,JH15,Protein synthesis,Cell wall biosynthesis
+2,4,0,202709454,JH17,Protein synthesis,DNA replication
+2,4,0,202709454,JH18,Protein synthesis,Protein synthesis
+2,4,0,202709454,JH2,Cell wall biosynthesis,Protein synthesis
+2,4,0,202709454,JH20,Folic acid metabolism,lipopolysaccharide synthesis
+2,4,0,202709454,JH21,Folic acid metabolism,Cell wall biosynthesis
+2,4,0,202709454,JH24,Folic acid metabolism,Nitrofurans
+2,4,0,202709454,JH26,DNA replication,Folic acid metabolism
+2,4,0,202709454,JH27,DNA replication,DNA replication
+2,4,0,202709454,JH29,DNA replication,Membrane disruption
+2,4,0,202709454,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,4,0,202709454,JH30,DNA replication,Membrane disruption
+2,4,0,202709454,JH32,DNA replication,Cell wall biosynthesis
+2,4,0,202709454,JH33,DNA replication,RNA Synthesis
+2,4,0,202709454,JH36,DNA replication,Membrane disruption
+2,4,0,202709454,JH37,RNA Synthesis,RNA Synthesis
+2,4,0,202709454,JH38,RNA Synthesis,Fatty acid synthesis
+2,4,0,202709454,JH39,RNA Synthesis,Protein synthesis
+2,4,0,202709454,JH40,Fatty acid synthesis,Fatty acid synthesis
+2,4,0,202709454,JH41,Fatty acid synthesis,DNA replication
+2,4,0,202709454,JH42,Fatty acid synthesis,Membrane disruption
+2,4,0,202709454,JH44,Membrane disruption,lipopolysaccharide synthesis
+2,4,0,202709454,JH45,Membrane disruption,Protein synthesis
+2,4,0,202709454,JH46,Membrane disruption,Protein synthesis
+2,4,0,202709454,JH47,Membrane disruption,DNA replication
+2,4,0,202709454,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,0,202709454,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+2,4,0,202709454,JH50,lipopolysaccharide synthesis,Protein synthesis
+2,4,0,202709454,JH55,Protein synthesis,Nitrofurans
+2,4,0,202709454,JH56,Protein synthesis,Cell wall biosynthesis
+2,4,0,202709454,JH58,Nitrofurans,Nitrofurans
+2,4,0,202709454,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,0,202709454,JH64,Nitrofurans,DNA replication
+2,4,0,202709454,JH65,Nitrofurans,Folic acid metabolism
+2,4,0,202709454,JH7,Cell wall biosynthesis,Folic acid metabolism
+2,4,0,202709454,JH8,Cell wall biosynthesis,Fatty acid synthesis
+2,4,0,202709454,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+2,4,1,202719454,JH0,Cell wall biosynthesis,Fatty acid synthesis
+2,4,1,202719454,JH10,Cell wall biosynthesis,Protein synthesis
+2,4,1,202719454,JH12,Protein synthesis,Protein synthesis
+2,4,1,202719454,JH14,Protein synthesis,lipopolysaccharide synthesis
+2,4,1,202719454,JH15,Protein synthesis,RNA Synthesis
+2,4,1,202719454,JH17,Protein synthesis,Fatty acid synthesis
+2,4,1,202719454,JH18,Protein synthesis,Membrane disruption
+2,4,1,202719454,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+2,4,1,202719454,JH20,Folic acid metabolism,Nitrofurans
+2,4,1,202719454,JH21,Folic acid metabolism,DNA replication
+2,4,1,202719454,JH24,Folic acid metabolism,Membrane disruption
+2,4,1,202719454,JH26,DNA replication,DNA replication
+2,4,1,202719454,JH27,DNA replication,Protein synthesis
+2,4,1,202719454,JH29,DNA replication,DNA replication
+2,4,1,202719454,JH3,Cell wall biosynthesis,DNA replication
+2,4,1,202719454,JH30,DNA replication,Protein synthesis
+2,4,1,202719454,JH32,DNA replication,Cell wall biosynthesis
+2,4,1,202719454,JH33,DNA replication,Cell wall biosynthesis
+2,4,1,202719454,JH36,DNA replication,Folic acid metabolism
+2,4,1,202719454,JH37,RNA Synthesis,Fatty acid synthesis
+2,4,1,202719454,JH38,RNA Synthesis,Cell wall biosynthesis
+2,4,1,202719454,JH39,RNA Synthesis,Protein synthesis
+2,4,1,202719454,JH40,Fatty acid synthesis,Folic acid metabolism
+2,4,1,202719454,JH41,Fatty acid synthesis,Cell wall biosynthesis
+2,4,1,202719454,JH42,Fatty acid synthesis,DNA replication
+2,4,1,202719454,JH44,Membrane disruption,DNA replication
+2,4,1,202719454,JH45,Membrane disruption,Cell wall biosynthesis
+2,4,1,202719454,JH46,Membrane disruption,Protein synthesis
+2,4,1,202719454,JH47,Membrane disruption,Folic acid metabolism
+2,4,1,202719454,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,1,202719454,JH5,Cell wall biosynthesis,Protein synthesis
+2,4,1,202719454,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,1,202719454,JH55,Protein synthesis,RNA Synthesis
+2,4,1,202719454,JH56,Protein synthesis,Membrane disruption
+2,4,1,202719454,JH58,Nitrofurans,lipopolysaccharide synthesis
+2,4,1,202719454,JH62,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+2,4,1,202719454,JH64,Nitrofurans,Nitrofurans
+2,4,1,202719454,JH65,Nitrofurans,RNA Synthesis
+2,4,1,202719454,JH7,Cell wall biosynthesis,DNA replication
+2,4,1,202719454,JH8,Cell wall biosynthesis,Nitrofurans
+2,4,1,202719454,JH9,Cell wall biosynthesis,Membrane disruption
+2,4,2,202729454,JH0,Cell wall biosynthesis,Protein synthesis
+2,4,2,202729454,JH10,Cell wall biosynthesis,Nitrofurans
+2,4,2,202729454,JH12,Protein synthesis,Cell wall biosynthesis
+2,4,2,202729454,JH14,Protein synthesis,Fatty acid synthesis
+2,4,2,202729454,JH15,Protein synthesis,Nitrofurans
+2,4,2,202729454,JH17,Protein synthesis,Protein synthesis
+2,4,2,202729454,JH18,Protein synthesis,Folic acid metabolism
+2,4,2,202729454,JH2,Cell wall biosynthesis,lipopolysaccharide synthesis
+2,4,2,202729454,JH20,Folic acid metabolism,Folic acid metabolism
+2,4,2,202729454,JH21,Folic acid metabolism,DNA replication
+2,4,2,202729454,JH24,Folic acid metabolism,Protein synthesis
+2,4,2,202729454,JH26,DNA replication,Cell wall biosynthesis
+2,4,2,202729454,JH27,DNA replication,Cell wall biosynthesis
+2,4,2,202729454,JH29,DNA replication,Membrane disruption
+2,4,2,202729454,JH3,Cell wall biosynthesis,Protein synthesis
+2,4,2,202729454,JH30,DNA replication,Cell wall biosynthesis
+2,4,2,202729454,JH32,DNA replication,Nitrofurans
+2,4,2,202729454,JH33,DNA replication,Protein synthesis
+2,4,2,202729454,JH36,DNA replication,Membrane disruption
+2,4,2,202729454,JH37,RNA Synthesis,RNA Synthesis
+2,4,2,202729454,JH38,RNA Synthesis,lipopolysaccharide synthesis
+2,4,2,202729454,JH39,RNA Synthesis,Cell wall biosynthesis
+2,4,2,202729454,JH40,Fatty acid synthesis,RNA Synthesis
+2,4,2,202729454,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+2,4,2,202729454,JH42,Fatty acid synthesis,Folic acid metabolism
+2,4,2,202729454,JH44,Membrane disruption,Membrane disruption
+2,4,2,202729454,JH45,Membrane disruption,DNA replication
+2,4,2,202729454,JH46,Membrane disruption,Fatty acid synthesis
+2,4,2,202729454,JH47,Membrane disruption,Fatty acid synthesis
+2,4,2,202729454,JH48,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,2,202729454,JH5,Cell wall biosynthesis,DNA replication
+2,4,2,202729454,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+2,4,2,202729454,JH55,Protein synthesis,DNA replication
+2,4,2,202729454,JH56,Protein synthesis,Protein synthesis
+2,4,2,202729454,JH58,Nitrofurans,Membrane disruption
+2,4,2,202729454,JH62,lipopolysaccharide synthesis,DNA replication
+2,4,2,202729454,JH64,Nitrofurans,Cell wall biosynthesis
+2,4,2,202729454,JH65,Nitrofurans,DNA replication
+2,4,2,202729454,JH7,Cell wall biosynthesis,Protein synthesis
+2,4,2,202729454,JH8,Cell wall biosynthesis,DNA replication
+2,4,2,202729454,JH9,Cell wall biosynthesis,RNA Synthesis
+3,0,0,202709550,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+3,0,0,202709550,JH10,Cell wall biosynthesis,Nitrofurans
+3,0,0,202709550,JH12,Protein synthesis,RNA Synthesis
+3,0,0,202709550,JH14,Protein synthesis,Protein synthesis
+3,0,0,202709550,JH15,Protein synthesis,Membrane disruption
+3,0,0,202709550,JH16,Protein synthesis,Membrane disruption
+3,0,0,202709550,JH17,Protein synthesis,Cell wall biosynthesis
+3,0,0,202709550,JH18,Protein synthesis,Cell wall biosynthesis
+3,0,0,202709550,JH2,Cell wall biosynthesis,Membrane disruption
+3,0,0,202709550,JH20,Folic acid metabolism,DNA replication
+3,0,0,202709550,JH23,Folic acid metabolism,DNA replication
+3,0,0,202709550,JH24,Folic acid metabolism,DNA replication
+3,0,0,202709550,JH27,DNA replication,RNA Synthesis
+3,0,0,202709550,JH28,DNA replication,DNA replication
+3,0,0,202709550,JH29,DNA replication,Protein synthesis
+3,0,0,202709550,JH30,DNA replication,Cell wall biosynthesis
+3,0,0,202709550,JH31,Nitrofurans,Fatty acid synthesis
+3,0,0,202709550,JH32,DNA replication,lipopolysaccharide synthesis
+3,0,0,202709550,JH33,DNA replication,Protein synthesis
+3,0,0,202709550,JH36,DNA replication,Folic acid metabolism
+3,0,0,202709550,JH37,RNA Synthesis,Protein synthesis
+3,0,0,202709550,JH38,RNA Synthesis,DNA replication
+3,0,0,202709550,JH40,Fatty acid synthesis,Fatty acid synthesis
+3,0,0,202709550,JH42,Fatty acid synthesis,Folic acid metabolism
+3,0,0,202709550,JH43,Membrane disruption,Cell wall biosynthesis
+3,0,0,202709550,JH44,Membrane disruption,DNA replication
+3,0,0,202709550,JH45,Membrane disruption,Nitrofurans
+3,0,0,202709550,JH46,Membrane disruption,Cell wall biosynthesis
+3,0,0,202709550,JH49,lipopolysaccharide synthesis,Protein synthesis
+3,0,0,202709550,JH50,lipopolysaccharide synthesis,Folic acid metabolism
+3,0,0,202709550,JH56,Protein synthesis,DNA replication
+3,0,0,202709550,JH58,Nitrofurans,lipopolysaccharide synthesis
+3,0,0,202709550,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+3,0,0,202709550,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+3,0,0,202709550,JH62,lipopolysaccharide synthesis,Nitrofurans
+3,0,0,202709550,JH64,Nitrofurans,Protein synthesis
+3,0,0,202709550,JH65,Nitrofurans,Membrane disruption
+3,0,0,202709550,JH7,Cell wall biosynthesis,Fatty acid synthesis
+3,0,0,202709550,JH8,Cell wall biosynthesis,Nitrofurans
+3,0,0,202709550,JH9,Cell wall biosynthesis,Protein synthesis
+3,0,1,202719550,JH0,Cell wall biosynthesis,Protein synthesis
+3,0,1,202719550,JH10,Cell wall biosynthesis,Folic acid metabolism
+3,0,1,202719550,JH12,Protein synthesis,DNA replication
+3,0,1,202719550,JH14,Protein synthesis,Cell wall biosynthesis
+3,0,1,202719550,JH15,Protein synthesis,DNA replication
+3,0,1,202719550,JH16,Protein synthesis,Membrane disruption
+3,0,1,202719550,JH17,Protein synthesis,Nitrofurans
+3,0,1,202719550,JH18,Protein synthesis,lipopolysaccharide synthesis
+3,0,1,202719550,JH2,Cell wall biosynthesis,Protein synthesis
+3,0,1,202719550,JH20,Folic acid metabolism,Cell wall biosynthesis
+3,0,1,202719550,JH23,Folic acid metabolism,Cell wall biosynthesis
+3,0,1,202719550,JH24,Folic acid metabolism,Protein synthesis
+3,0,1,202719550,JH27,DNA replication,Membrane disruption
+3,0,1,202719550,JH28,DNA replication,Fatty acid synthesis
+3,0,1,202719550,JH29,DNA replication,Nitrofurans
+3,0,1,202719550,JH30,DNA replication,Nitrofurans
+3,0,1,202719550,JH31,Nitrofurans,Folic acid metabolism
+3,0,1,202719550,JH32,DNA replication,DNA replication
+3,0,1,202719550,JH33,DNA replication,Cell wall biosynthesis
+3,0,1,202719550,JH36,DNA replication,Folic acid metabolism
+3,0,1,202719550,JH37,RNA Synthesis,RNA Synthesis
+3,0,1,202719550,JH38,RNA Synthesis,DNA replication
+3,0,1,202719550,JH40,Fatty acid synthesis,Cell wall biosynthesis
+3,0,1,202719550,JH42,Fatty acid synthesis,Nitrofurans
+3,0,1,202719550,JH43,Membrane disruption,Fatty acid synthesis
+3,0,1,202719550,JH44,Membrane disruption,RNA Synthesis
+3,0,1,202719550,JH45,Membrane disruption,Protein synthesis
+3,0,1,202719550,JH46,Membrane disruption,Protein synthesis
+3,0,1,202719550,JH49,lipopolysaccharide synthesis,Membrane disruption
+3,0,1,202719550,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+3,0,1,202719550,JH56,Protein synthesis,DNA replication
+3,0,1,202719550,JH58,Nitrofurans,Membrane disruption
+3,0,1,202719550,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+3,0,1,202719550,JH61,Fatty acid synthesis,DNA replication
+3,0,1,202719550,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,0,1,202719550,JH64,Nitrofurans,lipopolysaccharide synthesis
+3,0,1,202719550,JH65,Nitrofurans,Protein synthesis
+3,0,1,202719550,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+3,0,1,202719550,JH8,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,0,1,202719550,JH9,Cell wall biosynthesis,DNA replication
+3,0,2,202729550,JH0,Cell wall biosynthesis,Folic acid metabolism
+3,0,2,202729550,JH10,Cell wall biosynthesis,Nitrofurans
+3,0,2,202729550,JH12,Protein synthesis,Nitrofurans
+3,0,2,202729550,JH14,Protein synthesis,lipopolysaccharide synthesis
+3,0,2,202729550,JH15,Protein synthesis,RNA Synthesis
+3,0,2,202729550,JH16,Protein synthesis,Cell wall biosynthesis
+3,0,2,202729550,JH17,Protein synthesis,DNA replication
+3,0,2,202729550,JH18,Protein synthesis,Cell wall biosynthesis
+3,0,2,202729550,JH2,Cell wall biosynthesis,Protein synthesis
+3,0,2,202729550,JH20,Folic acid metabolism,RNA Synthesis
+3,0,2,202729550,JH23,Folic acid metabolism,Membrane disruption
+3,0,2,202729550,JH24,Folic acid metabolism,Membrane disruption
+3,0,2,202729550,JH27,DNA replication,Fatty acid synthesis
+3,0,2,202729550,JH28,DNA replication,Protein synthesis
+3,0,2,202729550,JH29,DNA replication,Cell wall biosynthesis
+3,0,2,202729550,JH30,DNA replication,DNA replication
+3,0,2,202729550,JH31,Nitrofurans,Folic acid metabolism
+3,0,2,202729550,JH32,DNA replication,DNA replication
+3,0,2,202729550,JH33,DNA replication,Cell wall biosynthesis
+3,0,2,202729550,JH36,DNA replication,Cell wall biosynthesis
+3,0,2,202729550,JH37,RNA Synthesis,DNA replication
+3,0,2,202729550,JH38,RNA Synthesis,Protein synthesis
+3,0,2,202729550,JH40,Fatty acid synthesis,Cell wall biosynthesis
+3,0,2,202729550,JH42,Fatty acid synthesis,Membrane disruption
+3,0,2,202729550,JH43,Membrane disruption,Cell wall biosynthesis
+3,0,2,202729550,JH44,Membrane disruption,Folic acid metabolism
+3,0,2,202729550,JH45,Membrane disruption,DNA replication
+3,0,2,202729550,JH46,Membrane disruption,Protein synthesis
+3,0,2,202729550,JH49,lipopolysaccharide synthesis,DNA replication
+3,0,2,202729550,JH50,lipopolysaccharide synthesis,DNA replication
+3,0,2,202729550,JH56,Protein synthesis,lipopolysaccharide synthesis
+3,0,2,202729550,JH58,Nitrofurans,Fatty acid synthesis
+3,0,2,202729550,JH6,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,0,2,202729550,JH61,Fatty acid synthesis,Protein synthesis
+3,0,2,202729550,JH62,lipopolysaccharide synthesis,Membrane disruption
+3,0,2,202729550,JH64,Nitrofurans,Protein synthesis
+3,0,2,202729550,JH65,Nitrofurans,Nitrofurans
+3,0,2,202729550,JH7,Cell wall biosynthesis,Nitrofurans
+3,0,2,202729550,JH8,Cell wall biosynthesis,Protein synthesis
+3,0,2,202729550,JH9,Cell wall biosynthesis,Fatty acid synthesis
+3,1,0,202709551,JH0,Cell wall biosynthesis,Protein synthesis
+3,1,0,202709551,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,1,0,202709551,JH12,Protein synthesis,DNA replication
+3,1,0,202709551,JH13,Protein synthesis,Cell wall biosynthesis
+3,1,0,202709551,JH14,Protein synthesis,DNA replication
+3,1,0,202709551,JH15,Protein synthesis,Cell wall biosynthesis
+3,1,0,202709551,JH16,Protein synthesis,Folic acid metabolism
+3,1,0,202709551,JH18,Protein synthesis,Protein synthesis
+3,1,0,202709551,JH2,Cell wall biosynthesis,Nitrofurans
+3,1,0,202709551,JH20,Folic acid metabolism,DNA replication
+3,1,0,202709551,JH21,Folic acid metabolism,Membrane disruption
+3,1,0,202709551,JH23,Folic acid metabolism,Protein synthesis
+3,1,0,202709551,JH26,DNA replication,DNA replication
+3,1,0,202709551,JH27,DNA replication,Cell wall biosynthesis
+3,1,0,202709551,JH28,DNA replication,DNA replication
+3,1,0,202709551,JH29,DNA replication,Cell wall biosynthesis
+3,1,0,202709551,JH3,Cell wall biosynthesis,Nitrofurans
+3,1,0,202709551,JH30,DNA replication,RNA Synthesis
+3,1,0,202709551,JH31,Nitrofurans,Cell wall biosynthesis
+3,1,0,202709551,JH32,DNA replication,DNA replication
+3,1,0,202709551,JH35,DNA replication,Fatty acid synthesis
+3,1,0,202709551,JH36,DNA replication,lipopolysaccharide synthesis
+3,1,0,202709551,JH37,RNA Synthesis,RNA Synthesis
+3,1,0,202709551,JH39,RNA Synthesis,Protein synthesis
+3,1,0,202709551,JH40,Fatty acid synthesis,Cell wall biosynthesis
+3,1,0,202709551,JH41,Fatty acid synthesis,Protein synthesis
+3,1,0,202709551,JH44,Membrane disruption,Fatty acid synthesis
+3,1,0,202709551,JH45,Membrane disruption,Nitrofurans
+3,1,0,202709551,JH46,Membrane disruption,Protein synthesis
+3,1,0,202709551,JH47,Membrane disruption,Membrane disruption
+3,1,0,202709551,JH48,lipopolysaccharide synthesis,Protein synthesis
+3,1,0,202709551,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+3,1,0,202709551,JH5,Cell wall biosynthesis,DNA replication
+3,1,0,202709551,JH50,lipopolysaccharide synthesis,Membrane disruption
+3,1,0,202709551,JH55,Protein synthesis,Folic acid metabolism
+3,1,0,202709551,JH58,Nitrofurans,lipopolysaccharide synthesis
+3,1,0,202709551,JH61,Fatty acid synthesis,Membrane disruption
+3,1,0,202709551,JH62,lipopolysaccharide synthesis,Folic acid metabolism
+3,1,0,202709551,JH64,Nitrofurans,lipopolysaccharide synthesis
+3,1,0,202709551,JH8,Cell wall biosynthesis,DNA replication
+3,1,0,202709551,JH9,Cell wall biosynthesis,Fatty acid synthesis
+3,1,1,202719551,JH0,Cell wall biosynthesis,DNA replication
+3,1,1,202719551,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+3,1,1,202719551,JH12,Protein synthesis,Fatty acid synthesis
+3,1,1,202719551,JH13,Protein synthesis,Nitrofurans
+3,1,1,202719551,JH14,Protein synthesis,Protein synthesis
+3,1,1,202719551,JH15,Protein synthesis,Membrane disruption
+3,1,1,202719551,JH16,Protein synthesis,Protein synthesis
+3,1,1,202719551,JH18,Protein synthesis,Fatty acid synthesis
+3,1,1,202719551,JH2,Cell wall biosynthesis,Membrane disruption
+3,1,1,202719551,JH20,Folic acid metabolism,Protein synthesis
+3,1,1,202719551,JH21,Folic acid metabolism,Nitrofurans
+3,1,1,202719551,JH23,Folic acid metabolism,Folic acid metabolism
+3,1,1,202719551,JH26,DNA replication,Membrane disruption
+3,1,1,202719551,JH27,DNA replication,Cell wall biosynthesis
+3,1,1,202719551,JH28,DNA replication,Cell wall biosynthesis
+3,1,1,202719551,JH29,DNA replication,Nitrofurans
+3,1,1,202719551,JH3,Cell wall biosynthesis,Folic acid metabolism
+3,1,1,202719551,JH30,DNA replication,DNA replication
+3,1,1,202719551,JH31,Nitrofurans,DNA replication
+3,1,1,202719551,JH32,DNA replication,Folic acid metabolism
+3,1,1,202719551,JH35,DNA replication,DNA replication
+3,1,1,202719551,JH36,DNA replication,Membrane disruption
+3,1,1,202719551,JH37,RNA Synthesis,DNA replication
+3,1,1,202719551,JH39,RNA Synthesis,Cell wall biosynthesis
+3,1,1,202719551,JH40,Fatty acid synthesis,Cell wall biosynthesis
+3,1,1,202719551,JH41,Fatty acid synthesis,Cell wall biosynthesis
+3,1,1,202719551,JH44,Membrane disruption,lipopolysaccharide synthesis
+3,1,1,202719551,JH45,Membrane disruption,lipopolysaccharide synthesis
+3,1,1,202719551,JH46,Membrane disruption,DNA replication
+3,1,1,202719551,JH47,Membrane disruption,Fatty acid synthesis
+3,1,1,202719551,JH48,lipopolysaccharide synthesis,Protein synthesis
+3,1,1,202719551,JH49,lipopolysaccharide synthesis,Protein synthesis
+3,1,1,202719551,JH5,Cell wall biosynthesis,DNA replication
+3,1,1,202719551,JH50,lipopolysaccharide synthesis,Protein synthesis
+3,1,1,202719551,JH55,Protein synthesis,lipopolysaccharide synthesis
+3,1,1,202719551,JH58,Nitrofurans,RNA Synthesis
+3,1,1,202719551,JH61,Fatty acid synthesis,RNA Synthesis
+3,1,1,202719551,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,1,1,202719551,JH64,Nitrofurans,DNA replication
+3,1,1,202719551,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+3,1,1,202719551,JH9,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,1,2,202729551,JH0,Cell wall biosynthesis,Nitrofurans
+3,1,2,202729551,JH10,Cell wall biosynthesis,Protein synthesis
+3,1,2,202729551,JH12,Protein synthesis,lipopolysaccharide synthesis
+3,1,2,202729551,JH13,Protein synthesis,Protein synthesis
+3,1,2,202729551,JH14,Protein synthesis,Nitrofurans
+3,1,2,202729551,JH15,Protein synthesis,Cell wall biosynthesis
+3,1,2,202729551,JH16,Protein synthesis,Protein synthesis
+3,1,2,202729551,JH18,Protein synthesis,Folic acid metabolism
+3,1,2,202729551,JH2,Cell wall biosynthesis,RNA Synthesis
+3,1,2,202729551,JH20,Folic acid metabolism,Fatty acid synthesis
+3,1,2,202729551,JH21,Folic acid metabolism,RNA Synthesis
+3,1,2,202729551,JH23,Folic acid metabolism,Membrane disruption
+3,1,2,202729551,JH26,DNA replication,Nitrofurans
+3,1,2,202729551,JH27,DNA replication,Fatty acid synthesis
+3,1,2,202729551,JH28,DNA replication,Cell wall biosynthesis
+3,1,2,202729551,JH29,DNA replication,Protein synthesis
+3,1,2,202729551,JH3,Cell wall biosynthesis,Fatty acid synthesis
+3,1,2,202729551,JH30,DNA replication,Cell wall biosynthesis
+3,1,2,202729551,JH31,Nitrofurans,Cell wall biosynthesis
+3,1,2,202729551,JH32,DNA replication,Membrane disruption
+3,1,2,202729551,JH35,DNA replication,Cell wall biosynthesis
+3,1,2,202729551,JH36,DNA replication,Protein synthesis
+3,1,2,202729551,JH37,RNA Synthesis,Membrane disruption
+3,1,2,202729551,JH39,RNA Synthesis,Folic acid metabolism
+3,1,2,202729551,JH40,Fatty acid synthesis,Protein synthesis
+3,1,2,202729551,JH41,Fatty acid synthesis,DNA replication
+3,1,2,202729551,JH44,Membrane disruption,DNA replication
+3,1,2,202729551,JH45,Membrane disruption,DNA replication
+3,1,2,202729551,JH46,Membrane disruption,lipopolysaccharide synthesis
+3,1,2,202729551,JH47,Membrane disruption,DNA replication
+3,1,2,202729551,JH48,lipopolysaccharide synthesis,Membrane disruption
+3,1,2,202729551,JH49,lipopolysaccharide synthesis,Protein synthesis
+3,1,2,202729551,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+3,1,2,202729551,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+3,1,2,202729551,JH55,Protein synthesis,DNA replication
+3,1,2,202729551,JH58,Nitrofurans,Cell wall biosynthesis
+3,1,2,202729551,JH61,Fatty acid synthesis,DNA replication
+3,1,2,202729551,JH62,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+3,1,2,202729551,JH64,Nitrofurans,DNA replication
+3,1,2,202729551,JH8,Cell wall biosynthesis,DNA replication
+3,1,2,202729551,JH9,Cell wall biosynthesis,Folic acid metabolism
+3,2,0,202709552,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+3,2,0,202709552,JH13,Protein synthesis,Protein synthesis
+3,2,0,202709552,JH15,Protein synthesis,Nitrofurans
+3,2,0,202709552,JH16,Protein synthesis,Protein synthesis
+3,2,0,202709552,JH17,Protein synthesis,lipopolysaccharide synthesis
+3,2,0,202709552,JH18,Protein synthesis,Folic acid metabolism
+3,2,0,202709552,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+3,2,0,202709552,JH20,Folic acid metabolism,RNA Synthesis
+3,2,0,202709552,JH21,Folic acid metabolism,Cell wall biosynthesis
+3,2,0,202709552,JH23,Folic acid metabolism,Fatty acid synthesis
+3,2,0,202709552,JH24,Folic acid metabolism,DNA replication
+3,2,0,202709552,JH26,DNA replication,Membrane disruption
+3,2,0,202709552,JH27,DNA replication,lipopolysaccharide synthesis
+3,2,0,202709552,JH28,DNA replication,Cell wall biosynthesis
+3,2,0,202709552,JH29,DNA replication,Folic acid metabolism
+3,2,0,202709552,JH3,Cell wall biosynthesis,Protein synthesis
+3,2,0,202709552,JH32,DNA replication,Protein synthesis
+3,2,0,202709552,JH33,DNA replication,DNA replication
+3,2,0,202709552,JH35,DNA replication,DNA replication
+3,2,0,202709552,JH38,RNA Synthesis,Membrane disruption
+3,2,0,202709552,JH39,RNA Synthesis,Nitrofurans
+3,2,0,202709552,JH40,Fatty acid synthesis,DNA replication
+3,2,0,202709552,JH41,Fatty acid synthesis,Cell wall biosynthesis
+3,2,0,202709552,JH42,Fatty acid synthesis,DNA replication
+3,2,0,202709552,JH43,Membrane disruption,RNA Synthesis
+3,2,0,202709552,JH45,Membrane disruption,Fatty acid synthesis
+3,2,0,202709552,JH46,Membrane disruption,Folic acid metabolism
+3,2,0,202709552,JH47,Membrane disruption,lipopolysaccharide synthesis
+3,2,0,202709552,JH48,lipopolysaccharide synthesis,Membrane disruption
+3,2,0,202709552,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+3,2,0,202709552,JH5,Cell wall biosynthesis,Protein synthesis
+3,2,0,202709552,JH50,lipopolysaccharide synthesis,Protein synthesis
+3,2,0,202709552,JH55,Protein synthesis,Folic acid metabolism
+3,2,0,202709552,JH56,Protein synthesis,Nitrofurans
+3,2,0,202709552,JH58,Nitrofurans,DNA replication
+3,2,0,202709552,JH6,Cell wall biosynthesis,Protein synthesis
+3,2,0,202709552,JH61,Fatty acid synthesis,DNA replication
+3,2,0,202709552,JH64,Nitrofurans,Membrane disruption
+3,2,0,202709552,JH65,Nitrofurans,Cell wall biosynthesis
+3,2,0,202709552,JH7,Cell wall biosynthesis,Fatty acid synthesis
+3,2,0,202709552,JH8,Cell wall biosynthesis,Fatty acid synthesis
+3,2,1,202719552,JH10,Cell wall biosynthesis,Nitrofurans
+3,2,1,202719552,JH13,Protein synthesis,Cell wall biosynthesis
+3,2,1,202719552,JH15,Protein synthesis,DNA replication
+3,2,1,202719552,JH16,Protein synthesis,Nitrofurans
+3,2,1,202719552,JH17,Protein synthesis,DNA replication
+3,2,1,202719552,JH18,Protein synthesis,Nitrofurans
+3,2,1,202719552,JH2,Cell wall biosynthesis,Folic acid metabolism
+3,2,1,202719552,JH20,Folic acid metabolism,DNA replication
+3,2,1,202719552,JH21,Folic acid metabolism,Protein synthesis
+3,2,1,202719552,JH23,Folic acid metabolism,DNA replication
+3,2,1,202719552,JH24,Folic acid metabolism,RNA Synthesis
+3,2,1,202719552,JH26,DNA replication,Fatty acid synthesis
+3,2,1,202719552,JH27,DNA replication,Membrane disruption
+3,2,1,202719552,JH28,DNA replication,Fatty acid synthesis
+3,2,1,202719552,JH29,DNA replication,Cell wall biosynthesis
+3,2,1,202719552,JH3,Cell wall biosynthesis,Membrane disruption
+3,2,1,202719552,JH32,DNA replication,DNA replication
+3,2,1,202719552,JH33,DNA replication,Membrane disruption
+3,2,1,202719552,JH35,DNA replication,lipopolysaccharide synthesis
+3,2,1,202719552,JH38,RNA Synthesis,Cell wall biosynthesis
+3,2,1,202719552,JH39,RNA Synthesis,Protein synthesis
+3,2,1,202719552,JH40,Fatty acid synthesis,Folic acid metabolism
+3,2,1,202719552,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+3,2,1,202719552,JH42,Fatty acid synthesis,Protein synthesis
+3,2,1,202719552,JH43,Membrane disruption,Fatty acid synthesis
+3,2,1,202719552,JH45,Membrane disruption,Protein synthesis
+3,2,1,202719552,JH46,Membrane disruption,DNA replication
+3,2,1,202719552,JH47,Membrane disruption,Folic acid metabolism
+3,2,1,202719552,JH48,lipopolysaccharide synthesis,Folic acid metabolism
+3,2,1,202719552,JH49,lipopolysaccharide synthesis,Protein synthesis
+3,2,1,202719552,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+3,2,1,202719552,JH50,lipopolysaccharide synthesis,DNA replication
+3,2,1,202719552,JH55,Protein synthesis,Cell wall biosynthesis
+3,2,1,202719552,JH56,Protein synthesis,Protein synthesis
+3,2,1,202719552,JH58,Nitrofurans,Cell wall biosynthesis
+3,2,1,202719552,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+3,2,1,202719552,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+3,2,1,202719552,JH64,Nitrofurans,Membrane disruption
+3,2,1,202719552,JH65,Nitrofurans,Fatty acid synthesis
+3,2,1,202719552,JH7,Cell wall biosynthesis,Protein synthesis
+3,2,1,202719552,JH8,Cell wall biosynthesis,RNA Synthesis
+3,2,2,202729552,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,2,2,202729552,JH13,Protein synthesis,Cell wall biosynthesis
+3,2,2,202729552,JH15,Protein synthesis,DNA replication
+3,2,2,202729552,JH16,Protein synthesis,Cell wall biosynthesis
+3,2,2,202729552,JH17,Protein synthesis,Cell wall biosynthesis
+3,2,2,202729552,JH18,Protein synthesis,Membrane disruption
+3,2,2,202729552,JH2,Cell wall biosynthesis,Protein synthesis
+3,2,2,202729552,JH20,Folic acid metabolism,DNA replication
+3,2,2,202729552,JH21,Folic acid metabolism,Nitrofurans
+3,2,2,202729552,JH23,Folic acid metabolism,Membrane disruption
+3,2,2,202729552,JH24,Folic acid metabolism,Fatty acid synthesis
+3,2,2,202729552,JH26,DNA replication,Membrane disruption
+3,2,2,202729552,JH27,DNA replication,lipopolysaccharide synthesis
+3,2,2,202729552,JH28,DNA replication,Protein synthesis
+3,2,2,202729552,JH29,DNA replication,Cell wall biosynthesis
+3,2,2,202729552,JH3,Cell wall biosynthesis,Membrane disruption
+3,2,2,202729552,JH32,DNA replication,Protein synthesis
+3,2,2,202729552,JH33,DNA replication,Folic acid metabolism
+3,2,2,202729552,JH35,DNA replication,Fatty acid synthesis
+3,2,2,202729552,JH38,RNA Synthesis,Folic acid metabolism
+3,2,2,202729552,JH39,RNA Synthesis,Nitrofurans
+3,2,2,202729552,JH40,Fatty acid synthesis,lipopolysaccharide synthesis
+3,2,2,202729552,JH41,Fatty acid synthesis,DNA replication
+3,2,2,202729552,JH42,Fatty acid synthesis,Protein synthesis
+3,2,2,202729552,JH43,Membrane disruption,RNA Synthesis
+3,2,2,202729552,JH45,Membrane disruption,Folic acid metabolism
+3,2,2,202729552,JH46,Membrane disruption,Fatty acid synthesis
+3,2,2,202729552,JH47,Membrane disruption,Cell wall biosynthesis
+3,2,2,202729552,JH48,lipopolysaccharide synthesis,Fatty acid synthesis
+3,2,2,202729552,JH49,lipopolysaccharide synthesis,DNA replication
+3,2,2,202729552,JH5,Cell wall biosynthesis,Protein synthesis
+3,2,2,202729552,JH50,lipopolysaccharide synthesis,DNA replication
+3,2,2,202729552,JH55,Protein synthesis,DNA replication
+3,2,2,202729552,JH56,Protein synthesis,RNA Synthesis
+3,2,2,202729552,JH58,Nitrofurans,Protein synthesis
+3,2,2,202729552,JH6,Cell wall biosynthesis,Protein synthesis
+3,2,2,202729552,JH61,Fatty acid synthesis,Cell wall biosynthesis
+3,2,2,202729552,JH64,Nitrofurans,Folic acid metabolism
+3,2,2,202729552,JH65,Nitrofurans,Cell wall biosynthesis
+3,2,2,202729552,JH7,Cell wall biosynthesis,DNA replication
+3,2,2,202729552,JH8,Cell wall biosynthesis,Nitrofurans
+3,3,0,202709553,JH0,Cell wall biosynthesis,lipopolysaccharide synthesis
+3,3,0,202709553,JH12,Protein synthesis,Fatty acid synthesis
+3,3,0,202709553,JH13,Protein synthesis,Nitrofurans
+3,3,0,202709553,JH14,Protein synthesis,lipopolysaccharide synthesis
+3,3,0,202709553,JH15,Protein synthesis,Folic acid metabolism
+3,3,0,202709553,JH17,Protein synthesis,DNA replication
+3,3,0,202709553,JH18,Protein synthesis,Cell wall biosynthesis
+3,3,0,202709553,JH2,Cell wall biosynthesis,Folic acid metabolism
+3,3,0,202709553,JH20,Folic acid metabolism,Protein synthesis
+3,3,0,202709553,JH21,Folic acid metabolism,DNA replication
+3,3,0,202709553,JH24,Folic acid metabolism,Cell wall biosynthesis
+3,3,0,202709553,JH26,DNA replication,Protein synthesis
+3,3,0,202709553,JH29,DNA replication,Fatty acid synthesis
+3,3,0,202709553,JH3,Cell wall biosynthesis,DNA replication
+3,3,0,202709553,JH30,DNA replication,Protein synthesis
+3,3,0,202709553,JH31,Nitrofurans,lipopolysaccharide synthesis
+3,3,0,202709553,JH32,DNA replication,DNA replication
+3,3,0,202709553,JH33,DNA replication,Nitrofurans
+3,3,0,202709553,JH35,DNA replication,Protein synthesis
+3,3,0,202709553,JH36,DNA replication,DNA replication
+3,3,0,202709553,JH37,RNA Synthesis,Protein synthesis
+3,3,0,202709553,JH38,RNA Synthesis,Cell wall biosynthesis
+3,3,0,202709553,JH39,RNA Synthesis,Protein synthesis
+3,3,0,202709553,JH40,Fatty acid synthesis,RNA Synthesis
+3,3,0,202709553,JH41,Fatty acid synthesis,Membrane disruption
+3,3,0,202709553,JH42,Fatty acid synthesis,Protein synthesis
+3,3,0,202709553,JH43,Membrane disruption,Fatty acid synthesis
+3,3,0,202709553,JH44,Membrane disruption,Cell wall biosynthesis
+3,3,0,202709553,JH46,Membrane disruption,RNA Synthesis
+3,3,0,202709553,JH47,Membrane disruption,RNA Synthesis
+3,3,0,202709553,JH48,lipopolysaccharide synthesis,Membrane disruption
+3,3,0,202709553,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+3,3,0,202709553,JH5,Cell wall biosynthesis,DNA replication
+3,3,0,202709553,JH55,Protein synthesis,Membrane disruption
+3,3,0,202709553,JH56,Protein synthesis,Nitrofurans
+3,3,0,202709553,JH58,Nitrofurans,Protein synthesis
+3,3,0,202709553,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+3,3,0,202709553,JH62,lipopolysaccharide synthesis,DNA replication
+3,3,0,202709553,JH65,Nitrofurans,Membrane disruption
+3,3,0,202709553,JH7,Cell wall biosynthesis,Folic acid metabolism
+3,3,0,202709553,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+3,3,1,202719553,JH0,Cell wall biosynthesis,Protein synthesis
+3,3,1,202719553,JH12,Protein synthesis,RNA Synthesis
+3,3,1,202719553,JH13,Protein synthesis,Fatty acid synthesis
+3,3,1,202719553,JH14,Protein synthesis,Cell wall biosynthesis
+3,3,1,202719553,JH15,Protein synthesis,Cell wall biosynthesis
+3,3,1,202719553,JH17,Protein synthesis,RNA Synthesis
+3,3,1,202719553,JH18,Protein synthesis,DNA replication
+3,3,1,202719553,JH2,Cell wall biosynthesis,Nitrofurans
+3,3,1,202719553,JH20,Folic acid metabolism,RNA Synthesis
+3,3,1,202719553,JH21,Folic acid metabolism,Cell wall biosynthesis
+3,3,1,202719553,JH24,Folic acid metabolism,Protein synthesis
+3,3,1,202719553,JH26,DNA replication,lipopolysaccharide synthesis
+3,3,1,202719553,JH29,DNA replication,DNA replication
+3,3,1,202719553,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+3,3,1,202719553,JH30,DNA replication,Protein synthesis
+3,3,1,202719553,JH31,Nitrofurans,Folic acid metabolism
+3,3,1,202719553,JH32,DNA replication,Fatty acid synthesis
+3,3,1,202719553,JH33,DNA replication,Membrane disruption
+3,3,1,202719553,JH35,DNA replication,Membrane disruption
+3,3,1,202719553,JH36,DNA replication,Cell wall biosynthesis
+3,3,1,202719553,JH37,RNA Synthesis,Cell wall biosynthesis
+3,3,1,202719553,JH38,RNA Synthesis,DNA replication
+3,3,1,202719553,JH39,RNA Synthesis,lipopolysaccharide synthesis
+3,3,1,202719553,JH40,Fatty acid synthesis,Protein synthesis
+3,3,1,202719553,JH41,Fatty acid synthesis,Folic acid metabolism
+3,3,1,202719553,JH42,Fatty acid synthesis,DNA replication
+3,3,1,202719553,JH43,Membrane disruption,Folic acid metabolism
+3,3,1,202719553,JH44,Membrane disruption,Nitrofurans
+3,3,1,202719553,JH46,Membrane disruption,DNA replication
+3,3,1,202719553,JH47,Membrane disruption,lipopolysaccharide synthesis
+3,3,1,202719553,JH48,lipopolysaccharide synthesis,Membrane disruption
+3,3,1,202719553,JH49,lipopolysaccharide synthesis,Fatty acid synthesis
+3,3,1,202719553,JH5,Cell wall biosynthesis,Protein synthesis
+3,3,1,202719553,JH55,Protein synthesis,DNA replication
+3,3,1,202719553,JH56,Protein synthesis,Nitrofurans
+3,3,1,202719553,JH58,Nitrofurans,DNA replication
+3,3,1,202719553,JH6,Cell wall biosynthesis,Protein synthesis
+3,3,1,202719553,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,3,1,202719553,JH65,Nitrofurans,Protein synthesis
+3,3,1,202719553,JH7,Cell wall biosynthesis,Membrane disruption
+3,3,1,202719553,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+3,3,2,202729553,JH0,Cell wall biosynthesis,DNA replication
+3,3,2,202729553,JH12,Protein synthesis,Protein synthesis
+3,3,2,202729553,JH13,Protein synthesis,Cell wall biosynthesis
+3,3,2,202729553,JH14,Protein synthesis,Fatty acid synthesis
+3,3,2,202729553,JH15,Protein synthesis,Protein synthesis
+3,3,2,202729553,JH17,Protein synthesis,lipopolysaccharide synthesis
+3,3,2,202729553,JH18,Protein synthesis,RNA Synthesis
+3,3,2,202729553,JH2,Cell wall biosynthesis,Protein synthesis
+3,3,2,202729553,JH20,Folic acid metabolism,Protein synthesis
+3,3,2,202729553,JH21,Folic acid metabolism,DNA replication
+3,3,2,202729553,JH24,Folic acid metabolism,Cell wall biosynthesis
+3,3,2,202729553,JH26,DNA replication,Membrane disruption
+3,3,2,202729553,JH29,DNA replication,RNA Synthesis
+3,3,2,202729553,JH3,Cell wall biosynthesis,Protein synthesis
+3,3,2,202729553,JH30,DNA replication,Membrane disruption
+3,3,2,202729553,JH31,Nitrofurans,Membrane disruption
+3,3,2,202729553,JH32,DNA replication,Cell wall biosynthesis
+3,3,2,202729553,JH33,DNA replication,Folic acid metabolism
+3,3,2,202729553,JH35,DNA replication,Folic acid metabolism
+3,3,2,202729553,JH36,DNA replication,Protein synthesis
+3,3,2,202729553,JH37,RNA Synthesis,DNA replication
+3,3,2,202729553,JH38,RNA Synthesis,Nitrofurans
+3,3,2,202729553,JH39,RNA Synthesis,Fatty acid synthesis
+3,3,2,202729553,JH40,Fatty acid synthesis,Cell wall biosynthesis
+3,3,2,202729553,JH41,Fatty acid synthesis,Cell wall biosynthesis
+3,3,2,202729553,JH42,Fatty acid synthesis,DNA replication
+3,3,2,202729553,JH43,Membrane disruption,Cell wall biosynthesis
+3,3,2,202729553,JH44,Membrane disruption,Membrane disruption
+3,3,2,202729553,JH46,Membrane disruption,Folic acid metabolism
+3,3,2,202729553,JH47,Membrane disruption,DNA replication
+3,3,2,202729553,JH48,lipopolysaccharide synthesis,Nitrofurans
+3,3,2,202729553,JH49,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+3,3,2,202729553,JH5,Cell wall biosynthesis,Protein synthesis
+3,3,2,202729553,JH55,Protein synthesis,lipopolysaccharide synthesis
+3,3,2,202729553,JH56,Protein synthesis,DNA replication
+3,3,2,202729553,JH58,Nitrofurans,Nitrofurans
+3,3,2,202729553,JH6,Cell wall biosynthesis,Fatty acid synthesis
+3,3,2,202729553,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,3,2,202729553,JH65,Nitrofurans,DNA replication
+3,3,2,202729553,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+3,3,2,202729553,JH9,Cell wall biosynthesis,RNA Synthesis
+3,4,0,202709554,JH0,Cell wall biosynthesis,Protein synthesis
+3,4,0,202709554,JH10,Cell wall biosynthesis,Nitrofurans
+3,4,0,202709554,JH12,Protein synthesis,Folic acid metabolism
+3,4,0,202709554,JH13,Protein synthesis,Protein synthesis
+3,4,0,202709554,JH14,Protein synthesis,Membrane disruption
+3,4,0,202709554,JH16,Protein synthesis,Folic acid metabolism
+3,4,0,202709554,JH17,Protein synthesis,lipopolysaccharide synthesis
+3,4,0,202709554,JH21,Folic acid metabolism,Protein synthesis
+3,4,0,202709554,JH23,Folic acid metabolism,Protein synthesis
+3,4,0,202709554,JH24,Folic acid metabolism,Cell wall biosynthesis
+3,4,0,202709554,JH26,DNA replication,lipopolysaccharide synthesis
+3,4,0,202709554,JH27,DNA replication,DNA replication
+3,4,0,202709554,JH28,DNA replication,Membrane disruption
+3,4,0,202709554,JH3,Cell wall biosynthesis,Fatty acid synthesis
+3,4,0,202709554,JH30,DNA replication,Cell wall biosynthesis
+3,4,0,202709554,JH31,Nitrofurans,Membrane disruption
+3,4,0,202709554,JH33,DNA replication,Fatty acid synthesis
+3,4,0,202709554,JH35,DNA replication,Fatty acid synthesis
+3,4,0,202709554,JH36,DNA replication,Cell wall biosynthesis
+3,4,0,202709554,JH37,RNA Synthesis,Cell wall biosynthesis
+3,4,0,202709554,JH38,RNA Synthesis,Cell wall biosynthesis
+3,4,0,202709554,JH39,RNA Synthesis,Nitrofurans
+3,4,0,202709554,JH41,Fatty acid synthesis,DNA replication
+3,4,0,202709554,JH42,Fatty acid synthesis,RNA Synthesis
+3,4,0,202709554,JH43,Membrane disruption,Nitrofurans
+3,4,0,202709554,JH44,Membrane disruption,DNA replication
+3,4,0,202709554,JH45,Membrane disruption,Folic acid metabolism
+3,4,0,202709554,JH47,Membrane disruption,Membrane disruption
+3,4,0,202709554,JH48,lipopolysaccharide synthesis,DNA replication
+3,4,0,202709554,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+3,4,0,202709554,JH50,lipopolysaccharide synthesis,DNA replication
+3,4,0,202709554,JH55,Protein synthesis,lipopolysaccharide synthesis
+3,4,0,202709554,JH56,Protein synthesis,Protein synthesis
+3,4,0,202709554,JH6,Cell wall biosynthesis,RNA Synthesis
+3,4,0,202709554,JH61,Fatty acid synthesis,DNA replication
+3,4,0,202709554,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,4,0,202709554,JH64,Nitrofurans,DNA replication
+3,4,0,202709554,JH65,Nitrofurans,RNA Synthesis
+3,4,0,202709554,JH7,Cell wall biosynthesis,Protein synthesis
+3,4,0,202709554,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+3,4,0,202709554,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+3,4,1,202719554,JH0,Cell wall biosynthesis,Fatty acid synthesis
+3,4,1,202719554,JH10,Cell wall biosynthesis,Protein synthesis
+3,4,1,202719554,JH12,Protein synthesis,DNA replication
+3,4,1,202719554,JH13,Protein synthesis,lipopolysaccharide synthesis
+3,4,1,202719554,JH14,Protein synthesis,DNA replication
+3,4,1,202719554,JH16,Protein synthesis,Nitrofurans
+3,4,1,202719554,JH17,Protein synthesis,Folic acid metabolism
+3,4,1,202719554,JH21,Folic acid metabolism,Protein synthesis
+3,4,1,202719554,JH23,Folic acid metabolism,Folic acid metabolism
+3,4,1,202719554,JH24,Folic acid metabolism,RNA Synthesis
+3,4,1,202719554,JH26,DNA replication,Protein synthesis
+3,4,1,202719554,JH27,DNA replication,Cell wall biosynthesis
+3,4,1,202719554,JH28,DNA replication,Cell wall biosynthesis
+3,4,1,202719554,JH3,Cell wall biosynthesis,Folic acid metabolism
+3,4,1,202719554,JH30,DNA replication,Cell wall biosynthesis
+3,4,1,202719554,JH31,Nitrofurans,RNA Synthesis
+3,4,1,202719554,JH33,DNA replication,Protein synthesis
+3,4,1,202719554,JH35,DNA replication,RNA Synthesis
+3,4,1,202719554,JH36,DNA replication,Cell wall biosynthesis
+3,4,1,202719554,JH37,RNA Synthesis,Cell wall biosynthesis
+3,4,1,202719554,JH38,RNA Synthesis,Membrane disruption
+3,4,1,202719554,JH39,RNA Synthesis,Fatty acid synthesis
+3,4,1,202719554,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+3,4,1,202719554,JH42,Fatty acid synthesis,DNA replication
+3,4,1,202719554,JH43,Membrane disruption,Nitrofurans
+3,4,1,202719554,JH44,Membrane disruption,DNA replication
+3,4,1,202719554,JH45,Membrane disruption,Protein synthesis
+3,4,1,202719554,JH47,Membrane disruption,DNA replication
+3,4,1,202719554,JH48,lipopolysaccharide synthesis,DNA replication
+3,4,1,202719554,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+3,4,1,202719554,JH50,lipopolysaccharide synthesis,Protein synthesis
+3,4,1,202719554,JH55,Protein synthesis,DNA replication
+3,4,1,202719554,JH56,Protein synthesis,lipopolysaccharide synthesis
+3,4,1,202719554,JH6,Cell wall biosynthesis,Protein synthesis
+3,4,1,202719554,JH61,Fatty acid synthesis,Fatty acid synthesis
+3,4,1,202719554,JH62,lipopolysaccharide synthesis,Nitrofurans
+3,4,1,202719554,JH64,Nitrofurans,Cell wall biosynthesis
+3,4,1,202719554,JH65,Nitrofurans,Cell wall biosynthesis
+3,4,1,202719554,JH7,Cell wall biosynthesis,Membrane disruption
+3,4,1,202719554,JH8,Cell wall biosynthesis,Membrane disruption
+3,4,1,202719554,JH9,Cell wall biosynthesis,Membrane disruption
+3,4,2,202729554,JH0,Cell wall biosynthesis,Protein synthesis
+3,4,2,202729554,JH10,Cell wall biosynthesis,RNA Synthesis
+3,4,2,202729554,JH12,Protein synthesis,DNA replication
+3,4,2,202729554,JH13,Protein synthesis,Fatty acid synthesis
+3,4,2,202729554,JH14,Protein synthesis,Cell wall biosynthesis
+3,4,2,202729554,JH16,Protein synthesis,Cell wall biosynthesis
+3,4,2,202729554,JH17,Protein synthesis,Membrane disruption
+3,4,2,202729554,JH21,Folic acid metabolism,Cell wall biosynthesis
+3,4,2,202729554,JH23,Folic acid metabolism,Cell wall biosynthesis
+3,4,2,202729554,JH24,Folic acid metabolism,Protein synthesis
+3,4,2,202729554,JH26,DNA replication,DNA replication
+3,4,2,202729554,JH27,DNA replication,DNA replication
+3,4,2,202729554,JH28,DNA replication,Membrane disruption
+3,4,2,202729554,JH3,Cell wall biosynthesis,Fatty acid synthesis
+3,4,2,202729554,JH30,DNA replication,Protein synthesis
+3,4,2,202729554,JH31,Nitrofurans,DNA replication
+3,4,2,202729554,JH33,DNA replication,RNA Synthesis
+3,4,2,202729554,JH35,DNA replication,Nitrofurans
+3,4,2,202729554,JH36,DNA replication,Folic acid metabolism
+3,4,2,202729554,JH37,RNA Synthesis,Folic acid metabolism
+3,4,2,202729554,JH38,RNA Synthesis,DNA replication
+3,4,2,202729554,JH39,RNA Synthesis,Nitrofurans
+3,4,2,202729554,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+3,4,2,202729554,JH42,Fatty acid synthesis,DNA replication
+3,4,2,202729554,JH43,Membrane disruption,RNA Synthesis
+3,4,2,202729554,JH44,Membrane disruption,Cell wall biosynthesis
+3,4,2,202729554,JH45,Membrane disruption,lipopolysaccharide synthesis
+3,4,2,202729554,JH47,Membrane disruption,lipopolysaccharide synthesis
+3,4,2,202729554,JH48,lipopolysaccharide synthesis,Membrane disruption
+3,4,2,202729554,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+3,4,2,202729554,JH50,lipopolysaccharide synthesis,Fatty acid synthesis
+3,4,2,202729554,JH55,Protein synthesis,Nitrofurans
+3,4,2,202729554,JH56,Protein synthesis,Cell wall biosynthesis
+3,4,2,202729554,JH6,Cell wall biosynthesis,Folic acid metabolism
+3,4,2,202729554,JH61,Fatty acid synthesis,Membrane disruption
+3,4,2,202729554,JH62,lipopolysaccharide synthesis,Protein synthesis
+3,4,2,202729554,JH64,Nitrofurans,DNA replication
+3,4,2,202729554,JH65,Nitrofurans,Cell wall biosynthesis
+3,4,2,202729554,JH7,Cell wall biosynthesis,Protein synthesis
+3,4,2,202729554,JH8,Cell wall biosynthesis,Protein synthesis
+3,4,2,202729554,JH9,Cell wall biosynthesis,Protein synthesis
+4,0,0,202709650,JH0,Cell wall biosynthesis,DNA replication
+4,0,0,202709650,JH10,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,0,0,202709650,JH12,Protein synthesis,Membrane disruption
+4,0,0,202709650,JH13,Protein synthesis,Protein synthesis
+4,0,0,202709650,JH14,Protein synthesis,lipopolysaccharide synthesis
+4,0,0,202709650,JH15,Protein synthesis,DNA replication
+4,0,0,202709650,JH16,Protein synthesis,Cell wall biosynthesis
+4,0,0,202709650,JH18,Protein synthesis,Membrane disruption
+4,0,0,202709650,JH20,Folic acid metabolism,Fatty acid synthesis
+4,0,0,202709650,JH23,Folic acid metabolism,Protein synthesis
+4,0,0,202709650,JH24,Folic acid metabolism,DNA replication
+4,0,0,202709650,JH26,DNA replication,Cell wall biosynthesis
+4,0,0,202709650,JH27,DNA replication,Cell wall biosynthesis
+4,0,0,202709650,JH28,DNA replication,lipopolysaccharide synthesis
+4,0,0,202709650,JH29,DNA replication,Nitrofurans
+4,0,0,202709650,JH3,Cell wall biosynthesis,Fatty acid synthesis
+4,0,0,202709650,JH31,Nitrofurans,Nitrofurans
+4,0,0,202709650,JH32,DNA replication,Folic acid metabolism
+4,0,0,202709650,JH33,DNA replication,DNA replication
+4,0,0,202709650,JH36,DNA replication,Protein synthesis
+4,0,0,202709650,JH37,RNA Synthesis,Nitrofurans
+4,0,0,202709650,JH39,RNA Synthesis,Protein synthesis
+4,0,0,202709650,JH40,Fatty acid synthesis,Cell wall biosynthesis
+4,0,0,202709650,JH41,Fatty acid synthesis,Cell wall biosynthesis
+4,0,0,202709650,JH42,Fatty acid synthesis,Membrane disruption
+4,0,0,202709650,JH43,Membrane disruption,DNA replication
+4,0,0,202709650,JH44,Membrane disruption,RNA Synthesis
+4,0,0,202709650,JH45,Membrane disruption,Nitrofurans
+4,0,0,202709650,JH46,Membrane disruption,Protein synthesis
+4,0,0,202709650,JH48,lipopolysaccharide synthesis,Folic acid metabolism
+4,0,0,202709650,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+4,0,0,202709650,JH50,lipopolysaccharide synthesis,Protein synthesis
+4,0,0,202709650,JH55,Protein synthesis,Membrane disruption
+4,0,0,202709650,JH58,Nitrofurans,Protein synthesis
+4,0,0,202709650,JH62,lipopolysaccharide synthesis,Fatty acid synthesis
+4,0,0,202709650,JH64,Nitrofurans,DNA replication
+4,0,0,202709650,JH65,Nitrofurans,RNA Synthesis
+4,0,0,202709650,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+4,0,0,202709650,JH8,Cell wall biosynthesis,DNA replication
+4,0,0,202709650,JH9,Cell wall biosynthesis,Folic acid metabolism
+4,0,1,202719650,JH0,Cell wall biosynthesis,Fatty acid synthesis
+4,0,1,202719650,JH10,Cell wall biosynthesis,Folic acid metabolism
+4,0,1,202719650,JH12,Protein synthesis,lipopolysaccharide synthesis
+4,0,1,202719650,JH13,Protein synthesis,Nitrofurans
+4,0,1,202719650,JH14,Protein synthesis,lipopolysaccharide synthesis
+4,0,1,202719650,JH15,Protein synthesis,Cell wall biosynthesis
+4,0,1,202719650,JH16,Protein synthesis,Cell wall biosynthesis
+4,0,1,202719650,JH18,Protein synthesis,DNA replication
+4,0,1,202719650,JH20,Folic acid metabolism,Protein synthesis
+4,0,1,202719650,JH23,Folic acid metabolism,lipopolysaccharide synthesis
+4,0,1,202719650,JH24,Folic acid metabolism,Protein synthesis
+4,0,1,202719650,JH26,DNA replication,Cell wall biosynthesis
+4,0,1,202719650,JH27,DNA replication,Nitrofurans
+4,0,1,202719650,JH28,DNA replication,Cell wall biosynthesis
+4,0,1,202719650,JH29,DNA replication,Folic acid metabolism
+4,0,1,202719650,JH3,Cell wall biosynthesis,RNA Synthesis
+4,0,1,202719650,JH31,Nitrofurans,DNA replication
+4,0,1,202719650,JH32,DNA replication,Membrane disruption
+4,0,1,202719650,JH33,DNA replication,Protein synthesis
+4,0,1,202719650,JH36,DNA replication,Membrane disruption
+4,0,1,202719650,JH37,RNA Synthesis,DNA replication
+4,0,1,202719650,JH39,RNA Synthesis,Cell wall biosynthesis
+4,0,1,202719650,JH40,Fatty acid synthesis,Nitrofurans
+4,0,1,202719650,JH41,Fatty acid synthesis,DNA replication
+4,0,1,202719650,JH42,Fatty acid synthesis,RNA Synthesis
+4,0,1,202719650,JH43,Membrane disruption,Fatty acid synthesis
+4,0,1,202719650,JH44,Membrane disruption,Membrane disruption
+4,0,1,202719650,JH45,Membrane disruption,Protein synthesis
+4,0,1,202719650,JH46,Membrane disruption,DNA replication
+4,0,1,202719650,JH48,lipopolysaccharide synthesis,DNA replication
+4,0,1,202719650,JH5,Cell wall biosynthesis,Membrane disruption
+4,0,1,202719650,JH50,lipopolysaccharide synthesis,DNA replication
+4,0,1,202719650,JH55,Protein synthesis,Nitrofurans
+4,0,1,202719650,JH58,Nitrofurans,Cell wall biosynthesis
+4,0,1,202719650,JH62,lipopolysaccharide synthesis,Protein synthesis
+4,0,1,202719650,JH64,Nitrofurans,Protein synthesis
+4,0,1,202719650,JH65,Nitrofurans,Folic acid metabolism
+4,0,1,202719650,JH7,Cell wall biosynthesis,Fatty acid synthesis
+4,0,1,202719650,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+4,0,1,202719650,JH9,Cell wall biosynthesis,Protein synthesis
+4,0,2,202729650,JH0,Cell wall biosynthesis,Nitrofurans
+4,0,2,202729650,JH10,Cell wall biosynthesis,Protein synthesis
+4,0,2,202729650,JH12,Protein synthesis,Cell wall biosynthesis
+4,0,2,202729650,JH13,Protein synthesis,Fatty acid synthesis
+4,0,2,202729650,JH14,Protein synthesis,Cell wall biosynthesis
+4,0,2,202729650,JH15,Protein synthesis,Cell wall biosynthesis
+4,0,2,202729650,JH16,Protein synthesis,Nitrofurans
+4,0,2,202729650,JH18,Protein synthesis,Protein synthesis
+4,0,2,202729650,JH20,Folic acid metabolism,Folic acid metabolism
+4,0,2,202729650,JH23,Folic acid metabolism,Membrane disruption
+4,0,2,202729650,JH24,Folic acid metabolism,RNA Synthesis
+4,0,2,202729650,JH26,DNA replication,DNA replication
+4,0,2,202729650,JH27,DNA replication,DNA replication
+4,0,2,202729650,JH28,DNA replication,Membrane disruption
+4,0,2,202729650,JH29,DNA replication,Membrane disruption
+4,0,2,202729650,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+4,0,2,202729650,JH31,Nitrofurans,Nitrofurans
+4,0,2,202729650,JH32,DNA replication,Folic acid metabolism
+4,0,2,202729650,JH33,DNA replication,lipopolysaccharide synthesis
+4,0,2,202729650,JH36,DNA replication,Membrane disruption
+4,0,2,202729650,JH37,RNA Synthesis,Nitrofurans
+4,0,2,202729650,JH39,RNA Synthesis,Protein synthesis
+4,0,2,202729650,JH40,Fatty acid synthesis,Folic acid metabolism
+4,0,2,202729650,JH41,Fatty acid synthesis,RNA Synthesis
+4,0,2,202729650,JH42,Fatty acid synthesis,DNA replication
+4,0,2,202729650,JH43,Membrane disruption,Fatty acid synthesis
+4,0,2,202729650,JH44,Membrane disruption,Protein synthesis
+4,0,2,202729650,JH45,Membrane disruption,DNA replication
+4,0,2,202729650,JH46,Membrane disruption,DNA replication
+4,0,2,202729650,JH48,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+4,0,2,202729650,JH5,Cell wall biosynthesis,Protein synthesis
+4,0,2,202729650,JH50,lipopolysaccharide synthesis,DNA replication
+4,0,2,202729650,JH55,Protein synthesis,Protein synthesis
+4,0,2,202729650,JH58,Nitrofurans,DNA replication
+4,0,2,202729650,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,0,2,202729650,JH64,Nitrofurans,lipopolysaccharide synthesis
+4,0,2,202729650,JH65,Nitrofurans,Cell wall biosynthesis
+4,0,2,202729650,JH7,Cell wall biosynthesis,Fatty acid synthesis
+4,0,2,202729650,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+4,0,2,202729650,JH9,Cell wall biosynthesis,Protein synthesis
+4,1,0,202709651,JH0,Cell wall biosynthesis,DNA replication
+4,1,0,202709651,JH12,Protein synthesis,Protein synthesis
+4,1,0,202709651,JH13,Protein synthesis,Protein synthesis
+4,1,0,202709651,JH14,Protein synthesis,lipopolysaccharide synthesis
+4,1,0,202709651,JH16,Protein synthesis,Fatty acid synthesis
+4,1,0,202709651,JH17,Protein synthesis,Nitrofurans
+4,1,0,202709651,JH18,Protein synthesis,Folic acid metabolism
+4,1,0,202709651,JH2,Cell wall biosynthesis,Membrane disruption
+4,1,0,202709651,JH20,Folic acid metabolism,Cell wall biosynthesis
+4,1,0,202709651,JH21,Folic acid metabolism,lipopolysaccharide synthesis
+4,1,0,202709651,JH23,Folic acid metabolism,DNA replication
+4,1,0,202709651,JH26,DNA replication,Cell wall biosynthesis
+4,1,0,202709651,JH28,DNA replication,RNA Synthesis
+4,1,0,202709651,JH29,DNA replication,Cell wall biosynthesis
+4,1,0,202709651,JH3,Cell wall biosynthesis,Protein synthesis
+4,1,0,202709651,JH30,DNA replication,DNA replication
+4,1,0,202709651,JH31,Nitrofurans,Membrane disruption
+4,1,0,202709651,JH32,DNA replication,Nitrofurans
+4,1,0,202709651,JH33,DNA replication,Fatty acid synthesis
+4,1,0,202709651,JH35,DNA replication,Folic acid metabolism
+4,1,0,202709651,JH36,DNA replication,Fatty acid synthesis
+4,1,0,202709651,JH37,RNA Synthesis,Cell wall biosynthesis
+4,1,0,202709651,JH38,RNA Synthesis,Membrane disruption
+4,1,0,202709651,JH40,Fatty acid synthesis,DNA replication
+4,1,0,202709651,JH41,Fatty acid synthesis,Protein synthesis
+4,1,0,202709651,JH43,Membrane disruption,lipopolysaccharide synthesis
+4,1,0,202709651,JH44,Membrane disruption,lipopolysaccharide synthesis
+4,1,0,202709651,JH45,Membrane disruption,DNA replication
+4,1,0,202709651,JH47,Membrane disruption,RNA Synthesis
+4,1,0,202709651,JH48,lipopolysaccharide synthesis,Folic acid metabolism
+4,1,0,202709651,JH49,lipopolysaccharide synthesis,Protein synthesis
+4,1,0,202709651,JH5,Cell wall biosynthesis,DNA replication
+4,1,0,202709651,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,1,0,202709651,JH56,Protein synthesis,Protein synthesis
+4,1,0,202709651,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+4,1,0,202709651,JH61,Fatty acid synthesis,Cell wall biosynthesis
+4,1,0,202709651,JH62,lipopolysaccharide synthesis,DNA replication
+4,1,0,202709651,JH64,Nitrofurans,Membrane disruption
+4,1,0,202709651,JH65,Nitrofurans,Protein synthesis
+4,1,0,202709651,JH7,Cell wall biosynthesis,DNA replication
+4,1,0,202709651,JH8,Cell wall biosynthesis,Nitrofurans
+4,1,1,202719651,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+4,1,1,202719651,JH12,Protein synthesis,Protein synthesis
+4,1,1,202719651,JH13,Protein synthesis,Cell wall biosynthesis
+4,1,1,202719651,JH14,Protein synthesis,DNA replication
+4,1,1,202719651,JH16,Protein synthesis,Cell wall biosynthesis
+4,1,1,202719651,JH17,Protein synthesis,Nitrofurans
+4,1,1,202719651,JH18,Protein synthesis,DNA replication
+4,1,1,202719651,JH2,Cell wall biosynthesis,Fatty acid synthesis
+4,1,1,202719651,JH20,Folic acid metabolism,Protein synthesis
+4,1,1,202719651,JH21,Folic acid metabolism,RNA Synthesis
+4,1,1,202719651,JH23,Folic acid metabolism,DNA replication
+4,1,1,202719651,JH26,DNA replication,Nitrofurans
+4,1,1,202719651,JH28,DNA replication,Fatty acid synthesis
+4,1,1,202719651,JH29,DNA replication,Membrane disruption
+4,1,1,202719651,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,1,1,202719651,JH30,DNA replication,DNA replication
+4,1,1,202719651,JH31,Nitrofurans,Protein synthesis
+4,1,1,202719651,JH32,DNA replication,Protein synthesis
+4,1,1,202719651,JH33,DNA replication,DNA replication
+4,1,1,202719651,JH35,DNA replication,Cell wall biosynthesis
+4,1,1,202719651,JH36,DNA replication,Membrane disruption
+4,1,1,202719651,JH37,RNA Synthesis,DNA replication
+4,1,1,202719651,JH38,RNA Synthesis,Protein synthesis
+4,1,1,202719651,JH40,Fatty acid synthesis,Fatty acid synthesis
+4,1,1,202719651,JH41,Fatty acid synthesis,DNA replication
+4,1,1,202719651,JH43,Membrane disruption,lipopolysaccharide synthesis
+4,1,1,202719651,JH44,Membrane disruption,Folic acid metabolism
+4,1,1,202719651,JH45,Membrane disruption,Folic acid metabolism
+4,1,1,202719651,JH47,Membrane disruption,Membrane disruption
+4,1,1,202719651,JH48,lipopolysaccharide synthesis,Membrane disruption
+4,1,1,202719651,JH49,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,1,1,202719651,JH5,Cell wall biosynthesis,RNA Synthesis
+4,1,1,202719651,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,1,1,202719651,JH56,Protein synthesis,Folic acid metabolism
+4,1,1,202719651,JH6,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,1,1,202719651,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+4,1,1,202719651,JH62,lipopolysaccharide synthesis,Protein synthesis
+4,1,1,202719651,JH64,Nitrofurans,DNA replication
+4,1,1,202719651,JH65,Nitrofurans,Cell wall biosynthesis
+4,1,1,202719651,JH7,Cell wall biosynthesis,Nitrofurans
+4,1,1,202719651,JH8,Cell wall biosynthesis,Protein synthesis
+4,1,2,202729651,JH0,Cell wall biosynthesis,RNA Synthesis
+4,1,2,202729651,JH12,Protein synthesis,Protein synthesis
+4,1,2,202729651,JH13,Protein synthesis,Protein synthesis
+4,1,2,202729651,JH14,Protein synthesis,Fatty acid synthesis
+4,1,2,202729651,JH16,Protein synthesis,Cell wall biosynthesis
+4,1,2,202729651,JH17,Protein synthesis,Folic acid metabolism
+4,1,2,202729651,JH18,Protein synthesis,DNA replication
+4,1,2,202729651,JH2,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,1,2,202729651,JH20,Folic acid metabolism,Membrane disruption
+4,1,2,202729651,JH21,Folic acid metabolism,Folic acid metabolism
+4,1,2,202729651,JH23,Folic acid metabolism,Nitrofurans
+4,1,2,202729651,JH26,DNA replication,Folic acid metabolism
+4,1,2,202729651,JH28,DNA replication,Protein synthesis
+4,1,2,202729651,JH29,DNA replication,Protein synthesis
+4,1,2,202729651,JH3,Cell wall biosynthesis,Fatty acid synthesis
+4,1,2,202729651,JH30,DNA replication,DNA replication
+4,1,2,202729651,JH31,Nitrofurans,DNA replication
+4,1,2,202729651,JH32,DNA replication,Protein synthesis
+4,1,2,202729651,JH33,DNA replication,lipopolysaccharide synthesis
+4,1,2,202729651,JH35,DNA replication,DNA replication
+4,1,2,202729651,JH36,DNA replication,Protein synthesis
+4,1,2,202729651,JH37,RNA Synthesis,Cell wall biosynthesis
+4,1,2,202729651,JH38,RNA Synthesis,Fatty acid synthesis
+4,1,2,202729651,JH40,Fatty acid synthesis,DNA replication
+4,1,2,202729651,JH41,Fatty acid synthesis,Cell wall biosynthesis
+4,1,2,202729651,JH43,Membrane disruption,Membrane disruption
+4,1,2,202729651,JH44,Membrane disruption,Cell wall biosynthesis
+4,1,2,202729651,JH45,Membrane disruption,Membrane disruption
+4,1,2,202729651,JH47,Membrane disruption,DNA replication
+4,1,2,202729651,JH48,lipopolysaccharide synthesis,RNA Synthesis
+4,1,2,202729651,JH49,lipopolysaccharide synthesis,Protein synthesis
+4,1,2,202729651,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+4,1,2,202729651,JH50,lipopolysaccharide synthesis,lipopolysaccharide synthesis
+4,1,2,202729651,JH56,Protein synthesis,Cell wall biosynthesis
+4,1,2,202729651,JH6,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,1,2,202729651,JH61,Fatty acid synthesis,Nitrofurans
+4,1,2,202729651,JH62,lipopolysaccharide synthesis,Nitrofurans
+4,1,2,202729651,JH64,Nitrofurans,Membrane disruption
+4,1,2,202729651,JH65,Nitrofurans,DNA replication
+4,1,2,202729651,JH7,Cell wall biosynthesis,DNA replication
+4,1,2,202729651,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,0,202709652,JH10,Cell wall biosynthesis,DNA replication
+4,2,0,202709652,JH12,Protein synthesis,lipopolysaccharide synthesis
+4,2,0,202709652,JH13,Protein synthesis,Folic acid metabolism
+4,2,0,202709652,JH15,Protein synthesis,Folic acid metabolism
+4,2,0,202709652,JH16,Protein synthesis,Fatty acid synthesis
+4,2,0,202709652,JH17,Protein synthesis,Protein synthesis
+4,2,0,202709652,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,0,202709652,JH20,Folic acid metabolism,DNA replication
+4,2,0,202709652,JH21,Folic acid metabolism,Protein synthesis
+4,2,0,202709652,JH23,Folic acid metabolism,Cell wall biosynthesis
+4,2,0,202709652,JH24,Folic acid metabolism,DNA replication
+4,2,0,202709652,JH26,DNA replication,Protein synthesis
+4,2,0,202709652,JH27,DNA replication,Fatty acid synthesis
+4,2,0,202709652,JH28,DNA replication,DNA replication
+4,2,0,202709652,JH3,Cell wall biosynthesis,Protein synthesis
+4,2,0,202709652,JH30,DNA replication,DNA replication
+4,2,0,202709652,JH31,Nitrofurans,RNA Synthesis
+4,2,0,202709652,JH32,DNA replication,Folic acid metabolism
+4,2,0,202709652,JH33,DNA replication,Protein synthesis
+4,2,0,202709652,JH35,DNA replication,Folic acid metabolism
+4,2,0,202709652,JH38,RNA Synthesis,Nitrofurans
+4,2,0,202709652,JH39,RNA Synthesis,Cell wall biosynthesis
+4,2,0,202709652,JH40,Fatty acid synthesis,Membrane disruption
+4,2,0,202709652,JH41,Fatty acid synthesis,Cell wall biosynthesis
+4,2,0,202709652,JH42,Fatty acid synthesis,Nitrofurans
+4,2,0,202709652,JH44,Membrane disruption,RNA Synthesis
+4,2,0,202709652,JH45,Membrane disruption,Cell wall biosynthesis
+4,2,0,202709652,JH46,Membrane disruption,Nitrofurans
+4,2,0,202709652,JH47,Membrane disruption,Cell wall biosynthesis
+4,2,0,202709652,JH48,lipopolysaccharide synthesis,Fatty acid synthesis
+4,2,0,202709652,JH49,lipopolysaccharide synthesis,DNA replication
+4,2,0,202709652,JH5,Cell wall biosynthesis,Fatty acid synthesis
+4,2,0,202709652,JH55,Protein synthesis,lipopolysaccharide synthesis
+4,2,0,202709652,JH56,Protein synthesis,Membrane disruption
+4,2,0,202709652,JH58,Nitrofurans,lipopolysaccharide synthesis
+4,2,0,202709652,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,0,202709652,JH61,Fatty acid synthesis,Membrane disruption
+4,2,0,202709652,JH62,lipopolysaccharide synthesis,Protein synthesis
+4,2,0,202709652,JH65,Nitrofurans,Membrane disruption
+4,2,0,202709652,JH8,Cell wall biosynthesis,Protein synthesis
+4,2,0,202709652,JH9,Cell wall biosynthesis,DNA replication
+4,2,1,202719652,JH10,Cell wall biosynthesis,DNA replication
+4,2,1,202719652,JH12,Protein synthesis,DNA replication
+4,2,1,202719652,JH13,Protein synthesis,Folic acid metabolism
+4,2,1,202719652,JH15,Protein synthesis,Fatty acid synthesis
+4,2,1,202719652,JH16,Protein synthesis,Fatty acid synthesis
+4,2,1,202719652,JH17,Protein synthesis,RNA Synthesis
+4,2,1,202719652,JH2,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,1,202719652,JH20,Folic acid metabolism,Folic acid metabolism
+4,2,1,202719652,JH21,Folic acid metabolism,Cell wall biosynthesis
+4,2,1,202719652,JH23,Folic acid metabolism,DNA replication
+4,2,1,202719652,JH24,Folic acid metabolism,Nitrofurans
+4,2,1,202719652,JH26,DNA replication,DNA replication
+4,2,1,202719652,JH27,DNA replication,lipopolysaccharide synthesis
+4,2,1,202719652,JH28,DNA replication,Protein synthesis
+4,2,1,202719652,JH3,Cell wall biosynthesis,Membrane disruption
+4,2,1,202719652,JH30,DNA replication,Folic acid metabolism
+4,2,1,202719652,JH31,Nitrofurans,Protein synthesis
+4,2,1,202719652,JH32,DNA replication,Cell wall biosynthesis
+4,2,1,202719652,JH33,DNA replication,Cell wall biosynthesis
+4,2,1,202719652,JH35,DNA replication,Membrane disruption
+4,2,1,202719652,JH38,RNA Synthesis,Fatty acid synthesis
+4,2,1,202719652,JH39,RNA Synthesis,DNA replication
+4,2,1,202719652,JH40,Fatty acid synthesis,Cell wall biosynthesis
+4,2,1,202719652,JH41,Fatty acid synthesis,Nitrofurans
+4,2,1,202719652,JH42,Fatty acid synthesis,Nitrofurans
+4,2,1,202719652,JH44,Membrane disruption,Membrane disruption
+4,2,1,202719652,JH45,Membrane disruption,lipopolysaccharide synthesis
+4,2,1,202719652,JH46,Membrane disruption,Cell wall biosynthesis
+4,2,1,202719652,JH47,Membrane disruption,Protein synthesis
+4,2,1,202719652,JH48,lipopolysaccharide synthesis,Protein synthesis
+4,2,1,202719652,JH49,lipopolysaccharide synthesis,RNA Synthesis
+4,2,1,202719652,JH5,Cell wall biosynthesis,DNA replication
+4,2,1,202719652,JH55,Protein synthesis,DNA replication
+4,2,1,202719652,JH56,Protein synthesis,lipopolysaccharide synthesis
+4,2,1,202719652,JH58,Nitrofurans,Protein synthesis
+4,2,1,202719652,JH6,Cell wall biosynthesis,Fatty acid synthesis
+4,2,1,202719652,JH61,Fatty acid synthesis,Folic acid metabolism
+4,2,1,202719652,JH62,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,2,1,202719652,JH65,Nitrofurans,Protein synthesis
+4,2,1,202719652,JH8,Cell wall biosynthesis,Protein synthesis
+4,2,1,202719652,JH9,Cell wall biosynthesis,Membrane disruption
+4,2,2,202729652,JH10,Cell wall biosynthesis,Protein synthesis
+4,2,2,202729652,JH12,Protein synthesis,DNA replication
+4,2,2,202729652,JH13,Protein synthesis,Protein synthesis
+4,2,2,202729652,JH15,Protein synthesis,RNA Synthesis
+4,2,2,202729652,JH16,Protein synthesis,DNA replication
+4,2,2,202729652,JH17,Protein synthesis,Nitrofurans
+4,2,2,202729652,JH2,Cell wall biosynthesis,Membrane disruption
+4,2,2,202729652,JH20,Folic acid metabolism,Cell wall biosynthesis
+4,2,2,202729652,JH21,Folic acid metabolism,RNA Synthesis
+4,2,2,202729652,JH23,Folic acid metabolism,DNA replication
+4,2,2,202729652,JH24,Folic acid metabolism,Fatty acid synthesis
+4,2,2,202729652,JH26,DNA replication,Membrane disruption
+4,2,2,202729652,JH27,DNA replication,Membrane disruption
+4,2,2,202729652,JH28,DNA replication,lipopolysaccharide synthesis
+4,2,2,202729652,JH3,Cell wall biosynthesis,Nitrofurans
+4,2,2,202729652,JH30,DNA replication,Membrane disruption
+4,2,2,202729652,JH31,Nitrofurans,DNA replication
+4,2,2,202729652,JH32,DNA replication,Cell wall biosynthesis
+4,2,2,202729652,JH33,DNA replication,Fatty acid synthesis
+4,2,2,202729652,JH35,DNA replication,Protein synthesis
+4,2,2,202729652,JH38,RNA Synthesis,Protein synthesis
+4,2,2,202729652,JH39,RNA Synthesis,DNA replication
+4,2,2,202729652,JH40,Fatty acid synthesis,Fatty acid synthesis
+4,2,2,202729652,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+4,2,2,202729652,JH42,Fatty acid synthesis,Protein synthesis
+4,2,2,202729652,JH44,Membrane disruption,Protein synthesis
+4,2,2,202729652,JH45,Membrane disruption,Protein synthesis
+4,2,2,202729652,JH46,Membrane disruption,Folic acid metabolism
+4,2,2,202729652,JH47,Membrane disruption,lipopolysaccharide synthesis
+4,2,2,202729652,JH48,lipopolysaccharide synthesis,Folic acid metabolism
+4,2,2,202729652,JH49,lipopolysaccharide synthesis,Folic acid metabolism
+4,2,2,202729652,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,2,202729652,JH55,Protein synthesis,Cell wall biosynthesis
+4,2,2,202729652,JH56,Protein synthesis,Nitrofurans
+4,2,2,202729652,JH58,Nitrofurans,DNA replication
+4,2,2,202729652,JH6,Cell wall biosynthesis,Fatty acid synthesis
+4,2,2,202729652,JH61,Fatty acid synthesis,Folic acid metabolism
+4,2,2,202729652,JH62,lipopolysaccharide synthesis,DNA replication
+4,2,2,202729652,JH65,Nitrofurans,Cell wall biosynthesis
+4,2,2,202729652,JH8,Cell wall biosynthesis,Cell wall biosynthesis
+4,2,2,202729652,JH9,Cell wall biosynthesis,Cell wall biosynthesis
+4,3,0,202709653,JH0,Cell wall biosynthesis,Folic acid metabolism
+4,3,0,202709653,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+4,3,0,202709653,JH12,Protein synthesis,Fatty acid synthesis
+4,3,0,202709653,JH14,Protein synthesis,DNA replication
+4,3,0,202709653,JH15,Protein synthesis,DNA replication
+4,3,0,202709653,JH16,Protein synthesis,Nitrofurans
+4,3,0,202709653,JH17,Protein synthesis,RNA Synthesis
+4,3,0,202709653,JH18,Protein synthesis,lipopolysaccharide synthesis
+4,3,0,202709653,JH2,Cell wall biosynthesis,Membrane disruption
+4,3,0,202709653,JH21,Folic acid metabolism,Protein synthesis
+4,3,0,202709653,JH23,Folic acid metabolism,Cell wall biosynthesis
+4,3,0,202709653,JH24,Folic acid metabolism,lipopolysaccharide synthesis
+4,3,0,202709653,JH26,DNA replication,Cell wall biosynthesis
+4,3,0,202709653,JH27,DNA replication,Protein synthesis
+4,3,0,202709653,JH29,DNA replication,Membrane disruption
+4,3,0,202709653,JH30,DNA replication,Cell wall biosynthesis
+4,3,0,202709653,JH31,Nitrofurans,RNA Synthesis
+4,3,0,202709653,JH33,DNA replication,Protein synthesis
+4,3,0,202709653,JH35,DNA replication,Protein synthesis
+4,3,0,202709653,JH36,DNA replication,Membrane disruption
+4,3,0,202709653,JH37,RNA Synthesis,DNA replication
+4,3,0,202709653,JH38,RNA Synthesis,Folic acid metabolism
+4,3,0,202709653,JH39,RNA Synthesis,Protein synthesis
+4,3,0,202709653,JH41,Fatty acid synthesis,Cell wall biosynthesis
+4,3,0,202709653,JH42,Fatty acid synthesis,Fatty acid synthesis
+4,3,0,202709653,JH43,Membrane disruption,Fatty acid synthesis
+4,3,0,202709653,JH45,Membrane disruption,RNA Synthesis
+4,3,0,202709653,JH46,Membrane disruption,lipopolysaccharide synthesis
+4,3,0,202709653,JH47,Membrane disruption,Nitrofurans
+4,3,0,202709653,JH48,lipopolysaccharide synthesis,DNA replication
+4,3,0,202709653,JH49,lipopolysaccharide synthesis,Protein synthesis
+4,3,0,202709653,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,3,0,202709653,JH55,Protein synthesis,DNA replication
+4,3,0,202709653,JH56,Protein synthesis,Cell wall biosynthesis
+4,3,0,202709653,JH58,Nitrofurans,Nitrofurans
+4,3,0,202709653,JH6,Cell wall biosynthesis,DNA replication
+4,3,0,202709653,JH61,Fatty acid synthesis,Protein synthesis
+4,3,0,202709653,JH64,Nitrofurans,Protein synthesis
+4,3,0,202709653,JH7,Cell wall biosynthesis,DNA replication
+4,3,0,202709653,JH8,Cell wall biosynthesis,Membrane disruption
+4,3,0,202709653,JH9,Cell wall biosynthesis,Folic acid metabolism
+4,3,1,202719653,JH0,Cell wall biosynthesis,Folic acid metabolism
+4,3,1,202719653,JH10,Cell wall biosynthesis,DNA replication
+4,3,1,202719653,JH12,Protein synthesis,Protein synthesis
+4,3,1,202719653,JH14,Protein synthesis,Cell wall biosynthesis
+4,3,1,202719653,JH15,Protein synthesis,Cell wall biosynthesis
+4,3,1,202719653,JH16,Protein synthesis,Fatty acid synthesis
+4,3,1,202719653,JH17,Protein synthesis,Protein synthesis
+4,3,1,202719653,JH18,Protein synthesis,DNA replication
+4,3,1,202719653,JH2,Cell wall biosynthesis,Membrane disruption
+4,3,1,202719653,JH21,Folic acid metabolism,Cell wall biosynthesis
+4,3,1,202719653,JH23,Folic acid metabolism,Fatty acid synthesis
+4,3,1,202719653,JH24,Folic acid metabolism,Protein synthesis
+4,3,1,202719653,JH26,DNA replication,Nitrofurans
+4,3,1,202719653,JH27,DNA replication,lipopolysaccharide synthesis
+4,3,1,202719653,JH29,DNA replication,DNA replication
+4,3,1,202719653,JH30,DNA replication,Protein synthesis
+4,3,1,202719653,JH31,Nitrofurans,Cell wall biosynthesis
+4,3,1,202719653,JH33,DNA replication,Cell wall biosynthesis
+4,3,1,202719653,JH35,DNA replication,Protein synthesis
+4,3,1,202719653,JH36,DNA replication,Protein synthesis
+4,3,1,202719653,JH37,RNA Synthesis,Nitrofurans
+4,3,1,202719653,JH38,RNA Synthesis,lipopolysaccharide synthesis
+4,3,1,202719653,JH39,RNA Synthesis,Fatty acid synthesis
+4,3,1,202719653,JH41,Fatty acid synthesis,lipopolysaccharide synthesis
+4,3,1,202719653,JH42,Fatty acid synthesis,Cell wall biosynthesis
+4,3,1,202719653,JH43,Membrane disruption,DNA replication
+4,3,1,202719653,JH45,Membrane disruption,Folic acid metabolism
+4,3,1,202719653,JH46,Membrane disruption,RNA Synthesis
+4,3,1,202719653,JH47,Membrane disruption,Protein synthesis
+4,3,1,202719653,JH48,lipopolysaccharide synthesis,Nitrofurans
+4,3,1,202719653,JH49,lipopolysaccharide synthesis,RNA Synthesis
+4,3,1,202719653,JH50,lipopolysaccharide synthesis,DNA replication
+4,3,1,202719653,JH55,Protein synthesis,RNA Synthesis
+4,3,1,202719653,JH56,Protein synthesis,DNA replication
+4,3,1,202719653,JH58,Nitrofurans,Cell wall biosynthesis
+4,3,1,202719653,JH6,Cell wall biosynthesis,Protein synthesis
+4,3,1,202719653,JH61,Fatty acid synthesis,Membrane disruption
+4,3,1,202719653,JH64,Nitrofurans,DNA replication
+4,3,1,202719653,JH7,Cell wall biosynthesis,Membrane disruption
+4,3,1,202719653,JH8,Cell wall biosynthesis,Membrane disruption
+4,3,1,202719653,JH9,Cell wall biosynthesis,Folic acid metabolism
+4,3,2,202729653,JH0,Cell wall biosynthesis,Folic acid metabolism
+4,3,2,202729653,JH10,Cell wall biosynthesis,Cell wall biosynthesis
+4,3,2,202729653,JH12,Protein synthesis,Membrane disruption
+4,3,2,202729653,JH14,Protein synthesis,Protein synthesis
+4,3,2,202729653,JH15,Protein synthesis,DNA replication
+4,3,2,202729653,JH16,Protein synthesis,Protein synthesis
+4,3,2,202729653,JH17,Protein synthesis,Folic acid metabolism
+4,3,2,202729653,JH18,Protein synthesis,lipopolysaccharide synthesis
+4,3,2,202729653,JH2,Cell wall biosynthesis,Nitrofurans
+4,3,2,202729653,JH21,Folic acid metabolism,Nitrofurans
+4,3,2,202729653,JH23,Folic acid metabolism,Protein synthesis
+4,3,2,202729653,JH24,Folic acid metabolism,Protein synthesis
+4,3,2,202729653,JH26,DNA replication,Cell wall biosynthesis
+4,3,2,202729653,JH27,DNA replication,RNA Synthesis
+4,3,2,202729653,JH29,DNA replication,Nitrofurans
+4,3,2,202729653,JH30,DNA replication,Membrane disruption
+4,3,2,202729653,JH31,Nitrofurans,Fatty acid synthesis
+4,3,2,202729653,JH33,DNA replication,Cell wall biosynthesis
+4,3,2,202729653,JH35,DNA replication,lipopolysaccharide synthesis
+4,3,2,202729653,JH36,DNA replication,DNA replication
+4,3,2,202729653,JH37,RNA Synthesis,Protein synthesis
+4,3,2,202729653,JH38,RNA Synthesis,RNA Synthesis
+4,3,2,202729653,JH39,RNA Synthesis,Cell wall biosynthesis
+4,3,2,202729653,JH41,Fatty acid synthesis,Protein synthesis
+4,3,2,202729653,JH42,Fatty acid synthesis,Fatty acid synthesis
+4,3,2,202729653,JH43,Membrane disruption,lipopolysaccharide synthesis
+4,3,2,202729653,JH45,Membrane disruption,Cell wall biosynthesis
+4,3,2,202729653,JH46,Membrane disruption,Membrane disruption
+4,3,2,202729653,JH47,Membrane disruption,Cell wall biosynthesis
+4,3,2,202729653,JH48,lipopolysaccharide synthesis,Protein synthesis
+4,3,2,202729653,JH49,lipopolysaccharide synthesis,Membrane disruption
+4,3,2,202729653,JH50,lipopolysaccharide synthesis,DNA replication
+4,3,2,202729653,JH55,Protein synthesis,DNA replication
+4,3,2,202729653,JH56,Protein synthesis,RNA Synthesis
+4,3,2,202729653,JH58,Nitrofurans,DNA replication
+4,3,2,202729653,JH6,Cell wall biosynthesis,Folic acid metabolism
+4,3,2,202729653,JH61,Fatty acid synthesis,DNA replication
+4,3,2,202729653,JH64,Nitrofurans,DNA replication
+4,3,2,202729653,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+4,3,2,202729653,JH8,Cell wall biosynthesis,Protein synthesis
+4,3,2,202729653,JH9,Cell wall biosynthesis,Fatty acid synthesis
+4,4,0,202709654,JH0,Cell wall biosynthesis,Cell wall biosynthesis
+4,4,0,202709654,JH10,Cell wall biosynthesis,Protein synthesis
+4,4,0,202709654,JH13,Protein synthesis,DNA replication
+4,4,0,202709654,JH14,Protein synthesis,Protein synthesis
+4,4,0,202709654,JH15,Protein synthesis,DNA replication
+4,4,0,202709654,JH17,Protein synthesis,DNA replication
+4,4,0,202709654,JH18,Protein synthesis,DNA replication
+4,4,0,202709654,JH2,Cell wall biosynthesis,Nitrofurans
+4,4,0,202709654,JH20,Folic acid metabolism,RNA Synthesis
+4,4,0,202709654,JH21,Folic acid metabolism,Nitrofurans
+4,4,0,202709654,JH24,Folic acid metabolism,DNA replication
+4,4,0,202709654,JH27,DNA replication,Cell wall biosynthesis
+4,4,0,202709654,JH28,DNA replication,Membrane disruption
+4,4,0,202709654,JH29,DNA replication,Membrane disruption
+4,4,0,202709654,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,4,0,202709654,JH30,DNA replication,Cell wall biosynthesis
+4,4,0,202709654,JH32,DNA replication,Cell wall biosynthesis
+4,4,0,202709654,JH35,DNA replication,Folic acid metabolism
+4,4,0,202709654,JH36,DNA replication,DNA replication
+4,4,0,202709654,JH37,RNA Synthesis,Protein synthesis
+4,4,0,202709654,JH38,RNA Synthesis,Membrane disruption
+4,4,0,202709654,JH39,RNA Synthesis,Cell wall biosynthesis
+4,4,0,202709654,JH40,Fatty acid synthesis,Cell wall biosynthesis
+4,4,0,202709654,JH42,Fatty acid synthesis,lipopolysaccharide synthesis
+4,4,0,202709654,JH43,Membrane disruption,Folic acid metabolism
+4,4,0,202709654,JH44,Membrane disruption,Membrane disruption
+4,4,0,202709654,JH46,Membrane disruption,Cell wall biosynthesis
+4,4,0,202709654,JH47,Membrane disruption,Protein synthesis
+4,4,0,202709654,JH49,lipopolysaccharide synthesis,Nitrofurans
+4,4,0,202709654,JH5,Cell wall biosynthesis,Fatty acid synthesis
+4,4,0,202709654,JH50,lipopolysaccharide synthesis,Cell wall biosynthesis
+4,4,0,202709654,JH55,Protein synthesis,Protein synthesis
+4,4,0,202709654,JH56,Protein synthesis,RNA Synthesis
+4,4,0,202709654,JH58,Nitrofurans,lipopolysaccharide synthesis
+4,4,0,202709654,JH6,Cell wall biosynthesis,Folic acid metabolism
+4,4,0,202709654,JH61,Fatty acid synthesis,Fatty acid synthesis
+4,4,0,202709654,JH62,lipopolysaccharide synthesis,Protein synthesis
+4,4,0,202709654,JH64,Nitrofurans,RNA Synthesis
+4,4,0,202709654,JH65,Nitrofurans,DNA replication
+4,4,0,202709654,JH7,Cell wall biosynthesis,Fatty acid synthesis
+4,4,0,202709654,JH9,Cell wall biosynthesis,Protein synthesis
+4,4,1,202719654,JH0,Cell wall biosynthesis,DNA replication
+4,4,1,202719654,JH10,Cell wall biosynthesis,Fatty acid synthesis
+4,4,1,202719654,JH13,Protein synthesis,Fatty acid synthesis
+4,4,1,202719654,JH14,Protein synthesis,Folic acid metabolism
+4,4,1,202719654,JH15,Protein synthesis,DNA replication
+4,4,1,202719654,JH17,Protein synthesis,Cell wall biosynthesis
+4,4,1,202719654,JH18,Protein synthesis,DNA replication
+4,4,1,202719654,JH2,Cell wall biosynthesis,Nitrofurans
+4,4,1,202719654,JH20,Folic acid metabolism,Folic acid metabolism
+4,4,1,202719654,JH21,Folic acid metabolism,Membrane disruption
+4,4,1,202719654,JH24,Folic acid metabolism,Cell wall biosynthesis
+4,4,1,202719654,JH27,DNA replication,Membrane disruption
+4,4,1,202719654,JH28,DNA replication,Protein synthesis
+4,4,1,202719654,JH29,DNA replication,Protein synthesis
+4,4,1,202719654,JH3,Cell wall biosynthesis,Cell wall biosynthesis
+4,4,1,202719654,JH30,DNA replication,Membrane disruption
+4,4,1,202719654,JH32,DNA replication,DNA replication
+4,4,1,202719654,JH35,DNA replication,RNA Synthesis
+4,4,1,202719654,JH36,DNA replication,Protein synthesis
+4,4,1,202719654,JH37,RNA Synthesis,Membrane disruption
+4,4,1,202719654,JH38,RNA Synthesis,Cell wall biosynthesis
+4,4,1,202719654,JH39,RNA Synthesis,Fatty acid synthesis
+4,4,1,202719654,JH40,Fatty acid synthesis,DNA replication
+4,4,1,202719654,JH42,Fatty acid synthesis,Protein synthesis
+4,4,1,202719654,JH43,Membrane disruption,RNA Synthesis
+4,4,1,202719654,JH44,Membrane disruption,RNA Synthesis
+4,4,1,202719654,JH46,Membrane disruption,Nitrofurans
+4,4,1,202719654,JH47,Membrane disruption,lipopolysaccharide synthesis
+4,4,1,202719654,JH49,lipopolysaccharide synthesis,Protein synthesis
+4,4,1,202719654,JH5,Cell wall biosynthesis,Cell wall biosynthesis
+4,4,1,202719654,JH50,lipopolysaccharide synthesis,Protein synthesis
+4,4,1,202719654,JH55,Protein synthesis,Folic acid metabolism
+4,4,1,202719654,JH56,Protein synthesis,Nitrofurans
+4,4,1,202719654,JH58,Nitrofurans,Cell wall biosynthesis
+4,4,1,202719654,JH6,Cell wall biosynthesis,DNA replication
+4,4,1,202719654,JH61,Fatty acid synthesis,lipopolysaccharide synthesis
+4,4,1,202719654,JH62,lipopolysaccharide synthesis,DNA replication
+4,4,1,202719654,JH64,Nitrofurans,Cell wall biosynthesis
+4,4,1,202719654,JH65,Nitrofurans,lipopolysaccharide synthesis
+4,4,1,202719654,JH7,Cell wall biosynthesis,Cell wall biosynthesis
+4,4,1,202719654,JH9,Cell wall biosynthesis,Protein synthesis
+4,4,2,202729654,JH0,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,4,2,202729654,JH10,Cell wall biosynthesis,Folic acid metabolism
+4,4,2,202729654,JH13,Protein synthesis,Cell wall biosynthesis
+4,4,2,202729654,JH14,Protein synthesis,Protein synthesis
+4,4,2,202729654,JH15,Protein synthesis,lipopolysaccharide synthesis
+4,4,2,202729654,JH17,Protein synthesis,RNA Synthesis
+4,4,2,202729654,JH18,Protein synthesis,Cell wall biosynthesis
+4,4,2,202729654,JH2,Cell wall biosynthesis,Protein synthesis
+4,4,2,202729654,JH20,Folic acid metabolism,RNA Synthesis
+4,4,2,202729654,JH21,Folic acid metabolism,Fatty acid synthesis
+4,4,2,202729654,JH24,Folic acid metabolism,Cell wall biosynthesis
+4,4,2,202729654,JH27,DNA replication,Fatty acid synthesis
+4,4,2,202729654,JH28,DNA replication,Folic acid metabolism
+4,4,2,202729654,JH29,DNA replication,Nitrofurans
+4,4,2,202729654,JH3,Cell wall biosynthesis,lipopolysaccharide synthesis
+4,4,2,202729654,JH30,DNA replication,Membrane disruption
+4,4,2,202729654,JH32,DNA replication,Membrane disruption
+4,4,2,202729654,JH35,DNA replication,DNA replication
+4,4,2,202729654,JH36,DNA replication,DNA replication
+4,4,2,202729654,JH37,RNA Synthesis,Membrane disruption
+4,4,2,202729654,JH38,RNA Synthesis,Protein synthesis
+4,4,2,202729654,JH39,RNA Synthesis,Cell wall biosynthesis
+4,4,2,202729654,JH40,Fatty acid synthesis,DNA replication
+4,4,2,202729654,JH42,Fatty acid synthesis,Folic acid metabolism
+4,4,2,202729654,JH43,Membrane disruption,Cell wall biosynthesis
+4,4,2,202729654,JH44,Membrane disruption,Protein synthesis
+4,4,2,202729654,JH46,Membrane disruption,DNA replication
+4,4,2,202729654,JH47,Membrane disruption,Protein synthesis
+4,4,2,202729654,JH49,lipopolysaccharide synthesis,Nitrofurans
+4,4,2,202729654,JH5,Cell wall biosynthesis,RNA Synthesis
+4,4,2,202729654,JH50,lipopolysaccharide synthesis,DNA replication
+4,4,2,202729654,JH55,Protein synthesis,Membrane disruption
+4,4,2,202729654,JH56,Protein synthesis,DNA replication
+4,4,2,202729654,JH58,Nitrofurans,Cell wall biosynthesis
+4,4,2,202729654,JH6,Cell wall biosynthesis,Cell wall biosynthesis
+4,4,2,202729654,JH61,Fatty acid synthesis,DNA replication
+4,4,2,202729654,JH62,lipopolysaccharide synthesis,Nitrofurans
+4,4,2,202729654,JH64,Nitrofurans,Cell wall biosynthesis
+4,4,2,202729654,JH65,Nitrofurans,Protein synthesis
+4,4,2,202729654,JH7,Cell wall biosynthesis,Protein synthesis
+4,4,2,202729654,JH9,Cell wall biosynthesis,Fatty acid synthesis

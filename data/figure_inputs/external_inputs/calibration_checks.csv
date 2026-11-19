@@ -1,0 +1,3 @@
+library,score_cutoff,calibration_compounds,correct_id_cases,reference_false_flags,external_outcomes_used,quantile_replayed
+full51,0.14463071254314847,51,40,3,False,True
+matched48,0.13980011750012628,48,39,3,False,True

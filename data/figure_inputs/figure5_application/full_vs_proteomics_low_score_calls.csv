@@ -1,0 +1,11 @@
+CompoundID,name,predictor,PredictedMoA,top_score,own_cutoff,accepted
+JH68,Cystobactamid CN-DM-861,Full multimodal,DNA replication,0.05956029242137442,0.34133748710155476,False
+JH68,Cystobactamid CN-DM-861,Proteomics-only,DNA replication,0.9189282497763633,0.28073482250173876,True
+JH53,Nitroxoline,Full multimodal,Fatty acid synthesis,0.3072335762530565,0.34133748710155476,False
+JH53,Nitroxoline,Proteomics-only,Fatty acid synthesis,0.15031348499469455,0.28073482250173876,False
+JH67,Myxovirescin,Full multimodal,Protein synthesis,0.14486700820358234,0.34133748710155476,False
+JH67,Myxovirescin,Proteomics-only,Protein synthesis,0.12622880951993293,0.28073482250173876,False
+JH51,Xanthocillin,Full multimodal,Cell wall biosynthesis,0.02760581638547587,0.34133748710155476,False
+JH51,Xanthocillin,Proteomics-only,Cell wall biosynthesis,0.022931475256918882,0.28073482250173876,False
+JH66,Darobactin D22,Full multimodal,Fatty acid synthesis,0.032614822818431956,0.34133748710155476,False
+JH66,Darobactin D22,Proteomics-only,Folic acid metabolism,0.31198722542729224,0.28073482250173876,True

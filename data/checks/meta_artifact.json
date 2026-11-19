@@ -1,0 +1,29 @@
+{
+  "feature_order": [
+    "PredScore",
+    "Margin",
+    "PredEntropy",
+    "ExpEntropy",
+    "MeanPairKL",
+    "VarMax",
+    "AugVar",
+    "VariationRatio",
+    "KConsistency",
+    "SeedStd",
+    "EpistemicMI",
+    "BioVar",
+    "RepMarginStd",
+    "RepMarginIQR",
+    "RepAgree"
+  ],
+  "meta_threshold": 0.4690518117171519,
+  "target_id_fpr": 0.1,
+  "random_state": 7,
+  "preprocess": {
+    "negate": [
+      "PredScore",
+      "Margin"
+    ],
+    "fillna_value": 0.0
+  }
+}

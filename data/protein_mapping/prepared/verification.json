@@ -1,0 +1,27 @@
+{
+  "verified": true,
+  "final_panel_genes": 873,
+  "added_genes": [
+    "bipA",
+    "cnoX",
+    "dolP",
+    "gloC",
+    "groEL",
+    "groES",
+    "hxpB",
+    "ppnN",
+    "ppnP",
+    "rfbA",
+    "tcyJ",
+    "tcyP",
+    "trhP",
+    "wecE",
+    "yjdM",
+    "zapG"
+  ],
+  "source_accession_conflicts": 0,
+  "existing_inhouse_coordinates_identical": true,
+  "existing_supported_yu_coordinates_preserved": true,
+  "all_fold_changes_independently_verified": true,
+  "identifier_mapping_uses_outcomes": false
+}

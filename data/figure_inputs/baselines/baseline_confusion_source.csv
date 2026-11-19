@@ -1,0 +1,406 @@
+arm,True_MoA,Predicted_MoA,mean_compounds_per_repeat
+proteomic_matching,Cell wall biosynthesis,Cell wall biosynthesis,5.4
+proteomic_matching,Cell wall biosynthesis,DNA replication,0.0
+proteomic_matching,Cell wall biosynthesis,Fatty acid synthesis,0.0
+proteomic_matching,Cell wall biosynthesis,Folic acid metabolism,0.4
+proteomic_matching,Cell wall biosynthesis,Membrane disruption,1.2
+proteomic_matching,Cell wall biosynthesis,Nitrofurans,0.0
+proteomic_matching,Cell wall biosynthesis,Protein synthesis,1.0
+proteomic_matching,Cell wall biosynthesis,RNA Synthesis,0.0
+proteomic_matching,Cell wall biosynthesis,lipopolysaccharide synthesis,1.0
+proteomic_matching,DNA replication,Cell wall biosynthesis,0.4
+proteomic_matching,DNA replication,DNA replication,7.0
+proteomic_matching,DNA replication,Fatty acid synthesis,0.6
+proteomic_matching,DNA replication,Folic acid metabolism,0.0
+proteomic_matching,DNA replication,Membrane disruption,0.0
+proteomic_matching,DNA replication,Nitrofurans,0.0
+proteomic_matching,DNA replication,Protein synthesis,1.0
+proteomic_matching,DNA replication,RNA Synthesis,0.0
+proteomic_matching,DNA replication,lipopolysaccharide synthesis,0.0
+proteomic_matching,Fatty acid synthesis,Cell wall biosynthesis,0.0
+proteomic_matching,Fatty acid synthesis,DNA replication,1.0
+proteomic_matching,Fatty acid synthesis,Fatty acid synthesis,1.0
+proteomic_matching,Fatty acid synthesis,Folic acid metabolism,0.0
+proteomic_matching,Fatty acid synthesis,Membrane disruption,0.0
+proteomic_matching,Fatty acid synthesis,Nitrofurans,0.0
+proteomic_matching,Fatty acid synthesis,Protein synthesis,0.0
+proteomic_matching,Fatty acid synthesis,RNA Synthesis,0.0
+proteomic_matching,Fatty acid synthesis,lipopolysaccharide synthesis,2.0
+proteomic_matching,Folic acid metabolism,Cell wall biosynthesis,0.0
+proteomic_matching,Folic acid metabolism,DNA replication,0.2
+proteomic_matching,Folic acid metabolism,Fatty acid synthesis,0.0
+proteomic_matching,Folic acid metabolism,Folic acid metabolism,3.0
+proteomic_matching,Folic acid metabolism,Membrane disruption,0.0
+proteomic_matching,Folic acid metabolism,Nitrofurans,0.0
+proteomic_matching,Folic acid metabolism,Protein synthesis,0.2
+proteomic_matching,Folic acid metabolism,RNA Synthesis,0.6
+proteomic_matching,Folic acid metabolism,lipopolysaccharide synthesis,0.0
+proteomic_matching,Membrane disruption,Cell wall biosynthesis,2.0
+proteomic_matching,Membrane disruption,DNA replication,0.0
+proteomic_matching,Membrane disruption,Fatty acid synthesis,0.0
+proteomic_matching,Membrane disruption,Folic acid metabolism,0.0
+proteomic_matching,Membrane disruption,Membrane disruption,3.0
+proteomic_matching,Membrane disruption,Nitrofurans,0.0
+proteomic_matching,Membrane disruption,Protein synthesis,0.0
+proteomic_matching,Membrane disruption,RNA Synthesis,0.0
+proteomic_matching,Membrane disruption,lipopolysaccharide synthesis,0.0
+proteomic_matching,Nitrofurans,Cell wall biosynthesis,0.0
+proteomic_matching,Nitrofurans,DNA replication,0.0
+proteomic_matching,Nitrofurans,Fatty acid synthesis,0.0
+proteomic_matching,Nitrofurans,Folic acid metabolism,0.0
+proteomic_matching,Nitrofurans,Membrane disruption,0.0
+proteomic_matching,Nitrofurans,Nitrofurans,4.0
+proteomic_matching,Nitrofurans,Protein synthesis,0.0
+proteomic_matching,Nitrofurans,RNA Synthesis,0.0
+proteomic_matching,Nitrofurans,lipopolysaccharide synthesis,0.0
+proteomic_matching,Protein synthesis,Cell wall biosynthesis,1.0
+proteomic_matching,Protein synthesis,DNA replication,0.4
+proteomic_matching,Protein synthesis,Fatty acid synthesis,0.0
+proteomic_matching,Protein synthesis,Folic acid metabolism,0.0
+proteomic_matching,Protein synthesis,Membrane disruption,0.0
+proteomic_matching,Protein synthesis,Nitrofurans,1.0
+proteomic_matching,Protein synthesis,Protein synthesis,5.6
+proteomic_matching,Protein synthesis,RNA Synthesis,0.0
+proteomic_matching,Protein synthesis,lipopolysaccharide synthesis,1.0
+proteomic_matching,RNA Synthesis,Cell wall biosynthesis,0.2
+proteomic_matching,RNA Synthesis,DNA replication,0.4
+proteomic_matching,RNA Synthesis,Fatty acid synthesis,0.0
+proteomic_matching,RNA Synthesis,Folic acid metabolism,0.4
+proteomic_matching,RNA Synthesis,Membrane disruption,0.0
+proteomic_matching,RNA Synthesis,Nitrofurans,0.0
+proteomic_matching,RNA Synthesis,Protein synthesis,1.0
+proteomic_matching,RNA Synthesis,RNA Synthesis,1.0
+proteomic_matching,RNA Synthesis,lipopolysaccharide synthesis,0.0
+proteomic_matching,lipopolysaccharide synthesis,Cell wall biosynthesis,0.0
+proteomic_matching,lipopolysaccharide synthesis,DNA replication,0.0
+proteomic_matching,lipopolysaccharide synthesis,Fatty acid synthesis,0.6
+proteomic_matching,lipopolysaccharide synthesis,Folic acid metabolism,0.4
+proteomic_matching,lipopolysaccharide synthesis,Membrane disruption,0.0
+proteomic_matching,lipopolysaccharide synthesis,Nitrofurans,0.0
+proteomic_matching,lipopolysaccharide synthesis,Protein synthesis,0.0
+proteomic_matching,lipopolysaccharide synthesis,RNA Synthesis,0.0
+proteomic_matching,lipopolysaccharide synthesis,lipopolysaccharide synthesis,3.0
+chemical_similarity,Cell wall biosynthesis,Cell wall biosynthesis,8.0
+chemical_similarity,Cell wall biosynthesis,DNA replication,0.0
+chemical_similarity,Cell wall biosynthesis,Fatty acid synthesis,1.0
+chemical_similarity,Cell wall biosynthesis,Folic acid metabolism,0.0
+chemical_similarity,Cell wall biosynthesis,Membrane disruption,0.0
+chemical_similarity,Cell wall biosynthesis,Nitrofurans,0.0
+chemical_similarity,Cell wall biosynthesis,Protein synthesis,0.0
+chemical_similarity,Cell wall biosynthesis,RNA Synthesis,0.0
+chemical_similarity,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0
+chemical_similarity,DNA replication,Cell wall biosynthesis,0.0
+chemical_similarity,DNA replication,DNA replication,8.8
+chemical_similarity,DNA replication,Fatty acid synthesis,0.2
+chemical_similarity,DNA replication,Folic acid metabolism,0.0
+chemical_similarity,DNA replication,Membrane disruption,0.0
+chemical_similarity,DNA replication,Nitrofurans,0.0
+chemical_similarity,DNA replication,Protein synthesis,0.0
+chemical_similarity,DNA replication,RNA Synthesis,0.0
+chemical_similarity,DNA replication,lipopolysaccharide synthesis,0.0
+chemical_similarity,Fatty acid synthesis,Cell wall biosynthesis,0.0
+chemical_similarity,Fatty acid synthesis,DNA replication,0.0
+chemical_similarity,Fatty acid synthesis,Fatty acid synthesis,2.0
+chemical_similarity,Fatty acid synthesis,Folic acid metabolism,0.0
+chemical_similarity,Fatty acid synthesis,Membrane disruption,0.8
+chemical_similarity,Fatty acid synthesis,Nitrofurans,1.0
+chemical_similarity,Fatty acid synthesis,Protein synthesis,0.0
+chemical_similarity,Fatty acid synthesis,RNA Synthesis,0.2
+chemical_similarity,Fatty acid synthesis,lipopolysaccharide synthesis,0.0
+chemical_similarity,Folic acid metabolism,Cell wall biosynthesis,0.0
+chemical_similarity,Folic acid metabolism,DNA replication,0.0
+chemical_similarity,Folic acid metabolism,Fatty acid synthesis,0.0
+chemical_similarity,Folic acid metabolism,Folic acid metabolism,4.0
+chemical_similarity,Folic acid metabolism,Membrane disruption,0.0
+chemical_similarity,Folic acid metabolism,Nitrofurans,0.0
+chemical_similarity,Folic acid metabolism,Protein synthesis,0.0
+chemical_similarity,Folic acid metabolism,RNA Synthesis,0.0
+chemical_similarity,Folic acid metabolism,lipopolysaccharide synthesis,0.0
+chemical_similarity,Membrane disruption,Cell wall biosynthesis,0.0
+chemical_similarity,Membrane disruption,DNA replication,0.2
+chemical_similarity,Membrane disruption,Fatty acid synthesis,0.0
+chemical_similarity,Membrane disruption,Folic acid metabolism,0.0
+chemical_similarity,Membrane disruption,Membrane disruption,3.0
+chemical_similarity,Membrane disruption,Nitrofurans,0.0
+chemical_similarity,Membrane disruption,Protein synthesis,0.8
+chemical_similarity,Membrane disruption,RNA Synthesis,0.0
+chemical_similarity,Membrane disruption,lipopolysaccharide synthesis,1.0
+chemical_similarity,Nitrofurans,Cell wall biosynthesis,0.0
+chemical_similarity,Nitrofurans,DNA replication,0.0
+chemical_similarity,Nitrofurans,Fatty acid synthesis,0.0
+chemical_similarity,Nitrofurans,Folic acid metabolism,0.0
+chemical_similarity,Nitrofurans,Membrane disruption,0.0
+chemical_similarity,Nitrofurans,Nitrofurans,4.0
+chemical_similarity,Nitrofurans,Protein synthesis,0.0
+chemical_similarity,Nitrofurans,RNA Synthesis,0.0
+chemical_similarity,Nitrofurans,lipopolysaccharide synthesis,0.0
+chemical_similarity,Protein synthesis,Cell wall biosynthesis,0.0
+chemical_similarity,Protein synthesis,DNA replication,0.0
+chemical_similarity,Protein synthesis,Fatty acid synthesis,0.0
+chemical_similarity,Protein synthesis,Folic acid metabolism,0.0
+chemical_similarity,Protein synthesis,Membrane disruption,0.0
+chemical_similarity,Protein synthesis,Nitrofurans,1.0
+chemical_similarity,Protein synthesis,Protein synthesis,8.0
+chemical_similarity,Protein synthesis,RNA Synthesis,0.0
+chemical_similarity,Protein synthesis,lipopolysaccharide synthesis,0.0
+chemical_similarity,RNA Synthesis,Cell wall biosynthesis,0.0
+chemical_similarity,RNA Synthesis,DNA replication,0.0
+chemical_similarity,RNA Synthesis,Fatty acid synthesis,0.0
+chemical_similarity,RNA Synthesis,Folic acid metabolism,0.0
+chemical_similarity,RNA Synthesis,Membrane disruption,0.0
+chemical_similarity,RNA Synthesis,Nitrofurans,0.0
+chemical_similarity,RNA Synthesis,Protein synthesis,0.0
+chemical_similarity,RNA Synthesis,RNA Synthesis,3.0
+chemical_similarity,RNA Synthesis,lipopolysaccharide synthesis,0.0
+chemical_similarity,lipopolysaccharide synthesis,Cell wall biosynthesis,0.0
+chemical_similarity,lipopolysaccharide synthesis,DNA replication,1.0
+chemical_similarity,lipopolysaccharide synthesis,Fatty acid synthesis,0.0
+chemical_similarity,lipopolysaccharide synthesis,Folic acid metabolism,0.0
+chemical_similarity,lipopolysaccharide synthesis,Membrane disruption,0.0
+chemical_similarity,lipopolysaccharide synthesis,Nitrofurans,0.0
+chemical_similarity,lipopolysaccharide synthesis,Protein synthesis,0.0
+chemical_similarity,lipopolysaccharide synthesis,RNA Synthesis,0.0
+chemical_similarity,lipopolysaccharide synthesis,lipopolysaccharide synthesis,3.0
+proteomics_rf,Cell wall biosynthesis,Cell wall biosynthesis,6.0
+proteomics_rf,Cell wall biosynthesis,DNA replication,0.0
+proteomics_rf,Cell wall biosynthesis,Fatty acid synthesis,0.0
+proteomics_rf,Cell wall biosynthesis,Folic acid metabolism,0.2
+proteomics_rf,Cell wall biosynthesis,Membrane disruption,0.8
+proteomics_rf,Cell wall biosynthesis,Nitrofurans,0.0
+proteomics_rf,Cell wall biosynthesis,Protein synthesis,1.2
+proteomics_rf,Cell wall biosynthesis,RNA Synthesis,0.0
+proteomics_rf,Cell wall biosynthesis,lipopolysaccharide synthesis,0.8
+proteomics_rf,DNA replication,Cell wall biosynthesis,0.0
+proteomics_rf,DNA replication,DNA replication,9.0
+proteomics_rf,DNA replication,Fatty acid synthesis,0.0
+proteomics_rf,DNA replication,Folic acid metabolism,0.0
+proteomics_rf,DNA replication,Membrane disruption,0.0
+proteomics_rf,DNA replication,Nitrofurans,0.0
+proteomics_rf,DNA replication,Protein synthesis,0.0
+proteomics_rf,DNA replication,RNA Synthesis,0.0
+proteomics_rf,DNA replication,lipopolysaccharide synthesis,0.0
+proteomics_rf,Fatty acid synthesis,Cell wall biosynthesis,0.0
+proteomics_rf,Fatty acid synthesis,DNA replication,0.0
+proteomics_rf,Fatty acid synthesis,Fatty acid synthesis,2.2
+proteomics_rf,Fatty acid synthesis,Folic acid metabolism,0.0
+proteomics_rf,Fatty acid synthesis,Membrane disruption,0.0
+proteomics_rf,Fatty acid synthesis,Nitrofurans,0.0
+proteomics_rf,Fatty acid synthesis,Protein synthesis,0.0
+proteomics_rf,Fatty acid synthesis,RNA Synthesis,0.0
+proteomics_rf,Fatty acid synthesis,lipopolysaccharide synthesis,1.8
+proteomics_rf,Folic acid metabolism,Cell wall biosynthesis,0.0
+proteomics_rf,Folic acid metabolism,DNA replication,0.0
+proteomics_rf,Folic acid metabolism,Fatty acid synthesis,0.0
+proteomics_rf,Folic acid metabolism,Folic acid metabolism,3.0
+proteomics_rf,Folic acid metabolism,Membrane disruption,0.0
+proteomics_rf,Folic acid metabolism,Nitrofurans,0.0
+proteomics_rf,Folic acid metabolism,Protein synthesis,1.0
+proteomics_rf,Folic acid metabolism,RNA Synthesis,0.0
+proteomics_rf,Folic acid metabolism,lipopolysaccharide synthesis,0.0
+proteomics_rf,Membrane disruption,Cell wall biosynthesis,2.0
+proteomics_rf,Membrane disruption,DNA replication,0.0
+proteomics_rf,Membrane disruption,Fatty acid synthesis,0.0
+proteomics_rf,Membrane disruption,Folic acid metabolism,0.0
+proteomics_rf,Membrane disruption,Membrane disruption,3.0
+proteomics_rf,Membrane disruption,Nitrofurans,0.0
+proteomics_rf,Membrane disruption,Protein synthesis,0.0
+proteomics_rf,Membrane disruption,RNA Synthesis,0.0
+proteomics_rf,Membrane disruption,lipopolysaccharide synthesis,0.0
+proteomics_rf,Nitrofurans,Cell wall biosynthesis,0.0
+proteomics_rf,Nitrofurans,DNA replication,0.0
+proteomics_rf,Nitrofurans,Fatty acid synthesis,0.0
+proteomics_rf,Nitrofurans,Folic acid metabolism,0.0
+proteomics_rf,Nitrofurans,Membrane disruption,0.0
+proteomics_rf,Nitrofurans,Nitrofurans,4.0
+proteomics_rf,Nitrofurans,Protein synthesis,0.0
+proteomics_rf,Nitrofurans,RNA Synthesis,0.0
+proteomics_rf,Nitrofurans,lipopolysaccharide synthesis,0.0
+proteomics_rf,Protein synthesis,Cell wall biosynthesis,1.4
+proteomics_rf,Protein synthesis,DNA replication,0.4
+proteomics_rf,Protein synthesis,Fatty acid synthesis,0.0
+proteomics_rf,Protein synthesis,Folic acid metabolism,0.0
+proteomics_rf,Protein synthesis,Membrane disruption,0.0
+proteomics_rf,Protein synthesis,Nitrofurans,0.0
+proteomics_rf,Protein synthesis,Protein synthesis,7.2
+proteomics_rf,Protein synthesis,RNA Synthesis,0.0
+proteomics_rf,Protein synthesis,lipopolysaccharide synthesis,0.0
+proteomics_rf,RNA Synthesis,Cell wall biosynthesis,0.0
+proteomics_rf,RNA Synthesis,DNA replication,0.0
+proteomics_rf,RNA Synthesis,Fatty acid synthesis,0.0
+proteomics_rf,RNA Synthesis,Folic acid metabolism,0.0
+proteomics_rf,RNA Synthesis,Membrane disruption,0.0
+proteomics_rf,RNA Synthesis,Nitrofurans,0.0
+proteomics_rf,RNA Synthesis,Protein synthesis,1.8
+proteomics_rf,RNA Synthesis,RNA Synthesis,1.2
+proteomics_rf,RNA Synthesis,lipopolysaccharide synthesis,0.0
+proteomics_rf,lipopolysaccharide synthesis,Cell wall biosynthesis,0.0
+proteomics_rf,lipopolysaccharide synthesis,DNA replication,0.0
+proteomics_rf,lipopolysaccharide synthesis,Fatty acid synthesis,0.6
+proteomics_rf,lipopolysaccharide synthesis,Folic acid metabolism,0.4
+proteomics_rf,lipopolysaccharide synthesis,Membrane disruption,0.0
+proteomics_rf,lipopolysaccharide synthesis,Nitrofurans,0.0
+proteomics_rf,lipopolysaccharide synthesis,Protein synthesis,0.0
+proteomics_rf,lipopolysaccharide synthesis,RNA Synthesis,0.0
+proteomics_rf,lipopolysaccharide synthesis,lipopolysaccharide synthesis,3.0
+proteomics_logistic,Cell wall biosynthesis,Cell wall biosynthesis,6.4
+proteomics_logistic,Cell wall biosynthesis,DNA replication,0.0
+proteomics_logistic,Cell wall biosynthesis,Fatty acid synthesis,0.0
+proteomics_logistic,Cell wall biosynthesis,Folic acid metabolism,0.4
+proteomics_logistic,Cell wall biosynthesis,Membrane disruption,0.2
+proteomics_logistic,Cell wall biosynthesis,Nitrofurans,0.0
+proteomics_logistic,Cell wall biosynthesis,Protein synthesis,1.0
+proteomics_logistic,Cell wall biosynthesis,RNA Synthesis,0.0
+proteomics_logistic,Cell wall biosynthesis,lipopolysaccharide synthesis,1.0
+proteomics_logistic,DNA replication,Cell wall biosynthesis,0.0
+proteomics_logistic,DNA replication,DNA replication,9.0
+proteomics_logistic,DNA replication,Fatty acid synthesis,0.0
+proteomics_logistic,DNA replication,Folic acid metabolism,0.0
+proteomics_logistic,DNA replication,Membrane disruption,0.0
+proteomics_logistic,DNA replication,Nitrofurans,0.0
+proteomics_logistic,DNA replication,Protein synthesis,0.0
+proteomics_logistic,DNA replication,RNA Synthesis,0.0
+proteomics_logistic,DNA replication,lipopolysaccharide synthesis,0.0
+proteomics_logistic,Fatty acid synthesis,Cell wall biosynthesis,0.0
+proteomics_logistic,Fatty acid synthesis,DNA replication,0.0
+proteomics_logistic,Fatty acid synthesis,Fatty acid synthesis,2.0
+proteomics_logistic,Fatty acid synthesis,Folic acid metabolism,0.0
+proteomics_logistic,Fatty acid synthesis,Membrane disruption,0.0
+proteomics_logistic,Fatty acid synthesis,Nitrofurans,0.0
+proteomics_logistic,Fatty acid synthesis,Protein synthesis,0.0
+proteomics_logistic,Fatty acid synthesis,RNA Synthesis,0.0
+proteomics_logistic,Fatty acid synthesis,lipopolysaccharide synthesis,2.0
+proteomics_logistic,Folic acid metabolism,Cell wall biosynthesis,0.0
+proteomics_logistic,Folic acid metabolism,DNA replication,0.0
+proteomics_logistic,Folic acid metabolism,Fatty acid synthesis,0.0
+proteomics_logistic,Folic acid metabolism,Folic acid metabolism,3.0
+proteomics_logistic,Folic acid metabolism,Membrane disruption,0.0
+proteomics_logistic,Folic acid metabolism,Nitrofurans,0.0
+proteomics_logistic,Folic acid metabolism,Protein synthesis,1.0
+proteomics_logistic,Folic acid metabolism,RNA Synthesis,0.0
+proteomics_logistic,Folic acid metabolism,lipopolysaccharide synthesis,0.0
+proteomics_logistic,Membrane disruption,Cell wall biosynthesis,1.2
+proteomics_logistic,Membrane disruption,DNA replication,0.0
+proteomics_logistic,Membrane disruption,Fatty acid synthesis,0.0
+proteomics_logistic,Membrane disruption,Folic acid metabolism,0.0
+proteomics_logistic,Membrane disruption,Membrane disruption,3.6
+proteomics_logistic,Membrane disruption,Nitrofurans,0.0
+proteomics_logistic,Membrane disruption,Protein synthesis,0.0
+proteomics_logistic,Membrane disruption,RNA Synthesis,0.0
+proteomics_logistic,Membrane disruption,lipopolysaccharide synthesis,0.2
+proteomics_logistic,Nitrofurans,Cell wall biosynthesis,0.0
+proteomics_logistic,Nitrofurans,DNA replication,0.0
+proteomics_logistic,Nitrofurans,Fatty acid synthesis,0.0
+proteomics_logistic,Nitrofurans,Folic acid metabolism,0.0
+proteomics_logistic,Nitrofurans,Membrane disruption,0.0
+proteomics_logistic,Nitrofurans,Nitrofurans,4.0
+proteomics_logistic,Nitrofurans,Protein synthesis,0.0
+proteomics_logistic,Nitrofurans,RNA Synthesis,0.0
+proteomics_logistic,Nitrofurans,lipopolysaccharide synthesis,0.0
+proteomics_logistic,Protein synthesis,Cell wall biosynthesis,0.8
+proteomics_logistic,Protein synthesis,DNA replication,0.2
+proteomics_logistic,Protein synthesis,Fatty acid synthesis,0.0
+proteomics_logistic,Protein synthesis,Folic acid metabolism,0.0
+proteomics_logistic,Protein synthesis,Membrane disruption,0.0
+proteomics_logistic,Protein synthesis,Nitrofurans,0.0
+proteomics_logistic,Protein synthesis,Protein synthesis,7.0
+proteomics_logistic,Protein synthesis,RNA Synthesis,0.0
+proteomics_logistic,Protein synthesis,lipopolysaccharide synthesis,1.0
+proteomics_logistic,RNA Synthesis,Cell wall biosynthesis,0.0
+proteomics_logistic,RNA Synthesis,DNA replication,0.0
+proteomics_logistic,RNA Synthesis,Fatty acid synthesis,0.0
+proteomics_logistic,RNA Synthesis,Folic acid metabolism,0.0
+proteomics_logistic,RNA Synthesis,Membrane disruption,0.0
+proteomics_logistic,RNA Synthesis,Nitrofurans,0.0
+proteomics_logistic,RNA Synthesis,Protein synthesis,0.0
+proteomics_logistic,RNA Synthesis,RNA Synthesis,3.0
+proteomics_logistic,RNA Synthesis,lipopolysaccharide synthesis,0.0
+proteomics_logistic,lipopolysaccharide synthesis,Cell wall biosynthesis,0.0
+proteomics_logistic,lipopolysaccharide synthesis,DNA replication,0.0
+proteomics_logistic,lipopolysaccharide synthesis,Fatty acid synthesis,0.6
+proteomics_logistic,lipopolysaccharide synthesis,Folic acid metabolism,0.4
+proteomics_logistic,lipopolysaccharide synthesis,Membrane disruption,0.0
+proteomics_logistic,lipopolysaccharide synthesis,Nitrofurans,0.0
+proteomics_logistic,lipopolysaccharide synthesis,Protein synthesis,0.0
+proteomics_logistic,lipopolysaccharide synthesis,RNA Synthesis,0.0
+proteomics_logistic,lipopolysaccharide synthesis,lipopolysaccharide synthesis,3.0
+class_prior,Cell wall biosynthesis,Cell wall biosynthesis,5.0
+class_prior,Cell wall biosynthesis,DNA replication,2.0
+class_prior,Cell wall biosynthesis,Fatty acid synthesis,0.0
+class_prior,Cell wall biosynthesis,Folic acid metabolism,0.0
+class_prior,Cell wall biosynthesis,Membrane disruption,0.0
+class_prior,Cell wall biosynthesis,Nitrofurans,0.0
+class_prior,Cell wall biosynthesis,Protein synthesis,2.0
+class_prior,Cell wall biosynthesis,RNA Synthesis,0.0
+class_prior,Cell wall biosynthesis,lipopolysaccharide synthesis,0.0
+class_prior,DNA replication,Cell wall biosynthesis,6.0
+class_prior,DNA replication,DNA replication,1.0
+class_prior,DNA replication,Fatty acid synthesis,0.0
+class_prior,DNA replication,Folic acid metabolism,0.0
+class_prior,DNA replication,Membrane disruption,0.0
+class_prior,DNA replication,Nitrofurans,0.0
+class_prior,DNA replication,Protein synthesis,2.0
+class_prior,DNA replication,RNA Synthesis,0.0
+class_prior,DNA replication,lipopolysaccharide synthesis,0.0
+class_prior,Fatty acid synthesis,Cell wall biosynthesis,2.0
+class_prior,Fatty acid synthesis,DNA replication,1.0
+class_prior,Fatty acid synthesis,Fatty acid synthesis,0.0
+class_prior,Fatty acid synthesis,Folic acid metabolism,0.0
+class_prior,Fatty acid synthesis,Membrane disruption,0.0
+class_prior,Fatty acid synthesis,Nitrofurans,0.0
+class_prior,Fatty acid synthesis,Protein synthesis,1.0
+class_prior,Fatty acid synthesis,RNA Synthesis,0.0
+class_prior,Fatty acid synthesis,lipopolysaccharide synthesis,0.0
+class_prior,Folic acid metabolism,Cell wall biosynthesis,2.0
+class_prior,Folic acid metabolism,DNA replication,1.0
+class_prior,Folic acid metabolism,Fatty acid synthesis,0.0
+class_prior,Folic acid metabolism,Folic acid metabolism,0.0
+class_prior,Folic acid metabolism,Membrane disruption,0.0
+class_prior,Folic acid metabolism,Nitrofurans,0.0
+class_prior,Folic acid metabolism,Protein synthesis,1.0
+class_prior,Folic acid metabolism,RNA Synthesis,0.0
+class_prior,Folic acid metabolism,lipopolysaccharide synthesis,0.0
+class_prior,Membrane disruption,Cell wall biosynthesis,3.0
+class_prior,Membrane disruption,DNA replication,1.0
+class_prior,Membrane disruption,Fatty acid synthesis,0.0
+class_prior,Membrane disruption,Folic acid metabolism,0.0
+class_prior,Membrane disruption,Membrane disruption,0.0
+class_prior,Membrane disruption,Nitrofurans,0.0
+class_prior,Membrane disruption,Protein synthesis,1.0
+class_prior,Membrane disruption,RNA Synthesis,0.0
+class_prior,Membrane disruption,lipopolysaccharide synthesis,0.0
+class_prior,Nitrofurans,Cell wall biosynthesis,2.0
+class_prior,Nitrofurans,DNA replication,1.0
+class_prior,Nitrofurans,Fatty acid synthesis,0.0
+class_prior,Nitrofurans,Folic acid metabolism,0.0
+class_prior,Nitrofurans,Membrane disruption,0.0
+class_prior,Nitrofurans,Nitrofurans,0.0
+class_prior,Nitrofurans,Protein synthesis,1.0
+class_prior,Nitrofurans,RNA Synthesis,0.0
+class_prior,Nitrofurans,lipopolysaccharide synthesis,0.0
+class_prior,Protein synthesis,Cell wall biosynthesis,6.0
+class_prior,Protein synthesis,DNA replication,2.0
+class_prior,Protein synthesis,Fatty acid synthesis,0.0
+class_prior,Protein synthesis,Folic acid metabolism,0.0
+class_prior,Protein synthesis,Membrane disruption,0.0
+class_prior,Protein synthesis,Nitrofurans,0.0
+class_prior,Protein synthesis,Protein synthesis,1.0
+class_prior,Protein synthesis,RNA Synthesis,0.0
+class_prior,Protein synthesis,lipopolysaccharide synthesis,0.0
+class_prior,RNA Synthesis,Cell wall biosynthesis,2.0
+class_prior,RNA Synthesis,DNA replication,1.0
+class_prior,RNA Synthesis,Fatty acid synthesis,0.0
+class_prior,RNA Synthesis,Folic acid metabolism,0.0
+class_prior,RNA Synthesis,Membrane disruption,0.0
+class_prior,RNA Synthesis,Nitrofurans,0.0
+class_prior,RNA Synthesis,Protein synthesis,0.0
+class_prior,RNA Synthesis,RNA Synthesis,0.0
+class_prior,RNA Synthesis,lipopolysaccharide synthesis,0.0
+class_prior,lipopolysaccharide synthesis,Cell wall biosynthesis,3.0
+class_prior,lipopolysaccharide synthesis,DNA replication,0.0
+class_prior,lipopolysaccharide synthesis,Fatty acid synthesis,0.0
+class_prior,lipopolysaccharide synthesis,Folic acid metabolism,0.0
+class_prior,lipopolysaccharide synthesis,Membrane disruption,0.0
+class_prior,lipopolysaccharide synthesis,Nitrofurans,0.0
+class_prior,lipopolysaccharide synthesis,Protein synthesis,1.0
+class_prior,lipopolysaccharide synthesis,RNA Synthesis,0.0
+class_prior,lipopolysaccharide synthesis,lipopolysaccharide synthesis,0.0

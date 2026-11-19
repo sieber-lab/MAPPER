@@ -1,0 +1,732 @@
+{
+  "topics": {
+    "dataset": {
+      "figures": [
+        "main01",
+        "main02",
+        "supplementary01"
+      ],
+      "methods": [
+        "preprocessing/proteomics.py",
+        "analysis/qc.py"
+      ],
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ]
+    },
+    "text_matching": {
+      "figures": [
+        "main03",
+        "supplementary02",
+        "supplementary03"
+      ],
+      "methods": [
+        "models/mlp.py",
+        "evaluation.py",
+        "analysis/text_controls.py",
+        "analysis/control_vectors.py"
+      ],
+      "inputs": [
+        "data/figure_inputs/encoders",
+        "data/figure_inputs/figure3",
+        "data/analysis/text_controls"
+      ],
+      "commands": [
+        "scripts/encoder_screen.py",
+        "scripts/run_text_control.py",
+        "scripts/recompute_results.py"
+      ]
+    },
+    "modalities_and_structure": {
+      "figures": [
+        "main04",
+        "extended01",
+        "extended02",
+        "extended05",
+        "supplementary04"
+      ],
+      "methods": [
+        "models/factory.py",
+        "evaluation.py",
+        "screens.py"
+      ],
+      "inputs": [
+        "data/figure_inputs/model_screen",
+        "data/figure_inputs/modalities",
+        "data/figure_inputs/structural_cases",
+        "data/figure_inputs/structural_groups"
+      ],
+      "commands": [
+        "scripts/feature_screen.py",
+        "scripts/leave_one_out.py",
+        "scripts/recompute_modalities.py",
+        "scripts/recompute_similarities.py"
+      ]
+    },
+    "baselines_and_selection": {
+      "figures": [
+        "supplementary05",
+        "supplementary06"
+      ],
+      "methods": [
+        "analysis/baselines.py",
+        "analysis/configuration_selection.py",
+        "analysis/paired_comparisons.py"
+      ],
+      "inputs": [
+        "data/figure_inputs/baselines",
+        "data/analysis/configuration_selection"
+      ],
+      "commands": [
+        "scripts/recompute_results.py",
+        "scripts/recompute_selection.py"
+      ]
+    },
+    "pathway_enrichment": {
+      "figures": [
+        "extended03",
+        "extended04",
+        "supplementary11"
+      ],
+      "inputs": [
+        "data/figure_inputs/string",
+        "data/figure_inputs/volcano",
+        "data/figure_inputs/representatives"
+      ]
+    },
+    "operators_and_batches": {
+      "figures": [
+        "supplementary07",
+        "supplementary08"
+      ],
+      "methods": [
+        "figures/operator_bootstrap.py",
+        "analysis/qc.py"
+      ],
+      "inputs": [
+        "data/figure_inputs/operator_combined",
+        "data/figure_inputs/operator_bootstrap",
+        "data/figure_inputs/batches"
+      ],
+      "commands": [
+        "make operator-intervals"
+      ]
+    },
+    "preprocessing": {
+      "figures": [],
+      "methods": [
+        "preprocessing/missing_values.py",
+        "preprocessing/median_alignment.py",
+        "preprocessing/protein_groups.py",
+        "preprocessing/control_alignment.py",
+        "analysis/representations.py"
+      ],
+      "inputs": [
+        "data/analysis/preprocessing",
+        "data/analysis/significance_selection"
+      ],
+      "commands": [
+        "scripts/recompute_preprocessing.py",
+        "scripts/recompute_significance_selection.py"
+      ]
+    },
+    "uncertainty": {
+      "figures": [
+        "main05",
+        "extended06",
+        "extended07"
+      ],
+      "methods": [
+        "uncertainty.py",
+        "analysis/meta.py",
+        "analysis/nested_meta.py",
+        "analysis/uncertainty_features.py",
+        "analysis/uncertainty_baselines.py",
+        "analysis/class_omission.py"
+      ],
+      "inputs": [
+        "data/analysis/uncertainty",
+        "data/figure_inputs/difficulty",
+        "data/figure_inputs/uncertainty",
+        "data/figure_inputs/figure5_application"
+      ],
+      "commands": [
+        "scripts/refit_uncertainty.py",
+        "scripts/recompute_uncertainty.py",
+        "scripts/predict.py"
+      ]
+    },
+    "external_validation": {
+      "figures": [
+        "main06",
+        "supplementary09",
+        "supplementary10"
+      ],
+      "methods": [
+        "analysis/identifiers.py",
+        "analysis/representations.py",
+        "analysis/external_design.py",
+        "analysis/adaptation_design.py",
+        "analysis/control_distance.py",
+        "analysis/treatment_distance.py",
+        "external.py"
+      ],
+      "inputs": [
+        "data/protein_mapping",
+        "data/figure_inputs/external_final",
+        "data/figure_inputs/external_novel",
+        "data/figure_inputs/external_representation",
+        "data/figure_inputs/yu",
+        "artifacts/external",
+        "artifacts/external_ecfp",
+        "artifacts/external_novel",
+        "artifacts/adaptation"
+      ],
+      "commands": [
+        "scripts/prepare_external.py",
+        "scripts/predict_external.py",
+        "scripts/recompute_results.py"
+      ]
+    }
+  },
+  "figures": {
+    "extended01": {
+      "inputs": {
+        "overview/growth_profiles.csv": "034380645f79d7e1a6e1110541900286cb8c351f49e13303dcd83ac23639e6d9"
+      },
+      "notebook": "notebooks/extended01.ipynb",
+      "command": "python3 scripts/build_figures.py extended01",
+      "output": "figures/extended01/extended01.pdf"
+    },
+    "extended02": {
+      "inputs": {
+        "artwork/original_layout/extended02_dna.svg": "7f16b6977cc3e10edc7e3811eecd653766d1f0ee39116307eb58741108022b2c",
+        "artwork/original_layout/extended02_fatty.svg": "40e94c0fea575946ed4bd2d72a5f1834726c5f97bc4b2017ab10bbad0c50907c",
+        "metadata/dataset_compounds.csv": "fb5ea4321ba70f2c036eeba86103479c76522e5f4358867e96724c3604f1d6f9",
+        "modalities/extended_same_class_pairs_binary_loo_ablation_moa_grouped_stats.csv": "d2c90f19f6c455da2a86d1832d8aa52c4dbd334424358c194bdfd04afb897ff5",
+        "original_structure_layout.json": "399722c4a5669c6d968512c3557233e640024d4192e3c194ca712c4d01b6d04b",
+        "similarities/calculated_annotations.csv": "12bba0837c405a96ebf15bfd4c9637ceb383b64efa5597a9513a535a6ac043af"
+      },
+      "notebook": "notebooks/extended02.ipynb",
+      "command": "python3 scripts/build_figures.py extended02",
+      "output": "figures/extended02/extended02.pdf"
+    },
+    "extended03": {
+      "inputs": {
+        "artwork/string/enrichment_1.svg": "fc28146f034094443b11b08321d3b41b9949290f2355cc22b7313e9d11d2f0f1",
+        "artwork/string/enrichment_2.svg": "66f560362d4507f9f11b7e5f3625599afa2af24b5e0d3d4040bd8f3872e70dac",
+        "artwork/string/enrichment_3.svg": "7b394a47c7ccc823a7e67a140a0e97cb0109c2e1ef7b529aad2c800a3885520e",
+        "artwork/string/enrichment_4.svg": "cbf421f1963a2f6e3ebba7ec16fc717719da79e792ff42ce542b725aa6e75c7e",
+        "artwork/string/enrichment_5.svg": "45c2ec2e2ac82bc5d3936c0e603d236e4503b3530f718f8462c6afe3b9cecec6",
+        "string/string_analysis.pdf": "672aceaaf660c97e6c019909656743d528fa635d3b775102f68c490807290f14",
+        "volcano/jh13_d.txt": "8139a49c8833e2b073ff72ef3f939e0fa35a69c3807c009a71e1280d6cf23a67",
+        "volcano/jh24_dc.txt": "e3470e0ea49776e14e2d1abbaee1628906d068ee6d4c50bc3c8601221486e039",
+        "volcano/jh27_h.txt": "936edf106e897637b65c356f9cfdbd65659daaf76f2417d633cf5dc3083b5cc0",
+        "volcano/jh31_df.txt": "1e8f3fca8f255ffd5250ffa3dd20bc0fea80334d2785af1748af193884f4afbc",
+        "volcano/jh44_hh.txt": "243476b4f181104d58fc997d6192a472c2ee1c6a55329405b0de6b91a599b9c5"
+      },
+      "notebook": "notebooks/extended03.ipynb",
+      "command": "python3 scripts/build_figures.py extended03",
+      "output": "figures/extended03/extended03.pdf"
+    },
+    "extended04": {
+      "inputs": {
+        "representatives/all_compound_mean_scores.csv": "523d9e8a29dc0704477fdb95bd564c88b111dfe0e079b15d4459280c6b63b619",
+        "representatives/nine_compound_predictions.csv": "fd2024afc7a2ad892a33f9aaf56efb000b032bc2d5c1284c03b4c791d5a5967a",
+        "volcano/jh38_dc.txt": "ae510fb902aa0d50fc61998591868756f4473cbf45ceea36c815d1c4e430da13",
+        "volcano/jh42_da.txt": "a2982ea04d98088e9c5a409a5b118fe31c23954633afa93ca93b76b5283205fd",
+        "volcano/jh48_db.txt": "7f26499bdad76e2f4e50a1073cc07ad2bc7a3cc509e0c5ec2348d1c7ce0d4a10",
+        "volcano/jh6_dh.txt": "f8fcf70b179ff936097988ec0cf20e489f4adf4b0f3962ad037bd80f6c14bfab"
+      },
+      "notebook": "notebooks/extended04.ipynb",
+      "command": "python3 scripts/build_figures.py extended04",
+      "output": "figures/extended04/extended04.pdf"
+    },
+    "extended05": {
+      "inputs": {
+        "structural_cases/compound_mean_scores.csv": "bc49115ee96a439042f1fb8789a916eae338aefa572c56d67b087795ff6a3063",
+        "structural_cases/compound_top3_and_margins.csv": "f93613cde7c41bd39e1cda836fa267bb202ffeb854730b7010d59393b8fe142f",
+        "structural_cases/performance_by_cv.csv": "7e35b9f13c1795ecf039ef1a4cbdbe7c4c0c80a2c4713837b24c15a504e47218",
+        "structural_detail/fold_specific_similarity.csv": "ab47016154d62d996d3963bd9969ee58daf28fecffa4b27349894847ff996705"
+      },
+      "notebook": "notebooks/extended05.ipynb",
+      "command": "python3 scripts/build_figures.py extended05",
+      "output": "figures/extended05/extended05.pdf"
+    },
+    "extended06": {
+      "inputs": {
+        "difficulty/class_summary.csv": "76342ff570e48894ce8279f8bed3be5fdc2f96874ff5bb9658f09b1e6a6e7af1",
+        "difficulty/compound_calls.csv": "960efd083667b24db03fb3b3aeaa514f4e24dfd10d9c3811ccb7d9ab78fea564",
+        "difficulty/paired_role_calls.csv": "3c6ac6803792d33bae3635b9d2b22cb5e0048063735430b08cf0e266296214bc",
+        "metadata/dataset_compounds.csv": "fb5ea4321ba70f2c036eeba86103479c76522e5f4358867e96724c3604f1d6f9",
+        "uncertainty/six_method_calls.csv": "3168ed6201b6c24c037686b93ecdef5414da55815986518876951d9bec96f4e5"
+      },
+      "notebook": "notebooks/extended06.ipynb",
+      "command": "python3 scripts/build_figures.py extended06",
+      "output": "figures/extended06/extended06.pdf"
+    },
+    "extended07": {
+      "inputs": {
+        "uncertainty/six_method_calls.csv": "3168ed6201b6c24c037686b93ecdef5414da55815986518876951d9bec96f4e5",
+        "uncertainty_examples/figure5_si_member_scores.csv.gz": "5f9d39d76ae6fd0585ba464ca41b9315261e46b4be60bfbad4474d9b6b7861b4"
+      },
+      "notebook": "notebooks/extended07.ipynb",
+      "command": "python3 scripts/build_figures.py extended07",
+      "output": "figures/extended07/extended07.pdf"
+    },
+    "main01": {
+      "inputs": [],
+      "notebook": null,
+      "command": "python3 scripts/build_figures.py main01",
+      "output": "figures/main01/main01.pdf"
+    },
+    "main02": {
+      "inputs": {
+        "overview/ecfp_embedding.csv": "ace42b762152ed3cb32c7858079fb3fabf3cc1d5d17a7726f722ab3f0e2115a6",
+        "overview/growth_profiles.csv": "034380645f79d7e1a6e1110541900286cb8c351f49e13303dcd83ac23639e6d9",
+        "overview/mic_profiles.csv": "7d180b2db5c0382eb9e3e0af97b37d0c29a6cbf97c25d44c60e9355742f38a7e",
+        "overview/proteomics_embedding.csv": "a07abc7e9552220f2ab5c59e8502298c3d0d7a213f0cc6ee16c1f55457adbe45"
+      },
+      "notebook": "notebooks/main02.ipynb",
+      "command": "python3 scripts/build_figures.py main02",
+      "output": "figures/main02/main02.pdf"
+    },
+    "main03": {
+      "inputs": {
+        "artwork/figure3/figure3_ab.svg": "7af87ab1cace9f76a3c833e6a09a0a2ae928e00d4c0babc8a19af09ae1c77f5d",
+        "encoders/rm_anova_input.csv": "f819d4efe107e90846db7557f82cb90fd36372cfc6c7ed34939a5be8392bdc4c",
+        "encoders/tukey_pr_auc_pvals_matrix.csv": "b7928f03ec1079520bc7f6d21cfe0e540c683d9be3ffec2141f266d16ba3d7ff",
+        "figure3/metric_source.csv": "324c90687e7aeaaedd1edec9a261c21b0effdd0e15a9ab4a4af26b48b8a85bc8",
+        "figure3/pairwise_tests.csv": "d2b1faf7312364fe200d1879c735e5795a68a95619cf2a3cf6bca862741b7ad2"
+      },
+      "notebook": "notebooks/main03.ipynb",
+      "command": "python3 scripts/build_figures.py main03",
+      "output": "figures/main03/main03.pdf"
+    },
+    "main04": {
+      "inputs": {
+        "artwork/original_layout/main04.svg": "b31e9bc4c4ce2fe36ecdd152dfed2c5a5d3ef730f934dadd5f3f4c798e8b6051",
+        "metadata/dataset_compounds.csv": "fb5ea4321ba70f2c036eeba86103479c76522e5f4358867e96724c3604f1d6f9",
+        "modalities/JH13_binary_loo_ablation_moa_grouped_stats.csv": "fb208927cd5346688a90657b23a06481a29f1b7d525840e0802bffd9c2259697",
+        "modalities/JH14_binary_loo_ablation_moa_grouped_stats.csv": "6fbf480f6795983f22bbec979439de8ec5a2f38c908c1ba3a45893e41bed9f3c",
+        "model_screen/cross_model/fold_pr_auc.csv": "f39fddb98eb6d1fb7c7c14a73513e52b2235fa1aff0a906809d98cff3f5508ac",
+        "model_screen/cross_model/pairwise_pr_auc_pvals_BH.csv": "c712cb343e98cb62682b2de5dc10764b30d4a9f3b876434029023aa867864c45",
+        "model_screen/tabm/pr_auc/tabm_pairwise_pr_auc_pvals_BH.csv": "d05575a9480d8a9cf70b0013b213ece1269e6bc16a295f21a8b37ca3b83e796a",
+        "model_screen/tabm/tabm_per_cycle_all_metrics.csv": "a704571bc9f608c0ae29bb6a54fba3e2b0b6b5b5ed5cae2cda7165359ab05aa0",
+        "model_screen/verified_tabm_shapley.csv": "db01d948492fcb43d4f962965e1b6298f9db000a907484017a90b47cd93cac83",
+        "original_structure_layout.json": "399722c4a5669c6d968512c3557233e640024d4192e3c194ca712c4d01b6d04b",
+        "similarities/calculated_annotations.csv": "12bba0837c405a96ebf15bfd4c9637ceb383b64efa5597a9513a535a6ac043af"
+      },
+      "notebook": "notebooks/main04.ipynb",
+      "command": "python3 scripts/build_figures.py main04",
+      "output": "figures/main04/main04.pdf"
+    },
+    "main05": {
+      "inputs": {
+        "artwork/figure5/cystobactamid.svg": "7251a8a136fa8be1105d01c7274986429221ed3be21860b74490620c2d69bd44",
+        "artwork/figure5/darobactin.svg": "bfc78e35efe3869939b1db823d4ae683686209eddb7d2c82150fc648bab16972",
+        "artwork/figure5/myxovirescin.svg": "fb0eba131c9da4621c3e07de9b29feda8c9228a43278601a5c4978418b097d84",
+        "artwork/figure5/nitroxoline.svg": "5298e4dc553fe643fb03edab0130c202a8ae2fb0ad217084f27689fe1bbc3699",
+        "artwork/figure5/xanthocillin.svg": "e92b8b8c6d9631b31a16641e1eb00d272eaa3cbc288d1e26851bbe0776213cea",
+        "figure5_application/full_vs_proteomics_all_class_scores.csv": "16795efe0262ff12ce3438063bb5b9b20609677a7214eb14ea6c2adf60a409eb",
+        "figure5_application/full_vs_proteomics_top3_manifest.json": "128a3676d1bc72136f5941cba3d8ae91fa1ead6159354ff9f23a73b1102befc7",
+        "uncertainty/curves.csv": "e2854c1526aedbb286a3fdd8392eb27ed7fd0f33de836b647770a48208a19823",
+        "uncertainty/metrics.csv": "ef2d168f55c0b6ae04e7fc0e8243cdbd1d50d0d5b1267ea0638c2fdf1b830c40",
+        "uncertainty/six_method_calls.csv": "3168ed6201b6c24c037686b93ecdef5414da55815986518876951d9bec96f4e5"
+      },
+      "notebook": "notebooks/main05.ipynb",
+      "command": "python3 scripts/build_figures.py main05",
+      "output": "figures/main05/main05.pdf"
+    },
+    "main06": {
+      "inputs": {
+        "external_comparison/case_comparison_with_similarity.csv": "321399a813a317b7e72466bbe497006538f41ac8c9a4c14a761ed7cac5c30ce3",
+        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_inputs/matched_profile_medians.csv": "46a2039959134594e9cb255c1318d104799c6ac14f1faee7d8a1350b20a86204",
+        "external_inputs/matched_value_quantiles.csv": "4d1c2ee4e59026f79d3d2058cc7cbe5373ea03ed7575a27827ff8346f79bd1fe",
+        "external_inputs/panel_coverage_profiles.csv": "78d7f938e4b073599eebfe57066e5782a23b204c38687aee49b91d8259a347c8",
+        "external_inputs/source_coverage.csv": "e8db857f3bcf2f979d388e21e3171f10a889f1c3246ff2cbe7e6434cc0645155",
+        "external_inputs/source_ranks.csv": "a6a17c215789b977fd982c004bcb2c9692a8f5aa04128b28e90340beb4f7ee6d",
+        "external_inputs/source_training.csv": "f824c0ddb2e1a21fa28e35001859648a5c40bd0193d4b7e13b38e4bc0916666e",
+        "external_novel/class_scores.csv": "f291e993ea75cff2b92f8ca309c0607e114a02e80fc16fbd4ca147d4e80c6470",
+        "external_representation/case_predictions.csv": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",
+        "external_representation/manifest.json": "999b51a1a8d5263a56da8abc04f686500c380d4f47e4f88adf2e867c718a1458",
+        "external_representation/metrics.csv": "b6d33580fece34ae4ce07f23cef3af5eea31630d0ed25de9261034250850b12a",
+        "external_representation/run_manifest.json": "729c89d4026074f787667ed78d54309496062eaff413aba29f32bbd9890c40ef",
+        "external_representation/verification.json": "a5b605c5454efb6479673ec763c1148b060385afbe78f6c26ba8fb5377e0e90e",
+        "yu/yu_paired_predictions.csv": "06dd76b6edd70bb7ec6615dd815af8858a3898672a89075b132d5ce15b01405f"
+      },
+      "notebook": "notebooks/main06.ipynb",
+      "command": "python3 scripts/build_figures.py main06",
+      "output": "figures/main06/main06.pdf"
+    },
+    "supplementary01": {
+      "inputs": {
+        "qc/development_profiles.csv": "07011af87abc22177f2a87a6e4c7d555f6b8e1ec0a41afa86851c296bcf4c641",
+        "qc/pca_scores.csv": "6a156c8394921d0b87fe096846e5b39fecd02965b062f9e2a7213c554007ea27",
+        "qc/pca_variance.csv": "0f287206043a046016ce63b9eadd5fb0ac4ae4c1fda59542fdde6c03fb1e985b",
+        "qc/replicate_summaries.csv": "581212e05e89f2dc71aa86db3b87a5bc0b714d290b69984217548cfa7cfeb646"
+      },
+      "notebook": "notebooks/supplementary01.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary01",
+      "output": "figures/supplementary01/supplementary01.pdf"
+    },
+    "supplementary02": {
+      "inputs": {
+        "encoders/rm_anova_input.csv": "f819d4efe107e90846db7557f82cb90fd36372cfc6c7ed34939a5be8392bdc4c",
+        "encoders/tukey_mcc_pvals_matrix.csv": "cb35cfc5e2601f614bc20362906244dfcfa0f6164d890d0ec79ac5847bb2d644",
+        "encoders/tukey_pr_auc_means.csv": "60a962bbe249bba9794b537f7a1bfb13a8cdb46d08e123d9a8294bd4332bf608",
+        "encoders/tukey_pr_auc_pvals_matrix.csv": "b7928f03ec1079520bc7f6d21cfe0e540c683d9be3ffec2141f266d16ba3d7ff",
+        "encoders/tukey_roc_auc_pvals_matrix.csv": "6b0f335e68a99ae23d97a3a5c79305b251960b069606857416794b942c18a0d9",
+        "figure3/metric_source.csv": "324c90687e7aeaaedd1edec9a261c21b0effdd0e15a9ab4a4af26b48b8a85bc8",
+        "figure3/pairwise_tests.csv": "d2b1faf7312364fe200d1879c735e5795a68a95619cf2a3cf6bca862741b7ad2"
+      },
+      "notebook": "notebooks/supplementary02.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary02",
+      "output": "figures/supplementary02/supplementary02.pdf"
+    },
+    "supplementary03": {
+      "inputs": {
+        "text_controls/figure_source.csv": "eaf2e24795fd6c43dc3791eb376f0ff63b0aac0f003af0ea2ead81ba066502f1"
+      },
+      "notebook": "notebooks/supplementary03.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary03",
+      "output": "figures/supplementary03/supplementary03.pdf"
+    },
+    "supplementary04": {
+      "inputs": {
+        "model_screen/cross_model/fold_mcc.csv": "1cf19faf961a04de9887bfcaa5d3552c2b6827313887b143e2afd6e920dca371",
+        "model_screen/cross_model/fold_roc_auc.csv": "dad28eb1284142432e3ada13c5d72da754aa0764d15b7cf646d2ea23908fa252",
+        "model_screen/cross_model/pairwise_mcc_pvals_BH.csv": "1f528465b3068ea88448186abe8beb356fbf74ad8e2c78634295b72b1f4376e7",
+        "model_screen/cross_model/pairwise_pr_auc_pvals_BH.csv": "c712cb343e98cb62682b2de5dc10764b30d4a9f3b876434029023aa867864c45",
+        "model_screen/cross_model/pairwise_roc_auc_pvals_BH.csv": "176b757bfb8ac54fdc0011700b2a67877141b6abe373735d49dd258894d945de",
+        "model_screen/tabm/mcc/tabm_pairwise_mcc_pvals_BH.csv": "6e06590610e7edae552ab51f90f58e453e9fea081bc05c271db1e4e968d01633",
+        "model_screen/tabm/pr_auc/tabm_pairwise_pr_auc_pvals_BH.csv": "d05575a9480d8a9cf70b0013b213ece1269e6bc16a295f21a8b37ca3b83e796a",
+        "model_screen/tabm/roc_auc/tabm_pairwise_roc_auc_pvals_BH.csv": "61b92b73dbc4b336ede248e083015864197219a2a2ab5ad9f9bfba38a4b7d44a",
+        "model_screen/tabm/tabm_per_cycle_all_metrics.csv": "a704571bc9f608c0ae29bb6a54fba3e2b0b6b5b5ed5cae2cda7165359ab05aa0"
+      },
+      "notebook": "notebooks/supplementary04.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary04",
+      "output": "figures/supplementary04/supplementary04.pdf"
+    },
+    "supplementary05": {
+      "inputs": {
+        "baselines/main_model_confusion_source.csv": "517b154f53665eecf668fa37c45ca140b414fe33f195e40207027b9625a2e9ba"
+      },
+      "notebook": "notebooks/supplementary05.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary05",
+      "output": "figures/supplementary05/supplementary05.pdf"
+    },
+    "supplementary06": {
+      "inputs": {
+        "baselines/calibration_bins.csv": "b6cf618d3a6e5cd1da01ab075e0e45a369014e6e8fade0499601b58d569382e0"
+      },
+      "notebook": "notebooks/supplementary06.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary06",
+      "output": "figures/supplementary06/supplementary06.pdf"
+    },
+    "supplementary07": {
+      "inputs": {
+        "representatives/all_compound_mean_scores.csv": "523d9e8a29dc0704477fdb95bd564c88b111dfe0e079b15d4459280c6b63b619",
+        "representatives/nine_compound_predictions.csv": "fd2024afc7a2ad892a33f9aaf56efb000b032bc2d5c1284c03b4c791d5a5967a"
+      },
+      "notebook": "notebooks/supplementary07.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary07",
+      "output": "figures/supplementary07/supplementary07.pdf"
+    },
+    "supplementary08": {
+      "inputs": {
+        "operator/classwise_plot_data.csv": "33f50198b15e482409a35d559cabee3b4bfe2934f8ddc1508bf75462ddadf779",
+        "operator_bootstrap/bootstrap_draws.csv": "a076848146513758b31a0bf8daf0b7aa8132a66022bc4bc501e2b4f09f6e8257",
+        "operator_bootstrap/compound_predictions.csv": "2d27efd434b423c5a3bacf640351fee8e2596ff0504724218c02991c7d9e423c",
+        "operator_bootstrap/manifest.json": "0bd672a74f96c5cbf01b374343d1f6d625678f2fc61077e5586990d54d58763d",
+        "operator_bootstrap/plot_values.csv": "e076ce15eebca284508e32f61a8a55baeeec00e0faa6c019200e0dab443140d1",
+        "operator_bootstrap/settings.json": "a2bd2337eae9d34d8c9ec012cb856f8aba1358cbb7f2009c77d2c3cae82e4429",
+        "operator_combined/operator_counts.csv": "7c8c735e6b66eb6caf07a0a11f0a1fc053de19adecc7406e9c9f30126d7f8e08"
+      },
+      "notebook": "notebooks/supplementary08.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary08",
+      "output": "figures/supplementary08/supplementary08.pdf"
+    },
+    "supplementary09": {
+      "inputs": {
+        "batches/composition_data.csv": "590de83fff42253920534953f3fd5483688970ef0f371a39306ccee61a4fd40f",
+        "batches/performance_data.csv": "3d3c71ef9d51050c551d13b2ed7c874a7b694cb8e2a0c3a0bf358c5b69849098",
+        "overview/structures.csv": "40645c2c00d4422cbb776e0af47d4018da7c7a97ef4763da335845fbe39bde2c"
+      },
+      "notebook": "notebooks/supplementary09.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary09",
+      "output": "figures/supplementary09/supplementary09.pdf"
+    },
+    "supplementary10": {
+      "inputs": {
+        "external_final/coverage_profiles.csv": "13434653a07ad9930c9f1840546e893a4485ce3e3a3d2a81c3c2f3db9f34c36f",
+        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_final/gene_removal_draws.csv": "d3b0b1da95ddaba84f9b3e9e0b2b1974ab233b0c462e622046fddcddf14009ec",
+        "external_final/internal_cv_intervals.csv": "67f5102cfe6b26098ca7255fae83e88745269624cf51d9fe734920675d5ed61d"
+      },
+      "notebook": "notebooks/supplementary10.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary10",
+      "output": "figures/supplementary10/supplementary10.pdf"
+    },
+    "supplementary11": {
+      "inputs": {
+        "external_comparison/case_comparison_with_similarity.csv": "321399a813a317b7e72466bbe497006538f41ac8c9a4c14a761ed7cac5c30ce3",
+        "external_final/current_case_predictions.csv": "a3524837e39272111c3ff230332df2e25386103c2f15671532d34d5d5e01904d",
+        "external_final/current_class_scores.csv": "99b138010b1d1ffd7c773a205ff81731a815a4a4bebc47cec6a5af2b80c1291a",
+        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_final/heatmap_row_labels.csv": "b0a70cc28462d2c4ee9c9fc9c1ca0b1ad3b9b3ec2e6bdb0b7bee3b426fdbc35d"
+      },
+      "notebook": "notebooks/supplementary11.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary11",
+      "output": "figures/supplementary11/supplementary11.pdf"
+    }
+  },
+  "tables": {
+    "S1": {
+      "label": "vendor_sources",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S2": {
+      "label": "compound_overview",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S3": {
+      "label": "dataset_class_summary",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S4": {
+      "label": "dataset_exclusions",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S5": {
+      "label": "proteomics_conditions",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S6": {
+      "label": "dia-PASEF",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S7": {
+      "label": "buffer_compositions",
+      "topic": "dataset",
+      "inputs": [
+        "data/metadata",
+        "data/supplementary",
+        "data/figure_inputs/overview",
+        "data/figure_inputs/qc"
+      ],
+      "commands": []
+    },
+    "S8": {
+      "label": "training_comparisons",
+      "topic": "text_matching",
+      "inputs": [
+        "data/figure_inputs/encoders",
+        "data/figure_inputs/figure3",
+        "data/analysis/text_controls"
+      ],
+      "commands": [
+        "scripts/encoder_screen.py",
+        "scripts/run_text_control.py",
+        "scripts/recompute_results.py"
+      ]
+    },
+    "S9": {
+      "label": "fig4_ext_results",
+      "topic": "modalities_and_structure",
+      "inputs": [
+        "data/figure_inputs/model_screen",
+        "data/figure_inputs/modalities",
+        "data/figure_inputs/structural_cases",
+        "data/figure_inputs/structural_groups"
+      ],
+      "commands": [
+        "scripts/feature_screen.py",
+        "scripts/leave_one_out.py",
+        "scripts/recompute_modalities.py",
+        "scripts/recompute_similarities.py"
+      ]
+    },
+    "S10": {
+      "label": "infoalign_increment",
+      "topic": "modalities_and_structure",
+      "inputs": [
+        "data/figure_inputs/model_screen",
+        "data/figure_inputs/modalities",
+        "data/figure_inputs/structural_cases",
+        "data/figure_inputs/structural_groups"
+      ],
+      "commands": [
+        "scripts/feature_screen.py",
+        "scripts/leave_one_out.py",
+        "scripts/recompute_modalities.py",
+        "scripts/recompute_similarities.py"
+      ]
+    },
+    "S11": {
+      "label": "tabm_modality_comparison",
+      "topic": "modalities_and_structure",
+      "inputs": [
+        "data/figure_inputs/model_screen",
+        "data/figure_inputs/modalities",
+        "data/figure_inputs/structural_cases",
+        "data/figure_inputs/structural_groups"
+      ],
+      "commands": [
+        "scripts/feature_screen.py",
+        "scripts/leave_one_out.py",
+        "scripts/recompute_modalities.py",
+        "scripts/recompute_similarities.py"
+      ]
+    },
+    "S12": {
+      "label": "lean_performance",
+      "topic": "baselines_and_selection",
+      "inputs": [
+        "data/figure_inputs/baselines",
+        "data/analysis/configuration_selection"
+      ],
+      "commands": [
+        "scripts/recompute_results.py",
+        "scripts/recompute_selection.py"
+      ]
+    },
+    "S13": {
+      "label": "lean_selection",
+      "topic": "baselines_and_selection",
+      "inputs": [
+        "data/figure_inputs/baselines",
+        "data/analysis/configuration_selection"
+      ],
+      "commands": [
+        "scripts/recompute_results.py",
+        "scripts/recompute_selection.py"
+      ]
+    },
+    "S14": {
+      "label": "preprocessing_sensitivity",
+      "topic": "preprocessing",
+      "inputs": [
+        "data/analysis/preprocessing",
+        "data/analysis/significance_selection"
+      ],
+      "commands": [
+        "scripts/recompute_preprocessing.py",
+        "scripts/recompute_significance_selection.py"
+      ]
+    },
+    "S15": {
+      "label": "significance_sensitivity",
+      "topic": "preprocessing",
+      "inputs": [
+        "data/analysis/preprocessing",
+        "data/analysis/significance_selection"
+      ],
+      "commands": [
+        "scripts/recompute_preprocessing.py",
+        "scripts/recompute_significance_selection.py"
+      ]
+    },
+    "S16": {
+      "label": "fig5_overall",
+      "topic": "uncertainty",
+      "inputs": [
+        "data/analysis/uncertainty",
+        "data/figure_inputs/difficulty",
+        "data/figure_inputs/uncertainty",
+        "data/figure_inputs/figure5_application"
+      ],
+      "commands": [
+        "scripts/refit_uncertainty.py",
+        "scripts/recompute_uncertainty.py",
+        "scripts/predict.py"
+      ]
+    },
+    "S17": {
+      "label": "external_datasets",
+      "topic": "external_validation",
+      "inputs": [
+        "data/protein_mapping",
+        "data/figure_inputs/external_final",
+        "data/figure_inputs/external_novel",
+        "data/figure_inputs/external_representation",
+        "data/figure_inputs/yu",
+        "artifacts/external",
+        "artifacts/external_ecfp",
+        "artifacts/external_novel",
+        "artifacts/adaptation"
+      ],
+      "commands": [
+        "scripts/prepare_external.py",
+        "scripts/predict_external.py",
+        "scripts/recompute_results.py"
+      ]
+    },
+    "S18": {
+      "label": "matching_summary",
+      "topic": "external_validation",
+      "inputs": [
+        "data/protein_mapping",
+        "data/figure_inputs/external_final",
+        "data/figure_inputs/external_novel",
+        "data/figure_inputs/external_representation",
+        "data/figure_inputs/yu",
+        "artifacts/external",
+        "artifacts/external_ecfp",
+        "artifacts/external_novel",
+        "artifacts/adaptation"
+      ],
+      "commands": [
+        "scripts/prepare_external.py",
+        "scripts/predict_external.py",
+        "scripts/recompute_results.py"
+      ]
+    }
+  }
+}
