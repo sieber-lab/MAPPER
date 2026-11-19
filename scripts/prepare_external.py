@@ -27,7 +27,11 @@ def main():
     args = parser.parse_args()
     if args.output.exists():
         parser.error("Refusing to overwrite an existing output")
-    treated, controls = [pd.read_csv(p, index_col=0) for p in [args.treated, args.controls]]
+    # Preserve measured values on a CSV round trip, including ties in the fitted scaler.
+    treated, controls = [
+        pd.read_csv(p, index_col=0, float_precision="round_trip")
+        for p in (args.treated, args.controls)
+    ]
     if not treated.index.is_unique or not controls.index.is_unique:
         parser.error("Resolve duplicated protein rows before preparing profiles")
     with np.load(ROOT / "data/protein_mapping/prepared/panel.npz", allow_pickle=False) as panel:

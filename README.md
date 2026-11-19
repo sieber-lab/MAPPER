@@ -59,7 +59,7 @@ python3.10 -m venv .venv-models
 
 Expected: **DNA replication**, maximum matching score **0.330**, cutoff **0.145**, **not flagged**. The output CSV also gives all nine class scores. A matching score is not a calibrated probability; an uncertainty flag is not a novel-mechanism call.
 
-**For your own compound,** replace the two CSVs and the compound ID. Each row is a mapped protein and each column after the identifier is a biological profile. Supply **log2 abundances**, not raw intensities or precomputed ratios. The preparation step subtracts the mean of the matched untreated or solvent controls. The example uses the stored mean of four DMSO controls, not four invented replicates. See the [example and input guide](docs/examples/corramycin/README.md) for protein IDs, missing values, choosing an antibiotic-excluded model, and optional chemical fingerprints.
+**For your own compound,** replace the two CSVs and the compound ID. Each row is a mapped protein and each column after the identifier is a biological profile. Supply **log2 abundances**, not raw intensities or precomputed ratios. The preparation step subtracts the mean of the matched untreated or solvent controls. The example supplies that mean directly from four DMSO controls. See the [example and input guide](docs/examples/corramycin/README.md) for protein IDs, missing values, choosing an antibiotic-excluded model, and optional chemical fingerprints.
 
 To reproduce the **five Figure 5 holdouts** instead, use the original intensity-based models:
 
