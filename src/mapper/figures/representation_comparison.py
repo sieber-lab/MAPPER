@@ -107,8 +107,9 @@ def archive_run(source):
 def verify_archive():
     folder = INPUTS / GROUP
     manifest = json.loads((folder / "manifest.json").read_text())
-    if manifest["original_input_manifest_sha256"] != sha(INPUTS / "manifest.json"):
-        raise ValueError("Historical input baseline changed")
+    expected = manifest.get("release_input_manifest_sha256", manifest["original_input_manifest_sha256"])
+    if expected != sha(INPUTS / "manifest.json"):
+        raise ValueError("Figure input manifest does not match the recorded checksum")
     for name, record in manifest["files"].items():
         if sha(folder / name) != record["sha256"]:
             raise ValueError("Frozen comparison table changed: " + name)

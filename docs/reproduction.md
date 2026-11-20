@@ -61,7 +61,7 @@ InfoAlign is the public modality name. Historical serialized keys can still
 contain `CellPaint`; the compatibility mapping never sorts or changes blocks.
 Feature order comes from each model bundle's stored metadata.
 
-Figure 1 is supplied artwork. The other 23 figure notebooks assemble every
+Figure 1 is supplied artwork. The other 24 figure notebooks assemble every
 panel, annotation and artwork component in code. Generated SVG/PDF/PNG files
 require no subsequent manual editing. Numerical table and artwork hashes are
 checked before plotting. Frozen provenance labels may retain their original

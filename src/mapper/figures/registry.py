@@ -8,7 +8,7 @@ from .artwork import export
 FIGURES = {
     **{f"main{n:02d}": f"Figure {n}" for n in range(2, 7)},
     **{f"extended{n:02d}": f"Extended Data Figure {n}" for n in range(1, 8)},
-    **{f"supplementary{n:02d}": f"Supplementary Figure S{n}" for n in range(1, 12)},
+    **{f"supplementary{n:02d}": f"Supplementary Figure S{n}" for n in range(1, 13)},
 }
 
 

@@ -4,7 +4,8 @@
       "figures": [
         "main01",
         "main02",
-        "supplementary01"
+        "supplementary01",
+        "supplementary12"
       ],
       "methods": [
         "preprocessing/proteomics.py",
@@ -344,7 +345,7 @@
     "main06": {
       "inputs": {
         "external_comparison/case_comparison_with_similarity.csv": "321399a813a317b7e72466bbe497006538f41ac8c9a4c14a761ed7cac5c30ce3",
-        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_final/datasets.csv": "6a4b1387d30aaa826bc4a5351d59f7208ca637eb5f5bbd134182ee9b9d6f4c4b",
         "external_inputs/matched_profile_medians.csv": "46a2039959134594e9cb255c1318d104799c6ac14f1faee7d8a1350b20a86204",
         "external_inputs/matched_value_quantiles.csv": "4d1c2ee4e59026f79d3d2058cc7cbe5373ea03ed7575a27827ff8346f79bd1fe",
         "external_inputs/panel_coverage_profiles.csv": "78d7f938e4b073599eebfe57066e5782a23b204c38687aee49b91d8259a347c8",
@@ -353,7 +354,7 @@
         "external_inputs/source_training.csv": "f824c0ddb2e1a21fa28e35001859648a5c40bd0193d4b7e13b38e4bc0916666e",
         "external_novel/class_scores.csv": "f291e993ea75cff2b92f8ca309c0607e114a02e80fc16fbd4ca147d4e80c6470",
         "external_representation/case_predictions.csv": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",
-        "external_representation/manifest.json": "999b51a1a8d5263a56da8abc04f686500c380d4f47e4f88adf2e867c718a1458",
+        "external_representation/manifest.json": "aad2bfdbccbb4ce728b2c85461d55d802c91a78c183e2e97a2121e85c82cc4aa",
         "external_representation/metrics.csv": "b6d33580fece34ae4ce07f23cef3af5eea31630d0ed25de9261034250850b12a",
         "external_representation/run_manifest.json": "729c89d4026074f787667ed78d54309496062eaff413aba29f32bbd9890c40ef",
         "external_representation/verification.json": "a5b605c5454efb6479673ec763c1148b060385afbe78f6c26ba8fb5377e0e90e",
@@ -464,7 +465,7 @@
     "supplementary10": {
       "inputs": {
         "external_final/coverage_profiles.csv": "13434653a07ad9930c9f1840546e893a4485ce3e3a3d2a81c3c2f3db9f34c36f",
-        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_final/datasets.csv": "6a4b1387d30aaa826bc4a5351d59f7208ca637eb5f5bbd134182ee9b9d6f4c4b",
         "external_final/gene_removal_draws.csv": "d3b0b1da95ddaba84f9b3e9e0b2b1974ab233b0c462e622046fddcddf14009ec",
         "external_final/internal_cv_intervals.csv": "67f5102cfe6b26098ca7255fae83e88745269624cf51d9fe734920675d5ed61d"
       },
@@ -477,12 +478,20 @@
         "external_comparison/case_comparison_with_similarity.csv": "321399a813a317b7e72466bbe497006538f41ac8c9a4c14a761ed7cac5c30ce3",
         "external_final/current_case_predictions.csv": "a3524837e39272111c3ff230332df2e25386103c2f15671532d34d5d5e01904d",
         "external_final/current_class_scores.csv": "99b138010b1d1ffd7c773a205ff81731a815a4a4bebc47cec6a5af2b80c1291a",
-        "external_final/datasets.csv": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac",
+        "external_final/datasets.csv": "6a4b1387d30aaa826bc4a5351d59f7208ca637eb5f5bbd134182ee9b9d6f4c4b",
         "external_final/heatmap_row_labels.csv": "b0a70cc28462d2c4ee9c9fc9c1ca0b1ad3b9b3ec2e6bdb0b7bee3b426fdbc35d"
       },
       "notebook": "notebooks/supplementary11.ipynb",
       "command": "python3 scripts/build_figures.py supplementary11",
       "output": "figures/supplementary11/supplementary11.pdf"
+    },
+    "supplementary12": {
+      "inputs": {
+        "overview/growth_profiles.csv": "034380645f79d7e1a6e1110541900286cb8c351f49e13303dcd83ac23639e6d9"
+      },
+      "notebook": "notebooks/supplementary12.ipynb",
+      "command": "python3 scripts/build_figures.py supplementary12",
+      "output": "figures/supplementary12/supplementary12.pdf"
     }
   },
   "tables": {

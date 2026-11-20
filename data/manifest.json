@@ -1682,8 +1682,8 @@
     },
     {
       "path": "data/figure_inputs/external_final/datasets.csv",
-      "bytes": 4393,
-      "sha256": "116c7669c380df558e3863cde261d651d1f3e1e62d0ce3285bf3d6f8963115ac"
+      "bytes": 4415,
+      "sha256": "6a4b1387d30aaa826bc4a5351d59f7208ca637eb5f5bbd134182ee9b9d6f4c4b"
     },
     {
       "path": "data/figure_inputs/external_final/gene_mapping_summary.csv",
@@ -1812,8 +1812,8 @@
     },
     {
       "path": "data/figure_inputs/external_representation/manifest.json",
-      "bytes": 1331,
-      "sha256": "999b51a1a8d5263a56da8abc04f686500c380d4f47e4f88adf2e867c718a1458"
+      "bytes": 1588,
+      "sha256": "aad2bfdbccbb4ce728b2c85461d55d802c91a78c183e2e97a2121e85c82cc4aa"
     },
     {
       "path": "data/figure_inputs/external_representation/metrics.csv",
@@ -1923,7 +1923,7 @@
     {
       "path": "data/figure_inputs/manifest.json",
       "bytes": 137581,
-      "sha256": "3704e2ed4b2aa6d9a6e89f5909e5cc72a955728f62901060175f16751fa1689f"
+      "sha256": "9b2fcf83000b2da0db99514b3e50dbe08d2c4be5a80a3b03f0e6e401cef8e8ba"
     },
     {
       "path": "data/figure_inputs/metadata/dataset_compounds.csv",
@@ -3562,8 +3562,8 @@
     },
     {
       "path": "data/paper_index.json",
-      "bytes": 31298,
-      "sha256": "483b77af28262ffec47eb5993ed2be144d2791390a5683e1b91332d0dd939950"
+      "bytes": 31675,
+      "sha256": "e0b4916a0dd60f9df09c2c19fca9cb6c7b375570689f8dfe58eed487363fa48f"
     },
     {
       "path": "data/processed_sources/MS_reference_files/antibiotics_proteomics_data_processed.txt",

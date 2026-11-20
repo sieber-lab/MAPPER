@@ -733,6 +733,10 @@ def batches():
 
 
 def build(number):
+    if number == 12:
+        from .growth_observations import individual_growth
+
+        return individual_growth()
     if number in (10, 11):
         from .external import representation_figure, class_score_figure
 

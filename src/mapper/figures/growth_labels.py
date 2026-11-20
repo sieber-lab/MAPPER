@@ -46,7 +46,8 @@ def arrange(fig):
         fraction = reserve / ax.bbox.width
         assert fraction < 0.45, "Growth panel too narrow for readable end labels"
         xmax = max(26.5, max(item["x"] for item in labels) / (1 - fraction))
-        ax.set_xlim(0, xmax)
+        # Preserve the caller's left padding (S12 shows individual dots at 0 h).
+        ax.set_xlim(ax.get_xlim()[0], xmax)
         desired = np.array([ax.transData.transform((item["x"], item["y"]))[1] for item in labels])
         order = np.argsort(desired, kind="stable")
         items = [labels[i] for i in order]

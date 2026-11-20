@@ -1,6 +1,8 @@
 {
   "description": "Matched input representations for Eclipse, Subanovic and Yu; accuracy only",
   "original_input_manifest_sha256": "3704e2ed4b2aa6d9a6e89f5909e5cc72a955728f62901060175f16751fa1689f",
+  "release_input_manifest_sha256": "9b2fcf83000b2da0db99514b3e50dbe08d2c4be5a80a3b03f0e6e401cef8e8ba",
+  "release_input_change": "Added PRIDE accessions to the dataset source labels for corramycin and Eclipse. Prediction tables and metrics are unchanged.",
   "source_folder": "/mnt/jh/delta/code/jh/mapper_external_representation_holdout_20261112/report",
   "source_files": {
     "case_predictions.csv": "0a9d0dd2c8390dd7c149ecec81b2885d72d608dfae3482f51642627a599e9ffb",

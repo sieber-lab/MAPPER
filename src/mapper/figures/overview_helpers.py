@@ -529,6 +529,7 @@ def plot_growth_facets_axes(
     dmso_from_bucket_zero: bool = True,
     ymax: float | None = 3.6,
     x_tick_step: int = 4,
+    mean_only: bool = False,
 ):
     df = growth_long.copy()
     for c in ["hour", "bucket", "od"]:
@@ -579,26 +580,29 @@ def plot_growth_facets_axes(
         base_color = pal.get(moa, "#333333")
         sub = agg[agg["mode_of_action"] == moa] if not agg.empty else pd.DataFrame()
         if include_dmso_overlay and (not dmso_agg.empty):
-            ax.plot(dmso_agg["hour"], dmso_agg["mean"], color="0.35", lw=1.6, ls="-", alpha=0.95)
-            ax.fill_between(
-                dmso_agg["hour"],
-                dmso_agg["mean"] - dmso_agg["sem"],
-                dmso_agg["mean"] + dmso_agg["sem"],
-                color="0.5",
-                alpha=0.12,
-                linewidth=0,
-            )
-            ax.plot(
-                dmso_agg["hour"],
-                dmso_agg["mean"],
-                linestyle="none",
-                marker="o",
-                ms=2.4,
-                color="0.35",
-                alpha=0.95,
-                markeredgecolor="white",
-                markeredgewidth=0.6,
-            )
+            control_line, = ax.plot(dmso_agg["hour"], dmso_agg["mean"], color="0.35", lw=1.6, ls="-", alpha=0.95)
+            if mean_only:
+                control_line.set_gid("mean-control")
+            if not mean_only:
+                ax.fill_between(
+                    dmso_agg["hour"],
+                    dmso_agg["mean"] - dmso_agg["sem"],
+                    dmso_agg["mean"] + dmso_agg["sem"],
+                    color="0.5",
+                    alpha=0.12,
+                    linewidth=0,
+                )
+                ax.plot(
+                    dmso_agg["hour"],
+                    dmso_agg["mean"],
+                    linestyle="none",
+                    marker="o",
+                    ms=2.4,
+                    color="0.35",
+                    alpha=0.95,
+                    markeredgecolor="white",
+                    markeredgewidth=0.6,
+                )
             handles_for_legend["DMSO"] = Line2D([], [], color="0.35", lw=1.6, ls="-")
         if sub.empty:
             ax.text(
@@ -622,27 +626,30 @@ def plot_growth_facets_axes(
                     alpha=style["alpha"],
                     zorder=3,
                 )[0]
-                ax.plot(
-                    xs[:-1],
-                    ys[:-1],
-                    linestyle="none",
-                    marker=style["marker"],
-                    ms=style["ms"],
-                    color=base_color,
-                    alpha=style["alpha"],
-                    markeredgecolor="white",
-                    markeredgewidth=0.5,
-                    zorder=3,
-                )
-                ax.fill_between(
-                    xs,
-                    ys - sb["sem"].to_numpy(),
-                    ys + sb["sem"].to_numpy(),
-                    color=base_color,
-                    alpha=0.14,
-                    linewidth=0,
-                    zorder=2,
-                )
+                if mean_only:
+                    line.set_gid(f"mean-dose-{int(b)}")
+                if not mean_only:
+                    ax.plot(
+                        xs[:-1],
+                        ys[:-1],
+                        linestyle="none",
+                        marker=style["marker"],
+                        ms=style["ms"],
+                        color=base_color,
+                        alpha=style["alpha"],
+                        markeredgecolor="white",
+                        markeredgewidth=0.5,
+                        zorder=3,
+                    )
+                    ax.fill_between(
+                        xs,
+                        ys - sb["sem"].to_numpy(),
+                        ys + sb["sem"].to_numpy(),
+                        color=base_color,
+                        alpha=0.14,
+                        linewidth=0,
+                        zorder=2,
+                    )
                 if len(xs):
                     x_text = min(xs[-1] + 0.2, 25.6)
                     label_positions.append({"x": x_text, "y": ys[-1], "b": b})
