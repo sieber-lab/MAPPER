@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the accompanying MAPPER manuscript when using this software or its data."
 title: "MAPPER: Decoding antibiotic modes of action from multimodal cellular responses"
 type: software
-version: 0.1.0
+version: 0.1.1
 license: MIT
 repository-code: "https://github.com/sieber-lab/MAPPER"
 authors:

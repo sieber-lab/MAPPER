@@ -3,8 +3,9 @@
 MAPPER ranks nine antibiotic mode-of-action classes and flags uncertain assignments.
 It accompanies [*Decoding antibiotic modes of action from multimodal cellular responses*](https://doi.org/10.64898/2026.03.31.715570).
 
-For the manuscript release, run `git clone --branch v0.1.0 https://github.com/sieber-lab/MAPPER.git`,
+For the manuscript release, run `git clone --branch v0.1.1 https://github.com/sieber-lab/MAPPER.git`,
 then `cd MAPPER`. Run the commands below from that directory.
+This release uses the same [trained models on Zenodo](https://zenodo.org/records/24369937) as v0.1.0; no new model download is needed.
 
 | I want to… | Start here | Download |
 |---|---|---|

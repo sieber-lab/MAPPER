@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mapper-moa"
-version = "0.1.0"
+version = "0.1.1"
 description = "Antibiotic mode-of-action prediction from multimodal cellular responses"
 readme = "README.md"
 requires-python = ">=3.10"
